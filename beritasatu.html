@@ -19,12 +19,14 @@
        <script src="https://warningfm.github.io/ajax/libs/hola_player/package/dist/hola_player.js"></script>
 	   
        <div align="center">
-        <video poster="../img/thumbs/BeritaSatu.jpg?v=8.3.2" id="video-player" class="video-js vjs-default-skin" height="340" width="596" controls autoplay>
+        <video poster="https://content.jwplatform.com/v2/media/MBf92A5Z/poster.jpg?width=720" id="video-player" class="video-js vjs-default-skin" height="340" width="596" controls autoplay>
         <source src="https://kastproxy-us.herokuapp.com/http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8" type="application/x-mpegURL" />
        </video>
      <script>
-      window.hola_player();
-     </script>
+    (function(){
+      window.hola_player({title: 'BERITASATU'});
+    })();
+  </script>
      </div>
    </body>
 </html>
