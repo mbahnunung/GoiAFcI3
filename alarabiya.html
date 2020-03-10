@@ -19,12 +19,14 @@
        <script src="https://cdn1.mbahnunungonline.net/v3/hola_player/hola_player.js"></script>
 	   
        <div align="center">
-        <video poster="https://2.bp.blogspot.com/-YJEXzBdxQYM/XMYaAgWZS0I/AAAAAAAALWw/UitVHliWdT0qrDNCkZ599WuQt-EQFNgBgCLcBGAs/s1600/alarabiya.net.jpg?v=8.3.2" id="video-player" class="video-js vjs-fluid vjs-default-skin" height="340" width="596" controls autoplay>
+        <video poster="https://2.bp.blogspot.com/-YJEXzBdxQYM/XMYaAgWZS0I/AAAAAAAALWw/UitVHliWdT0qrDNCkZ599WuQt-EQFNgBgCLcBGAs/s1600/alarabiya.net.jpg?v=8.3.2" id="video-player" class="video-js vjs-default-skin" height="340" width="596" controls autoplay>
         <source src="https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8" type="application/x-mpegURL" />
        </video>
      <script>
-      window.hola_player();
-     </script>
+    (function(){
+      window.hola_player({title: 'العربية'});
+    })();
+  </script>
      </div>
    </body>
 </html>
