@@ -23,8 +23,10 @@
         <source src="https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8" type="application/x-mpegURL" />
        </video>
      <script>
-      window.hola_player();
-     </script>
+    (function(){
+      window.hola_player({title: 'MetroTV'});
+    })();
+  </script>
      </div>
    </body>
 </html>
