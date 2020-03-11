@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Live Streaming</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale = 1.0, user-scalable = no, width=device-width, height=device-height, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="description" content="Live Streaming" />
+    <link rel="stylesheet" href="//vjs.zencdn.net/5.4.6/video-js.min.css?v=1.8">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<style>
+           body {
+               margin:0;
+               padding:0;
+               overflow: hidden;
+               background:#2f3542;
+           }
+       </style>
+<center>
+<script>
+        var video_title = "Live Streaming";
+    </script>
+ <div id="video" class="fp-slim fp-mute"></div>
+<script src="https://mbahnunung.github.io/nnVideo/nnVideo.core.js?v=98c76261ffc">
+        {
+            target      : 'video',
+            title       : 'Live Streaming',
+            autoplay    : false,
+            mute        : false,
+            live        : true,
+            imageUrl    : "https://cdn4.mbahnunungonline.net/images/rtv.jpg?v=8.3.2?v=8.3.2",
+            channel     : "livestreaming",
+            videoUrl    : "https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748",
+            adRules     : '',
+            features: {
+                loadByDiv:true,
+                smartAutoplay: true            }
+        }
+        </script>
+</center>
+</body>
+</html>
