@@ -1,1 +1,32 @@
-
+<!DOCTYPE html>
+<html lang="en">
+   <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+       
+       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+       <!-- Start Meta Ads -->
+       <meta name="platform" content="desktop" />
+       <meta name="site_name" content="streaming" />
+       <!-- End Meta Ads -->
+       <title>NET. Live Streaming</title>
+       <style>
+           body {
+               margin:0;
+               padding:0;
+               overflow: hidden;
+           }
+       </style>
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+       <script src="https://warningfm.github.io/ajax/libs/hola_player/package/dist/hola_player.js"></script>
+	   
+       <div align="center">
+        <video poster="https://assets-jpcust.jwpsrv.com/thumbnails/n11hj1du-720.jpg" id="video-player" class="video-js vjs-default-skin" height="340" width="596" controls autoplay>
+        <source src="https://kastproxy-us.herokuapp.com/http://rr2.dens.tv/s/s08/index.m3u8" type="application/x-mpegURL" />
+        </video>
+     <script>
+    (function(){
+      window.hola_player({title: 'NET. HD'});
+    })();
+  </script>
+     </div>
+   </body>
+</html>
