@@ -16,15 +16,17 @@
            }
        </style>
        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-       <script src="https://warningfm.github.io/ajax/libs/hola_player/package/dist/hola_player.js"></script>
+       <script src="https://cdnjs.mbahnunungonline.net/libs/hola_player/package/dist/hola_player.js"></script>
 	   
        <div align="center">
         <video poster="../img/thumbs/tic.jpg" id="video-player" class="video-js vjs-fluid vjs-default-skin" height="340" width="596" controls autoplay>
         <source src="http://202.93.133.3:1935/svr2/tic.com.stream_720p/playlist.m3u8" type="application/x-mpegURL" />
        </video>
      <script>
-      window.hola_player();
-     </script>
+    (function(){
+      window.hola_player({title: 'The Indonesia Channel'});
+    })();
+  </script>
      </div>
    </body>
 </html>
