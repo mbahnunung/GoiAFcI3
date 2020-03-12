@@ -16,15 +16,17 @@
            }
        </style>
        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-       <script src="https://warningfm.github.io/ajax/libs/hola_player/package/dist/hola_player.js"></script>
+       <script src="https://cdnjs.mbahnunungonline.net/libs/hola_player/package/dist/hola_player.js"></script>
 	   
        <div align="center">
         <video poster="https://3.bp.blogspot.com/-NYSqoTEERfY/XMsZIP-mYlI/AAAAAAAALZs/Ko_L0Zq5KvEzi_J0JOqdkePk_cD98U-NgCLcBGAs/s1600/JTVsuroboyo.png" id="video-player" class="video-js vjs-fluid vjs-default-skin" height="340" width="596" controls autoplay>
         <source src="https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f" type="application/x-mpegURL" />
        </video>
      <script>
-      window.hola_player();
-     </script>
+    (function(){
+      window.hola_player({title: 'JTV'});
+    })();
+  </script>
      </div>
    </body>
 </html>
