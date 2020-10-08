@@ -1,43 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>Live Streaming</title>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="initial-scale = 1.0, user-scalable = no, width=device-width, height=device-height, maximum-scale=1.0">
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="description" content="Live Streaming" />
-    <link rel="stylesheet" href="/video-js.min.css?v=1.8">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<style>
+   <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+       
+       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+       <!-- Start Meta Ads -->
+       <meta name="platform" content="desktop" />
+       <meta name="site_name" content="streaming" />
+       <!-- End Meta Ads -->
+       <title>Live Streaming</title>
+       <style>
            body {
                margin:0;
                padding:0;
                overflow: hidden;
-               background:#2f3542;
            }
        </style>
-<center>
-<script>
-        var video_title = "Live Streaming";
-    </script>
- <div id="video" class="fp-slim fp-mute"></div>
-<script src="https://warningfm.github.io/nnVideo/nnVideo.core.js?v=98c76261ffc">
-        {
-            target      : 'video',
-            title       : 'Live Streaming',
-            autoplay    : false,
-            mute        : false,
-            live        : true,
-            imageUrl    : "https://2.bp.blogspot.com/-Nx3S5zmrU5o/W9GuCwlSy6I/AAAAAAAAJ1Y/dZvyb0LMbCgyqMYs5_e6YLCZ9sYgNWNwACPcBGAYYCw/s1600/rtv-stream-06c6dc.jpg?v=8.3.2?v=8.3.2",
-            channel     : "livestreaming",
-            videoUrl    : "http://rr2.dens.tv/s/s12/01.m3u8",
-            adRules     : '',
-            features: {
-                loadByDiv:true,
-                smartAutoplay: true            }
-        }
-        </script>
-</center>
-</body>
+       <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+       <script src="//cdnjs.mbahnunungonline.net/libs/hola_player/package/dist/hola_player.js"></script>
+	   
+       <div align="center">
+        <video poster="https://2.bp.blogspot.com/-Nx3S5zmrU5o/W9GuCwlSy6I/AAAAAAAAJ1Y/dZvyb0LMbCgyqMYs5_e6YLCZ9sYgNWNwACPcBGAYYCw/s1600/rtv-stream-06c6dc.jpg?v=8.3.2?v=8.3.2" id="video-player" class="video-js vjs-fluid vjs-default-skin" height="340" width="596" controls autoplay>
+        <source src="https://zet.pluginsandthemes.ro/http://rr2.dens.tv/s/s12/01.m3u8" type="application/x-mpegURL" />
+       </video>
+     <script>
+    (function(){
+      window.hola_player({title: 'tv9'});
+    })();
+  </script>
+     </div>
+   </body>
 </html>
