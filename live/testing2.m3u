@@ -1,6 +1,3 @@
-class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
 #EXTM3U
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
