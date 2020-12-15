@@ -18,6 +18,8 @@ http://nonton.wap.sh/id/012.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png" tvg-country="ID" tvg-url="" group-title="",TRANSTV
 http://210.210.155.35/x6bnqe/s/s252/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" tvg-country="ID" tvg-url="" group-title="",rtv
+http://rr2.dens.tv/s/s12/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" tvg-country="ID" tvg-url="" group-title="",antv
 https://raw.githubusercontent.com/zalindo/tv/master/antv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" tvg-country="ID" tvg-url="" group-title="News",TVRI
