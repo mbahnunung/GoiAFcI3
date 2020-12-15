@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-2jGabLLeS0o/UcA9f90KrhI/AAAAAAAABwU/NbGjpSP0LIk/s1600/rcti.png" tvg-country="ID" tvg-url="" group-title="",RCTI
-#https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/RCTI5.m3u8
-https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_100000=3-mp4a_64000_eng=2.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/RCTI5.m3u8
+#https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_100000=3-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-8pY62LJlQFc/UcA9wBktyVI/AAAAAAAABwc/ymWOxlIRcPc/s1600/mnctv.png" tvg-country="ID" tvg-url="" group-title="",MNCTV
 https://www.dropbox.com/s/dl/jb9gmm0dhafdlof/mkctv_mnctvsd.m3u8
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-eBDn0yWBAzs/UcA-CWH-wBI/AAAAAAAABwk/C76g5GJieTs/s1600/globaltv.png" tvg-country="ID" tvg-url="" group-title="",GTV
