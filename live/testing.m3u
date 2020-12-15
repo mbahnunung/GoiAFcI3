@@ -132,85 +132,125 @@ http://fdtvapps.xyz/channel/hbohits.m3u8
 ########## video ########
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="VIDEO",GTV
-http://oxoo.lk21tvonlineid.com/m3u/rtv.m3u8
+#EXTINF:-1 FOX MOVIES
+http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/269px-MNCTV_MNC-Group.svg.png" group-title="VIDEO",MNC
-http://salonbondang.masuk.web.id/ekonomis/stream/vidio-mnc-ZalogiAstroXTV.m3u8
+#EXTINF:-1,NET TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=nettv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/RCTI.svg/1280px-RCTI.svg.png" group-title="VIDEO",RCTI
-http://salonbondang.masuk.web.id/ekonomis/stream/vidio-rcti-ZalogiAstroXTV.m3u8
+#EXTINF:-1,METRO TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=metrotv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="VIDEO",SCTV
-http://salonbondang.masuk.web.id/ekonomis/stream/vidio-sctv-ZalogiAstroXTV.m3u8
+#EXTINF:-1,TVRI NASIONAL
+http://103.130.186.138:8800/getstream.m3u8.php?channel=tvri
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/Logo_Antv_2003-2006.svg/1280px-Logo_Antv_2003-2006.svg.png" group-title="VIDEO", ANTV
-http://185.238.0.145:1313/c/g/antv.m3u8
+#EXTINF:-1,SCTV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=sctv
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-7YXQ-3nwJKM/UhwyURu_ICI/AAAAAAAAA-s/KvXP4ekaRNw/s1600/INDOSIAR_Logo.png" group-title="VIDEO",INDOSIAR
-http://salonbondang.masuk.web.id/ekonomis/stream/vidio-indosiar-ZalogiAstroXTV.m3u8
+#EXTINF:-1,TRANS 7
+http://103.130.186.138:8800/getstream.m3u8.php?channel=trans7
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="VIDEO",TRANS TV
-http://salonbondang.masuk.web.id/ekonomis/stream/vidio-transtv-ZalogiAstroXTV.m3u8
+#EXTINF:-1,TRANS TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=transtv
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/iAINbdQHeI3X4QDzdaN4eNNaVwg=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="VIDEO",TRANS 7
-http://salonbondang.masuk.web.id/ekonomis/stream/vidio-trans7-ZalogiAstroXTV.m3u8
+#EXTINF:-1,INDOSIAR
+http://103.130.186.138:8800/getstream.m3u8.php?channel=indosiar
 
-#EXTINF:-1 tvg-logo="https://sianpudian.files.wordpress.com/2015/05/logo1.png" group-title="VIDEO",NET TV
-http://salonbondang.masuk.web.id/ekonomis/stream/vidio-net-ZalogiAstroXTV.m3u8
+#EXTINF:-1,ANTV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=antv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/2000px-LogoMetroTVsince2010.svg.png" group-title="VIDEO",METRO TV
-http://salonbondang.masuk.web.id/ekonomis/stream/vidio-metrotv-ZalogiAstroXTV.m3u8
+#EXTINF:-1,TV ONE
+http://103.130.186.138:8800/getstream.m3u8.php?channel=tvone
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-8uYxdlVvpd4/T9lqRz0Us7I/AAAAAAAAAcM/NXcsS2CnEP0/s1600/TvOne_logo_(2010).png" group-title="VIDEO",TVONE HD
-http://185.238.0.145:1313/c/g/tvone.m3u8
+#EXTINF:-1,JAK TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=jaktv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d4/Kompas_TV.svg/1280px-Kompas_TV.svg.png" group-title="VIDEO",KOMPAS TV
-http://salonbondang.masuk.web.id/ekonomis/stream/vidio-kompas-ZalogiAstroXTV.m3u8
+#EXTINF:-1,MATRIX TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=matrixtv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/800px-TVRILogo2019.svg.png" group-title="VIDEO", TVRI
-http://salonbondang.masuk.web.id/ekonomis/stream/vidio-tvri-ZalogiAstroXTV.m3u8
+#EXTINF:-1,LEJEL HS
+http://103.130.186.138:8800/getstream.m3u8.php?channel=lejelhs
 
+#EXTINF:-1,NUSANTARA TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=nusantaratv
 
+#EXTINF:-1,PERSIJA TV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=persijatv
 
+#EXTINF:-1,RTV
+http://103.130.186.138:8800/getstream.m3u8.php?channel=rtv
 
+#EXTINF:-1,O CHANNEL
+http://103.130.186.138:8800/getstream.m3u8.php?channel=ochannel
 
+#EXTINF:-1,Ruang Terampil
+http://185.238.0.145:1313/c/max/ruangtrampil-hd.m3u8
 
+#EXTINF:-1,Mt@TV
+http://185.238.0.145:1313/c/max/mtatv-hd.m3u8
 
+#EXTINF:-1,RodjaTV
+http://185.238.0.145:1313/c/max/rodjatv-hd.m3u8
 
+#EXTINF:-1,Mytv
+http://185.238.0.145:1313/c/max/mytv-hd.m3u8
 
+#EXTINF:-1,Max2U
+http://185.238.0.145:1313/c/max/max2u-hd.m3u8
 
+#EXTINF:-1,JTV
+http://185.238.0.145:1313/c/max/jtv-hd.m3u8
 
-########## OXYGEN ##########
+#EXTINF:-1,Maxstream-Music
+http://185.238.0.145:1313/c/max/maxstreammusic-hd.m3u8
 
+#EXTINF:-1,MCC
+http://185.238.0.145:1313/c/max/mcc-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/Logo_Antv_2003-2006.svg/1280px-Logo_Antv_2003-2006.svg.png" group-title="LOKAL", ANTV
-http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
+#EXTINF:-1,JakTV
+http://185.238.0.145:1313/c/max/jaktv-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="LOKAL",SCTV
-http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
+#EXTINF:-1,UseePrime
+http://185.238.0.145:1313/c/max/useeprime-hd.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-7YXQ-3nwJKM/UhwyURu_ICI/AAAAAAAAA-s/KvXP4ekaRNw/s1600/INDOSIAR_Logo.png" group-title="LOKAL",INDOSIAR
-http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
+#EXTINF:-1,DigiOne
+http://185.238.0.145:1313/c/max/digione-hd.m3u8
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="LOKAL",TRANS TV
-http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
+#EXTINF:-1,Magna
+http://185.238.0.145:1313/c/max/magna-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/iAINbdQHeI3X4QDzdaN4eNNaVwg=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="LOKAL",TRANS 7
-http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
+#EXTINF:-1,LombokTV
+http://185.238.0.145:1313/c/max/lomboktv-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://sianpudian.files.wordpress.com/2015/05/logo1.png" group-title="LOKAL",NET TV
-http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
+#EXTINF:-1,Hi Indo
+http://185.238.0.145:1313/c/max/hi-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/2000px-LogoMetroTVsince2010.svg.png" group-title="LOKAL",METRO TV
-http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
+#EXTINF:-1,Nettv
+http://185.238.0.145:1313/c/max/nettv-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d4/Kompas_TV.svg/1280px-Kompas_TV.svg.png" group-title="LOKAL",KOMPAS TV
-http://zalogi.xyz/exo/playlist/kompastv-mkctvMalingPlaylist.m3u8
+#EXTINF:-1,Channel4U
+http://185.238.0.145:1313/c/max/channel4u-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/800px-TVRILogo2019.svg.png" group-title="LOKAL", TVRI
-http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
+#EXTINF:-1,TIC
+http://185.238.0.145:1313/c/max/tic-hd.m3u8
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-8uYxdlVvpd4/T9lqRz0Us7I/AAAAAAAAAcM/NXcsS2CnEP0/s1600/TvOne_logo_(2010).png" group-title="LOKAL",TVONE HD
-http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
+#EXTINF:-1,UseePhoto
+http://185.238.0.145:1313/c/max/useephoto-hd.m3u8
 
+#EXTINF:-1,BaliTV
+http://185.238.0.145:1313/c/max/balitv-hd.m3u8
+
+#EXTINF:-1,TVEdukasi
+http://185.238.0.145:1313/c/max/tvedukasi-hd.m3u8
+
+#EXTINF:-1,DGTV
+http://185.238.0.145:1313/c/max/dgtv-hd.m3u8
+
+#EXTINF:-1,MetroTV
+http://185.238.0.145:1313/c/max/metrotv-hd.m3u8
+
+#EXTINF:-1,KompasTV
+http://185.238.0.145:1313/c/max/kompastv-hd.m3u8
+
+#EXTINF:-1,SeaToday
+http://185.238.0.145:1313/c/max/idku-hd.m3u8
