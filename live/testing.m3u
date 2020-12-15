@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-2jGabLLeS0o/UcA9f90KrhI/AAAAAAAABwU/NbGjpSP0LIk/s1600/rcti.png" tvg-country="ID" tvg-url="" group-title="",RCTI
-https://www.dropbox.com/s/dl/8osghiifx2hcnje/mkctv_rctisd.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/RCTI5.m3u8
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-8pY62LJlQFc/UcA9wBktyVI/AAAAAAAABwc/ymWOxlIRcPc/s1600/mnctv.png" tvg-country="ID" tvg-url="" group-title="",MNCTV
 https://www.dropbox.com/s/dl/jb9gmm0dhafdlof/mkctv_mnctvsd.m3u8
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-eBDn0yWBAzs/UcA-CWH-wBI/AAAAAAAABwk/C76g5GJieTs/s1600/globaltv.png" tvg-country="ID" tvg-url="" group-title="",GTV
@@ -13,7 +13,7 @@ http://rr2.dens.tv/s/s03/index.m3u8
 http://rr2.dens.tv/s/s04/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" tvg-country="ID" tvg-url="" group-title="",NET.
 #http://rr2.dens.tv/s/s08/01.m3u8
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/NETTV.m3u8
+http://nonton.wap.sh/id/012.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-We8hxjgkQmg/UtKsjhq5QcI/AAAAAAAAAOQ/Y5XtKk6R8lA/s1600/trans7.png" tvg-country="ID" tvg-url="" group-title="",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" tvg-country="ID" tvg-url="" group-title="",antv
@@ -29,7 +29,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://2.bp.blogspot.com/-s7ZOCHittVk/V03sueWgDwI/AAAAAAAAFUU/-lYZd3UGm-o6sr8-oFEmD5wyhZkvpgUBACLcB/s1600/logo_cnn_ind.png" tvg-country="ID" tvg-url="" group-title="News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" tvg-country="ID" tvg-url="" group-title="News",KOMPASTV
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
+http://nonton.wap.sh/id/014.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://3.bp.blogspot.com/-FX_m76GhFdY/UndG6eJ4NcI/AAAAAAAAB-0/Vsf59f_2OmQ/s1600/aljazeera-arab.png" tvg-country="ID" tvg-url="" group-title="News",Aljazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" tvg-country="ID" tvg-url="Daerah" group-title="",TV9 Nusantara
