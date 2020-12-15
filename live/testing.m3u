@@ -35,7 +35,7 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" tvg-country="ID" tvg-url="Daerah" group-title="",TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w1097865797.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-ZS4vru8Cbyg/W-nJ_4nefdI/AAAAAAAAKE0/rxZ68mY45ZQciOkh5e0W5h6RDJyJhNvJgCLcBGAs/s1600/jtv_surabaya.png" tvg-country="ID" tvg-url="Daerah" group-title="",JTV
-http://122.248.43.138:1935/ch2/myStream/chunklist_w465495975.m3u8
+http://122.248.43.138:1935/ch21/myStream/live.m3u8
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" tvg-country="MY" tvg-url="" group-title="Entertainment",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" tvg-country="MY" tvg-url="" group-title="",NTV7
@@ -49,9 +49,9 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-id="OKEY" tvg-name="OKEY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/200px-Okey_RTM.png" tvg-country="MY" tvg-url="" group-title="",RTM Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://1.bp.blogspot.com/-HXnfAlrgfrg/XmnTuPMVB4I/AAAAAAAAMI4/loc4VlIEFw4Bky0JZ_qMNQwawh2jpvFwwCLcBGAsYHQ/s1600/logo_celestialmovie.png" tvg-country="MY" tvg-url="" group-title="Movies",Celestialmovies
-https://kastproxy-us.herokuapp.com/http://rr2.dens.tv/s/s33/index.m3u8
+http://rr2.dens.tv/s/s33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" tvg-country="MY" tvg-url="" group-title="Movies",AXN
-https://kastproxy-us.herokuapp.com/http://rr.dens.tv/h/h141/01.m3u8
+http://rr.dens.tv/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" tvg-country="MY" tvg-url="" group-title="Movies",KIX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
