@@ -72,3 +72,57 @@ http://rr.dens.tv/h/h07/01.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM.jpg" tvg-country="MY" tvg-url="" group-title="Movies",tes
 http://zalogi.xyz/exo/playlist/dunialain-mkctvMalingPlaylist.m3u8
+
+########### USEETV ###########
+
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B1E/bein-sports-1-hero.png" group-title="USEETV", BEIN SPORT1
+http://zalogi.xyz/exo/playlist/bein1-mkctvMalingPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="USEETV", BEIN SPORT2
+http://zalogi.xyz/exo/playlist/bein2-mkctvMalingPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="USEETV",CHAMPIONS 1
+http://zalogi.xyz/exo/playlist/champion1-mkctvMalingPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="USEETV",CHAMPIONS 2
+http://zalogi.xyz/exo/playlist/champion2-mkctvMalingPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxY9P6RB/Champion-3-Tv.jpg" group-title="USEETV",CHAMPIONS 3
+https://salonbondang.masuk.web.id/ekonomis/stream/premi-championtv3-ZalogiAstroXTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="USEETV", USEE SPORT1
+http://zalogi.xyz/exo/playlist/useesport-mkctvMalingPlaylist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="USEETV", USEE SPORT2
+http://zalogi.xyz/exo/playlist/useesports2-mkctvMalingPlaylist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?id=8" group-title="USEETV",FOX SPORT 1
+http://zalogi.xyz/exo/playlist/foxsport1-mkctvMalingPlaylist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?id=8" group-title="USEETV",FOX SPORT 2
+http://zalogi.xyz/exo/playlist/foxsport2-mkctvMalingPlaylist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?id=8" group-title="USEETV",FOX SPORT 3
+http://zalogi.xyz/exo/playlist/foxsport3-mkctvMalingPlaylist.m3u8
+
+
+
+########### ENTERTAINMENT ##########
+
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="MOVIES", RED by HBO
+http://fdtvapps.xyz/channel/red.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="MOVIES", Cinemax by HBO
+http://fdtvapps.xyz/channel/cinemax.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MOVIES", HBO
+http://fdtvapps.xyz/channel/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES", HBO Hits
+http://fdtvapps.xyz/channel/hbohits.m3u8
