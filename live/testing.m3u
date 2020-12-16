@@ -78,6 +78,8 @@ http://zalogi.xyz/exo/playlist/dunialain-mkctvMalingPlaylist.m3u8
 
 ########### USEETV ###########
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CvrbyGFj-NQ/W9tlt3RhR1I/AAAAAAAAJ6E/TbO_17z2PrI85xPyqg6QKz_X32axabYUwCPcBGAYYCw/s320/logo_natgeowild.png" group-title="USEETV", Nat Geo Wild
+http://tv.mbahnunungonline.net/playlist/natgeowild-mkctvMalingPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lz8A0qIPP6Y/VgY1OB_2V5I/AAAAAAAAFAk/9ZZHeZCRrcI6QAkuJ1rptGxvOPViBC-8QCPcBGAYYCw/s139/beinSport1.png" group-title="USEETV", BEIN SPORT1
 http://zalogi.xyz/exo/playlist/bein1-mkctvMalingPlaylist.m3u8
