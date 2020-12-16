@@ -48,8 +48,10 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="cn" tvg-logo="https://4.bp.blogspot.com/-mozr67tdgUc/W-CH02GZaeI/AAAAAAAAJ94/hYBVYnCgSXM3XAGx2gfP-wiPRckIVQwvACLcBGAs/s1600/logo_cgtndocumentary.png" tvg-country="ID" tvg-url="" group-title="News",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" tvg-country="ID" tvg-url="Daerah" group-title="",TV9 Nusantara
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID" tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" tvg-country="ID" tvg-url="Daerah" group-title="",TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w1097865797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID" tvg-logo="https://1.bp.blogspot.com/-l-38Cf3Puq4/UyGOjz2m0kI/AAAAAAAACp0/rvspLPtz27s/s1600/logo_tvmuhammadiyah.png" tvg-country="ID" tvg-url="Daerah" group-title="",TVMU
+http://tv.mbahnunungonline.net/playlist/tvmu-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-ZS4vru8Cbyg/W-nJ_4nefdI/AAAAAAAAKE0/rxZ68mY45ZQciOkh5e0W5h6RDJyJhNvJgCLcBGAs/s1600/jtv_surabaya.png" tvg-country="ID" tvg-url="Daerah" group-title="",JTV
 http://122.248.43.138:1935/ch21/myStream/live.m3u8
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" tvg-country="MY" tvg-url="" group-title="Entertainment",Dubai One
