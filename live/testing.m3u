@@ -132,57 +132,6 @@ http://fdtvapps.xyz/channel/hbohits.m3u8
 ########## video ########
 
 
-#EXTINF:-1 FOX MOVIES
-http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
-
-#EXTINF:-1,NET TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=nettv
-
-#EXTINF:-1,METRO TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=metrotv
-
-#EXTINF:-1,TVRI NASIONAL
-http://103.130.186.138:8800/getstream.m3u8.php?channel=tvri
-
-#EXTINF:-1,SCTV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=sctv
-
-#EXTINF:-1,TRANS 7
-http://103.130.186.138:8800/getstream.m3u8.php?channel=trans7
-
-#EXTINF:-1,TRANS TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=transtv
-
-#EXTINF:-1,INDOSIAR
-http://103.130.186.138:8800/getstream.m3u8.php?channel=indosiar
-
-#EXTINF:-1,ANTV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=antv
-
-#EXTINF:-1,TV ONE
-http://103.130.186.138:8800/getstream.m3u8.php?channel=tvone
-
-#EXTINF:-1,JAK TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=jaktv
-
-#EXTINF:-1,MATRIX TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=matrixtv
-
-#EXTINF:-1,LEJEL HS
-http://103.130.186.138:8800/getstream.m3u8.php?channel=lejelhs
-
-#EXTINF:-1,NUSANTARA TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=nusantaratv
-
-#EXTINF:-1,PERSIJA TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=persijatv
-
-#EXTINF:-1,RTV
-http://103.130.186.138:8800/getstream.m3u8.php?channel=rtv
-
-#EXTINF:-1,O CHANNEL
-http://103.130.186.138:8800/getstream.m3u8.php?channel=ochannel
-
 #EXTINF:-1,Ruang Terampil
 http://185.238.0.145:1313/c/max/ruangtrampil-hd.m3u8
 
@@ -246,10 +195,10 @@ http://185.238.0.145:1313/c/max/tvedukasi-hd.m3u8
 #EXTINF:-1,DGTV
 http://185.238.0.145:1313/c/max/dgtv-hd.m3u8
 
-#EXTINF:-1,MetroTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" tvg-country="ID" tvg-url="" group-title="News",METROTV
 http://185.238.0.145:1313/c/max/metrotv-hd.m3u8
 
-#EXTINF:-1,KompasTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" tvg-country="ID" tvg-url="" group-title="News",KOMPASTV
 http://185.238.0.145:1313/c/max/kompastv-hd.m3u8
 
 #EXTINF:-1,SeaToday
