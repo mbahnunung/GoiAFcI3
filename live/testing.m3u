@@ -50,8 +50,6 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID" tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" tvg-country="ID" tvg-url="Daerah" group-title="",TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w1097865797.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID" tvg-logo="https://1.bp.blogspot.com/-l-38Cf3Puq4/UyGOjz2m0kI/AAAAAAAACp0/rvspLPtz27s/s1600/logo_tvmuhammadiyah.png" tvg-country="ID" tvg-url="Daerah" group-title="",TVMU
-http://tv.mbahnunungonline.net/playlist/tvmu-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-ZS4vru8Cbyg/W-nJ_4nefdI/AAAAAAAAKE0/rxZ68mY45ZQciOkh5e0W5h6RDJyJhNvJgCLcBGAs/s1600/jtv_surabaya.png" tvg-country="ID" tvg-url="Daerah" group-title="",JTV
 http://122.248.43.138:1935/ch21/myStream/live.m3u8
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" tvg-country="MY" tvg-url="" group-title="Entertainment",Dubai One
@@ -80,11 +78,7 @@ http://zalogi.xyz/exo/playlist/dunialain-mkctvMalingPlaylist.m3u8
 
 ########### USEETV ###########
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="USEETV", Nat Geo
-http://tv.mbahnunungonline.net/playlist/natgeo-mkctvMalingPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CvrbyGFj-NQ/W9tlt3RhR1I/AAAAAAAAJ6E/TbO_17z2PrI85xPyqg6QKz_X32axabYUwCPcBGAYYCw/s320/logo_natgeowild.png" group-title="USEETV", Nat Geo Wild
-http://tv.mbahnunungonline.net/playlist/natgeowild-mkctvMalingPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lz8A0qIPP6Y/VgY1OB_2V5I/AAAAAAAAFAk/9ZZHeZCRrcI6QAkuJ1rptGxvOPViBC-8QCPcBGAYYCw/s139/beinSport1.png" group-title="USEETV", BEIN SPORT1
 http://zalogi.xyz/exo/playlist/bein1-mkctvMalingPlaylist.m3u8
@@ -155,7 +149,7 @@ http://185.238.0.145:1313/c/max/mytv-hd.m3u8
 #EXTINF:-1,Max2U
 http://185.238.0.145:1313/c/max/max2u-hd.m3u8
 
-#EXTINF:-1,JTV
+#EXTINF:-1,JTV (Maxstream)
 http://185.238.0.145:1313/c/max/jtv-hd.m3u8
 
 #EXTINF:-1,Maxstream-Music
@@ -164,7 +158,7 @@ http://185.238.0.145:1313/c/max/maxstreammusic-hd.m3u8
 #EXTINF:-1,MCC
 http://185.238.0.145:1313/c/max/mcc-hd.m3u8
 
-#EXTINF:-1,JakTV
+#EXTINF:-1,JakTV (Maxstream)
 http://185.238.0.145:1313/c/max/jaktv-hd.m3u8
 
 #EXTINF:-1,UseePrime
@@ -173,8 +167,11 @@ http://185.238.0.145:1313/c/max/useeprime-hd.m3u8
 #EXTINF:-1,DigiOne
 http://185.238.0.145:1313/c/max/digione-hd.m3u8
 
-#EXTINF:-1,Magna
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://pbs.twimg.com/profile_images/1276492481140408321/kBGZTaC3_400x400.jpg" tvg-country="ID" tvg-url="" group-title="lokal",MagnaTV (Maxstream)
 http://185.238.0.145:1313/c/max/magna-hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://pbs.twimg.com/profile_images/1276492481140408321/kBGZTaC3_400x400.jpg" tvg-country="ID" tvg-url="" group-title="lokal",MagnaTV (Medcom)
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1,LombokTV
 http://185.238.0.145:1313/c/max/lomboktv-hd.m3u8
@@ -185,10 +182,10 @@ http://185.238.0.145:1313/c/max/hi-hd.m3u8
 #EXTINF:-1,Nettv
 http://185.238.0.145:1313/c/max/nettv-hd.m3u8
 
-#EXTINF:-1,Channel4U
+#EXTINF:-1,Channel4U (Maxstream)
 http://185.238.0.145:1313/c/max/channel4u-hd.m3u8
 
-#EXTINF:-1,TIC
+#EXTINF:-1,TIC (Maxstream)
 http://185.238.0.145:1313/c/max/tic-hd.m3u8
 
 #EXTINF:-1,UseePhoto
@@ -203,10 +200,10 @@ http://185.238.0.145:1313/c/max/tvedukasi-hd.m3u8
 #EXTINF:-1,DGTV
 http://185.238.0.145:1313/c/max/dgtv-hd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" tvg-country="ID" tvg-url="" group-title="News",METROTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" tvg-country="ID" tvg-url="" group-title="News",METROTV (Maxstream)
 http://185.238.0.145:1313/c/max/metrotv-hd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" tvg-country="ID" tvg-url="" group-title="News",KOMPASTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" tvg-country="ID" tvg-url="" group-title="News",KOMPASTV (Maxstream)
 http://185.238.0.145:1313/c/max/kompastv-hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_seatoday_big.png?v=1" tvg-country="ID" tvg-url="" group-title="lokal",SeaToday
