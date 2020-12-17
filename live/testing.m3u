@@ -221,3 +221,14 @@ http://185.238.0.145:1313/c/max/idku-hd.m3u8
 
 #EXTINF:-1  group-title="INDONESIA", Jawa Pos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
+
+
+
+#EXTINF:-1  group-title="KNOWLEDGE",Discovery ID
+http://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE", National Geograpic HD
+http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE", National Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE", Animal Planet HD
+http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
