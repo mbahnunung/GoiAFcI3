@@ -126,7 +126,7 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MOVIES", HBO
-http://fdtvapps.xyz/channel/hbo.m3u8
+https://raw.githubusercontent.com/zaltvplayer/play01/master/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES", HBO Hits
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
