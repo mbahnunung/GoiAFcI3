@@ -137,20 +137,6 @@ https://www.dropbox.com/s/dl/o9397gnmm0s44ar/mkctv_hbofam.m3u8
 #EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="MOVIES",HBO Signature
 https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8
 
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX ACTION Movies" tvg-logo="http://cekker.masuk.web.id/logo/foxact4.png" group-title="MOVIES",FOX ACTION Movies
-http://iptvtree.net:8080/F11773/0570c4f1/174690
-
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX ACTION Movies" tvg-logo="http://cekker.masuk.web.id/logo/foxact4.png" group-title="MOVIES",FOX ACTION Movies
-http://iptvtree.net:8080/F11773/0570c4f1/174714
-
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX ACTION Movies" tvg-logo="http://cekker.masuk.web.id/logo/foxact4.png" group-title="MOVIES",FOX ACTION Movies
-http://iptvtree.net:8080/F11773/0570c4f1/157575
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sMQ0yyZ.png" group-title="MOVIES",  FOX FAMILY MOVIES
-http://iptvtree.net:8080/F11773/0570c4f1/157570
-
-#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",  FOX MOVIES
-http://iptvtree.net:8080/F11773/0570c4f1/158356
 
 ########## video ########
 
