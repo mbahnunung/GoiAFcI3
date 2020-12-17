@@ -131,6 +131,27 @@ https://raw.githubusercontent.com/zaltvplayer/play01/master/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES", HBO Hits
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
+#EXTINF:0 tvg-name="HBOFamily.id" tvg-logo="https://e7.pngegg.com/pngimages/826/731/png-clipart-hbo-family-television-channel-others-television-blue.png" group-title="MOVIES",HBO Family
+https://www.dropbox.com/s/dl/o9397gnmm0s44ar/mkctv_hbofam.m3u8
+
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="MOVIES",HBO Signature
+https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8
+
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX ACTION Movies" tvg-logo="http://cekker.masuk.web.id/logo/foxact4.png" group-title="MOVIES",FOX ACTION Movies
+http://iptvtree.net:8080/F11773/0570c4f1/174690
+
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX ACTION Movies" tvg-logo="http://cekker.masuk.web.id/logo/foxact4.png" group-title="MOVIES",FOX ACTION Movies
+http://iptvtree.net:8080/F11773/0570c4f1/174714
+
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX ACTION Movies" tvg-logo="http://cekker.masuk.web.id/logo/foxact4.png" group-title="MOVIES",FOX ACTION Movies
+http://iptvtree.net:8080/F11773/0570c4f1/157575
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMQ0yyZ.png" group-title="MOVIES",  FOX FAMILY MOVIES
+http://iptvtree.net:8080/F11773/0570c4f1/157570
+
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",  FOX MOVIES
+http://iptvtree.net:8080/F11773/0570c4f1/158356
+
 ########## video ########
 
 
@@ -211,48 +232,5 @@ http://185.238.0.145:1313/c/max/idku-hd.m3u8
 
 
 
-
-#EXTINF:-1  group-title="INDONESIA", RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-#EXTINF:-1  group-title="INDONESIA", MNC
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-#EXTINF:-1  group-title="INDONESIA", ANTV
-http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
-#EXTINF:-1  group-title="INDONESIA", SCTV
-http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
-#EXTINF:-1 group-title="INDONESIA", INDOSIAR HD
-http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
-#EXTINF:-1 group-title="Without category", NET TV HD
-http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
-#EXTINF:-1 group-title="INDONESIA", RTV HD
-http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
-#EXTINF:-1  group-title="INDONESIA", GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-#EXTINF:-1  group-title="INDONESIA", TRANS 7 HD
-http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
-#EXTINF:-1 group-title="INDONESIA", TRANS TV HD
-http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
-#EXTINF:-1  group-title="INDONESIA", INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 group-title="INDONESIA", TVONE
-http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
-#EXTINF:-1  group-title="INDONESIA", METRO TV
-http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1  group-title="INDONESIA", KOMPAS TV
-http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
-#EXTINF:-1  group-title="INDONESIA", DAAI TV HD
-http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
-#EXTINF:-1  group-title="INDONESIA", TVRI
-http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
-#EXTINF:-1 group-title="INDONESIA", TVRI NASIONAL
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1  group-title="INDONESIA", TVRI DKI JAKARTA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-#EXTINF:-1  group-title="INDONESIA", TVRI BUDAYA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1  group-title="INDONESIA", BERITASATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:-1  group-title="INDONESIA", JAKTV
-http://103.130.186.138:8800/oxygenplay/jaktv/index.m3u8
 #EXTINF:-1  group-title="INDONESIA", Jawa Pos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
