@@ -23,8 +23,8 @@ http://rr2.dens.tv/s/s101/01.m3u8
 http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 #http://tv.mbahnunungonline.net/playlist/transtv-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" tvg-country="ID" tvg-url="" group-title="",rtv
-#http://rr2.dens.tv/s/s12/01.m3u8
-http://zalogi.xyz/exo/playlist/rtv-mkctvMalingPlaylist.m3u8
+http://rr2.dens.tv/s/s12/01.m3u8
+#http://zalogi.xyz/exo/playlist/rtv-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" tvg-country="ID" tvg-url="" group-title="",antv
 #https://raw.githubusercontent.com/zalindo/tv/master/antv.m3u8
 http://185.238.0.145:1313/c/g/antv.m3u8
