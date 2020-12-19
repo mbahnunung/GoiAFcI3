@@ -13,12 +13,12 @@ http://rr2.dens.tv/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" tvg-country="ID" tvg-url="" group-title="",INDOSIAR
 http://rr2.dens.tv/s/s04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" tvg-country="ID" tvg-url="" group-title="",NET.
-#http://rr2.dens.tv/s/s08/01.m3u8
+http://rr2.dens.tv/s/s08/01.m3u8
 #http://nonton.wap.sh/id/012.m3u8
-http://zalogi.xyz/exo/playlist/net-mkctvMalingPlaylist.m3u8
+#http://zalogi.xyz/exo/playlist/net-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-We8hxjgkQmg/UtKsjhq5QcI/AAAAAAAAAOQ/Y5XtKk6R8lA/s1600/trans7.png" tvg-country="ID" tvg-url="" group-title="",TRANS7
 #http://tv.mbahnunungonline.net/playlist/trans7-mkctvMalingPlaylist.m3u8
-https://kastproxy-us.herokuapp.com/http://rr2.dens.tv/s/s101/01.m3u8
+http://rr2.dens.tv/s/s101/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png" tvg-country="ID" tvg-url="" group-title="",TRANSTV
 http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 #http://tv.mbahnunungonline.net/playlist/transtv-mkctvMalingPlaylist.m3u8
@@ -41,7 +41,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" tvg-country="ID" tvg-url="" group-title="News",KOMPASTV
 #http://nonton.wap.sh/id/014.m3u8
-http://zalogi.xyz/exo/playlist/kompastv-mkctvMalingPlaylist.m3u8
+http://185.238.0.145:1313/c/max/kompastv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://3.bp.blogspot.com/-FX_m76GhFdY/UndG6eJ4NcI/AAAAAAAAB-0/Vsf59f_2OmQ/s1600/aljazeera-arab.png" tvg-country="ID" tvg-url="" group-title="News",Aljazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://1.bp.blogspot.com/-p7I1lG_Aews/UndHCyhg-9I/AAAAAAAAB-8/WFHni9Tkxh8/s1600/arabiya.png" tvg-country="ID" tvg-url="" group-title="News",Al arabiya
@@ -226,11 +226,4 @@ http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 
 
 
-#EXTINF:-1  group-title="KNOWLEDGE",Discovery ID
-http://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE", National Geograpic HD
-http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
-#EXTINF:-1  group-title="KNOWLEDGE", National Geo Wild HD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE", Animal Planet HD
-http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
+
