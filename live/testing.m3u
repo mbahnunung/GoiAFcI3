@@ -27,12 +27,12 @@ http://rr2.dens.tv/s/s12/01.m3u8
 #http://zalogi.xyz/exo/playlist/rtv-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" tvg-country="ID" tvg-url="" group-title="",antv
 #https://raw.githubusercontent.com/zalindo/tv/master/antv.m3u8
-http://185.238.0.145:1313/c/g/antv.m3u8
+http://rr2.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" tvg-country="ID" tvg-url="" group-title="News",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png" tvg-country="ID" tvg-url="" group-title="News",tvOne
-#http://rr2.dens.tv/s/s105/01.m3u8
-http://185.238.0.145:1313/c/g/tvone.m3u8
+http://rr2.dens.tv/s/s105/01.m3u8
+#http://185.238.0.145:1313/c/g/tvone.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" tvg-country="ID" tvg-url="" group-title="News",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-p6qwZWRUdTc/T8d07Dixt8I/AAAAAAAABCA/ZFtYpUN2gu8/s320/berita-satu.png" tvg-country="ID" tvg-url="" group-title="News",BERITASATU
@@ -41,7 +41,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" tvg-country="ID" tvg-url="" group-title="News",KOMPASTV
 #http://nonton.wap.sh/id/014.m3u8
-http://185.238.0.145:1313/c/max/kompastv-hd.m3u8
+http://rr2.dens.tv/s/s104/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://3.bp.blogspot.com/-FX_m76GhFdY/UndG6eJ4NcI/AAAAAAAAB-0/Vsf59f_2OmQ/s1600/aljazeera-arab.png" tvg-country="ID" tvg-url="" group-title="News",Aljazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://1.bp.blogspot.com/-p7I1lG_Aews/UndHCyhg-9I/AAAAAAAAB-8/WFHni9Tkxh8/s1600/arabiya.png" tvg-country="ID" tvg-url="" group-title="News",Al arabiya
@@ -73,44 +73,8 @@ http://rr.dens.tv/h/h141/01.m3u8
 http://rr.dens.tv/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://cdn.clipart.email/1cab2429accf505fa26ff7ed3d569e76_english-prime-pack-zee-entertainment-corporate-website_200-200.jpeg" tvg-country="MY" tvg-url="" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM.jpg" tvg-country="MY" tvg-url="" group-title="Movies",tes
-http://rr3.dens.tv/s/s71/index2.m3u8
-
-########### USEETV ###########
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lz8A0qIPP6Y/VgY1OB_2V5I/AAAAAAAAFAk/9ZZHeZCRrcI6QAkuJ1rptGxvOPViBC-8QCPcBGAYYCw/s139/beinSport1.png" group-title="USEETV", BEIN SPORT1
-http://zalogi.xyz/exo/playlist/bein1-mkctvMalingPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kfLY92b04nk/VgY3R0RRquI/AAAAAAAAFAw/2zEzh3rrBQs0ERmZcboo7IIhIfmTmBgLQCPcBGAYYCw/s100/beinSport2.png" group-title="USEETV", BEIN SPORT2
-http://zalogi.xyz/exo/playlist/bein2-mkctvMalingPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="USEETV",CHAMPIONS 1
-http://zalogi.xyz/exo/playlist/champion1-mkctvMalingPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="USEETV",CHAMPIONS 2
-http://zalogi.xyz/exo/playlist/champion2-mkctvMalingPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxY9P6RB/Champion-3-Tv.jpg" group-title="USEETV",CHAMPIONS 3
-https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="USEETV", USEE SPORT1
-http://zalogi.xyz/exo/playlist/useesport-mkctvMalingPlaylist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="USEETV", USEE SPORT2
-http://zalogi.xyz/exo/playlist/useesports2-mkctvMalingPlaylist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?id=8" group-title="USEETV",FOX SPORT 1
-http://zalogi.xyz/exo/playlist/foxsport1-mkctvMalingPlaylist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?id=8" group-title="USEETV",FOX SPORT 2
-http://zalogi.xyz/exo/playlist/foxsport2-mkctvMalingPlaylist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?id=8" group-title="USEETV",FOX SPORT 3
-http://zalogi.xyz/exo/playlist/foxsport3-mkctvMalingPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" tvg-country="MY" tvg-url="" group-title="Movies",thrill
+http://rr2.dens.tv/s/s34/index.m3u8
 
 
 
@@ -127,7 +91,7 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MOVIES", HBO
 #https://raw.githubusercontent.com/zaltvplayer/play01/master/hbo.m3u8
-http://me.zichannels.my.id/ch/hbo.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES", HBO Hits
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
