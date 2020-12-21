@@ -77,6 +77,8 @@ http://rr.dens.tv/h/h07/01.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" tvg-country="MY" tvg-url="" group-title="Movies",thrill
 http://rr2.dens.tv/s/s34/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-uYE61c7L.png" group-title="MOVIES", Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 
 
@@ -107,8 +109,8 @@ https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8
 
 ########## video ########
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-uYE61c7L.png" group-title="MOVIES", Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
+
 
 #EXTINF:-1,Ruang Terampil
 http://185.238.0.145:1313/c/max/ruangtrampil-hd.m3u8
