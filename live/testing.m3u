@@ -52,6 +52,8 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w1097865797.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-ZS4vru8Cbyg/W-nJ_4nefdI/AAAAAAAAKE0/rxZ68mY45ZQciOkh5e0W5h6RDJyJhNvJgCLcBGAs/s1600/jtv_surabaya.png" tvg-country="ID" tvg-url="Daerah" group-title="",JTV
 http://122.248.43.138:1935/ch21/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://pbs.twimg.com/profile_images/701990616301903875/0lQITza9_400x400.jpg" tvg-country="ID" tvg-url="" group-title="lokal",Jawapos TV
+http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" tvg-country="MY" tvg-url="" group-title="Entertainment",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://4.bp.blogspot.com/-jAcbXA24-6A/TjeZe5YnelI/AAAAAAAAA50/7hZZZ3ppD_E/s1600/Logo%2BNTV7%2Bpurple%2B%25281%2529.png" tvg-country="MY" tvg-url="" group-title="",NTV7
@@ -105,7 +107,7 @@ https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8
 
 ########## video ########
 
-#EXTINF:-1,Z.
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-uYE61c7L.png" group-title="MOVIES", Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Ruang Terampil
@@ -185,8 +187,7 @@ http://185.238.0.145:1313/c/max/idku-hd.m3u8
 
 
 
-#EXTINF:-1  group-title="INDONESIA", Jawa Pos TV
-http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
+
 
 
 
