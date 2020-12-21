@@ -190,6 +190,9 @@ http://185.238.0.145:1313/c/max/kompastv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_seatoday_big.png?v=1" tvg-country="ID" tvg-url="" group-title="lokal",SeaToday
 http://185.238.0.145:1313/c/max/idku-hd.m3u8
 
+#EXTINF:-1,TESTV
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
 
 
 
