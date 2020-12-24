@@ -14,14 +14,10 @@ http://rr2.dens.tv/s/s03/01.m3u8
 http://rr2.dens.tv/s/s04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" tvg-country="ID" tvg-url="" group-title="",NET.
 http://rr2.dens.tv/s/s08/01.m3u8
-#http://nonton.wap.sh/id/012.m3u8
-#http://zalogi.xyz/exo/playlist/net-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-We8hxjgkQmg/UtKsjhq5QcI/AAAAAAAAAOQ/Y5XtKk6R8lA/s1600/trans7.png" tvg-country="ID" tvg-url="" group-title="",TRANS7
-#http://tv.mbahnunungonline.net/playlist/trans7-mkctvMalingPlaylist.m3u8
 http://rr2.dens.tv/s/s101/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png" tvg-country="ID" tvg-url="" group-title="",TRANSTV
 http://210.210.155.35/x6bnqe/s/s252/01.m3u8
-#http://tv.mbahnunungonline.net/playlist/transtv-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" tvg-country="ID" tvg-url="" group-title="",rtv
 http://rr2.dens.tv/s/s12/01.m3u8
 #http://zalogi.xyz/exo/playlist/rtv-mkctvMalingPlaylist.m3u8
@@ -46,9 +42,11 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w815070925_b2800
 http://185.238.0.145:1313/c/max/kompastv-hd.m3u8
 #http://rr2.dens.tv/s/s104/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://3.bp.blogspot.com/-FX_m76GhFdY/UndG6eJ4NcI/AAAAAAAAB-0/Vsf59f_2OmQ/s1600/aljazeera-arab.png" tvg-country="ID" tvg-url="" group-title="News",Aljazeera
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://1.bp.blogspot.com/-p7I1lG_Aews/UndHCyhg-9I/AAAAAAAAB-8/WFHni9Tkxh8/s1600/arabiya.png" tvg-country="ID" tvg-url="" group-title="News",Al arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="cn" tvg-logo="https://4.bp.blogspot.com/-mozr67tdgUc/W-CH02GZaeI/AAAAAAAAJ94/hYBVYnCgSXM3XAGx2gfP-wiPRckIVQwvACLcBGAs/s1600/logo_cgtndocumentary.png" tvg-country="ID" tvg-url="" group-title="News",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID" tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" tvg-country="ID" tvg-url="Daerah" group-title="",TV9 Nusantara
@@ -201,8 +199,5 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://content.jwplatform.com/manifests/NM07RpKo.m3u8
 #EXTINF:0, group-title="Hindi",Katrine Pirs - Peaceful Poolside
 https://content.jwplatform.com/manifests/m3T1mu0U.m3u8
-
-
-
 
 
