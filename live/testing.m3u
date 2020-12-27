@@ -890,7 +890,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 
 #EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/b7e28ec799d372608cb5.png?cdy=8.8.8.8" group-title="MUSIC", MTV CHINA
 #EXTVLCOPT:network-caching=1000
-http://103.130.186.138:8800/oxygenplay/mtvchina/index.m3u8 
+https://live.insertlive.com/insertlive/smil:insertlive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/UTV_Logo.png" group-title="MUSIC",UTV MUSIC
 #EXTVLCOPT:network-caching=1000
