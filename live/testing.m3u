@@ -266,7 +266,7 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mtG6Oh5hzcU/Ws93c3YJSUI/AAAAAAAAPjY/e1kGI6jE5-gOmMMASpkSgLTA2jkDV3SZACLcBGAs/s1600/RTV-Jobsbonafide.blogspot.coi.id.png" group-title="INDONESIA",RTV
 #EXTVLCOPT:network-caching=1000
-https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV-avc1_499968=8-mp4a_66000_eng=2.m3u8
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xy69nGC.png" group-title="INDONESIA",Radar TV
 #EXTVLCOPT:network-caching=1000
