@@ -3,7 +3,7 @@
 #EXTVLCOPT:network-caching=1000
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-2jGabLLeS0o/UcA9f90KrhI/AAAAAAAABwU/NbGjpSP0LIk/s1600/rcti.png" tvg-country="ID" tvg-url="" group-title="",RCTI
-http://stream1.ninmedia.tv:1935/tvrinasional/udp.stream_360p/chunklist_w1318890383.m3u8
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 #https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_100000=3-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-8pY62LJlQFc/UcA9wBktyVI/AAAAAAAABwc/ymWOxlIRcPc/s1600/mnctv.png" tvg-country="ID" tvg-url="" group-title="",MNCTV
 https://www.dropbox.com/s/dl/jb9gmm0dhafdlof/mkctv_mnctvsd.m3u8
@@ -914,7 +914,7 @@ http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/250-2508379_channel-v-india-channel-v.png" group-title="MUSIC", CHANNEL [V]
 #EXTVLCOPT:network-caching=1000
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/live/channelvhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="MUSIC", 9XM
 #EXTVLCOPT:network-caching=1000
