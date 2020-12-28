@@ -210,19 +210,19 @@ https://dl.dropboxusercontent.com/s/k9dgxbdua1f6ugh/VID-20201116-WA0017.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Antv_logo_%282017%29.png" group-title="INDONESIA",ANTV
 #EXTVLCOPT:network-caching=1000
-http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
+https://kastproxy-us.herokuapp.com/http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GB6gAEG.png" group-title="INDONESIA",MetroTV
 #EXTVLCOPT:network-caching=1000
-http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
+https://kastproxy-us.herokuapp.com/http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="INDONESIA",Net TV
 #EXTVLCOPT:network-caching=1000
-http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
+https://kastproxy-us.herokuapp.com/http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7
 #EXTVLCOPT:network-caching=1000
-http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
+https://kastproxy-us.herokuapp.com/http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="INDONESIA",Trans TV
 #EXTVLCOPT:network-caching=1000
@@ -230,7 +230,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",tvOne
 #EXTVLCOPT:network-caching=1000
-http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
+https://kastproxy-us.herokuapp.com/http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A56UnoD.png" group-title="INDONESIA",Indosiar
 #EXTVLCOPT:network-caching=1000
