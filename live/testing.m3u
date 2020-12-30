@@ -1482,3 +1482,15 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/e2be27y.png" group-title="WORLD TV",TV Caxias (BR)
 http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?fluxustv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="MOVIES",(CODAY) FOX FAMILY HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="MOVIES",(CODAY) FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="MOVIES",(CODAY) FOX MOVIES HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://c0day.my.id/coday.jpg" group-title="MOVIES",(CODAY) FOX LIFE HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="https://c0day.my.id/images/ainostv.png" group-title="MOVIES",Ainos TV (nin) 
+https://5d63d49f772ce.streamlock.net/ainostv/udp.stream_360p/playlist.m3u8
