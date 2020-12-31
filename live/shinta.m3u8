@@ -20,6 +20,7 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 http://mkctv.my.id/vidcom/205-INDOSIAR.m3u8
 #EXTINF:0 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL",SCTV HD
 https://etslive-2-vidio-com.akamaized.net/vp9/204_stream.mpd
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4c4195da44844bf090c1730f35f20aa65
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",ANTV
 https://mkctv.my.id/.tvje./antv.m3u8
 #EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dovtazeb-720.jpg" group-title="LOKAL",TRANS 7
