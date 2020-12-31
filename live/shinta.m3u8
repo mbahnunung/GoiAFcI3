@@ -19,7 +19,7 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL",INDOSIAR
 http://mkctv.my.id/vidcom/205-INDOSIAR.m3u8
 #EXTINF:0 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL",SCTV HD
-https://etslive-2-vidio-com.akamaized.net/vp9/204_stream.mpd
+#https://etslive-2-vidio-com.akamaized.net/vp9/204_stream.mpd
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4c4195da44844bf090c1730f35f20aa65
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",ANTV
 https://mkctv.my.id/.tvje./antv.m3u8
@@ -55,7 +55,8 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 #http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" group-title="LOKAL",NET TV FHD
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
+#https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84c4195da44844bf090c1730f35f20aa65
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-kIGgj4ajWxs/XFu7SBDrfiI/AAAAAAAAK3Y/5k8FwkSMDfUY2NiH_oIhaDARqPn9WKgAQCLcBGAs/s1600/logo_mytv.png" group-title="LOKAL",MYTV
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s7ZOCHittVk/V03sueWgDwI/AAAAAAAAFUU/-lYZd3UGm-o6sr8-oFEmD5wyhZkvpgUBACLcB/s1600/logo_cnn_ind.png" group-title="LOKAL",CNN Indonesia SD
