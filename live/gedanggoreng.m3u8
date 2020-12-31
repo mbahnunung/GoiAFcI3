@@ -75,8 +75,12 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 https://v2.siar.us/bci/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="MUSIC",MTV
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/250-2508379_channel-v-india-channel-v.png" group-title="MUSIC", CHANNEL [V]
-https://livecdn.fptplay.net/live/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b1/MGSTV_%282015%29.png/500px-MGSTV_%282015%29.png" group-title="MUSIC",MGS TV
+#EXTVLCOPT:network-caching=1000
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/117-1174258_download-pop-music-logo-pop-music.png" group-title="MUSIC",Pop Musik
+#EXTVLCOPT:network-caching=1000
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="MUSIC", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="DOCUMENTARY",Crime & Investigation 
