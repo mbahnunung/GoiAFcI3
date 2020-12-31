@@ -10,7 +10,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-eBDn0yWBAzs/UcA-CWH-wBI/AAAAAAAABwk/C76g5GJieTs/s1600/globaltv.png" tvg-country="ID" tvg-url="" group-title="",GTV
 https://www.dropbox.com/s/dl/mwfuqk8lssbh224/mkctv_global.m3u8
 #EXTINF:-1 tvg-id="iNews" tvg-name="iNews" tvg-language="id" tvg-logo="https://lh6.googleusercontent.com/-74kEWJ5ce2I/VUI2Iir3ZxI/AAAAAAAAGzc/Du-gZFt0nco/s96-no/iNews_TV.png" tvg-country="ID" tvg-url="" group-title="",iNews
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+https://www.dropbox.com/s/dl/9i6gugwhuhhlxtm/mkctv_inews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" tvg-country="ID" tvg-url="" group-title="",SCTV
 http://rr2.dens.tv/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" tvg-country="ID" tvg-url="" group-title="",INDOSIAR
