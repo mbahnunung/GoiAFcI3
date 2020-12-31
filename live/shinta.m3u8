@@ -48,6 +48,8 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
 #EXTINF:0 tvg-logo="http://www.satuharapan.com/uploads/cache/news_44304_1441116615.jpg" group-title="LOKAL",METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-p6qwZWRUdTc/T8d07Dixt8I/AAAAAAAABCA/ZFtYpUN2gu8/s320/berita-satu.png" tvg-country="ID" tvg-url="" group-title="LOKAL",BERITASATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:0 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vqO6m_0QvUDwp34CYJQwSc-ZgRI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="LOKAL",RTV
 #https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -69,9 +71,9 @@ https://v2.siar.us/bci/abr/playlist.m3u8
 
 ########################################## ASTRO TV ######################################################
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV", TV1
-http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/11603
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV", TV2
-http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/11604
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF: -1  tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV",TV3
 http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/11605
 #EXTINF: -1  tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV", BOO HD
