@@ -22,13 +22,13 @@ http://mkctv.my.id/vidcom/205-INDOSIAR.m3u8
 #https://etslive-2-vidio-com.akamaized.net/vp9/204_stream.mpd
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4c4195da44844bf090c1730f35f20aa65
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",ANTV
-https://mkctv.my.id/.tvje./antv.m3u8
+http://210.210.155.35:80/session/5b297488-4a83-11eb-a112-b82a72d63267/qwr9ew/s/s07/02.m3u8?app_type=mobile&userid=b86j16etxda&tkn=TmdhcGFpbkthdUtvbnRvbD8=&chname=antv
 #EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dovtazeb-720.jpg" group-title="LOKAL",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1259427354_b744100_sleng.m3u8
 #EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dovtazeb-720.jpg" group-title="LOKAL",TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1259427354_b744100_sleng.m3u8
 #EXTINF:0 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="LOKAL",TVONE HD
-https://tinyurl.com/tvone2020
+http://210.210.155.35:80/session/2447653c-4a84-11eb-8e17-b82a72d63267/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=b86j16etxda&tkn=TmdhcGFpbkthdUtvbnRvbD8=&chname=tvOne
 #EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dk5clz1v-720.jpg" group-title="LOKAL",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1446410937_b544100_sleng.m3u8
 #EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dk5clz1v-720.jpg" group-title="LOKAL",TRANS TV HD
