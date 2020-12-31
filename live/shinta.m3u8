@@ -5,7 +5,7 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV
 https://www.dropbox.com/s/dl/jdv4y79i9i10db2/mkctv_mnctv.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV HD
-https://www.dropbox.com/s/dl/jb9gmm0dhafdlof/mkctv_mnctvsd.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV SD
 https://www.dropbox.com/s/dl/mwfuqk8lssbh224/mkctv_global.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV HD
