@@ -37,43 +37,42 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1446410937_b744100_
 https://www.dropbox.com/s/dl/9i6gugwhuhhlxtm/mkctv_inews.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="LOKAL",iNews HD
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-#EXTINF:0 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/transformasi-logo-tvri-_190405212444-949.jpg" group-title="LOKAL",TVRI SD
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="LOKAL",TVRI SD
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/transformasi-logo-tvri-_190405212444-949.jpg" group-title="LOKAL",TVRI HD
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="LOKAL",TVRI HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn2.tstatic.net/tribunnews/foto/bank/images/kompastv_20151116_074425.jpg" group-title="LOKAL",KOMPAS TV
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="LOKAL",KOMPAS TV
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 #https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1148043676_b894100_sleng_93371.m3u8
-#EXTINF:0 tvg-logo="http://www.satuharapan.com/uploads/cache/news_44304_1441116615.jpg" group-title="LOKAL",METRO TV
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" group-title="LOKAL",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
-#EXTINF:0 tvg-logo="http://www.satuharapan.com/uploads/cache/news_44304_1441116615.jpg" group-title="LOKAL",METRO TV HD
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" group-title="LOKAL",METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-p6qwZWRUdTc/T8d07Dixt8I/AAAAAAAABCA/ZFtYpUN2gu8/s320/berita-satu.png" tvg-country="ID" tvg-url="" group-title="LOKAL",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:0 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vqO6m_0QvUDwp34CYJQwSc-ZgRI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="LOKAL",RTV
-#https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://cdn2.tstatic.net/jabar/foto/bank/images/net-tv.jpg" group-title="LOKAL",NET TV FHD
+https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
+#http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" group-title="LOKAL",NET TV FHD
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
-#https://mkctv.net/tvje/net.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/23/Mayapada_TV.png" group-title="LOKAL",MYTV
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-kIGgj4ajWxs/XFu7SBDrfiI/AAAAAAAAK3Y/5k8FwkSMDfUY2NiH_oIhaDARqPn9WKgAQCLcBGAs/s1600/logo_mytv.png" group-title="LOKAL",MYTV
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL",CNN Indonesia SD
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s7ZOCHittVk/V03sueWgDwI/AAAAAAAAFUU/-lYZd3UGm-o6sr8-oFEmD5wyhZkvpgUBACLcB/s1600/logo_cnn_ind.png" group-title="LOKAL",CNN Indonesia SD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL",CNN Indonesia HD
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s7ZOCHittVk/V03sueWgDwI/AAAAAAAAFUU/-lYZd3UGm-o6sr8-oFEmD5wyhZkvpgUBACLcB/s1600/logo_cnn_ind.png" group-title="LOKAL",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png" group-title="LOKAL",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png" group-title="LOKAL",CANEL NEWS ASIA HD
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-7Au8vyLGqMg/XJ0HllCI69I/AAAAAAAALLg/pgFyzI0tD4EPGMduVTo1oHH0CmIWkIiUACLcBGAs/s1600/logo_newsasia.png" group-title="LOKAL",CANEL NEWS ASIA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="LOKAL",AL-BAHJAHTV
 https://v2.siar.us/bci/abr/playlist.m3u8
 
 ########################################## ASTRO TV ######################################################
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV", TV1
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-q35SEqK9HvI/XMfJC7mMELI/AAAAAAAALYc/gEAOcpKPRJg7FJsGJjPpczRAmCi1Ja8UACLcBGAs/s1600/tv1-malaysia.png"group-title="ASTRO TV", TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV", TV2
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-itq7U8NLDv0/XMfHyEbUqaI/AAAAAAAALYU/V-0AwQiK2H4p_Q_M2rZj2LjNcBdpVWVvQCLcBGAs/s1600/tv2-malaysia.png"group-title="ASTRO TV", TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF: -1  tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV",TV3
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF: -1  tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV", BOO HD
