@@ -79,6 +79,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 https://livecdn.fptplay.net/live/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="MUSIC", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="DOCUMENTARY",Crime & Investigation 
+http://203.154.243.31:15001
 
 
 ########################################## ASTRO TV ######################################################
@@ -87,9 +89,9 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-itq7U8NLDv0/XMfHyEbUqaI/AAAAAAAALYU/V-0AwQiK2H4p_Q_M2rZj2LjNcBdpVWVvQCLcBGAs/s1600/tv2-malaysia.png"group-title="ASTRO TV", TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF: -1  tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV",TV3
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
 #EXTINF: -1  tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV", BOO HD
-http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/11673
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://1.bp.blogspot.com/-2csW4KIftNk/VM5kNvjdM0I/AAAAAAAARW8/uIGp9dY39ck/s1600/8TV%2BMalaysia%2BOnline%2BLive%2BStreaming.jpg"group-title="ASTRO TV", 8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF: -1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d8/TV9logo_baru.jpg"group-title="ASTRO TV", TV9
