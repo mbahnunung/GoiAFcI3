@@ -3,8 +3,8 @@
 #EXTVLCOPT:network-caching=1000
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-2jGabLLeS0o/UcA9f90KrhI/AAAAAAAABwU/NbGjpSP0LIk/s1600/rcti.png" tvg-country="ID" tvg-url="" group-title="",RCTI
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
-#https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_100000=3-mp4a_64000_eng=2.m3u8
+#https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-8pY62LJlQFc/UcA9wBktyVI/AAAAAAAABwc/ymWOxlIRcPc/s1600/mnctv.png" tvg-country="ID" tvg-url="" group-title="",MNCTV
 #https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
