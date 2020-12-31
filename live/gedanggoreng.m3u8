@@ -110,17 +110,17 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 ########################################## Movies TV ######################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://1.bp.blogspot.com/-HXnfAlrgfrg/XmnTuPMVB4I/AAAAAAAAMI4/loc4VlIEFw4Bky0JZ_qMNQwawh2jpvFwwCLcBGAsYHQ/s1600/logo_celestialmovie.png" tvg-country="MY" tvg-url="" group-title="Movies",Celestialmovies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://1.bp.blogspot.com/-HXnfAlrgfrg/XmnTuPMVB4I/AAAAAAAAMI4/loc4VlIEFw4Bky0JZ_qMNQwawh2jpvFwwCLcBGAsYHQ/s1600/logo_celestialmovie.png" tvg-country="id" tvg-url="" group-title="MOVIES",Celestialmovies
 http://rr2.dens.tv/s/s33/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" tvg-country="MY" tvg-url="" group-title="Movies",AXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" tvg-country="id" tvg-url="" group-title="MOVIES",AXN
 http://rr.dens.tv/h/h141/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" tvg-country="MY" tvg-url="" group-title="Movies",KIX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" tvg-country="id" tvg-url="" group-title="MOVIES",KIX
 http://rr.dens.tv/h/h07/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://cdn.clipart.email/1cab2429accf505fa26ff7ed3d569e76_english-prime-pack-zee-entertainment-corporate-website_200-200.jpeg" tvg-country="MY" tvg-url="" group-title="Movies",&Flix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://cdn.clipart.email/1cab2429accf505fa26ff7ed3d569e76_english-prime-pack-zee-entertainment-corporate-website_200-200.jpeg" tvg-country="id" tvg-url="" group-title="MOVIES",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="MOVIES", &Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-uYE61c7L.png" group-title="Movies", Z Living
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-uYE61c7L.png" group-title="MOVIESs", Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 ########################################## dll TV ######################################################
