@@ -10,7 +10,7 @@ http://chostv.mobie.in/files/iptv/mnctv.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV SD
 https://www.dropbox.com/s/dl/mwfuqk8lssbh224/mkctv_global.m3u8
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV HD
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GTV HD
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/images/rcti.jpg" group-title="LOKAL",RCTI
 http://chostv.mobie.in/files/iptv/rcti.m3u8
@@ -22,16 +22,16 @@ http://mkctv.my.id/vidcom/205-INDOSIAR.m3u8
 #https://etslive-2-vidio-com.akamaized.net/vp9/204_stream.mpd
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4c4195da44844bf090c1730f35f20aa65
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",ANTV
-http://210.210.155.35:80/session/5b297488-4a83-11eb-a112-b82a72d63267/qwr9ew/s/s07/02.m3u8?app_type=mobile&userid=b86j16etxda&tkn=TmdhcGFpbkthdUtvbnRvbD8=&chname=antv
-#EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dovtazeb-720.jpg" group-title="LOKAL",TRANS 7
+http://rr2.dens.tv/s/s07/01.m3u8
+#EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dovtazeb-720.jpg" group-title="LOKAL",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1259427354_b744100_sleng.m3u8
-#EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dovtazeb-720.jpg" group-title="LOKAL",TRANS 7 HD
+#EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dovtazeb-720.jpg" group-title="LOKAL",TRANS7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1259427354_b744100_sleng.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-N0ZrPxFJPYs/W9ILcOMkTuI/AAAAAAAAJ18/oBB_VumAKnc5RXykxJJo0XjSwXpdmOckQCLcBGAs/s1600/tvone-tv-stream-60883f.jpg" group-title="LOKAL",TVONE HD
-http://210.210.155.35:80/session/2447653c-4a84-11eb-8e17-b82a72d63267/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=b86j16etxda&tkn=TmdhcGFpbkthdUtvbnRvbD8=&chname=tvOne
+http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dk5clz1v-720.jpg" group-title="LOKAL",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1446410937_b544100_sleng.m3u8
-#EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dk5clz1v-720.jpg" group-title="LOKAL",TRANS TV HD
+#EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dk5clz1v-720.jpg" group-title="LOKAL",TRANSTV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1446410937_b744100_sleng.m3u8
 #https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="LOKAL",iNews
@@ -43,7 +43,7 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="LOKAL",TVRI HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="LOKAL",KOMPAS TV
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+http://rr2.dens.tv/s/s104/index.m3u8
 #https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1148043676_b894100_sleng_93371.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" group-title="LOKAL",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
