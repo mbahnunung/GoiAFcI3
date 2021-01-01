@@ -39,7 +39,7 @@ http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846b
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-p6qwZWRUdTc/T8d07Dixt8I/AAAAAAAABCA/ZFtYpUN2gu8/s320/berita-satu.png" tvg-country="ID" tvg-url="" group-title="LOKAL",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:0 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vqO6m_0QvUDwp34CYJQwSc-ZgRI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="LOKAL",RTV
+#EXTINF:0 tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" group-title="LOKAL",RTV
 #https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ac4195da44844bf090c1730f35f20aa65
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" group-title="LOKAL",NET TV FHD
