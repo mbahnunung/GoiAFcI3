@@ -12,18 +12,18 @@ https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
 https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/images/rcti.jpg" group-title="LOKAL",RCTI
 https://tv.mbahnunungonline.net/playlist/rctisd.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL",INDOSIAR
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" group-title="LOKAL",INDOSIAR
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69c4195da44844bf090c1730f35f20aa65
-#EXTINF:0 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL",SCTV HD
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" group-title="LOKAL",SCTV HD
 #https://etslive-2-vidio-com.akamaized.net/vp9/204_stream.mpd
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4c4195da44844bf090c1730f35f20aa65
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",ANTV
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" group-title="LOKAL",ANTV
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/AntvNew.m3u8
-#EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dovtazeb-720.jpg" group-title="LOKAL",TRANS7 HD
-http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=8958551386d9326cfaab8bc165346bfbf361ef87af77022b1a72f12fbbf65eb1
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-N0ZrPxFJPYs/W9ILcOMkTuI/AAAAAAAAJ18/oBB_VumAKnc5RXykxJJo0XjSwXpdmOckQCLcBGAs/s1600/tvone-tv-stream-60883f.jpg" group-title="LOKAL",TVONE HD
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png" group-title="LOKAL",TVONE HD
 http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dk5clz1v-720.jpg" group-title="LOKAL",TRANSTV HD
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-We8hxjgkQmg/UtKsjhq5QcI/AAAAAAAAAOQ/Y5XtKk6R8lA/s1600/trans7.png" group-title="LOKAL",TRANS7 HD
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=8958551386d9326cfaab8bc165346bfbf361ef87af77022b1a72f12fbbf65eb1
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png" group-title="LOKAL",TRANSTV HD
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=3cbcacce0280033198f2da98a2b4e753f361ef87af77022b1a72f12fbbf65eb1
 #https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="LOKAL",iNews HD
