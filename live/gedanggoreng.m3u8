@@ -213,5 +213,5 @@ https://content.jwplatform.com/manifests/NM07RpKo.m3u8
 https://content.jwplatform.com/manifests/m3T1mu0U.m3u8
 
 
-#EXTINF:0, group-title="RADIO",Bintang Tenggara
+#EXTINF:-1 tvg-logo="https://cdn.radiobintangtenggara.com/2019/04/f69c7be1aa497aaa87f40d2306c4c355.png" group-title="RADIO",Bintang Tenggara
 http://live.radiobintangtenggara.com:8000/mbahnunungonline
