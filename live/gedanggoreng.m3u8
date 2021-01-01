@@ -66,9 +66,11 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png" group-title="LOKAL",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://pbs.twimg.com/profile_images/1276492481140408321/kBGZTaC3_400x400.jpg" tvg-country="ID" tvg-url="" group-title="LOKAL",MagnaTV (Medcom)
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="LOKAL",nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png" group-title="INDONESIA",TVKU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png" group-title="LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_rri_big1.png?v=2.0.0.13" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
@@ -95,6 +97,17 @@ http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="DOCUMENTARY",Crime & Investigation 
 http://203.154.243.31:15001
+
+########################################## ARAB TV ######################################################
+
+#EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" tvg-country="MY" tvg-url="" group-title="MOVIES",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://3.bp.blogspot.com/-FX_m76GhFdY/UndG6eJ4NcI/AAAAAAAAB-0/Vsf59f_2OmQ/s1600/aljazeera-arab.png" tvg-country="ID" tvg-url="" group-title="ARAB",Aljazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://1.bp.blogspot.com/-p7I1lG_Aews/UndHCyhg-9I/AAAAAAAAB-8/WFHni9Tkxh8/s1600/arabiya.png" tvg-country="ID" tvg-url="" group-title="ARAB",Al arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
+
 
 
 ########################################## ASTRO TV ######################################################
@@ -193,3 +206,8 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/Stream(03)/index.m
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI Maluku
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
+
+#EXTINF:0, group-title="Hindi",& TV
+https://content.jwplatform.com/manifests/NM07RpKo.m3u8
+#EXTINF:0, group-title="Hindi",Katrine Pirs - Peaceful Poolside
+https://content.jwplatform.com/manifests/m3T1mu0U.m3u8
