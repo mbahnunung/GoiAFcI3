@@ -10,6 +10,8 @@ http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846b
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GTV HD
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+#EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/images/rcti.jpg" group-title="LOKAL",RCTI
+https://tv.mbahnunungonline.net/playlist/rctisd.m3u8
 #EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/images/rcti.jpg" group-title="LOKAL",RCTI HD
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL",INDOSIAR
