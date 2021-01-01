@@ -20,13 +20,13 @@ http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846b
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",ANTV
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/AntvNew.m3u8
 #EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dovtazeb-720.jpg" group-title="LOKAL",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1259427354_b744100_sleng.m3u8
+http://rr2.dens.tv/s/s101/01.m3u8
 #EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dovtazeb-720.jpg" group-title="LOKAL",TRANS7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1259427354_b744100_sleng.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-N0ZrPxFJPYs/W9ILcOMkTuI/AAAAAAAAJ18/oBB_VumAKnc5RXykxJJo0XjSwXpdmOckQCLcBGAs/s1600/tvone-tv-stream-60883f.jpg" group-title="LOKAL",TVONE HD
 http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dk5clz1v-720.jpg" group-title="LOKAL",TRANSTV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1446410937_b544100_sleng.m3u8
+http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 #EXTINF:0 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dk5clz1v-720.jpg" group-title="LOKAL",TRANSTV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1446410937_b744100_sleng.m3u8
 #https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
