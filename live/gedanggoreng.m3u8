@@ -77,6 +77,8 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="LOKAL",AL-BAHJAHTV
 https://v2.siar.us/bci/abr/playlist.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-dMEGEYjDrxo/X5iVsneE3kI/AAAAAAAAqMM/WNteVon_VOcAESdwt-NhzIUIY5Gs80ZMwCLcBGAsYHQ/s0/ajwa-tv-channel-logo.png" group-title="LOKAL",AJWATV
+https://tv.mbahnunungonline.net/playlist/ajwatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID" tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" tvg-country="ID" tvg-url="LOKAL" group-title="",TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w1097865797.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-ZS4vru8Cbyg/W-nJ_4nefdI/AAAAAAAAKE0/rxZ68mY45ZQciOkh5e0W5h6RDJyJhNvJgCLcBGAs/s1600/jtv_surabaya.png" tvg-country="ID" tvg-url="LOKAL" group-title="",JTV
