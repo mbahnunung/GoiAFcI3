@@ -207,6 +207,49 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI Maluku
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
 
+======================================================================================= KIDS ===============
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS", ANIMAX
+https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS",SPACETOON
+http://103.130.186.138:8800/oxygenplay/spacetoon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS",TOONMAX
+http://103.130.186.138:8800/oxygenplay/toonmax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="MOVIES",GONG
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="KIDS",WAZRAKIDTV
+http://wpso.com:1936/hls/kidshd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png"group-title="KIDS",KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png"group-title="KIDS",KIDS 1
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png"group-title="KIDS",KIDS 2
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS", EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="KIDS", BABYBUS TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1603892227/ei/ox-ZX-TBG42cogOy_aiQAw/ip/103.129.221.31/id/Ge87Aej6YZI.0/source/yt_live_broadcast/requiressl/yes/tx/23906925/txs/23906925,23906926,23906927,23906928,23906929,23906930,23906931/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,tx,txs,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRQIhAOwgmXEqmyvklTitsByI1ocUpuK0AUW9l3Xt9WNw6lIEAiACFS5BDMRQ3yrrOXYWg_sJw0lUKBR94XSWq8a7yFYfaQ==/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS",3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="KIDS",GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS",GEM Junior
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+
+##########################################HUSSS
+
 #EXTINF:0, group-title="Hindi",& TV
 https://content.jwplatform.com/manifests/NM07RpKo.m3u8
 #EXTINF:0, group-title="Hindi",Katrine Pirs - Peaceful Poolside
