@@ -3,11 +3,11 @@
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="LOKAL",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1336220682481328129/_AZ5nYI-.jpg" group-title="LOKAL",MNCTV
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417c4195da44844bf090c1730f35f20aa65
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV HD
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1336220682481328129/_AZ5nYI-.jpg" group-title="LOKAL",MNCTV HD
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GTV HD
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1321359353882890242/0fwFLSI6_400x400.jpg" group-title="LOKAL",GTV HD
 https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/images/rcti.jpg" group-title="LOKAL",RCTI
 https://tv.mbahnunungonline.net/playlist/rctisd.m3u8
