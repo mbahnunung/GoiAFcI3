@@ -97,6 +97,156 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI OLA HD
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI ONE HD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",NOOR DUBAI HD
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",SAMA DUBAI
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI.ZAMAN
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="قنوات الامارات EMIRATES",Abu Dhabi TV HD
+http://adtv.ercdn.net/adaloula/adaloula.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Abu Dhabi Drama HD
+http://adtv.ercdn.net/addrama/addrama.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",AL Emarat HD
+http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",AL Dafrah TV
+http://aldafrahtv.noip.us:1935/live/_definst_/myStream2/chunklist_w1054759444.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Sharjah
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",ALAN
+http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Saudi-Arabia tv",▁▂▃▅▆▇★☀二【« Saudi-Arabia tv »】二☀★▇▆▅▃▂▁
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Iqraa-Tv
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",wesal
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Ayaat TV
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",مكة TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",نوبل TV
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Oman TV",▁ ▂ ▄ ▅ ▆☆Oman TV ☆▆ ▅ ▄ ▂ ▁
+http://38.96.148.35:1935/live/omantv03/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman TV
+http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman Mubasher
+http://38.96.148.35:1935/live/omantv03/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman الاستقامة
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman الرياضية
+http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Kuwait TV",▁ ▂ ▄ ▅ ▆☆Kuwait TV ☆▆ ▅ ▄ ▂ ▁
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait 1 TV
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait 2 TV
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait Alrai TV
+https://stream02.fasttelco.net/live/alrai.stream/chunklist_w2023460738.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Qatar TV",▁ ▂ ▄ ▅ ▆☆Qatar TV ☆▆ ▅ ▄ ▂ ▁
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_199130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Al RAYAN 2 HD
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Qatar TV HD
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_199130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",ALRAYAN
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="avi" group-title="SUDAN قنوات السودان",▁ ▂ ▄ ▅ ▆☆ SUDAN قنوات السودان ☆▆ ▅ ▄ ▂ ▁
+http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",SUDAN-Blue.Nile-TV
+http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",Sudan-TV
+http://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",Sudania-24-HD
+http://s24.live.net.sa:1935/live/s24/chunklist_w1728174287.m3u8
+#EXTINF:0 tvg-id="avi" group-title="LIBYA قنوات ليبيا",▁ ▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
+https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 1
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 24
+https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",AR:LIB-Tanasuh
+http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/chunklist_w561550171_b1364000.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Al Watan
+http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 218
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya News
+http://video-live.vzaar.com/243BFFE/live-144734/tqg0WrP7UtC4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",libya Alhadath
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",libya wasat
+https://svs.itworkscdn.net/wtvlive/wtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Al akhbaria
+http://82.212.74.2:8000/live/7321.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Almostaqbal
+http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
+#EXTINF:0 tvg-id="avi" group-title="ALGERIEN قنوات الجزائر",▁ ▂ ▄ ▅ ▆☆ ALGERIEN قنوات الجزائر" ☆▆ ▅ ▄ ▂ ▁
+http://alanis.live.net.sa:1935/live/alanis/chunklist_w23715747.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",alanis HD
+http://alanis.live.net.sa:1935/live/alanis/chunklist_w23715747.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",SamiraTV
+http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
+#EXTINF:0 tvg-id="avi" group-title="قنوات المصرية",▁▂▃▅▆▇★☀二【« قنوات المصرية »】二☀★▇▆▅▃▂▁
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ALNAHAR
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ALNAHAR DRAMA
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Watan TV
+http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",DmcDrama
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ajyal
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",E قناه الفتح
+https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",hayat+
+http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Almahed
+http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CBC_Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",kahera+
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",SADA_ELBALAD
+http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",elsharqtv
+http://149.202.79.190:8081/elsharqtv/live_1024p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Mekameleen مكملين
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",AL dream2
+http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",TokTok
+http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile cin
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/03.m3u8
+#EXTINF:0 tvg-id="avi" group-title="قنوات العراق IRAQ ",▁ ▂ ▄ ▅ ▆☆ قنوات العراق IRAQ CHANNELS ☆▆ ▅ ▄ ▂ ▁
+http://95.170.215.107/hls/m3u8/Iraqia-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Al IRAQIA1
+http://cdn.catiacast.video/imn/5952fbfdf2bd7e80b7fd446206ec06f4.sdp/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Al Iraqiya
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Al Iraqiya2
+http://cdn.catiacast.video/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",IRQ-Sport
+http://95.170.215.109:80/hls/m3u8/IraqiaSp-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",MBC IRAQ
+http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+
 ########################################## KIDS ######################################################
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZEDeF0jqf_3JzXcCELjzI3NKXHU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg" tvg-id="RIYAN.8686a0c089da5eafbf65654662b83444.SHINTA" tvg-name"Hip Hip Horee! (VIDIO)" group-title="KIDS",Hip Hip Horee! (VIDIO)
