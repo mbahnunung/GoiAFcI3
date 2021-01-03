@@ -89,7 +89,7 @@ http://203.154.243.31:15001
 
 ########################################## ARAB TV ######################################################
 
-#EXTINF:0 tvg-id="ext" group-title="ARAB",Libya 218
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.pinimg.com/originals/30/63/90/3063902dd315fc4a51b6cb06219996fa.png" group-title="ARAB",Libya 218 (LIBYA)
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="ARAB",DUBAI OLA HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
