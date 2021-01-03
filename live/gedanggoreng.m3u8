@@ -89,6 +89,8 @@ http://203.154.243.31:15001
 
 ########################################## ARAB TV ######################################################
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.dubaitv.ae/content/dam/dubaitv/icons/dubai-tv.jpg" group-title="ARAB",DUBAI OLA HD
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" tvg-country="MY" tvg-url="" group-title="MOVIES",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://3.bp.blogspot.com/-FX_m76GhFdY/UndG6eJ4NcI/AAAAAAAAB-0/Vsf59f_2OmQ/s1600/aljazeera-arab.png" tvg-country="ID" tvg-url="" group-title="ARAB",Aljazeera
@@ -96,7 +98,8 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://1.bp.blogspot.com/-p7I1lG_Aews/UndHCyhg-9I/AAAAAAAAB-8/WFHni9Tkxh8/s1600/arabiya.png" tvg-country="ID" tvg-url="" group-title="ARAB",Al arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://iqraa.com/Media/Blog_Post_Pictures/Iqraa_logo.jpg" tvg-country="ID" tvg-url="" group-title="ARAB",Iqraa-Tv (Saudi Arabia)
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 
 ########################################## KIDS ######################################################
 
