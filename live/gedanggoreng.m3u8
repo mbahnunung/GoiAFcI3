@@ -40,7 +40,6 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=e92c2da5f
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559c4195da44844bf090c1730f35f20aa65
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-p6qwZWRUdTc/T8d07Dixt8I/AAAAAAAABCA/ZFtYpUN2gu8/s320/berita-satu.png" tvg-country="ID" tvg-url="" group-title="LOKAL",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" group-title="LOKAL",NET.
 #https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=40fa73c9d0083043c6576dd2b40511e4f361ef87af77022b1a72f12fbbf65eb1
@@ -106,8 +105,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-itq7U8NLDv0/XMfHyEbUqaI/AAAAAAAALYU/V-0AwQiK2H4p_Q_M2rZj2LjNcBdpVWVvQCLcBGAs/s1600/tv2-malaysia.png"group-title="ASTRO TV", TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF: -1  tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV",TV3
-http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+
 #EXTINF: -1  tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="ASTRO TV", BOO HD
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://1.bp.blogspot.com/-2csW4KIftNk/VM5kNvjdM0I/AAAAAAAARW8/uIGp9dY39ck/s1600/8TV%2BMalaysia%2BOnline%2BLive%2BStreaming.jpg"group-title="ASTRO TV", 8TV
@@ -141,7 +139,7 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=6fbb752d15ccfea071c0d563cf68e997cf1d9968efefa570a588d92288eab29b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.309a8e73b2cdb95fc1affa8845504e87.Coday" tvg-name"IMC (USEETV)",IMC (USEETV)
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=601dd4047a1b7be8c6d9896b80447d5ce3d659e2de4e43ad562e064ecda07330
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_warner_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="Riyan.ec6add58983ece9b953f7a3dc04248f2.Coday" tvg-name"Warner (USEETV)",Warner (USEETV)
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_warner_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.ec6add58983ece9b953f7a3dc04248f2.Coday" tvg-name"Warner (USEETV)",Warner (USEETV)
 http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1660885848050e9ca9746ddd54e2de25cf1d9968efefa570a588d92288eab29b
 
 ########################################## KNOWLEDGE ######################################################
