@@ -141,8 +141,11 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=6fbb752d15ccfea071c0d563cf68e997cf1d9968efefa570a588d92288eab29b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.309a8e73b2cdb95fc1affa8845504e87.Coday" tvg-name"IMC (USEETV)",IMC (USEETV)
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=601dd4047a1b7be8c6d9896b80447d5ce3d659e2de4e43ad562e064ecda07330
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_warner_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="Riyan.ec6add58983ece9b953f7a3dc04248f2.Coday" tvg-name"Warner (USEETV)",Warner (USEETV)
+http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1660885848050e9ca9746ddd54e2de25cf1d9968efefa570a588d92288eab29b
 
 ########################################## KNOWLEDGE ######################################################
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.3e15cc11f979ed25912dff5b0669f2cd.Coday" tvg-name"Nat Geo (USEETV)",Nat Geo (USEETV)
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=f91c676cbee8fc9aa708334fcf26d981e3d659e2de4e43ad562e064ecda07330
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.a928731e103dfc64c0027fa84709689e.Coday" tvg-name"Nat Geo People (USEETV)",Nat Geo People (USEETV)
