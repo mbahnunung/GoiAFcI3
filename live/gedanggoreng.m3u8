@@ -246,12 +246,12 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
 
 
-##########################################HUSSS
+########################################## Hindi ######################################################
 
-#EXTINF:0, group-title="Hindi",& TV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbtfm.jpg/299px-Rbtfm.jpg" group-title="Hindi",& TV
 https://content.jwplatform.com/manifests/NM07RpKo.m3u8
-#EXTINF:0, group-title="Hindi",Katrine Pirs - Peaceful Poolside
-https://content.jwplatform.com/manifests/m3T1mu0U.m3u8
+#EXTINF:0, tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-tvpictureshd/list_clean/09tvpictureshdp_2056662078.png" group-title="Hindi",&Picture HD
+http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
 
 ########################################## RADIO ######################################################
 
