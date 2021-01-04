@@ -193,7 +193,7 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce
 http://z5amshls.akamaized.net/andtvhd/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-tvpictureshd/list_clean/09tvpictureshdp_2056662078.png" group-title="Hindi", &Picture HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi",Zing
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi", Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="Hindi", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
