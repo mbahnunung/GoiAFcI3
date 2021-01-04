@@ -195,14 +195,14 @@ http://z5amshls.akamaized.net/andtvhd/tracks-v2a1/playlist.m3u8
 http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="MUSIC", 9XM
+#EXTINF:-1 tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="Hindi", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1,Zee Cinema 
+#EXTINF:-1,Z group-title="Hindi"ee Cinema 
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 
-EXTINF:-1,Zee Tv HD 
+EXTINF:-1, group-title="Hindi"Zee Tv HD 
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Discovery Hindi 
+#EXTINF:-1, group-title="Hindi"Discovery Hindi 
 ttps://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 
 ########################################## dll TV ######################################################
