@@ -186,6 +186,16 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=2a39ee0928adb4aae9ac585e29bcaac2e3d659e2de4e43ad562e064ecda07330
 
 
+########################################## Hindi ######################################################
+
+#EXTINF:0, tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/09/and_tv_hd_hover.jpg" group-title="Hindi",&TV
+http://z5amshls.akamaized.net/andtvsd/tracks-v2a1/playlist.m3u8
+#EXTINF:0, tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-tvpictureshd/list_clean/09tvpictureshdp_2056662078.png" group-title="Hindi",&Picture HD
+http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi",Zing
+http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
+
+
 ########################################## dll TV ######################################################
 
 
@@ -245,13 +255,6 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI Maluku
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
 
-
-########################################## Hindi ######################################################
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbtfm.jpg/299px-Rbtfm.jpg" group-title="Hindi",& TV
-https://content.jwplatform.com/manifests/NM07RpKo.m3u8
-#EXTINF:0, tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-tvpictureshd/list_clean/09tvpictureshdp_2056662078.png" group-title="Hindi",&Picture HD
-http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
 
 ########################################## RADIO ######################################################
 
