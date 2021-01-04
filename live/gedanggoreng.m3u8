@@ -4,8 +4,24 @@
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://payload.cargocollective.com/1/7/224811/6568154/2-01_905.jpg" group-title="LOKAL",NET. HD
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net TV.m3u8?dl=0
-#EXTINF: -1 tvg-id="mtv-rus" tvg-name="mtv-rus" tvg-chno="1021" group-title="MUSSIC", MTV
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSs1e5z.png" group-title="24/7 ADULT SWIM",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3nLFU9.png" group-title="24/7 ADULT SWIM",Superjail!
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GBlHt4r.png" group-title="24/7 ADULT SWIM",The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kru210h.png" group-title="24/7 ADULT SWIM",The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9lsXliT.png" group-title="24/7 ADULT SWIM",Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/64uOrnR.png" group-title="24/7 ADULT SWIM",Williams Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1336220682481328129/_AZ5nYI-.jpg" group-title="LOKAL",MNCTV
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
