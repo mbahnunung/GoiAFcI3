@@ -4,10 +4,10 @@
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://payload.cargocollective.com/1/7/224811/6568154/2-01_905.jpg" group-title="LOKAL",NET. HD
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net TV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zlPbOI0.png" group-title="24/7 ADULT SWIM",Home Movies
-https://www.dropbox.com/s/8ukdouiyxjp0ef9/Fashion_One.m3u8?dl=1
-#EXTINF: -1 tvg-name="KBS WORLD" tvg-chno="1045" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Bonus", KBS WORLD
-https://www.dropbox.com/s/ab4f85yomniw7d2/KBS_World.m3u8?dl=1
+#EXTINF: -1 tvg-id="warner.id" tvg-name="warner.id" tvg-chno="862" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="ENTERTAINMENT", WARNER HD
+http://use.djasgp.my.id/canel/Warner.m3u8
+#EXTINF: -1 tvg-name="CITRA DANDUT" tvg-chno="1017" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="MUSSIC", CITRA DANDUT
+https://www.dropbox.com/s/19suvtnas8131w7/Citra_Dangdut.m3u8?dl=1
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1336220682481328129/_AZ5nYI-.jpg" group-title="LOKAL",MNCTV
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
