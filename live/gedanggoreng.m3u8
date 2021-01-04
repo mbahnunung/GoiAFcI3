@@ -129,7 +129,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://iqraa.com/Media/Blog_Post_Pictures/Iqraa_logo.jpg" tvg-country="ID" tvg-url="" group-title="ARAB",Iqraa-Tv (Saudi Arabia)
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="LIVE MAKKAH" tvg-chno="174" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="TV Nasional", LIVE MAKKAH
+#EXTINF: -1 tvg-name="LIVE MAKKAH" tvg-chno="174" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="ARAB"", LIVE MAKKAH
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
 ########################################## ASTRO TV ######################################################
