@@ -2,7 +2,7 @@
 ########################################## LOKAL ######################################################
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="LOKAL",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="LOKAL",Discovery English
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/6Cd1oW94jWU/maxresdefault.jpg" group-title="LOKAL",NET. HD
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zlPbOI0.png" group-title="24/7 ADULT SWIM",Home Movies
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
