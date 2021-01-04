@@ -78,22 +78,6 @@ http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://pbs.twimg.com/profile_images/701990616301903875/0lQITza9_400x400.jpg" tvg-country="ID" tvg-url="" group-title="LOKAL",Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 
-########################################## MUSIC ######################################################
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="MUSIC",MTV
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225048736637734913/Kvwjb-OY.jpg" group-title="MUSIC",MGS TV
-#EXTVLCOPT:network-caching=1000
-http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/117-1174258_download-pop-music-logo-pop-music.png" group-title="MUSIC",Pop Musik
-#EXTVLCOPT:network-caching=1000
-http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="DOCUMENTARY",Crime & Investigation 
-http://203.154.243.31:15001
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hL11ma0KAUw/VXJqM7C0riI/AAAAAAAAEvA/qk7H37dKuJQ/s1600/fashion_tv_hot.png" group-title="DOCUMENTARY",FTV Hot
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
 ########################################## KIDS ######################################################
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/700293776925859840/agIFKXf1.jpg" group-title="KIDS",Disney HD 
@@ -112,6 +96,17 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7c4195da44844bf090c1730f35f20aa65
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/h5vOznosCDqjOS8uzAzYjpcbWYE=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" tvg-id="RIYAN.617f02945a88d3b451ed77ba05089009.SHINTA" tvg-name"TV Edukasi (VIDIO)" group-title="KNOWLEDGE",TV Edukasi (VIDIO)
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dcec4195da44844bf090c1730f35f20aa65
+
+########################################## MUSIC ######################################################
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225048736637734913/Kvwjb-OY.jpg" group-title="MUSIC",MGS TV
+#EXTVLCOPT:network-caching=1000
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/117-1174258_download-pop-music-logo-pop-music.png" group-title="MUSIC",Pop Musik
+#EXTVLCOPT:network-caching=1000
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+
+
 
 ########################################## ARAB TV ######################################################
 
@@ -193,7 +188,8 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.f7ac67a9aa8d255282de7d11391e1b69.Coday" tvg-name"CGTN Documentary (USEETV)",CGTN Documentary (USEETV)
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=85a7060ea54b0971c1f54b355cf69ad2e3d659e2de4e43ad562e064ecda07330
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.70117ee3c0b15a2950f1e82a215e812b.Coday" tvg-name"Lingua (USEETV)",Lingua (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=2a39ee0928adb4aae9ac585e29bcaac2e3d659e2de4e43ad562e064ecda07330
+http://#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="DOCUMENTARY",Crime & Investigation 
+http://203.154.243.31:15001codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=2a39ee0928adb4aae9ac585e29bcaac2e3d659e2de4e43ad562e064ecda07330
 
 
 ########################################## Hindi ######################################################
@@ -215,9 +211,15 @@ http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2018-05/07/full/1525689063-7444.jpg" group-title="Hindi", Discovery Hindi 
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 
+########################################## ENTERTAINMENT ######################################################
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hL11ma0KAUw/VXJqM7C0riI/AAAAAAAAEvA/qk7H37dKuJQ/s1600/fashion_tv_hot.png" group-title="ENTERTAINMENT",FTV Hot
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21srP8Zoz5L.png" group-title="ENTERTAINMENT",JASMINTV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w966059350.m3u8
+
+
 ########################################## dll TV ######################################################
-
-
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
