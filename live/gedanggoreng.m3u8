@@ -199,10 +199,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1,Zee Cinema 
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Star Plus 
-http://103.205.133.48/hls/chsp.m3u8 
-#EXTINF:-1,Star Plus HD 
-http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
+
+EXTINF:-1,Zee Tv HD 
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
+
 
 ########################################## dll TV ######################################################
 
