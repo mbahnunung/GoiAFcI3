@@ -84,7 +84,7 @@ http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/700293776925859840/agIFKXf1.jpg" group-title="KIDS",Disney HD 
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhy83rAHo9yPbahZjMePFzlwr3JjpOfn02jJMRi=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS",3ABN KIDS
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg" group-title="KIDS",3ABN KIDS
 https://dl.dropboxusercontent.com/sh/ufeeyetsmgdp748/AACW9BK8T3Kcp1o0pBvsbgiRa/3ABN.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZEDeF0jqf_3JzXcCELjzI3NKXHU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg" tvg-id="RIYAN.8686a0c089da5eafbf65654662b83444.SHINTA" tvg-name"Hip Hip Horee! (VIDIO)" group-title="KIDS",Hip Hip Horee! (VIDIO)
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbbc4195da44844bf090c1730f35f20aa65
