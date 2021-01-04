@@ -2,7 +2,8 @@
 ########################################## LOKAL ######################################################
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="LOKAL",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="LOKAL",Discovery English
+https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1336220682481328129/_AZ5nYI-.jpg" group-title="LOKAL",MNCTV
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
