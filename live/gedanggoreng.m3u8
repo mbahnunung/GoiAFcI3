@@ -83,14 +83,15 @@ http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/117-1174258_download-pop-music-logo-pop-music.png" group-title="MUSIC",Pop Musik
 #EXTVLCOPT:network-caching=1000
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="MUSIC", 9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="DOCUMENTARY",Crime & Investigation 
 http://203.154.243.31:15001
 
 
 ########################################## KIDS ######################################################
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/700293776925859840/agIFKXf1.jpg" group-title="KIDS",Disney HD 
+http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZEDeF0jqf_3JzXcCELjzI3NKXHU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg" tvg-id="RIYAN.8686a0c089da5eafbf65654662b83444.SHINTA" tvg-name"Hip Hip Horee! (VIDIO)" group-title="KIDS",Hip Hip Horee! (VIDIO)
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbbc4195da44844bf090c1730f35f20aa65
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/STe84feg1i6KlL2HUbcZT_ocKLk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" tvg-id="RIYAN.1b405389fd917b409054ca153d8872fb.SHINTA" tvg-name"Zoomoo (VIDIO)" group-title="KIDS",Zoomoo (VIDIO)
@@ -188,13 +189,14 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce
 
 ########################################## Hindi ######################################################
 
-#EXTINF:0, tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/09/and_tv_hd_hover.jpg" group-title="Hindi",&TV
-http://z5amshls.akamaized.net/andtvsd/tracks-v2a1/playlist.m3u8
-#EXTINF:0, tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-tvpictureshd/list_clean/09tvpictureshdp_2056662078.png" group-title="Hindi",&Picture HD
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/09/and_tv_hd_hover.jpg" group-title="Hindi",&TV
+http://z5amshls.akamaized.net/andtvhd/tracks-v2a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-tvpictureshd/list_clean/09tvpictureshdp_2056662078.png" group-title="Hindi",&Picture HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
-#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi",Zing
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi",Zing
 http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="MUSIC", 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 ########################################## dll TV ######################################################
 
