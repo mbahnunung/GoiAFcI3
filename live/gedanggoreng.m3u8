@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="LOKAL",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="LOKAL",Discovery English
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w966059350.m3u8
+https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zlPbOI0.png" group-title="24/7 ADULT SWIM",Home Movies
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
 
