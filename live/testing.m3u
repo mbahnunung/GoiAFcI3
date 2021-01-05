@@ -78,3 +78,54 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" tvg-country="MY" tvg-url="" group-title="Movies",thrill
 http://rr2.dens.tv/s/s34/index.m3u8
+============================================================================================== MUSIC =============================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="MUSIC", KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="MUSIC",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png"group-title="MUSIC",MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="MUSIC",MUSIC POP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="MUSIC",FOX MIX
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="MUSIC",Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="MUSIC",LASUPERTV
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="MUSIC",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="MUSIC",MTV SD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="MUSIC",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="MUSIC",30A Music
+https://30a-tv.com/music.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="MUSIC",UTV MUSIC
+http://81.196.0.126/utvedge/utvlivehls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="MUSIC",MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="MUSIC",Pop Musik
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="MUSIC",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="MUSIC",Radio 51
+http:\\59d7d6f47d7fc.streamlock.net\canale51\canale51\playlist.m3u8?checkedby:iptvcat.com
+
+======================================================================================= KIDS ===============
