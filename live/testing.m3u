@@ -122,44 +122,23 @@ http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="MUSIC",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-======================================================================================= KIDS ===============
+########################################## KIDS ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS", ANIMAX
-https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS",SPACETOON
-http://103.130.186.138:8800/oxygenplay/spacetoon/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS",TOONMAX
-http://103.130.186.138:8800/oxygenplay/toonmax/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="MOVIES",GONG
-http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="KIDS",WAZRAKIDTV
-http://wpso.com:1936/hls/kidshd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png"group-title="KIDS",KURIAKOS KIDS
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png"group-title="KIDS",KIDS 1
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png"group-title="KIDS",KIDS 2
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS", EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="KIDS", BABYBUS TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1603892227/ei/ox-ZX-TBG42cogOy_aiQAw/ip/103.129.221.31/id/Ge87Aej6YZI.0/source/yt_live_broadcast/requiressl/yes/tx/23906925/txs/23906925,23906926,23906927,23906928,23906929,23906930,23906931/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,tx,txs,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRQIhAOwgmXEqmyvklTitsByI1ocUpuK0AUW9l3Xt9WNw6lIEAiACFS5BDMRQ3yrrOXYWg_sJw0lUKBR94XSWq8a7yFYfaQ==/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="KIDS",GEM Kids
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png" group-title="KIDS",GEM Junior
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/700293776925859840/agIFKXf1.jpg" group-title="KIDS",Disney HD 
+http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg" group-title="KIDS",3ABN KIDS
+https://dl.dropboxusercontent.com/sh/ufeeyetsmgdp748/AACW9BK8T3Kcp1o0pBvsbgiRa/3ABN.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZEDeF0jqf_3JzXcCELjzI3NKXHU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg" tvg-id="RIYAN.8686a0c089da5eafbf65654662b83444.SHINTA" tvg-name"Hip Hip Horee! (VIDIO)" group-title="KIDS",Hip Hip Horee! (VIDIO)
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbbc4195da44844bf090c1730f35f20aa65
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/STe84feg1i6KlL2HUbcZT_ocKLk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" tvg-id="RIYAN.1b405389fd917b409054ca153d8872fb.SHINTA" tvg-name"Zoomoo (VIDIO)" group-title="KIDS",Zoomoo (VIDIO)
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66c4195da44844bf090c1730f35f20aa65
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2xClnKTi4YEdc9K1dYqp0JnaI68=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6549/da-vinci-ef222f.jpg" tvg-id="RIYAN.5c02642e028c0f3e62fefbed387354a0.SHINTA" tvg-name"Da Vinci (VIDIO)" group-title="KIDS",Da Vinci (VIDIO)
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857c4195da44844bf090c1730f35f20aa65
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/iZMVt657Jkn-fkpQwO84q7CMC5I=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-5c45d3.jpg" tvg-id="RIYAN.0fe0c95d17acd77b4181c9dfeb0002d3.SHINTA" tvg-name"Horee (VIDIO)" group-title="KIDS",Horee (VIDIO)
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=5e62d03aec0d17facfc5355dd90d441cc4195da44844bf090c1730f35f20aa65
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="RIYAN.0999b9fbfd58071b621ae09dc91f0fec.SHINTA" tvg-name"Smithsonian (VIDIO)" group-title="KNOWLEDGE",Smithsonian (VIDIO)
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963ac4195da44844bf090c1730f35f20aa65
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="RIYAN.6b00a5a8ec5b034ecbebc702e41d0993.SHINTA" tvg-name"Love Nature (VIDIO)" group-title="KNOWLEDGE",Love Nature (VIDIO)
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7c4195da44844bf090c1730f35f20aa65
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/h5vOznosCDqjOS8uzAzYjpcbWYE=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" tvg-id="RIYAN.617f02945a88d3b451ed77ba05089009.SHINTA" tvg-name"TV Edukasi (VIDIO)" group-title="KNOWLEDGE",TV Edukasi (VIDIO)
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dcec4195da44844bf090c1730f35f20aa65
