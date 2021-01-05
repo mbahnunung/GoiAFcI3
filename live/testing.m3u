@@ -172,6 +172,7 @@ https://www.dropbox.com/s/a1xl30r3ok5zddm/FashionTV.m3u8?dl=1
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w966059350.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="ENTERTAINMENT", Models Inc. HD
 http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="#" group-title="ENTERTAINMENT" , +18  2
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/chunklist_w70472396.m3u8?jhonlocao
 
 ########################################## dll TV ######################################################
