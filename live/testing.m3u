@@ -142,3 +142,36 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7c4195da44844bf090c1730f35f20aa65
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/h5vOznosCDqjOS8uzAzYjpcbWYE=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" tvg-id="RIYAN.617f02945a88d3b451ed77ba05089009.SHINTA" tvg-name"TV Edukasi (VIDIO)" group-title="KNOWLEDGE",TV Edukasi (VIDIO)
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dcec4195da44844bf090c1730f35f20aa65
+
+########################################## Hindi ######################################################
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX.jpg" group-title="ARAB", MAX HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi", Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-tvpictureshd/list_clean/09tvpictureshdp_2056662078.png" group-title="Hindi", &Picture HD
+http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi", Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="Hindi", 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ethnicchannels.com/images/channels/zee-cinema-final-2.jpg" group-title="Hindi", Zee Cinema 
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi", Zee Tv HD 
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2018-05/07/full/1525689063-7444.jpg" group-title="Hindi", Discovery Hindi 
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+
+########################################## ENTERTAINMENT ######################################################
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hL11ma0KAUw/VXJqM7C0riI/AAAAAAAAEvA/qk7H37dKuJQ/s1600/fashion_tv_hot.png" group-title="ENTERTAINMENT",FTV Hot
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="ENTERTAINMENT",FHASION TV
+https://www.dropbox.com/s/a1xl30r3ok5zddm/FashionTV.m3u8?dl=1
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21srP8Zoz5L.png" group-title="ENTERTAINMENT",JASMINTV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w966059350.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="ENTERTAINMENT", Models Inc. HD
+http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
+
+########################################## dll TV ######################################################
