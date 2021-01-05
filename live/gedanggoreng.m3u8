@@ -321,22 +321,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-name="Models Inc. HD" tvg-chno="839" group-title="FASHION", Models Inc. HD
 http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="fashion" tvg-name="fashion" tvg-chno="840" group-title="FASHION", Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="FASION TV 2" tvg-chno="841" group-title="FASHION", FASION TV 2
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Midnite Secrets SD" tvg-chno="842" group-title="FASHION", Fashion TV Midnite Secrets SD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Midnite Secrets HD" tvg-chno="843" group-title="FASHION", Fashion TV Midnite Secrets HD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Paris SD" tvg-chno="844" group-title="FASHION", Fashion TV Paris SD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Paris FHD" tvg-chno="845" group-title="FASHION", Fashion TV Paris FHD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV PG16 SD" tvg-chno="846" group-title="FASHION", Fashion TV PG16 SD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="HDFashion & LifeStyle FHD" tvg-chno="847" group-title="FASHION", HDFashion & LifeStyle FHD
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
 
 ########################################## RADIO ######################################################
 
