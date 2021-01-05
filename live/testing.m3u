@@ -11,7 +11,8 @@ https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
 #https://vcdn2.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #EXTINF:-1 tvg-id="iNews" tvg-name="iNews" tvg-language="id" tvg-logo="https://lh6.googleusercontent.com/-74kEWJ5ce2I/VUI2Iir3ZxI/AAAAAAAAGzc/Du-gZFt0nco/s96-no/iNews_TV.png" tvg-country="ID" tvg-url="" group-title="",iNews
-https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta.m3u8
+https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" tvg-country="ID" tvg-url="" group-title="",SCTV
 http://rr2.dens.tv/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" tvg-country="ID" tvg-url="" group-title="",INDOSIAR
