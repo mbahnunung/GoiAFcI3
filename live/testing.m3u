@@ -18,7 +18,8 @@ http://rr2.dens.tv/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" tvg-country="ID" tvg-url="" group-title="",INDOSIAR
 http://rr2.dens.tv/s/s04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" tvg-country="ID" tvg-url="" group-title="",NET.
-http://rr2.dens.tv/s/s08/01.m3u8
+#http://rr2.dens.tv/s/s08/01.m3u8
+https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net TV.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-We8hxjgkQmg/UtKsjhq5QcI/AAAAAAAAAOQ/Y5XtKk6R8lA/s1600/trans7.png" tvg-country="ID" tvg-url="" group-title="",TRANS7
 http://rr2.dens.tv/s/s101/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png" tvg-country="ID" tvg-url="" group-title="",TRANSTV
