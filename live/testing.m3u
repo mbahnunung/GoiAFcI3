@@ -29,7 +29,8 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691
 #http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28c4195da44844bf090c1730f35f20aa65
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" tvg-country="ID" tvg-url="" group-title="Nasional",rtv
-http://rr2.dens.tv/s/s12/01.m3u8
+#http://rr2.dens.tv/s/s12/01.m3u8
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=9fe7c84b8253e88099d47237e0b7367cf361ef87af77022b1a72f12fbbf65eb1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" tvg-country="ID" tvg-url="" group-title="Nasional",antv
 http://rr2.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" tvg-country="ID" tvg-url="" group-title="News",TVRI
