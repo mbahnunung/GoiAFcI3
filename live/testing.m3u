@@ -26,7 +26,8 @@ https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net TV.m3u8?
 #http://rr2.dens.tv/s/s101/01.m3u8
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1c4195da44844bf090c1730f35f20aa65
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png" tvg-country="ID" tvg-url="" group-title="Nasional",TRANSTV
-http://210.210.155.35/x6bnqe/s/s252/01.m3u8
+#http://210.210.155.35/x6bnqe/s/s252/01.m3u8
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28c4195da44844bf090c1730f35f20aa65
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" tvg-country="ID" tvg-url="" group-title="Nasional",rtv
 http://rr2.dens.tv/s/s12/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" tvg-country="ID" tvg-url="" group-title="Nasional",antv
