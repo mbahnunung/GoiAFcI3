@@ -14,9 +14,11 @@ https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta.m3u8
 https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" tvg-country="ID" tvg-url="" group-title="Nasional",SCTV
-http://rr2.dens.tv/s/s03/01.m3u8
+#http://rr2.dens.tv/s/s03/01.m3u8
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4c4195da44844bf090c1730f35f20aa65
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" tvg-country="ID" tvg-url="" group-title="Nasional",INDOSIAR
-http://rr2.dens.tv/s/s04/01.m3u8
+#http://rr2.dens.tv/s/s04/01.m3u8
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69c4195da44844bf090c1730f35f20aa65
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" tvg-country="ID" tvg-url="" group-title="Nasional",NET.
 #http://rr2.dens.tv/s/s08/01.m3u8
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net TV.m3u8?dl=0
