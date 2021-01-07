@@ -6,7 +6,8 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 https://tv.mbahnunungonline.net/playlist/rcti2.m3u8
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-8pY62LJlQFc/UcA9wBktyVI/AAAAAAAABwc/ymWOxlIRcPc/s1600/mnctv.png" tvg-country="ID" tvg-url="" group-title="Nasional",MNCTV
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
+#https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417c4195da44844bf090c1730f35f20aa65
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-eBDn0yWBAzs/UcA-CWH-wBI/AAAAAAAABwk/C76g5GJieTs/s1600/globaltv.png" tvg-country="ID" tvg-url="" group-title="",GTV
 #https://vcdn2.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://tv.mbahnunungonline.net/playlist/gtv.m3u8
