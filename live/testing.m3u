@@ -104,7 +104,7 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png"group-title="MUSIC",MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="MUSIC",MUSIC POP
+#EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_poster.png?3"group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RF6zNR4V/lengo-kecil-ke-2.png"group-title="MUSIC",FOX MIX
