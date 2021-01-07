@@ -210,6 +210,8 @@ https://www.dropbox.com/s/a1xl30r3ok5zddm/FashionTV.m3u8?dl=1
 https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="ENTERTAINMENT", Models Inc. HD
 http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cnex" tvg-language="Chinese" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png" tvg-country="TW" tvg-url="" group-title="ENTERTAINMENT",MiamiTV
+https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="ENTERTAINMENT" , visit-x
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="ENTERTAINMENT" , Wanisa
