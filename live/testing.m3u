@@ -69,6 +69,16 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-id="OKEY" tvg-name="OKEY" tvg-language="Malay (macrolanguage)" tvg-logo="https://1.bp.blogspot.com/-BpdghwofBU4/X9jiyW5KwtI/AAAAAAAAMcg/p48-AgPpXfE7SaeCVBfVAQrSqwO20lc0QCLcBGAsYHQ/s720/Okey_RTM.png" tvg-country="MY" tvg-url="" group-title="Malaysia",RTM Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF: -1  tvg-logo="https://pbs.twimg.com/profile_images/1217705227018588163/ZgnPpAoa.jpg"group-title="Malaysia", Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://1.bp.blogspot.com/-2csW4KIftNk/VM5kNvjdM0I/AAAAAAAARW8/uIGp9dY39ck/s1600/8TV%2BMalaysia%2BOnline%2BLive%2BStreaming.jpg"group-title="Malaysia", 8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF: -1  tvg-logo="https://pbs.twimg.com/profile_images/1320942000569397248/inIk0m8V.jpg"group-title="Malaysia", TV9 Malaysia
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF: -1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg"group-title="Malaysia",Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="Malaysia",ASTRO AWANI 
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://1.bp.blogspot.com/-HXnfAlrgfrg/XmnTuPMVB4I/AAAAAAAAMI4/loc4VlIEFw4Bky0JZ_qMNQwawh2jpvFwwCLcBGAsYHQ/s1600/logo_celestialmovie.png" tvg-country="MY" tvg-url="" group-title="Movies",Celestialmovies
 http://rr2.dens.tv/s/s33/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" tvg-country="MY" tvg-url="" group-title="Movies",AXN
