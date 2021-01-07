@@ -46,7 +46,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kIGgj4ajWxs/XFu7SBDrfiI/AAAAAAAAK3Y/5k8FwkSMDfUY2NiH_oIhaDARqPn9WKgAQCLcBGAs/s1600/logo_mytv.png" group-title="LOKAL",MYTV
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2bec4195da44844bf090c1730f35f20aa65
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC.jpg" group-title="LOKAL",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ajofhX4a1Wg/VXBG8IIDYkI/AAAAAAAAEsc/IBeZDQNdzT8/s1600/logo_tic.png" group-title="LOKAL",THE INDONESIA CHANNEL
