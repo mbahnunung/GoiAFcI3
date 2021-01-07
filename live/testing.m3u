@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="MUSIC",Maleo
 #EXTVLCOPT:network-caching=1000
-https://tv.mbahnunungonline.net/playlist/kompastv.m3u8
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-language="id" tvg-logo="https://4.bp.blogspot.com/-2jGabLLeS0o/UcA9f90KrhI/AAAAAAAABwU/NbGjpSP0LIk/s1600/rcti.png" tvg-country="ID" tvg-url="" group-title="Nasional",RCTI
 #https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 https://tv.mbahnunungonline.net/playlist/rcti2.m3u8
