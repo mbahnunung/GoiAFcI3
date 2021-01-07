@@ -216,6 +216,8 @@ https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="ENTERTAINMENT" , Wanisa
 https://content.jwplatform.com/manifests/gG9DRJhA.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="ENTERTAINMENT" , Vanessa Cho
+https://content.jwplatform.com/manifests/CvnI6Wbe.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="ENTERTAINMENT" , Katrine Pirs
 https://content.jwplatform.com/manifests/m3T1mu0U.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="ENTERTAINMENT" , Darina
