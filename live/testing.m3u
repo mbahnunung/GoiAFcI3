@@ -56,7 +56,7 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="cn" tvg-logo="https://4.bp.blogspot.com/-mozr67tdgUc/W-CH02GZaeI/AAAAAAAAJ94/hYBVYnCgSXM3XAGx2gfP-wiPRckIVQwvACLcBGAs/s1600/logo_cgtndocumentary.png" tvg-country="ID" tvg-url="" group-title="News",CGTN Documentary
 #https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+https://kastproxy-us.herokuapp.com/http://rr2.dens.tv/s/s19/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VIeyIR1sdaw/V2AXyv26oHI/AAAAAAAAFeY/gGFMgoR-QKIulbOaFvdvBlcKequE2xj7ACLcB/s1600/arirang_tv.png" group-title="News",ARIRANG
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q40Lf2tDUrg/VfZh2qBeFEI/AAAAAAAAE-E/Aq4wwzZBw1Y/s1600/logo_dwtv.png" group-title="News",DW TV
