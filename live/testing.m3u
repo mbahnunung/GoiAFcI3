@@ -339,7 +339,7 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTINF: -1 tvg-name="Fashion TV Midnight" tvg-chno="824" tvg-logo="https://1.bp.blogspot.com/-prI-Dr0KI4M/X_iA165vcjI/AAAAAAAAMfM/ZrIYS4R4eyoTbo6zE9OLuH3d5qItXBkswCLcBGAsYHQ/s0/fashionTV%252B18.png" group-title="FASHION", Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Midnite Secrets HD" tvg-chno="833" group-title="FASHION", Fashion TV Midnite Secrets HD
+#EXTINF: -1 tvg-name="Fashion TV Midnight" tvg-chno="824" tvg-logo="https://1.bp.blogspot.com/-prI-Dr0KI4M/X_iA165vcjI/AAAAAAAAMfM/ZrIYS4R4eyoTbo6zE9OLuH3d5qItXBkswCLcBGAsYHQ/s0/fashionTV%252B18.png" group-title="FASHION", Fashion TV Midnite Secrets HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF: -1 tvg-name="Fashion & Lifestyle HD" tvg-chno="825" tvg-logo="http://127.0.0.1/" group-title="FASHION", Fashion & Lifestyle HD
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
