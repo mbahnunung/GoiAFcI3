@@ -1,7 +1,6 @@
 #EXTM3U
 ########################################## LOKAL ######################################################
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi", Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="LOKAL",TVRI (Vision+)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" group-title="LOKAL",NET.
@@ -73,6 +72,23 @@ http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w1097865797.m3u8
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://pbs.twimg.com/profile_images/701990616301903875/0lQITza9_400x400.jpg" tvg-country="ID" tvg-url="" group-title="LOKAL",Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
+
+########################################## ASTRO TV ######################################################
+
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-q35SEqK9HvI/XMfJC7mMELI/AAAAAAAALYc/gEAOcpKPRJg7FJsGJjPpczRAmCi1Ja8UACLcBGAs/s1600/tv1-malaysia.png"group-title="ASTRO TV", TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-itq7U8NLDv0/XMfHyEbUqaI/AAAAAAAALYU/V-0AwQiK2H4p_Q_M2rZj2LjNcBdpVWVvQCLcBGAs/s1600/tv2-malaysia.png"group-title="ASTRO TV", TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF: -1  tvg-logo="https://pbs.twimg.com/profile_images/1217705227018588163/ZgnPpAoa.jpg"group-title="ASTRO TV", Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://1.bp.blogspot.com/-2csW4KIftNk/VM5kNvjdM0I/AAAAAAAARW8/uIGp9dY39ck/s1600/8TV%2BMalaysia%2BOnline%2BLive%2BStreaming.jpg"group-title="ASTRO TV", 8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF: -1  tvg-logo="https://pbs.twimg.com/profile_images/1320942000569397248/inIk0m8V.jpg"group-title="ASTRO TV", TV9 Malaysia
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF: -1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg"group-title="ASTRO TV",Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="ASTRO TV",ASTRO AWANI 
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 ########################################## KIDS ######################################################
 
@@ -149,23 +165,6 @@ http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF: -1 tvg-name="LIVE MAKKAH" tvg-chno="174" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81ftBUydRVL.png" group-title="ARAB"", LIVE MAKKAH
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
-########################################## ASTRO TV ######################################################
-
-#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-q35SEqK9HvI/XMfJC7mMELI/AAAAAAAALYc/gEAOcpKPRJg7FJsGJjPpczRAmCi1Ja8UACLcBGAs/s1600/tv1-malaysia.png"group-title="ASTRO TV", TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-itq7U8NLDv0/XMfHyEbUqaI/AAAAAAAALYU/V-0AwQiK2H4p_Q_M2rZj2LjNcBdpVWVvQCLcBGAs/s1600/tv2-malaysia.png"group-title="ASTRO TV", TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF: -1  tvg-logo="https://pbs.twimg.com/profile_images/1217705227018588163/ZgnPpAoa.jpg"group-title="ASTRO TV", Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://1.bp.blogspot.com/-2csW4KIftNk/VM5kNvjdM0I/AAAAAAAARW8/uIGp9dY39ck/s1600/8TV%2BMalaysia%2BOnline%2BLive%2BStreaming.jpg"group-title="ASTRO TV", 8TV
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
-#EXTINF: -1  tvg-logo="https://pbs.twimg.com/profile_images/1320942000569397248/inIk0m8V.jpg"group-title="ASTRO TV", TV9 Malaysia
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-#EXTINF: -1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg"group-title="ASTRO TV",Drama Sangat
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="ASTRO TV",ASTRO AWANI 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
 ########################################## Movies TV ######################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://1.bp.blogspot.com/-HXnfAlrgfrg/XmnTuPMVB4I/AAAAAAAAMI4/loc4VlIEFw4Bky0JZ_qMNQwawh2jpvFwwCLcBGAsYHQ/s1600/logo_celestialmovie.png" tvg-country="id" tvg-url="" group-title="MOVIES",Celestialmovies
@@ -221,7 +220,8 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-tvpictureshd/list_clean/09tvpictureshdp_2056662078.png" group-title="Hindi", &Picture HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi", Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="Hindi", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ethnicchannels.com/images/channels/zee-cinema-final-2.jpg" group-title="Hindi", Zee Cinema 
