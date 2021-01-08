@@ -233,7 +233,7 @@ https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cpg6ctebufpp.jpg" group-title="RADIO",mbah nunung Online
 http://78.129.237.53:9118/stream
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbtfm.jpg/299px-Rbtfm.jpg" group-title="RADIO",Bintang Tenggara
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bIQJYXCkW1U/X_hIakBmkQI/AAAAAAAAMeU/x-8vwWIzMxYijxhEpSUaEDPWiyniq2vwACLcBGAsYHQ/s0/bintangtenggara.png" group-title="RADIO",Bintang Tenggara
 http://live.radiobintangtenggara.com:8000/mbahnunungonline
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zKfFBaCN2dU/WP21Pg4t5ZI/AAAAAAAAAjQ/ndweLDJMRYw-3r_J-GTM-RhEMtqul5FDACPcBGAYYCw/s0/mcfm_station.png" group-title="RADIO",MCFM
 http://live.sg.mcfmbwi.com:9720/mcfm
