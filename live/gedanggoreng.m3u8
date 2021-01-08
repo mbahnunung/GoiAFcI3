@@ -14,7 +14,7 @@ http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846b
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1321359353882890242/0fwFLSI6_400x400.jpg" group-title="Nasional",GTV
 #https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708ec4195da44844bf090c1730f35f20aa65
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" group-title="Nasional, News",METRO TV
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" group-title="Nasional",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=bb3d05263896804e85dbca22be84bb7693cfea2c3f7fc7c3901667557efd1592
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" group-title="Nasional",INDOSIAR
@@ -34,11 +34,11 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" group-title="Nasional",ANTV
 #https://tv.mbahnunungonline.net/playlist/antv.m3u8
 http://rr2.dens.tv:80/s/s07/01.m3u8
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png" group-title="Nasional, News",TVONE
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png" group-title="Nasional",TVONE
 http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:0 tvg-logo="https://lh6.googleusercontent.com/-74kEWJ5ce2I/VUI2Iir3ZxI/AAAAAAAAGzc/Du-gZFt0nco/s96-no/iNews_TV.png" group-title="Nasional, News",iNews HD
+#EXTINF:0 tvg-logo="https://lh6.googleusercontent.com/-74kEWJ5ce2I/VUI2Iir3ZxI/AAAAAAAAGzc/Du-gZFt0nco/s96-no/iNews_TV.png" group-title="Nasional",iNews HD
 https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="Nasional, News",KOMPAS TV
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="Nasional",KOMPAS TV
 #http://rr2.dens.tv/s/s104/index.m3u8
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559c4195da44844bf090c1730f35f20aa65
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="Nasional",TVRI (ott)
@@ -59,7 +59,7 @@ https://v6.siar.us/nusantaratv/live/playlist.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_rri_big1.png?v=2.0.0.13" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-gyyLTDUKF7o/UtPEO-LbVzI/AAAAAAAAChY/9vEGB9GVSfA/s1600/tvedukasi.png" tvg-id="TV Edukasi" tvg-name"TV Edukasi" group-title="LOKAL, KNOWLEDGE",TV Edukasi
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-gyyLTDUKF7o/UtPEO-LbVzI/AAAAAAAAChY/9vEGB9GVSfA/s1600/tvedukasi.png" tvg-id="TV Edukasi" tvg-name"TV Edukasi" group-title="KNOWLEDGE",TV Edukasi
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dcec4195da44844bf090c1730f35f20aa65
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-7Au8vyLGqMg/XJ0HllCI69I/AAAAAAAALLg/pgFyzI0tD4EPGMduVTo1oHH0CmIWkIiUACLcBGAs/s1600/logo_newsasia.png" group-title="News",CANEL NEWS ASIA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
