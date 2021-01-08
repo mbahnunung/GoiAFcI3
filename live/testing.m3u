@@ -336,9 +336,11 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.
 #EXTINF: -1 tvg-name="Fashion TV" tvg-chno="822" tvg-logo="http://127.0.0.1/" group-title="FASHION", Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
 #EXTINF: -1 tvg-name="Fashion TV Films" tvg-chno="823" tvg-logo="http://127.0.0.1/" group-title="FASHION", Fashion TV Films
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTINF: -1 tvg-name="Fashion TV Midnight" tvg-chno="824" tvg-logo="http://127.0.0.1/" group-title="FASHION", Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Midnite Secrets HD" tvg-chno="833" group-title="FASHION", Fashion TV Midnite Secrets HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF: -1 tvg-name="Fashion & Lifestyle HD" tvg-chno="825" tvg-logo="http://127.0.0.1/" group-title="FASHION", Fashion & Lifestyle HD
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 #EXTINF: -1 tvg-name="Fashion TV (Opt-1)" tvg-chno="826" tvg-logo="http://127.0.0.1/" group-title="FASHION", Fashion TV (Opt-1)
@@ -351,8 +353,6 @@ https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF: -1 tvg-id="fashion" tvg-name="fashion" tvg-chno="830" group-title="FASHION", Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Midnite Secrets HD" tvg-chno="833" group-title="FASHION", Fashion TV Midnite Secrets HD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Paris SD" tvg-chno="834" group-title="FASHION", Fashion TV Paris SD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Paris FHD" tvg-chno="835" group-title="FASHION", Fashion TV Paris FHD
