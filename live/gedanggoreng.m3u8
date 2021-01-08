@@ -30,8 +30,8 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s7ZOCHittVk/V03sueWgDwI/AAAAAAAAFUU/-lYZd3UGm-o6sr8-oFEmD5wyhZkvpgUBACLcB/s1600/logo_cnn_ind.png" group-title="Nasional, News",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" group-title="Nasional",ANTV
-https://tv.mbahnunungonline.net/playlist/antv.m3u8
-#http://rr2.dens.tv:80/s/s07/01.m3u8
+#https://tv.mbahnunungonline.net/playlist/antv.m3u8
+http://rr2.dens.tv:80/s/s07/01.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png" group-title="Nasional, News",TVONE
 http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:0 tvg-logo="https://lh6.googleusercontent.com/-74kEWJ5ce2I/VUI2Iir3ZxI/AAAAAAAAGzc/Du-gZFt0nco/s96-no/iNews_TV.png" group-title="Nasional, News",iNews HD
