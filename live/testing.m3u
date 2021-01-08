@@ -351,8 +351,6 @@ https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF: -1 tvg-id="fashion" tvg-name="fashion" tvg-chno="830" group-title="FASHION", Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="FASION TV 2" tvg-chno="831" group-title="FASHION", FASION TV 2
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Midnite Secrets HD" tvg-chno="833" group-title="FASHION", Fashion TV Midnite Secrets HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Paris SD" tvg-chno="834" group-title="FASHION", Fashion TV Paris SD
