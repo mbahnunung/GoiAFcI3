@@ -160,9 +160,9 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://1.bp.blogspot.com/-p7I1lG_Aews/UndHCyhg-9I/AAAAAAAAB-8/WFHni9Tkxh8/s1600/arabiya.png" tvg-country="ID" tvg-url="" group-title="ARAB",Al arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://iqraa.com/Media/Blog_Post_Pictures/Iqraa_logo.jpg" tvg-country="ID" tvg-url="" group-title="ARAB",Iqraa-Tv (Saudi Arabia)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://2.bp.blogspot.com/-WJcBpmVGs1o/UndHS0zjRcI/AAAAAAAAB_U/jaJgo0G0tH8/s1600/iqratv.png" tvg-country="ID" tvg-url="" group-title="ARAB",Iqraa-Tv (Saudi Arabia)
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="LIVE MAKKAH" tvg-chno="174" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81ftBUydRVL.png" group-title="ARAB"", LIVE MAKKAH
+#EXTINF: -1 tvg-name="LIVE MAKKAH" tvg-chno="174" tvg-logo="https://3.bp.blogspot.com/-c0g03ph4I-0/W96E_5Ii8WI/AAAAAAAAJ8g/CLrWh37oMHE-QTsWZQTvc0d9VhBP3ksgACLcBGAs/s1600/logo_alquran_live.png" group-title="ARAB"", LIVE MAKKAH
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
 ########################################## Movies TV ######################################################
