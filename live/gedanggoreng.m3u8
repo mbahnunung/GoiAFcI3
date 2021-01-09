@@ -178,7 +178,7 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce
 http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=625fa0bfdb706073072b1d52884d47c6cf1d9968efefa570a588d92288eab29b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" tvg-country="id" tvg-url="" group-title="MOVIES",KIX
 http://rr.dens.tv/h/h07/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="hhttps://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" tvg-country="id" tvg-url="" group-title="MOVIES",thrill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="hhttps://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" tvg-country="id" tvg-url="" group-title="Horor",thrill
 http://rr2.dens.tv/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://cdn.clipart.email/1cab2429accf505fa26ff7ed3d569e76_english-prime-pack-zee-entertainment-corporate-website_200-200.jpeg" tvg-country="id" tvg-url="" group-title="MOVIES",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -188,7 +188,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/873344025713033217/ExHy0neU_400x400.jpg" group-title="MOVIES", Foxmovies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo= "http://www.useetv.com/assets/images/channel/logo_dunialain_small.png?id=8" group-title="MOVIES, Dunia Lain 
+#EXTINF:-1 tvg-logo= "http://www.useetv.com/assets/images/channel/logo_dunialain_small.png?id=8" group-title="Horor", Dunia Lain 
 http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=6fbb752d15ccfea071c0d563cf68e997cf1d9968efefa570a588d92288eab29b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.309a8e73b2cdb95fc1affa8845504e87.Coday" tvg-name"IMC (USEETV)",IMC (USEETV)
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=601dd4047a1b7be8c6d9896b80447d5ce3d659e2de4e43ad562e064ecda07330
