@@ -211,7 +211,6 @@ http://203.154.243.31:15001codaytv.eu/coday_play.m3u8?shinta=open_bid_script_cod
 
 ########################################## Hindi ######################################################
 
-
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l3dqOu0lT3s/X_hcbGJYwGI/AAAAAAAAMe0/MRznJfHSd40JzaUrxxXZ9QzOC24uR7xvQCLcBGAsYHQ/s0/%2526Picture.png" group-title="Hindi", &Picture HD
@@ -226,7 +225,10 @@ http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2018-05/07/full/1525689063-7444.jpg" group-title="Hindi", Discovery Hindi 
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" tvg-country="IN" tvg-url="" group-title="Music",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" tvg-country="IN" tvg-url="" group-title="Music",B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 
 ########################################## RADIO ######################################################
 
