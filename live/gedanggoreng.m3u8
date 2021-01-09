@@ -1,7 +1,7 @@
 #EXTM3U
 ########################################## LOKAL ######################################################
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" tvg-country="ID" tvg-url="" group-title="",HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/3.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" group-title="Nasional",NET.
 #https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net TV.m3u8?dl=0
