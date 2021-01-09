@@ -248,5 +248,5 @@ http://s4.vinhostmedia.com:8000/streamaac
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Uxf8xz3e6rg/VD4OjHN7jBI/AAAAAAAAEFw/hi81dF_UdQ0/s1600/gbsfm.png" group-title="RADIO",GBSFM
 https://s7.alhastream.com/radio/8090/radio?1609467814144
 
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="Nasional",TVRI (Vision+)
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="Nasional",TVRI (Vision+)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
