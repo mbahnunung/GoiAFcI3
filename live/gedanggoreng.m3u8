@@ -1,11 +1,8 @@
 #EXTM3U
 ########################################## LOKAL ######################################################
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" tvg-country="ID" tvg-url="MOVIES" group-title="",HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:0 tvg-logo="https://comteco.com.bo/img/upload/canales/hbo-signature.png" group-title="MOVIES",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://cdn.clipart.email/1cab2429accf505fa26ff7ed3d569e76_english-prime-pack-zee-entertainment-corporate-website_200-200.jpeg" tvg-country="id" tvg-url="" group-title="MOVIES",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" group-title="Nasional",NET.
 #https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net TV.m3u8?dl=0
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=40fa73c9d0083043c6576dd2b40511e4f361ef87af77022b1a72f12fbbf65eb1
@@ -254,3 +251,11 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="Nasional",TVRI (Vision+)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+########################################## LOKAL ######################################################
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" tvg-country="ID" tvg-url="MOVIES" group-title="",HBO HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:0 tvg-logo="https://comteco.com.bo/img/upload/canales/hbo-signature.png" group-title="MOVIES",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
