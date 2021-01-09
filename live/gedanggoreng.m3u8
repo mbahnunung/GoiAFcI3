@@ -138,6 +138,8 @@ http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 
 ########################################## ARAB TV ######################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://lh3.googleusercontent.com/proxy/v6cGIMV5sCds8yHWmajJ2nVK5tz0PPthlaCMY9MDRD0btT8mW01GbO7tUYc0ZvkeIFnaAEpEY-QnbR4xjiKa0PnMkrQMKxTnJpheXOd3PEXbR9v5IOKwMIF_56rZGYDn0NGL" tvg-country="ID" tvg-url="" group-title="ARAB",Saudi TV 1  (Saudi Arabia)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://2.bp.blogspot.com/-WJcBpmVGs1o/UndHS0zjRcI/AAAAAAAAB_U/jaJgo0G0tH8/s1600/iqratv.png" tvg-country="ID" tvg-url="" group-title="ARAB",Iqraa-Tv (Saudi Arabia)
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF: -1 tvg-name="LIVE MAKKAH" tvg-chno="174" tvg-logo="https://3.bp.blogspot.com/-c0g03ph4I-0/W96E_5Ii8WI/AAAAAAAAJ8g/CLrWh37oMHE-QTsWZQTvc0d9VhBP3ksgACLcBGAs/s1600/logo_alquran_live.png" group-title="ARAB"", LIVE MAKKAH
