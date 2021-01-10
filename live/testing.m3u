@@ -334,7 +334,8 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.
 //FF
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://seeklogo.net/wp-content/uploads/2013/04/playboy-tv-vector-logo.png" tvg-country="NL" tvg-url="" group-title="XXX",Playboy TV
+http://s3.1tv.to/hls/QjRoM2tLNXRoa1ZVQ0t1MjhLVmtMeVFlYzZLaXErN05obXZsQzB0SXgwOHVBTmpnenU4TzJTZTd4VHNVazU3dDJUalJIRUpUYTJ2alo5WFlBeGxQZTAxVkVaYXR4czQyYXBvNHR3cU5abWxEU3lZMC9qdjR4ejR0Q0swV296b2l6T21BSTRJdFlNc1k3OXFVTkF3eUlwUXlidmpIZUtyTGNLUlVmY25VVU0wR1RWWS9rTjRkVG5rMm5zbWxGTCtLUVN6a1lqS2loMHVTVE1BNHE4bUlGOTJscnByTHZqU3E0cGJzZzVLcmxsbmRUamNYVkJ6dnI4Si8xQTcvMWkrQQ.m3u8
 #EXTINF: -1 tvg-name="Fashion TV" tvg-chno="822" tvg-logo="https://pbs.twimg.com/profile_images/2164769914/avatar.jpg" group-title="FASHION", Fashion TV
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF: -1 tvg-name="Fashion TV Films" tvg-chno="823" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0005/4609/brand.gif?itok=zQL2u-RD" group-title="FASHION", Fashion TV Films
