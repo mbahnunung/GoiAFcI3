@@ -220,7 +220,7 @@ http://203.154.243.31:15001codaytv.eu/coday_play.m3u8?shinta=open_bid_script_cod
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg" group-title="Hindi", &Picture HD
-http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
+https://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi", Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81c4195da44844bf090c1730f35f20aa65
@@ -241,6 +241,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?
 #EXTINF:-1 tvg-id="Desi Channel" tvg-name="Desi Channel" tvg-language="Hindi" tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" tvg-country="IN" tvg-url="" group-title="MUSIC",Desi Channel
 #https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 http://cdn30.liveonlineservices.com/hls/desitv.m3u8
+#EXTINF:0, group-title="Hindi",& TV HD
+http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 
 ########################################## RADIO ######################################################
 
