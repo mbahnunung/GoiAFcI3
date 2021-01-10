@@ -333,20 +333,14 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.
 
 //FF
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://toppng.com/uploads/preview/vivid-red-hd-frequence-vivid-astra-192-11562989910lalqdivk0w.png" tvg-country="NL" tvg-url="" group-title="XXX",Vivid Red HD Live
-http://s20.1tv.to/hls/dDBjcmM5WWMvc292SThmMDlJcEVMWGdtdmxkQ2V2d0w1TWtaK1JXcUw2ajYvVDFiLzRxYmtDUTcwbzdncHJhaGFId2cxakZDVUtJYllDK2dOb2xISld1bUM4eXVzUEtRRTArdzA0L0lubjNtaktxNVFDMnplS2ZiOXZzUWdTbTdNdmRXc2FLVnJ6OGxyRHI5YTF0WXU2ZmZYUnJ3aG5lYU9YUXJSSDUwUFluS1RtVlJLVjFncWxjSlBYV1JBdzNDT0RGMHRmVkdNVXFzT29ydnlZbTdlbC9NTndTcW1VVW1JVjFZTVlsNHAvTmYyV1RwMVRuUkxyazc3cDdkWStCVg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://seeklogo.net/wp-content/uploads/2013/04/playboy-tv-vector-logo.png" tvg-country="NL" tvg-url="" group-title="XXX",Playboy TV
-http://s3.1tv.to/hls/QjRoM2tLNXRoa1ZVQ0t1MjhLVmtMeVFlYzZLaXErN05obXZsQzB0SXgwOHVBTmpnenU4TzJTZTd4VHNVazU3dDJUalJIRUpUYTJ2alo5WFlBeGxQZTAxVkVaYXR4czQyYXBvNHR3cU5abWxEU3lZMC9qdjR4ejR0Q0swV296b2l6T21BSTRJdFlNc1k3OXFVTkF3eUlwUXlidmpIZUtyTGNLUlVmY25VVU0wR1RWWS9rTjRkVG5rMm5zbWxGTCtLUVN6a1lqS2loMHVTVE1BNHE4bUlGOTJscnByTHZqU3E0cGJzZzVLcmxsbmRUamNYVkJ6dnI4Si8xQTcvMWkrQQ.m3u8
-#EXTINF: -1 tvg-name="Fashion TV" tvg-chno="822" tvg-logo="https://pbs.twimg.com/profile_images/2164769914/avatar.jpg" group-title="FASHION", Fashion TV
+#EXTINF: -1 tvg-name="Fashion TV" tvg-chno="822" tvg-logo="https://pbs.twimg.com/profile_images/2164769914/avatar.jpg" group-title="FASHION", HD Fashion TV
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF: -1 tvg-name="Fashion TV Films" tvg-chno="823" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0005/4609/brand.gif?itok=zQL2u-RD" group-title="FASHION", Fashion TV Films
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="Fashion TV Midnight" tvg-chno="824" tvg-logo="https://1.bp.blogspot.com/-prI-Dr0KI4M/X_iA165vcjI/AAAAAAAAMfM/ZrIYS4R4eyoTbo6zE9OLuH3d5qItXBkswCLcBGAsYHQ/s0/fashionTV%252B18.png" group-title="FASHION", Fashion TV Midnight
+#EXTINF: -1 tvg-name="Fashion TV Midnight" tvg-chno="824" tvg-logo="https://1.bp.blogspot.com/-prI-Dr0KI4M/X_iA165vcjI/AAAAAAAAMfM/ZrIYS4R4eyoTbo6zE9OLuH3d5qItXBkswCLcBGAsYHQ/s0/fashionTV%252B18.png" group-title="FASHION", Fashion TV Midnite Secrets UHD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF: -1 tvg-name="Fashion TV Midnight" tvg-chno="824" tvg-logo="https://1.bp.blogspot.com/-prI-Dr0KI4M/X_iA165vcjI/AAAAAAAAMfM/ZrIYS4R4eyoTbo6zE9OLuH3d5qItXBkswCLcBGAsYHQ/s0/fashionTV%252B18.png" group-title="FASHION", Fashion TV Midnite Secrets HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF: -1 tvg-name="Fashion & Lifestyle HD" tvg-chno="825" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng5Ub3mEFFDhcd04hVrQe_whIb4PEZX-kvu31QmCg=s900-c-k-c0x00ffffff-no-rj" group-title="FASHION", Fashion & Lifestyle HD
-http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 #EXTINF: -1 tvg-name="Fashion TV (Opt-1)" tvg-chno="826" tvg-logo="http://127.0.0.1/" group-title="FASHION", Fashion TV (Opt-1)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF: -1 tvg-name="Fashion TV (Opt-3)" tvg-chno="827" tvg-logo="http://127.0.0.1/" group-title="FASHION", Fashion TV (Opt-3)
