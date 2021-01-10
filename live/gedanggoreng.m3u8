@@ -228,7 +228,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5X-qfXkSB2A/X_haoDQE93I/AAAAAAAAMeo/vRYx3DtzUTUCCEq4_tsXHhRMGN3pgKjawCLcBGAsYHQ/s0/ZeeTV.png" group-title="Hindi", Zee Tv HD 
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2018-05/07/full/1525689063-7444.jpg" group-title="Hindi", Discovery Hindi 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ija7pA4.jpg" group-title="Hindi", Discovery Hindi 
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/yICjApS.png" tvg-country="IN" tvg-url="" group-title="Hindi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
