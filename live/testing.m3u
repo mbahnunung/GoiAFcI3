@@ -335,9 +335,9 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/hrhfs9p.png" tvg-country="SK" tvg-url="" group-title="Fashion",FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF: -1 tvg-name="Fashion TV" tvg-chno="" tvg-logo="https://pbs.twimg.com/profile_images/2164769914/avatar.jpg" group-title="FASHION", HDFashion & LifeStyle FHD
+#EXTINF: -1 tvg-name="Fashion TV" tvg-chno="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhOM2qq6bqWvEM6WD_Cd2DGm3-JdTSZLdK-m-KhVQ=s900-c-k-c0x00ffffff-no-rj" group-title="FASHION", HDFashion & LifeStyle FHD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF: -1 tvg-name="Fashion TV" tvg-chno="" tvg-logo="https://pbs.twimg.com/profile_images/2164769914/avatar.jpg" group-title="FASHION", HDFashion & LifeStyle HD
+#EXTINF: -1 tvg-name="Fashion TV" tvg-chno="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhOM2qq6bqWvEM6WD_Cd2DGm3-JdTSZLdK-m-KhVQ=s900-c-k-c0x00ffffff-no-rj" group-title="FASHION", HDFashion & LifeStyle HD
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 #EXTINF: -1 tvg-name="Fashion TV Films" tvg-chno="823" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0005/4609/brand.gif?itok=zQL2u-RD" group-title="FASHION", Fashion TV Films
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
@@ -351,7 +351,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
 #EXTINF: -1 tvg-name="Fashion TV (Opt-4)" tvg-chno="828" tvg-logo="http://127.0.0.1/" group-title="FASHION", Fashion TV (Opt-4)
 https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF: -1 tvg-name="Fashion TV (HD)" tvg-chno="829" tvg-logo="http://127.0.0.1/" group-title="FASHION", Fashion TV (HD)
+#EXTINF: -1 tvg-name="Fashion TV (HD)" tvg-chno="829" tvg-logo="https://pbs.twimg.com/profile_images/2164769914/avatar.jpg" group-title="FASHION", Fashion TV (HD)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF: -1 tvg-id="fashion" tvg-name="fashion" tvg-chno="830" group-title="FASHION", Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
