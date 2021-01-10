@@ -85,7 +85,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 ########################################## KIDS ######################################################
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/700293776925859840/agIFKXf1.jpg" group-title="KIDS",Disney HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukeu4Fn.jpg" group-title="KIDS",Disney HD 
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZEDeF0jqf_3JzXcCELjzI3NKXHU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg" tvg-id="RIYAN.8686a0c089da5eafbf65654662b83444.SHINTA" tvg-name"Hip Hip Horee! (VIDIO)" group-title="KIDS",Hip Hip Horee! (VIDIO)
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbbc4195da44844bf090c1730f35f20aa65
@@ -156,7 +156,7 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://1.bp.blogspot.com/-p7I1lG_Aews/UndHCyhg-9I/AAAAAAAAB-8/WFHni9Tkxh8/s1600/arabiya.png" tvg-country="ID" tvg-url="" group-title="News",Al arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://i2.wp.com/24x7livenewz.com/wp-content/uploads/2020/03/sky-news-arabia.png?ssl=1" tvg-country="ID" tvg-url="" group-title="News",Sky News Arabia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://i.imgur.com/hKThVZv.jpg" tvg-country="ID" tvg-url="" group-title="News",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.pinimg.com/originals/30/63/90/3063902dd315fc4a51b6cb06219996fa.png" group-title="ARAB",Libya 218 (LIBYA)
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
@@ -179,7 +179,7 @@ http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8
 http://rr.dens.tv/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="hhttps://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" tvg-country="id" tvg-url="" group-title="Horor",thrill
 http://rr2.dens.tv/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://cdn.clipart.email/1cab2429accf505fa26ff7ed3d569e76_english-prime-pack-zee-entertainment-corporate-website_200-200.jpeg" tvg-country="id" tvg-url="" group-title="MOVIES",&Flix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://i.imgur.com/r58Vr0z.jpg" tvg-country="id" tvg-url="" group-title="MOVIES",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" group-title="MOVIES", &Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
