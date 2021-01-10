@@ -218,7 +218,7 @@ http://203.154.243.31:15001codaytv.eu/coday_play.m3u8?shinta=open_bid_script_cod
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l3dqOu0lT3s/X_hcbGJYwGI/AAAAAAAAMe0/MRznJfHSd40JzaUrxxXZ9QzOC24uR7xvQCLcBGAsYHQ/s0/%2526Picture.png" group-title="Hindi", &Picture HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg" group-title="Hindi", &Picture HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi", Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
