@@ -333,7 +333,8 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.
 
 //FF
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://toppng.com/uploads/preview/vivid-red-hd-frequence-vivid-astra-192-11562989910lalqdivk0w.png" tvg-country="NL" tvg-url="" group-title="XXX",Vivid Red HD Live
+http://s20.1tv.to/hls/dDBjcmM5WWMvc292SThmMDlJcEVMWGdtdmxkQ2V2d0w1TWtaK1JXcUw2ajYvVDFiLzRxYmtDUTcwbzdncHJhaGFId2cxakZDVUtJYllDK2dOb2xISld1bUM4eXVzUEtRRTArdzA0L0lubjNtaktxNVFDMnplS2ZiOXZzUWdTbTdNdmRXc2FLVnJ6OGxyRHI5YTF0WXU2ZmZYUnJ3aG5lYU9YUXJSSDUwUFluS1RtVlJLVjFncWxjSlBYV1JBdzNDT0RGMHRmVkdNVXFzT29ydnlZbTdlbC9NTndTcW1VVW1JVjFZTVlsNHAvTmYyV1RwMVRuUkxyazc3cDdkWStCVg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://seeklogo.net/wp-content/uploads/2013/04/playboy-tv-vector-logo.png" tvg-country="NL" tvg-url="" group-title="XXX",Playboy TV
 http://s3.1tv.to/hls/QjRoM2tLNXRoa1ZVQ0t1MjhLVmtMeVFlYzZLaXErN05obXZsQzB0SXgwOHVBTmpnenU4TzJTZTd4VHNVazU3dDJUalJIRUpUYTJ2alo5WFlBeGxQZTAxVkVaYXR4czQyYXBvNHR3cU5abWxEU3lZMC9qdjR4ejR0Q0swV296b2l6T21BSTRJdFlNc1k3OXFVTkF3eUlwUXlidmpIZUtyTGNLUlVmY25VVU0wR1RWWS9rTjRkVG5rMm5zbWxGTCtLUVN6a1lqS2loMHVTVE1BNHE4bUlGOTJscnByTHZqU3E0cGJzZzVLcmxsbmRUamNYVkJ6dnI4Si8xQTcvMWkrQQ.m3u8
 #EXTINF: -1 tvg-name="Fashion TV" tvg-chno="822" tvg-logo="https://pbs.twimg.com/profile_images/2164769914/avatar.jpg" group-title="FASHION", Fashion TV
