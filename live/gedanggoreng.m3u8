@@ -224,9 +224,9 @@ http://z5amshls.akamaized.net/andpicshd/tracks-v2a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2wQ-oEC2FQw/T9AqHLwVY_I/AAAAAAAABUw/LQPrnUuFH48/s320/9x%2BMusic.png" group-title="MUSIC", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CjohRz0XD4U/X_hZ_yIFk2I/AAAAAAAAMeg/jRPDIvwzaa4mFsIJfHWtar2SQuDVRboBwCLcBGAsYHQ/s0/ZeeCinema.png" group-title="Hindi", Zee Cinema 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png" group-title="Hindi", Zee Cinema 
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5X-qfXkSB2A/X_haoDQE93I/AAAAAAAAMeo/vRYx3DtzUTUCCEq4_tsXHhRMGN3pgKjawCLcBGAsYHQ/s0/ZeeTV.png" group-title="Hindi", Zee Tv HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg" group-title="Hindi", Zee Tv HD 
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ija7pA4.jpg" group-title="Hindi", Discovery Hindi 
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
