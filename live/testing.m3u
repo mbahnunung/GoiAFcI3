@@ -353,7 +353,7 @@ https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
 https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 #EXTINF: -1 tvg-name="Fashion TV (HD)" tvg-chno="829" tvg-logo="https://pbs.twimg.com/profile_images/2164769914/avatar.jpg" group-title="FASHION", Fashion TV (HD)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF: -1 tvg-id="fashion" tvg-name="fashion" tvg-chno="830" group-title="FASHION", Fashion TV (FHD)
+#EXTINF: -1 tvg-name="Fashion TV (HD)" tvg-chno="829" tvg-logo="https://pbs.twimg.com/profile_images/2164769914/avatar.jpg" group-title="FASHION", Fashion TV (FHD)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-name="Fashion TV Paris SD" tvg-chno="834" group-title="FASHION", Fashion TV Paris SD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
