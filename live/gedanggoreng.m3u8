@@ -241,7 +241,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?
 #EXTINF:-1 tvg-id="Desi Channel" tvg-name="Desi Channel" tvg-language="Hindi" tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" tvg-country="IN" tvg-url="" group-title="MUSIC",Desi Channel
 #https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 http://cdn30.liveonlineservices.com/hls/desitv.m3u8
-#EXTINF:0, group-title="Hindi",Wow Cinema
+#EXTINF:-1 tvg-logo="https://origin-static.nexg.tv/unified/admin/upload/750_1490336979Wow_Cinema_750x380.jpg" group-title="Hindi",Wow Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
 ########################################## RADIO ######################################################
