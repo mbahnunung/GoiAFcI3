@@ -185,11 +185,11 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tube.hk/images/tv_cache/c/400x400_35fox_family_movies.jpg" group-title="MOVIES", FOX FAMILY HD [VN]
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo= "http://www.useetv.com/assets/images/channel/logo_dunialain_small.png?id=8" group-title="Horor", Dunia Lain 
-http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=6fbb752d15ccfea071c0d563cf68e997cf1d9968efefa570a588d92288eab29b
+http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=6fbb752d15ccfea071c0d563cf68e9979d9f4f0d6875ef21fdf7afa524f298ab
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.309a8e73b2cdb95fc1affa8845504e87.Coday" tvg-name"IMC (USEETV)",IMC (USEETV)
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=601dd4047a1b7be8c6d9896b80447d5ce3d659e2de4e43ad562e064ecda07330
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_warner_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.ec6add58983ece9b953f7a3dc04248f2.Coday" tvg-name"Warner (USEETV)",Warner (USEETV)
-http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1660885848050e9ca9746ddd54e2de25cf1d9968efefa570a588d92288eab29b
+http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1660885848050e9ca9746ddd54e2de259d9f4f0d6875ef21fdf7afa524f298ab
 
 
 ########################################## KNOWLEDGE ######################################################
