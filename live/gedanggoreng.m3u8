@@ -171,7 +171,7 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce
 http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=625fa0bfdb706073072b1d52884d47c69d9f4f0d6875ef21fdf7afa524f298ab
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" tvg-country="id" tvg-url="" group-title="MOVIES",KIX
 #http://rr.dens.tv/h/h07/01.m3u8
-http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=e6ca88bac78bcf9de5362d50d6a206629d9f4f0d6875ef21fdf7afa524f298ab
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="hhttps://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" tvg-country="id" tvg-url="" group-title="Horor",thrill
 http://rr2.dens.tv/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://i.imgur.com/r58Vr0z.jpg" tvg-country="id" tvg-url="" group-title="MOVIES",&Flix
