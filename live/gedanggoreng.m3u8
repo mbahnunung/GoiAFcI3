@@ -87,30 +87,34 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZEDeF0jqf_3JzXcCELjzI3NKXHU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg" tvg-id="RIYAN.66f003d581a6fd6b5256f4925ade5735.SHINTA" tvg-name"[CODAY] Hip Hip Horee! _VIDIO" group-title="KIDS", Hip Hip Horee!
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbbc8ffe9a587b126f152ed3d89a146b445
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/STe84feg1i6KlL2HUbcZT_ocKLk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" tvg-id="RIYAN.bde5c1cf29961423388e2f38381080f1.SHINTA" tvg-name"[CODAY] Zoomoo _VIDIO" group-title="KIDS",[CODAY] Zoomoo
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/STe84feg1i6KlL2HUbcZT_ocKLk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" tvg-id="RIYAN.bde5c1cf29961423388e2f38381080f1.SHINTA" tvg-name"[CODAY] Zoomoo _VIDIO" group-title="KIDS", Zoomoo
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66c8ffe9a587b126f152ed3d89a146b445
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2xClnKTi4YEdc9K1dYqp0JnaI68=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6549/da-vinci-ef222f.jpg" tvg-id="RIYAN.5ea742e7aeba963f56a1c163ed3fefd0.SHINTA" tvg-name"[CODAY] Da Vinci _VIDIO" group-title="KIDS", Da Vinci 
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857c8ffe9a587b126f152ed3d89a146b445
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/iZMVt657Jkn-fkpQwO84q7CMC5I=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-5c45d3.jpg" tvg-id="RIYAN.f90739f1a58168d6b2de600f4b1858b7.SHINTA" tvg-name"[CODAY] Horee _VIDIO" group-title="KIDS", Horee 
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=5e62d03aec0d17facfc5355dd90d441cc8ffe9a587b126f152ed3d89a146b445
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?id=8" group-title="KIDS" tvg-id="Riyan.996009f2374006606f4c0b0fda878af1.Coday" tvg-name"Duck TV (USEETV)",Duck TV (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=72b6581acc839b106bc92e8b21d6313adae0eaa5a20cd97c9e4fa674ef8de47e&coday=5ac28784e1d357b2cc3e84ba4101d82e
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png?id=8" group-title="KIDS" tvg-id="Riyan.359f38463d487e9e29bd20e24f0c050a.Coday" tvg-name"Boomerang (USEETV)",Boomerang (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=f91022004ce9aab1397c498ec1ee684bdae0eaa5a20cd97c9e4fa674ef8de47e&coday=5ac28784e1d357b2cc3e84ba4101d82e
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png?id=8" group-title="KIDS" tvg-id="Riyan.a1afc58c6ca9540d057299ec3016d726.Coday" tvg-name"Cartoon Network (USEETV)",Cartoon Network (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=87dfc97a7654b4b7ad9f04767361eca9dae0eaa5a20cd97c9e4fa674ef8de47e&coday=5ac28784e1d357b2cc3e84ba4101d82e
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?id=8" group-title="KIDS" tvg-id="Riyan.6ba3af5d7b2790e73f0de32e5c8c1798.Coday" tvg-name"Dunia anak (USEETV)",Dunia anak (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=352b1a859489df76c74fb7e0b41362efdae0eaa5a20cd97c9e4fa674ef8de47e&coday=5ac28784e1d357b2cc3e84ba4101d82e
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png?id=8" group-title="KIDS" tvg-id="Riyan.cf9a242b70f45317ffd281241fa66502.Coday" tvg-name"Nick Junior (USEETV)",Nick Junior (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=913c4858c66af34fc5575fcb46f3fecbdae0eaa5a20cd97c9e4fa674ef8de47e&coday=5ac28784e1d357b2cc3e84ba4101d82e
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png?id=8" group-title="KIDS" tvg-id="Riyan.e655c7716a4b3ea67f48c6322fc42ed6.Coday" tvg-name"Nickelodeon (USEETV)",Nickelodeon (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=f19b88e6cb8cb067565bb3880b2fb3e1dae0eaa5a20cd97c9e4fa674ef8de47e&coday=5ac28784e1d357b2cc3e84ba4101d82e
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?id=8" group-title="KIDS" tvg-id="Riyan.6be5336db2c119736cf48f475e051bfe.Coday" tvg-name"Da Vinci Learning (USEETV)",Da Vinci Learning (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=aea862aa22a0f5b829d5795882889c08dae0eaa5a20cd97c9e4fa674ef8de47e&coday=5ac28784e1d357b2cc3e84ba4101d82e
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png?id=8" group-title="KIDS" tvg-id="Riyan.b265ce60fe4c5384e622b09eb829b8df.Coday" tvg-name"My Kids (USEETV)",My Kids (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=5f97d16a4406b38ff5a49de81e7d9feadae0eaa5a20cd97c9e4fa674ef8de47e&coday=5ac28784e1d357b2cc3e84ba4101d82e
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?id=8" group-title="KIDS" tvg-id="Riyan.26751be1181460baf78db8d5eb7aad39.Coday" tvg-name"Dreamworks (USEETV)",Dreamworks (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=def4a8e6dcb356771aef3c3ac472f905dae0eaa5a20cd97c9e4fa674ef8de47e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png?id=8" group-title="KIDS" tvg-id="Riyan.442cde81694ca09a626eeddefd1b74ca.Coday" tvg-name"[CODAY] Baby First _USEETV", Baby First _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=f8089affee222f1f593459e5e30bfa2c8d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?id=8" group-title="KIDS" tvg-id="Riyan.ff49cc40a8890e6a60f40ff3026d2730.Coday" tvg-name"[CODAY] Horee _USEETV", Horee _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=fc3142125c09425e2777b7872ac561578d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?id=8" group-title="KIDS" tvg-id="Riyan.7c9d0b1f96aebd7b5eca8c3edaa19ebb.Coday" tvg-name"[CODAY] Duck TV _USEETV", Duck TV _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=72b6581acc839b106bc92e8b21d6313a8d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png?id=8" group-title="KIDS" tvg-id="Riyan.45f31d16b1058d586fc3be7207b58053.Coday" tvg-name"[CODAY] Boomerang _USEETV", Boomerang _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=f91022004ce9aab1397c498ec1ee684b8d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png?id=8" group-title="KIDS" tvg-id="Riyan.c6036a69be21cb660499b75718a3ef24.Coday" tvg-name"[CODAY] Cartoon Network _USEETV", Cartoon Network _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=87dfc97a7654b4b7ad9f04767361eca98d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?id=8" group-title="KIDS" tvg-id="Riyan.d6ef5f7fa914c19931a55bb262ec879c.Coday" tvg-name"[CODAY] Dunia anak _USEETV", Dunia anak _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=352b1a859489df76c74fb7e0b41362ef8d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png?id=8" group-title="KIDS" tvg-id="Riyan.729c68884bd359ade15d5f163166738a.Coday" tvg-name"[CODAY] Nick Junior _USEETV", Nick Junior _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=913c4858c66af34fc5575fcb46f3fecb8d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png?id=8" group-title="KIDS" tvg-id="Riyan.c366c2c97d47b02b24c3ecade4c40a01.Coday" tvg-name"[CODAY] Nickelodeon _USEETV", Nickelodeon _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=f19b88e6cb8cb067565bb3880b2fb3e18d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?id=8" group-title="KIDS" tvg-id="Riyan.aace49c7d80767cffec0e513ae886df0.Coday" tvg-name"[CODAY] Da Vinci Learning _USEETV", Da Vinci Learning _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=aea862aa22a0f5b829d5795882889c088d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png?id=8" group-title="KIDS" tvg-id="Riyan.692f93be8c7a41525c0baf2076aecfb4.Coday" tvg-name"[CODAY] My Kids _USEETV",[CODAY] My Kids _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=5f97d16a4406b38ff5a49de81e7d9fea8d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?id=8" group-title="KIDS" tvg-id="Riyan.e22dd5dabde45eda5a1a67772c8e25dd.Coday" tvg-name"[CODAY] Dreamworks _USEETV", Dreamworks _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=def4a8e6dcb356771aef3c3ac472f9058d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
 
 
 ########################################## MUSIC ######################################################
