@@ -196,17 +196,21 @@ http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8
 ########################################## KNOWLEDGE ######################################################
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="KNOWLEDGE" tvg-id="Riyan.3e15cc11f979ed25912dff5b0669f2cd.Coday" tvg-name"Nat Geo (USEETV)",Nat Geo (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=f91c676cbee8fc9aa708334fcf26d981e3d659e2de4e43ad562e064ecda07330
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=f91c676cbee8fc9aa708334fcf26d981d5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.a928731e103dfc64c0027fa84709689e.Coday" tvg-name"Nat Geo People (USEETV)",Nat Geo People (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=d41f2ddc7d689c014ccbe5a65d05578ae3d659e2de4e43ad562e064ecda07330
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=d41f2ddc7d689c014ccbe5a65d05578ad5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2EXyYTlaYhU/X_hk34uYeEI/AAAAAAAAMfA/jLVIBn8mto4fVeaIsxO0JnMvunvGU6-7gCLcBGAsYHQ/s0/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="Riyan.cb8da6767461f2812ae4290eac7cbc42.Coday" tvg-name"Nat Geo Wild (USEETV)",Nat Geo Wild (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=757a717ee2ade661c665276734c83b16e3d659e2de4e43ad562e064ecda07330
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=757a717ee2ade661c665276734c83b16d5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.04048aeca2c0f5d84639358008ed2ae7.Coday" tvg-name"Discovery Channel (USEETV)",Discovery Channel (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=d78acd9cad41bf3b3a0aaa3b4b106c4ee3d659e2de4e43ad562e064ecda07330
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=d78acd9cad41bf3b3a0aaa3b4b106c4ed5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.5ec829debe54b19a5f78d9a65b900a39.Coday" tvg-name"Crime Investigation (USEETV)",Crime Investigation (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=11212100ad02e3b620718062ab1a287fe3d659e2de4e43ad562e064ecda07330
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=11212100ad02e3b620718062ab1a287fd5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.f7ac67a9aa8d255282de7d11391e1b69.Coday" tvg-name"CGTN Documentary (USEETV)",CGTN Documentary (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=85a7060ea54b0971c1f54b355cf69ad2e3d659e2de4e43ad562e064ecda07330
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=85a7060ea54b0971c1f54b355cf69ad2d5b9ff5be02ec7f32ecf3ec96c51f124
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="RIYAN.8297b70ec40ef6c906ee5cc6879ea5f6.SHINTA" tvg-name"[CODAY] Smithsonian _VIDIO" group-title="KNOWLEDGE", Smithsonian 
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963ac8ffe9a587b126f152ed3d89a146b445
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="RIYAN.b80dd44d6065c085897fe1d94c2cda87.SHINTA" tvg-name"[CODAY] Love Nature _VIDIO" group-title="KNOWLEDGE", Love Nature 
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7c8ffe9a587b126f152ed3d89a146b445
 
 
 
