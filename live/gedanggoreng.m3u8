@@ -349,3 +349,8 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9
 #EXTINF:-1 tvg-logo="https:///coday.jpg" group-title="VOD CODAY",[CODAY] The Tarix Jabrix 3
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b7866e4e8e1129423f031970a88bb227d
 
+// YT CODAY
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="YOUTUBE LIVE", Live Streaming tvOne 24 Jam - YouTube
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=2815529715596fd71b2914908f6ce2fd&cdy=e6dbfcce9a847124e26a6f0e95463fcb6350bda99c2c71d65b97e0c7973b30ed
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="YOUTUBE LIVE", NET TV LIVE 2020 - YouTube
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=2815529715596fd71b2914908f6ce2fd&cdy=3e1f1b1ce7bffbcb512fd061544b84d76350bda99c2c71d65b97e0c7973b30ed
