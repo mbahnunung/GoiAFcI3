@@ -21,8 +21,8 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28c4195da44844bf090c1730f35f20aa65
 #https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1321359353882890242/0fwFLSI6_400x400.jpg" group-title="Nasional",GTV
-https://tv.mbahnunungonline.net/playlist/gtv.m3u8
-#http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708ec4195da44844bf090c1730f35f20aa65
+#https://tv.mbahnunungonline.net/playlist/gtv.m3u8
+http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708ec4195da44844bf090c1730f35f20aa65
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" group-title="Nasional",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=bb3d05263896804e85dbca22be84bb7693cfea2c3f7fc7c3901667557efd1592
