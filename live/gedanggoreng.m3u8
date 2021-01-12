@@ -337,9 +337,9 @@ http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9
 #EXTINF:-1 tvg-logo="https:///coday.jpg" group-title="VOD CODAY",[CODAY] Kawin Kontrak 3
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=730083ac6d47c4b97184062aa40027027866e4e8e1129423f031970a88bb227d
 #EXTINF:-1 tvg-logo="https:///coday.jpg" group-title="VOD CODAY",[CODAY] Warkop DKI - Itu Bisa Diatur
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a37866e4e8e1129423f031970a88bb227d
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a399c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-logo="https:///coday.jpg" group-title="VOD CODAY",[CODAY] Warkop DKI - Bebas Aturan Main
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b17866e4e8e1129423f031970a88bb227d
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b199c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-logo="https:///coday.jpg" group-title="VOD CODAY",[CODAY] The Tarix Jabrix
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=997bba22a9d6f40d5ed029e4fc0c25c37866e4e8e1129423f031970a88bb227d
 #EXTINF:-1 tvg-logo="https:///coday.jpg" group-title="VOD CODAY",[CODAY] The Tarix Jabrix 2
