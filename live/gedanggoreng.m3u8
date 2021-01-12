@@ -79,8 +79,9 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF: -1  tvg-logo="https://pbs.twimg.com/profile_images/1217705227018588163/ZgnPpAoa.jpg"group-title="ASTRO TV", Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="ASTRO TV",ASTRO AWANI 
-https://awanitv.akamaiz#EXTINF:-1 tvg-logo="http://codaytv.eu/images/tv9.png?cdy=8.8.8.8" group-title="ASTRO TVA", TV9 
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=f031684a91618663edc26637eb11563cc20ad4d76fe97759aa27a0c99bff6710&coday=0f6a8bda1a3e2ddbb09c18f9e7622161ed.net/hls/live/2017836/LiveTV1/index.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 tvg-logo="http://codaytv.eu/images/tv9.png?cdy=8.8.8.8" group-title="ASTRO TVA", TV9 
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=f031684a91618663edc26637eb11563cc20ad4d76fe97759aa27a0c99bff6710&coday=0f6a8bda1a3e2ddbb09c18f9e7622161
 
 
 ########################################## KIDS ######################################################
