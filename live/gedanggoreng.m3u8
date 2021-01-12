@@ -166,15 +166,16 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://1.bp.blogspot.com/-HXnfAlrgfrg/XmnTuPMVB4I/AAAAAAAAMI4/loc4VlIEFw4Bky0JZ_qMNQwawh2jpvFwwCLcBGAsYHQ/s1600/logo_celestialmovie.png" tvg-country="id" tvg-url="" group-title="MOVIES",Celestialmovies
 #http://rr2.dens.tv/s/s33/01.m3u8
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=ef2848a81b28e96ff815e4def1d96de4e3d659e2de4e43ad562e064ecda07330
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=ef2848a81b28e96ff815e4def1d96de4d5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" tvg-country="id" tvg-url="" group-title="MOVIES",AXN
 #http://rr.dens.tv/h/h141/01.m3u8
-http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=625fa0bfdb706073072b1d52884d47c69d9f4f0d6875ef21fdf7afa524f298ab
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=625fa0bfdb706073072b1d52884d47c6a5b6ffcefc736c3dfc1f40ec5838e6f0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" tvg-country="id" tvg-url="" group-title="MOVIES",KIX
 #http://rr.dens.tv/h/h07/01.m3u8
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="hhttps://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" tvg-country="id" tvg-url="" group-title="Horor",thrill
-http://rr2.dens.tv/s/s34/index.m3u8
+#http://rr2.dens.tv/s/s34/index.m3u8
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=5d3a0a0bdc97ddcdced9c576f2c7dc01d5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://i.imgur.com/r58Vr0z.jpg" tvg-country="id" tvg-url="" group-title="MOVIES",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" group-title="MOVIES", &Prive HD
@@ -186,11 +187,13 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tube.hk/images/tv_cache/c/400x400_35fox_family_movies.jpg" group-title="MOVIES", FOX FAMILY HD [VN]
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo= "http://www.useetv.com/assets/images/channel/logo_dunialain_small.png?id=8" group-title="Horor", Dunia Lain 
-http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=6fbb752d15ccfea071c0d563cf68e9979d9f4f0d6875ef21fdf7afa524f298ab
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=6fbb752d15ccfea071c0d563cf68e997a5b6ffcefc736c3dfc1f40ec5838e6f0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.309a8e73b2cdb95fc1affa8845504e87.Coday" tvg-name"IMC (USEETV)",IMC (USEETV)
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=601dd4047a1b7be8c6d9896b80447d5ce3d659e2de4e43ad562e064ecda07330
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=601dd4047a1b7be8c6d9896b80447d5cd5b9ff5be02ec7f32ecf3ec96c51f124
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?id=8" group-title="MOVIES" tvg-id="Riyan.cd0cbcc668fe4bc58e0af3cc7e0a653d.Coday" tvg-name"[CODAY] Bioskop Indonesia _USEETV", Bioskop Indonesia _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=1c7cd47eb6d44a98d7dfb408ac93346bd5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_warner_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.ec6add58983ece9b953f7a3dc04248f2.Coday" tvg-name"Warner (USEETV)",Warner (USEETV)
-http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1660885848050e9ca9746ddd54e2de259d9f4f0d6875ef21fdf7afa524f298ab
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1660885848050e9ca9746ddd54e2de25a5b6ffcefc736c3dfc1f40ec5838e6f0
 
 
 ########################################## KNOWLEDGE ######################################################
