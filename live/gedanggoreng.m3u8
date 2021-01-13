@@ -285,5 +285,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=2815529715596fd71b2914908f6ce2fd&cdy=e6dbfcce9a847124e26a6f0e95463fcb6350bda99c2c71d65b97e0c7973b30ed
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="YOUTUBE LIVE", NET TV LIVE 2020 - YouTube
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=2815529715596fd71b2914908f6ce2fd&cdy=3e1f1b1ce7bffbcb512fd061544b84d76350bda99c2c71d65b97e0c7973b30ed
-#EXTINF:-1,AR: BeiN Nat Geo FHD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo FHD", Nat Geo FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/90
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2EXyYTlaYhU/X_hk34uYeEI/AAAAAAAAMfA/jLVIBn8mto4fVeaIsxO0JnMvunvGU6-7gCLcBGAsYHQ/s0/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo Wild FHD", Nat Geo Wild FHD
+http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/92
+#EXTINF:-1,AR: BeiN Nat Geo People FHD
+http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/91
