@@ -35,7 +35,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w371654290_b1492000_s
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png" group-title="Nasional",TVONE
 http://rr2.dens.tv/s/s105/index2.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="Nasional",KOMPASTV
-http://rr2.dens.tv/s/s104/index2.m3u8
+http://rr2.dens.tv/s/s104/01.m3u8
 #http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559c8ffe9a587b126f152ed3d89a146b445
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-VIKwONyOlwo/X_ncEeoBV_I/AAAAAAAAMfk/gKZSRy__IGUhMlfsLk3eNPDIA0eg0UN3ACLcBGAsYHQ/s0/logo_rtv_big.png" group-title="Nasional",rtv
 http://rr2.dens.tv/s/s12/01.m3u8
