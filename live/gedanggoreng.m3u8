@@ -92,9 +92,6 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="ASTRO TV",ASTRO AWANI 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 tvg-logo="http://codaytv.eu/images/tv9.png?cdy=8.8.8.8" group-title="ASTRO TV", TV9 
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=f031684a91618663edc26637eb11563cc20ad4d76fe97759aa27a0c99bff6710&coday=0f6a8bda1a3e2ddbb09c18f9e7622161
-
 
 ########################################## KIDS ######################################################
 
@@ -117,7 +114,8 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=72b6581a
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png?id=8" group-title="KIDS" tvg-id="Riyan.45f31d16b1058d586fc3be7207b58053.Coday" tvg-name"[CODAY] Boomerang _USEETV", Boomerang
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=f91022004ce9aab1397c498ec1ee684b8d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png?id=8" group-title="KIDS" tvg-id="Riyan.c6036a69be21cb660499b75718a3ef24.Coday" tvg-name"[CODAY] Cartoon Network _USEETV", Cartoon Network
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=87dfc97a7654b4b7ad9f04767361eca98d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=87dfc97a7654b4b7ad9f04767361eca98d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+http://178.132.3.162:88/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?id=8" group-title="KIDS" tvg-id="Riyan.d6ef5f7fa914c19931a55bb262ec879c.Coday" tvg-name"[CODAY] Dunia anak _USEETV", Dunia anak
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=352b1a859489df76c74fb7e0b41362ef8d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png?id=8" group-title="KIDS" tvg-id="Riyan.729c68884bd359ade15d5f163166738a.Coday" tvg-name"[CODAY] Nick Junior _USEETV", Nick Junior
