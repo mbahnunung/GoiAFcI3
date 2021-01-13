@@ -283,9 +283,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 // YT CODAY
-#EXTINF:-1,DE : AXN FHD
+#EXTINF:-1,DE : SONY AXN FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/468
-#EXTINF:-1,DE : ZEE ONE FHD
+#EXTINF:-1,DE : RTL Living FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/469
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo FHD", Nat Geo FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/90
@@ -293,3 +293,8 @@ http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/90
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/92
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?id=8" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo People FHD", Nat Geo People FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/91
+
+#EXTINF:-1,UK : AXN FHD
+http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/526
+#EXTINF:-1,UK : HBO FHD
+http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/527
