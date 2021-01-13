@@ -294,7 +294,7 @@ http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/92
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?id=8" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo People FHD", Nat Geo People FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/91
 
-#EXTINF:-1,UK : AXN FHD
+#EXTINF:-1,UK : MoviePlus
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/526
-#EXTINF:-1,UK : HBO FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" tvg-country="ID" tvg-url="" group-title="MOVIES",UK : HBO FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/527
