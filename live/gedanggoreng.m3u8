@@ -34,7 +34,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="Nasional",KOMPAS TV
 #http://rr2.dens.tv/s/s104/index.m3u8
-http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559c4195da44844bf090c1730f35f20aa65
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559c8ffe9a587b126f152ed3d89a146b445
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-VIKwONyOlwo/X_ncEeoBV_I/AAAAAAAAMfk/gKZSRy__IGUhMlfsLk3eNPDIA0eg0UN3ACLcBGAsYHQ/s0/logo_rtv_big.png" group-title="Nasional",rtv
 #http://rr2.dens.tv/s/s12/01.m3u8
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ac4195da44844bf090c1730f35f20aa65
