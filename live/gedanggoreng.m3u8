@@ -217,7 +217,7 @@ http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/537
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=f91c676cbee8fc9aa708334fcf26d981d5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?id=8" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo People (USEETV)",Nat Geo People (USEETV)
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=d41f2ddc7d689c014ccbe5a65d05578ad5b9ff5be02ec7f32ecf3ec96c51f124
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2EXyYTlaYhU/X_hk34uYeEI/AAAAAAAAMfA/jLVIBn8mto4fVeaIsxO0JnMvunvGU6-7gCLcBGAsYHQ/s0/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="Riyan.cb8da6767461f2812ae4290eac7cbc42.Coday" tvg-name"Nat Geo Wild (USEETV)",Nat Geo Wild (USEETV)
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2EXyYTlaYhU/X_hk34uYeEI/AAAAAAAAMfA/jLVIBn8mto4fVeaIsxO0JnMvunvGU6-7gCLcBGAsYHQ/s0/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo Wild (USEETV)",Nat Geo Wild (USEETV)
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=757a717ee2ade661c665276734c83b16d5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?id=8" group-title="KNOWLEDGE" tvg-id="" tvg-name"Discovery Channel (USEETV)",Discovery Channel (USEETV)
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=d78acd9cad41bf3b3a0aaa3b4b106c4ed5b9ff5be02ec7f32ecf3ec96c51f124
@@ -300,7 +300,7 @@ http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/468
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/532
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9pi6Cc.png" group-title="MOVIES", TNT FILM FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/460
-#EXTINF:-1,FR: Nat Geo Wild FHD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2EXyYTlaYhU/X_hk34uYeEI/AAAAAAAAMfA/jLVIBn8mto4fVeaIsxO0JnMvunvGU6-7gCLcBGAsYHQ/s0/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"FR: Nat Geo Wild FHD",FR: Nat Geo Wild FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/236
 #EXTINF:-1, RTL Living FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/469
