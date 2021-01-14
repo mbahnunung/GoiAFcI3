@@ -42,7 +42,7 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ac4195da44844bf090c1730f35f20aa65
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="Nasional",TVRI (ott)
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://3.bp.blogspot.com/-p6qwZWRUdTc/T8d07Dixt8I/AAAAAAAABCA/ZFtYpUN2gu8/s320/berita-satu.png" tvg-country="ID" tvg-url="" group-title="LOKAL",BERITASATU
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://tv.mbahnunungonline.net/img/berita-satu.png" tvg-country="ID" tvg-url="" group-title="LOKAL",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s7ZOCHittVk/V03sueWgDwI/AAAAAAAAFUU/-lYZd3UGm-o6sr8-oFEmD5wyhZkvpgUBACLcB/s1600/logo_cnn_ind.png" group-title="News",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w123726846_b384000_sleng.m3u8
