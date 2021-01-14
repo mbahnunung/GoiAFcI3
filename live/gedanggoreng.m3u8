@@ -225,7 +225,7 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b01930
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png?id=8" group-title="KNOWLEDGE" tvg-id="" tvg-name"Crime Investigation (USEETV)",Crime Investigation (USEETV)
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=11212100ad02e3b620718062ab1a287fd5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?id=8" group-title="KNOWLEDGE" tvg-id="" tvg-name"CGTN Documentary (USEETV)",CGTN Documentary (USEETV)
-https://live.cgtn.com/1000/prog_index.m3u8
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=85a7060ea54b0971c1f54b355cf69ad2d5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/57/63/d8/5763d85f0b8abef6d43b92d7c825950e--family-love-watches-online.jpg" tvg-id="" tvg-name"Smithsonian _VIDIO" group-title="KNOWLEDGE", Smithsonian 
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963ac8ffe9a587b126f152ed3d89a146b445
