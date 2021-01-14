@@ -60,7 +60,7 @@ https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_rri_big1.png?v=2.0.0.13" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/logo_antara_tv.png?id=8" group-title="LOKAL" tvg-id="" tvg-name"Antara _USEETV",Antara (USEETV)
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/logo_antara_tv.png?id=8" group-title="LOKAL" tvg-id="" tvg-name"AntaraTV",AntaraTV
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=cff1f0f0eff214cf9011d2e73d6e0b4057f5ffe3119800086fb6bd261d3dcd61
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-gyyLTDUKF7o/UtPEO-LbVzI/AAAAAAAAChY/9vEGB9GVSfA/s1600/tvedukasi.png" tvg-id="TV Edukasi" tvg-name"TV Edukasi" group-title="KNOWLEDGE",TV Edukasi
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dcec8ffe9a587b126f152ed3d89a146b445
@@ -94,7 +94,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 ########################################## KIDS ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ukeu4Fn.jpg" group-title="KIDS",Disney HD 
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/disneyJunior.jpg" group-title="KIDS",Disney HD 
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/gemkids.jpg" group-title="KIDS",GEM Kids 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
