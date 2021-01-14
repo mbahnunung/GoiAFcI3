@@ -294,7 +294,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 // YT CODAY
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1277608697624014849/E5S6vNgw_400x400.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",UK : HBO FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/527
-#EXTINF:0 tvg-logo="https://i.imgur.com/r2O4QMG.jpg" group-title="MOVIES", SONY AXN FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2O4QMG.jpg" group-title="MOVIES", SONY AXN FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/468
 #EXTINF:-1,UK : SYFY UK FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/532
@@ -308,10 +308,3 @@ http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/469
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo FHD", Nat Geo FHD (ABU DHABI)
 #http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/90
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
-
-
-
-
-
-
