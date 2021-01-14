@@ -292,7 +292,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 // YT CODAY
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1277608697624014849/E5S6vNgw_400x400.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",UK : HBO FHD
+#EXTINF:-1, RTL Living FHD
+http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/469
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="" tvg-logo="https://i.imgur.com/KE8vaE0.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",UK : HBO FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/527
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2O4QMG.jpg" group-title="MOVIES", SONY AXN FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/468
@@ -302,9 +304,6 @@ http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/532
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/460
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2EXyYTlaYhU/X_hk34uYeEI/AAAAAAAAMfA/jLVIBn8mto4fVeaIsxO0JnMvunvGU6-7gCLcBGAsYHQ/s0/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"FR: Nat Geo Wild FHD",FR: Nat Geo Wild FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/236
-#EXTINF:-1, RTL Living FHD
-http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/469
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo FHD", Nat Geo FHD (ABU DHABI)
 #http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/90
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
