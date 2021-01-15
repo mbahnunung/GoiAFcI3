@@ -201,6 +201,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-uYE61c7L.png" group-title="MOVIES", Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/01/09/zeecafe.jpg?itok=kXu2Z3ZD" group-title="MOVIES", ZEE CAFE
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/873344025713033217/ExHy0neU_400x400.jpg" group-title="MOVIES", Foxmovies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SwAOMZw.jpg" group-title="MOVIES", FOX FAMILY HD [VN]
@@ -250,7 +252,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2wQ-oEC2FQw/T9AqHLwVY_I/AAAAAAAABUw/LQPrnUuFH48/s320/9x%2BMusic.png" group-title="MUSIC", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png" group-title="Hindi", Zee Cinema 
-http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
+#http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg" group-title="Hindi", Zee Tv HD 
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ija7pA4.jpg" group-title="Hindi", Discovery Hindi 
