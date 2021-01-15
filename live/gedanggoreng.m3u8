@@ -13,8 +13,8 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 https://tv.mbahnunungonline.net/playlist/antv.m3u8
 #http://rr2.dens.tv:80/s/s07/index2.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" group-title="Nasional",INDOSIAR
-#http://rr2.dens.tv/s/s04/01.m3u8
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69c8ffe9a587b126f152ed3d89a146b445
+http://rr2.dens.tv/s/s04/01.m3u8
+#http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69c8ffe9a587b126f152ed3d89a146b445
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" group-title="Nasional",NET.
 #http://rr2.dens.tv/s/s08/index.m3u8
 #https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net TV.m3u8?dl=0
@@ -53,7 +53,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1c8ffe9a587b126f152ed3d89a146b445
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kIGgj4ajWxs/XFu7SBDrfiI/AAAAAAAAK3Y/5k8FwkSMDfUY2NiH_oIhaDARqPn9WKgAQCLcBGAs/s1600/logo_mytv.png" group-title="LOKAL",MYTV
 http://rr2.dens.tv/s/s46/01.m3u8
-#http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2bec4195da44844bf090c1730f35f20aa65
+#http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2bec8ffe9a587b126f152ed3d89a146b445
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ajofhX4a1Wg/VXBG8IIDYkI/AAAAAAAAEsc/IBeZDQNdzT8/s1600/logo_tic.png" group-title="LOKAL",THE INDONESIA CHANNEL
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2BYW0ELh6DM/X_neNeq2l3I/AAAAAAAAMfw/3ujg1DFB8ocbe2tW5bTWOIl-tXPdmjV6QCLcBGAsYHQ/s0/logo_nusantaratv_big.png" group-title="LOKAL",nusantara TV
