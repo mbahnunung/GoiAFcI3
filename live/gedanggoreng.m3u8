@@ -242,7 +242,7 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 
 ########################################## Hindi ######################################################
 
-#EXTINF:-1 tvg-id="ext" tvg-name="&tv HD" tvg-logo="https://store-images.s-microsoft.com/image/apps.5822.13510798883717009.9c43c60a-4bfb-4a1e-8e9e-e0b2c76bfb6c.2875b4e4-2bf8-4423-adb6-a6d95095435a?mode=scale&q=90&h=300&w=300" group-title="Hindi",&tv HD
+#EXTINF:-1 tvg-id="ext" tvg-name="&tv HD" tvg-logo="https://i.imgur.com/vV2pv50.png" group-title="Hindi",&tv HD
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_action.png" group-title="Hindi",Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
@@ -282,8 +282,8 @@ http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/526
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hL11ma0KAUw/VXJqM7C0riI/AAAAAAAAEvA/qk7H37dKuJQ/s1600/fashion_tv_hot.png" group-title="ENTERTAINMENT",FTV Hot
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="ENTERTAINMENT",FHASION TV
-https://www.dropbox.com/s/a1xl30r3ok5zddm/FashionTV.m3u8?dl=1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="ENTERTAINMENT",FashionTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21srP8Zoz5L.png" group-title="ENTERTAINMENT",JASMINTV
 #http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w966059350.m3u8
 https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
