@@ -242,7 +242,7 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 
 ########################################## Hindi ######################################################
 
-#EXTINF:-1 tvg-id="ext" tvg-name="&tv HD (1)" tvg-logo="" group-title="Hindi",&tv HD (1)
+#EXTINF:-1 tvg-id="ext" tvg-name="&tv HD" tvg-logo="https://store-images.s-microsoft.com/image/apps.5822.13510798883717009.9c43c60a-4bfb-4a1e-8e9e-e0b2c76bfb6c.2875b4e4-2bf8-4423-adb6-a6d95095435a?mode=scale&q=90&h=300&w=300" group-title="Hindi",&tv HD
 https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_action.png" group-title="Hindi",Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
