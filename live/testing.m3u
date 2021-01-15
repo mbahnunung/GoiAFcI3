@@ -57,7 +57,6 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="cn" tvg-logo="https://4.bp.blogspot.com/-mozr67tdgUc/W-CH02GZaeI/AAAAAAAAJ94/hYBVYnCgSXM3XAGx2gfP-wiPRckIVQwvACLcBGAs/s1600/logo_cgtndocumentary.png" tvg-country="ID" tvg-url="" group-title="News",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VIeyIR1sdaw/V2AXyv26oHI/AAAAAAAAFeY/gGFMgoR-QKIulbOaFvdvBlcKequE2xj7ACLcB/s1600/arirang_tv.png" group-title="News",ARIRANG
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q40Lf2tDUrg/VfZh2qBeFEI/AAAAAAAAE-E/Aq4wwzZBw1Y/s1600/logo_dwtv.png" group-title="News",DW TV
@@ -72,8 +71,7 @@ http://122.248.43.138:1935/ch21/myStream/live.m3u8
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" tvg-country="ID" tvg-url="" group-title="Movies",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://4.bp.blogspot.com/-jAcbXA24-6A/TjeZe5YnelI/AAAAAAAAA50/7hZZZ3ppD_E/s1600/Logo%2BNTV7%2Bpurple%2B%25281%2529.png" tvg-country="MY" tvg-url="" group-title="Malaysia",NTV7
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://1.bp.blogspot.com/-b4JMAmVAjjk/X9jls8V_zPI/AAAAAAAAMcs/B65FoMlGCfwqe9Mj382A_eygLjLR68FBwCLcBGAsYHQ/s320/Pertiwitv.png" tvg-country="MY" tvg-url="" group-title="Malaysia",Pertiwi TV
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://4.bp.blogspot.com/-q35SEqK9HvI/XMfJC7mMELI/AAAAAAAALYc/gEAOcpKPRJg7FJsGJjPpczRAmCi1Ja8UACLcBGAs/s1600/tv1-malaysia.png" tvg-country="MY" tvg-url="" group-title="Malaysia",RTM 1
@@ -84,12 +82,6 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF: -1  tvg-logo="https://pbs.twimg.com/profile_images/1217705227018588163/ZgnPpAoa.jpg"group-title="Malaysia", Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://1.bp.blogspot.com/-2csW4KIftNk/VM5kNvjdM0I/AAAAAAAARW8/uIGp9dY39ck/s1600/8TV%2BMalaysia%2BOnline%2BLive%2BStreaming.jpg"group-title="Malaysia", 8TV
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
-#EXTINF: -1  tvg-logo="https://pbs.twimg.com/profile_images/1320942000569397248/inIk0m8V.jpg"group-title="Malaysia", TV9 Malaysia
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-#EXTINF: -1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg"group-title="Malaysia",Drama Sangat
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="Malaysia",ASTRO AWANI 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://1.bp.blogspot.com/-HXnfAlrgfrg/XmnTuPMVB4I/AAAAAAAAMI4/loc4VlIEFw4Bky0JZ_qMNQwawh2jpvFwwCLcBGAsYHQ/s1600/logo_celestialmovie.png" tvg-country="MY" tvg-url="" group-title="Movies",Celestialmovies
