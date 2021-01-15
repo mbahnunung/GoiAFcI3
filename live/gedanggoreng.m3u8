@@ -312,3 +312,17 @@ http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/460
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2EXyYTlaYhU/X_hk34uYeEI/AAAAAAAAMfA/jLVIBn8mto4fVeaIsxO0JnMvunvGU6-7gCLcBGAsYHQ/s0/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"FR: Nat Geo Wild FHD",FR: Nat Geo Wild FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/236
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="YOUTUBE LIVE", CODAY WAS HERE!
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="YOUTUBE LIVE", NET TV LIVE 2020 - YouTube
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=2815529715596fd71b2914908f6ce2fd&cdy=6fc62ea8dc5b35e3a73c980a582325786350bda99c2c71d65b97e0c7973b30ed
+#EXTINF:-1 tvg-logo="http://codaytv.eu/images/talkingtom.png?id=8.8.8.8" group-title="YOUTUBE LIVE", 🔴 NEW! Talking Tom Heroes Episodes - LIVE NOW! - YouTube
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=2815529715596fd71b2914908f6ce2fd&cdy=ad91ebfcb0b3984a95e89cef79ad093e6350bda99c2c71d65b97e0c7973b30ed
+#EXTINF:-1 tvg-logo="http://codaytv.eu/images/chuchu.png?id=8.8.8.8" group-title="YOUTUBE LIVE", Pat A Cake &amp; More ChuChu TV Baby Nursery Rhymes &amp; Kids Songs Live Stream - YouTube
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=2815529715596fd71b2914908f6ce2fd&cdy=a74103762671b715f2139933df416b3b6350bda99c2c71d65b97e0c7973b30ed
+#EXTINF:-1 tvg-logo="http://codaytv.eu/images/babybus.png?id=8.8.8.8" group-title="YOUTUBE LIVE", Cerita &amp; Lagu Anak-anak | Lagu Anak Balita | BabyBus Bahasa Indonesia - YouTube
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=2815529715596fd71b2914908f6ce2fd&cdy=f6c8ff99fd61c50e4c8a6910e122ae8b6350bda99c2c71d65b97e0c7973b30ed
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg?id=8.8.8.8" group-title="YOUTUBE LIVE", Live! All of Minnie&#39;s Bow-Toons! 🎀  | Disney Junior - YouTube
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=2815529715596fd71b2914908f6ce2fd&cdy=258f34b46c52aa430ad23589ca1da0786350bda99c2c71d65b97e0c7973b30ed
+#EXTINF:-1 tvg-logo="http://codaytv.eu/images/didi.png?id=8.8.8.8" group-title="YOUTUBE LIVE", CODAY WAS HERE!
+#EXTINF:-1 tvg-logo="https://izzah.tv/wp-content/uploads/2020/08/IZZAH-TV-1-e1597848734741.png" group-title="RELIGIOUS",[CODAY] IZZAH TV _YT
+https://streaming.sigraduta.co.id/izzahtv.m3u8
