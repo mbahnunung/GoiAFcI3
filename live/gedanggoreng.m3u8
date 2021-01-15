@@ -242,7 +242,7 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 
 ########################################## Hindi ######################################################
 
-#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action (1)" tvg-logo="" group-title="Hindi",Zee Action 
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action (1)" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_action.png" group-title="Hindi",Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="Star Plus UK" tvg-logo="https://i.pinimg.com/originals/d5/54/36/d55436bd1581d135888b147892712b22.jpg" group-title="Hindi",Star Plus UK
 http://208.115.215.42/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
