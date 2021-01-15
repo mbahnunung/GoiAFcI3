@@ -80,6 +80,8 @@ https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png" group-title="LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-W8zL_aERK4M/VXH-AEyzP4I/AAAAAAAAEuc/T8eNVqhV3Fw/s1600/BBSTV.png" group-title="LOKAL",BBSTV
+https://dcunilive94-lh.akamaihd.net/i/dclive_1@839502/index_150_av-p.m3u8?sd=10&rebase=on
 
 ########################################## ASTRO TV ######################################################
 
