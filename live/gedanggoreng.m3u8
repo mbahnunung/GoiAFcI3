@@ -262,7 +262,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg" group-title="Hindi", Zee Tv HD 
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="English",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="ANIMAL PLANET HD" tvg-logo="https://meganvsclimatechangehome.files.wordpress.com/2019/10/image.png" group-title="English",ANIMAL PLANET HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/yICjApS.png" tvg-country="IN" tvg-url="" group-title="Hindi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
@@ -273,8 +273,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?
 #EXTINF:-1 tvg-id="Desi Channel" tvg-name="Desi Channel" tvg-language="Hindi" tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" tvg-country="IN" tvg-url="" group-title="MUSIC",Desi Channel
 #https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 http://cdn30.liveonlineservices.com/hls/desitv.m3u8
-#EXTINF:-1 tvg-logo="https://origin-static.nexg.tv/unified/admin/upload/750_1490336979Wow_Cinema_750x380.jpg" group-title="Hindi",Wow Cinema
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1 tvg-id="ZeeBollywood.us" tvg-name="Zee Bollywood" tvg-logo="https://i.imgur.com/ohsQguR.jpg" group-title="Hindi",Zee Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://dreamdth.com/wp-content/uploads/2019/09/Movie-Plus.jpg" group-title="Hindi", MoviePlus
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/526
 
