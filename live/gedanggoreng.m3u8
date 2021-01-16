@@ -284,11 +284,14 @@ http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/526
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="ENTERTAINMENT",FashionTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HD Fashion & LifeStyle" tvg-logo="https://i.imgur.com/cf5Gyi4.jpg" group-title="ENTERTAINMENT",HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="ENTERTAINMENT", Models Inc. HD
+http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21srP8Zoz5L.png" group-title="ENTERTAINMENT",JASMINTV
 #http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w966059350.m3u8
 https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="ENTERTAINMENT", Models Inc. HD
-http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="cnex" tvg-language="Chinese" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png" tvg-country="TW" tvg-url="" group-title="ENTERTAINMENT",MiamiTV
 https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A3 Bikini Network" tvg-logo="https://i.imgur.com/tibZOIG.png" group-title="ENTERTAINMENT",A3 Bikini Network
