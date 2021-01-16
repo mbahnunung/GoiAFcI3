@@ -240,6 +240,10 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 #EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="ANIMAL PLANET HD" tvg-logo="https://meganvsclimatechangehome.files.wordpress.com/2019/10/image.png" group-title="KNOWLEDGE",ANIMAL PLANET HD
 #https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Asia" tvg-logo="https://www.cns.net.tw/web/upload/20170310093344FQyJrWL.jpg" group-title="KNOWLEDGE",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
+
 
 ########################################## Hindi ######################################################
 
