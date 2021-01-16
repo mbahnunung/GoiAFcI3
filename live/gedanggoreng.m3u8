@@ -238,8 +238,8 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hx04jq.jpg" tvg-id="" tvg-name"[CODAY] Love Nature _VIDIO" group-title="KNOWLEDGE", Love Nature 
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7c8ffe9a587b126f152ed3d89a146b445
 #EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="ANIMAL PLANET HD" tvg-logo="https://meganvsclimatechangehome.files.wordpress.com/2019/10/image.png" group-title="KNOWLEDGE",ANIMAL PLANET HD
-https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
-
+#https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 
 ########################################## Hindi ######################################################
 
