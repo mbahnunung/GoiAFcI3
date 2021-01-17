@@ -278,7 +278,7 @@ https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="cnex" tvg-language="Chinese" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eSdW1MsgL.png" tvg-country="TW" tvg-url="" group-title="ENTERTAINMENT",MiamiTV
 https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="A3 Bikini Network" tvg-logo="https://i.imgur.com/tibZOIG.png" group-title="ENTERTAINMENT",A3 Bikini Network
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
 
 ########################################## RADIO ######################################################
