@@ -230,7 +230,7 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_action.png" group-title="Hindi",Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg" group-title="Hindi", &Pictures HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg" group-title="Hindi",&Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi", Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
@@ -245,7 +245,7 @@ http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeBollywood.us" tvg-name="Zee Bollywood" tvg-logo="https://i.imgur.com/ohsQguR.jpg" group-title="Hindi",Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="Star Plus UK" tvg-logo="https://i.pinimg.com/originals/d5/54/36/d55436bd1581d135888b147892712b22.jpg" group-title="Hindi",Star Plus UK
-http://208.115.215.42/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
+http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/yICjApS.png" tvg-country="IN" tvg-url="" group-title="Hindi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://4.bp.blogspot.com/-qTteHsiJnok/V2T5OII_wfI/AAAAAAAAFgs/rm8tYRptCCwUpx1S8KDvzD26ZyvCH2InwCLcB/s1600/B4U_Music_India.png" tvg-country="IN" tvg-url="" group-title="MUSIC",B4U Music
