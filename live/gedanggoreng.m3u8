@@ -5,8 +5,7 @@
 https://tv.mbahnunungonline.net/playlist/rcti2.m3u8
 #http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96c8ffe9a587b126f152ed3d89a146b445
 #EXTINF:0 tvg-logo="https://tv.mbahnunungonline.net/img/logo_sctv.png" group-title="Nasional",SCTV
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=70b442faf7651ffb07f62cf81fb677b257f5ffe3119800086fb6bd261d3dcd61
-#http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4c8ffe9a587b126f152ed3d89a146b445
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4855be097acdf2fea4e342615a154ca3c
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-8pY62LJlQFc/UcA9wBktyVI/AAAAAAAABwc/ymWOxlIRcPc/s1600/mnctv.png" group-title="Nasional",MNCTV
 #https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417c8ffe9a587b126f152ed3d89a146b445
@@ -14,8 +13,7 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 http://rr2.dens.tv:80/s/s07/index2.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" group-title="Nasional",INDOSIAR
 #http://rr2.dens.tv/s/s04/01.m3u8
-#http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=000e4be121ffecc35dac4fbafc90155357f5ffe3119800086fb6bd261d3dcd61
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69c8ffe9a587b126f152ed3d89a146b445
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69855be097acdf2fea4e342615a154ca3c
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" group-title="Nasional",METROTV HD
 #http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w396259667_b1492000_sleng.m3u8
