@@ -281,7 +281,8 @@ https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amber Sym" tvg-logo="https://content.jwplatform.com/v2/media/FvZNULgu/poster.jpg?width=720" group-title="ENTERTAINMENT",Amber Sym
 https://content.jwplatform.com/manifests/FvZNULgu.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Naked News" tvg-logo="https://content.jwplatform.com/v2/media/Z9pDgB08/poster.jpg?width=720" group-title="ENTERTAINMENT",Naked News
+https://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 
 ########################################## RADIO ######################################################
 
