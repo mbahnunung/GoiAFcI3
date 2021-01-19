@@ -130,7 +130,7 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?id=8" group-title="KIDS" tvg-id="" tvg-name"Duck TV",Duck TV
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=72b6581acc839b106bc92e8b21d6313a8d954936655f1b6a17bc8eb9e64b92a0&coday=5ac28784e1d357b2cc3e84ba4101d82e
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=72b6581acc839b106bc92e8b21d6313ac9f0f895fb98ab9159f51fd0297e236d&coday=5ac28784e1d357b2cc3e84ba4101d82e
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png?id=8" group-title="KIDS" tvg-id="Boomerang" tvg-name"Boomerang",Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png?id=8" group-title="KIDS" tvg-id="" tvg-name"Cartoon Network",Cartoon Network
@@ -314,7 +314,7 @@ http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/469
 #EXTINF:-1,AR: OSN Action FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/107
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="" tvg-logo="https://i.imgur.com/KE8vaE0.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",UK : HBO FHD
-http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/527
+https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2O4QMG.jpg" group-title="MOVIES", SONY AXN FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/468
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z7Rs4I4.jpg" group-title="MOVIES", SYFY UK FHD
