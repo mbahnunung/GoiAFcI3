@@ -170,7 +170,7 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=ef2848a81b28e96ff815e4def1d96de4d5b9ff5be02ec7f32ecf3ec96c51f124
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" tvg-country="id" tvg-url="" group-title="MOVIES",AXN
 #http://rr.dens.tv/h/h141/01.m3u8
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=625fa0bfdb706073072b1d52884d47c6a5b6ffcefc736c3dfc1f40ec5838e6f0
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=625fa0bfdb706073072b1d52884d47c6a012ca35ba26d66ea5f0ab45e46a5cbe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" tvg-country="id" tvg-url="" group-title="MOVIES",KIX
 http://rr.dens.tv/h/h07/01.m3u8
 #https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
@@ -189,15 +189,17 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SwAOMZw.jpg" group-title="MOVIES",FOX FAMILY HD [VN]
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo= "http://www.useetv.com/assets/images/channel/logo_dunialain_small.png?id=8" group-title="Horor",Dunia Lain 
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=6fbb752d15ccfea071c0d563cf68e997a5b6ffcefc736c3dfc1f40ec5838e6f0
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=6fbb752d15ccfea071c0d563cf68e997a012ca35ba26d66ea5f0ab45e46a5cbe
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?id=8" group-title="MOVIES" tvg-id="" tvg-name"IMC (USEETV)",IMC (USEETV)
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=601dd4047a1b7be8c6d9896b80447d5c36347412c7d30ae6fde3742bbc4f21b9
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?id=8" group-title="MOVIES" tvg-id="" tvg-name"[CODAY] Bioskop Indonesia",Bioskop Indonesia
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=1c7cd47eb6d44a98d7dfb408ac93346bd5b9ff5be02ec7f32ecf3ec96c51f124
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=1c7cd47eb6d44a98d7dfb408ac93346b36347412c7d30ae6fde3742bbc4f21b9
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_warner_small.png?id=8" group-title="MOVIES" tvg-id="" tvg-name"Warner (USEETV)",Warner (USEETV)
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1660885848050e9ca9746ddd54e2de25a5b6ffcefc736c3dfc1f40ec5838e6f0
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1660885848050e9ca9746ddd54e2de25a012ca35ba26d66ea5f0ab45e46a5cbe
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_warner_small.png?id=8" group-title="MOVIES" tvg-id="" tvg-name"Warner Bros FHD", Warner Bros FHD
 http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/537
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_blueantext_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Blue Ant Extreme",Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
 ########################################## KNOWLEDGE ######################################################
 
