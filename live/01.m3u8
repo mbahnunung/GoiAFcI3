@@ -56,7 +56,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2MijAh7yeGM/X5yK-lyGa3I/AAAAAAAACPo/JjqNZH6paZ0_dwMVaM3k63SWln-jHZ35ACNcBGAsYHQ/s320/FB_IMG_16040942071976466.jpg" group-title="LOKAL",AJWATV
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832855be097acdf2fea4e342615a154ca3c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ID" tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" tvg-country="ID" tvg-url="" group-title="LOKAL",TV9 Nusantara
-http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w1097865797.m3u8
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://1.bp.blogspot.com/-ZS4vru8Cbyg/W-nJ_4nefdI/AAAAAAAAKE0/rxZ68mY45ZQciOkh5e0W5h6RDJyJhNvJgCLcBGAs/s1600/jtv_surabaya.png" tvg-country="ID" tvg-url="" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fb_-MnrB1l4/VXUn39KIEuI/AAAAAAAAEvU/5vuSpIf6kow/s1600/Inspira-TV.png" group-title="LOKAL",InspiraTV
