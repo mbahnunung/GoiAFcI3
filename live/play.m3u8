@@ -165,7 +165,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 //KIDS
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/disneyJunior.jpg" group-title="KIDS",Disney HD 
-http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
+http://79.137.41.99/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/gemkids.jpg" group-title="KIDS",GEM Kids 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZEDeF0jqf_3JzXcCELjzI3NKXHU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg" tvg-id="" tvg-name"Hip Hip Horee!" group-title="KIDS",Hip Hip Horee!
