@@ -270,6 +270,8 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="ENTERTAINMENT", Models Inc. HD
 http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/crimeapress.info/wp-content/uploads/2017/09/iaalaolaoyi.jpg?resize=500%2C330&ssl=1" group-title="ENTERTAINMENT" tvg-id="" tvg-name"World Fashion",World Fashion
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21srP8Zoz5L.png" group-title="ENTERTAINMENT",JASMINTV
 #http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w966059350.m3u8
 https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
