@@ -198,8 +198,6 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=5f97d16a
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?id=8" group-title="KIDS" tvg-id="" tvg-name"Dreamworks",Dreamworks
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=def4a8e6dcb356771aef3c3ac472f905c9f0f895fb98ab9159f51fd0297e236d&coday=5ac28784e1d357b2cc3e84ba4101d82e
 
-
-
 // BERITA
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FX_m76GhFdY/UndG6eJ4NcI/AAAAAAAAB-0/Vsf59f_2OmQ/s1600/aljazeera-arab.png" tvg-id="" tvg-name"Aljazeera (Arabic)" group-title="NEWS",Aljazeera (Arabic)
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
@@ -245,8 +243,8 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=b7951f9081fefcff7b2f917eeb0c6aac1a3c2bab86ff987141c1c0ca109fc331
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png?id=8" group-title="MUSIC" tvg-id="Citra Dangdut" tvg-name"Citra Dangdut",Citra Dangdut
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=4ebdfcce17c99aa45b18e4b719d8c22d1a3c2bab86ff987141c1c0ca109fc331
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?id=8" group-title="MUSIC" tvg-id="Prambors" tvg-name"Prambors",Prambors
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=0990fc3dbc01e3b6026e8a1860bd3d311a3c2bab86ff987141c1c0ca109fc331
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltBHFB9.png" group-title="MUSIC" tvg-id="Prambors" tvg-name"Pop Musik",Pop Musik
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://coday.masuk.id/coday.jpg" group-title="MUSIC",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2wQ-oEC2FQw/T9AqHLwVY_I/AAAAAAAABUw/LQPrnUuFH48/s320/9x%2BMusic.png" tvg-id="9XM" tvg-name"9XM" group-title="MUSIC",9XM
