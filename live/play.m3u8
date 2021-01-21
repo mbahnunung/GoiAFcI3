@@ -329,8 +329,8 @@ https://livedoc.cgtn.com/500d/prog_index.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 // ENTERTAINMENT
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_formosa_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Formosa",Formosa
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=4ae20104cfb2526136d52c9066f7abd5a012ca35ba26d66ea5f0ab45e46a5cbe
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_formosa_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Adventure 4K",FAdventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ajofhX4a1Wg/VXBG8IIDYkI/AAAAAAAAEsc/IBeZDQNdzT8/s1600/logo_tic.png" group-title="ENTERTAINMENT",THE INDONESIA CHANNEL
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1276492481140408321/kBGZTaC3_400x400.jpg" group-title="ENTERTAINMENT" tvg-id="" tvg-name"MagnaTV (Medcom)",MagnaTV (Medcom)
