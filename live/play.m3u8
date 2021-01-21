@@ -17,7 +17,7 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png" tvg-id="Indonesia" tvg-name"TRANSTV" group-title="LOCAL",TRANSTV
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28855be097acdf2fea4e342615a154ca3c
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-eBDn0yWBAzs/UcA-CWH-wBI/AAAAAAAABwk/C76g5GJieTs/s1600/globaltv.png" tvg-id="Indonesia" tvg-name"GTV" group-title="LOCAL",GTV
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708e855be097acdf2fea4e342615a154ca3c
+https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" tvg-id="Indonesia" tvg-name"NET." group-title="LOCAL",NET.
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84855be097acdf2fea4e342615a154ca3c
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" tvg-id="Indonesia" tvg-name"RTV" group-title="LOCAL",RTV
