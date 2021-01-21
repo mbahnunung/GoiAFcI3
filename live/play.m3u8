@@ -105,7 +105,7 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="" tvg-name"Smithsonian" group-title="KNOWLEDGE",Smithsonian
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a855be097acdf2fea4e342615a154ca3c
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="" tvg-name"Love Nature" group-title="KNOWLEDGE",Love Nature
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7855be097acdf2fea4e342615a154ca3c
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/h5vOznosCDqjOS8uzAzYjpcbWYE=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" tvg-id="" tvg-name"TV Edukasi" group-title="KNOWLEDGE",TV Edukasi
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce855be097acdf2fea4e342615a154ca3c
 
@@ -356,8 +356,8 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-OdxU5YbNy0A/XmnU8NK3AjI/AAAAAAAAMJA/kefPhkoHEooJPNQmUEu1MNpE2u4hsYGagCLcBGAsYHQ/s1600/logo_blueantext.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Blue Ant Extreme",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"ABC Australia",ABC Australia
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=aeb0e1531326e460950ee0ecb2cc7c77a012ca35ba26d66ea5f0ab45e46a5cbe
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wJ5MKYKE97Q/YAmw38sZhdI/AAAAAAAAMjA/bGfQ7NqfHdcEkalIQFxbFfN_l2q7-0hLgCLcBGAsYHQ/s0/logo_abcaustralia.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"ABC Australia",ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_nhkworldpremium_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"NHK World Premium",NHK World Premium
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=45d0b492efc9c421c3c37b7325f12267a5b6ffcefc736c3dfc1f40ec5838e6f0
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_history_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"History",History
