@@ -329,6 +329,8 @@ https://livedoc.cgtn.com/500d/prog_index.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 // ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.15" group-title="ENTERTAINMENT" tvg-id="" tvg-name"INSERT LIVE",INSERT LIVE
+https://live.insertlive.com/insertlive/smil:insertlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_formosa_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Adventure 4K",FAdventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ajofhX4a1Wg/VXBG8IIDYkI/AAAAAAAAEsc/IBeZDQNdzT8/s1600/logo_tic.png" group-title="ENTERTAINMENT",THE INDONESIA CHANNEL
