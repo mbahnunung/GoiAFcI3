@@ -89,19 +89,16 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 
 // HIBURAN
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/F9KWhy-IhIjbSH13o5OwPqhGKOM=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7352/vidio-entertainment-74982e.jpg" tvg-id="" tvg-name"Vidio Entertainment" group-title="ENTERTAINMENT",Vidio Entertainment
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=ab73f542b6d60c4de151800b8abc0a6cc8ffe9a587b126f152ed3d89a146b445
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=ab73f542b6d60c4de151800b8abc0a6c855be097acdf2fea4e342615a154ca3c
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HwDf3KuZGrRkPEg9QqZBXOy_NDs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/d85bbf.jpg" tvg-id="" tvg-name"TVN" group-title="ENTERTAINMENT",TVN
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326c8ffe9a587b126f152ed3d89a146b445
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326855be097acdf2fea4e342615a154ca3c
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7_-nPOXCiJi9Vr_6owzKC2smV0c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" tvg-id="" tvg-name"Citra Bioskop" group-title="MOVIES",Citra Bioskop
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388c8ffe9a587b126f152ed3d89a146b445
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oANgznd8LKnwF939_hOA75mnXEo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" tvg-id="" tvg-name"Citra Drama" group-title="ENTERTAINMENT",Citra Drama
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=012d9fe15b2493f21902cd55603382ecc8ffe9a587b126f152ed3d89a146b445
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kGD42ZLQ-OfFt7rrrmLErptMN6c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" tvg-id="" tvg-name"Citra Entertainment" group-title="ENTERTAINMENT",Citra Entertainment
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=72c25197b6a491816d9a84b42d7205f0c8ffe9a587b126f152ed3d89a146b445
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388855be097acdf2fea4e342615a154ca3c
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HJja29nspdnEGPwI1ru3DBLjfuA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6399/zee-bioskop-bdb0e4.jpg" tvg-id="RIYAN.8893032d6401c8fd141f93504ae8c1f9.SHINTA" tvg-name"[CODAY] Zee Bioskop _VIDIO" group-title="MOVIES",[CODAY] Zee Bioskop _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856855be097acdf2fea4e342615a154ca3c
 
 
 //ILMU PENGETAHUAN
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="" tvg-name"Smithsonian" group-title="KNOWLEDGE",Smithsonian
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a855be097acdf2fea4e342615a154ca3c
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="" tvg-name"Love Nature" group-title="KNOWLEDGE",Love Nature
@@ -118,26 +115,6 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832855be097acdf2fea4e342615a154ca3c
 #EXTINF:-1 tvg-id="TV9 Nusantara" tvg-name="TV9 Nusantara" tvg-language="ID" tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" tvg-country="ID" tvg-url="" group-title="RELIGIOUS",TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-
-// Fashion
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hL11ma0KAUw/VXJqM7C0riI/AAAAAAAAEvA/qk7H37dKuJQ/s1600/fashion_tv_hot.png" group-title="Fashion",FTV Midnite FHD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="Fashion",FashionTV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HD Fashion & LifeStyle" tvg-logo="https://i.imgur.com/cf5Gyi4.jpg" group-title="Fashion",HD Fashion & LifeStyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="Fashion", Models Inc. HD
-http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tyPCtX0.jpg" group-title="Fashion" tvg-id="" tvg-name"World Fashion",World Fashion
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21srP8Zoz5L.png" group-title="Fashion",JASMINTV
-https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MiamiTV" tvg-name="MiamiTV" tvg-language="En" tvg-logo="https://1.bp.blogspot.com/-XeEiOY0a1A0/YAVhrtRO_oI/AAAAAAAAA7o/3vqW5oFgpsw6LCVIhgDeFA8hoDBKV4PuwCLcBGAsYHQ/s0/Miami_tv.png" group-title="Fashion",MiamiTV
-https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-id="A3 Bikini" tvg-name="A3 Bikini Network" tvg-logo="https://i.imgur.com/tibZOIG.png" group-title="Fashion",A3 Bikini Network
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-id="Miami TV Jenny Live" tvg-name="Miami TV Jenny Live" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="Fashion",Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
 
 // HBO FULL
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",HBO 
@@ -250,6 +227,27 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2wQ-oEC2FQw/T9AqHLwVY_I/AAAAAAAABUw/LQPrnUuFH48/s320/9x%2BMusic.png" tvg-id="9XM" tvg-name"9XM" group-title="MUSIC",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
+// Fashion
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hL11ma0KAUw/VXJqM7C0riI/AAAAAAAAEvA/qk7H37dKuJQ/s1600/fashion_tv_hot.png" group-title="Fashion",FTV Midnite FHD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="Fashion",FashionTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HD Fashion & LifeStyle" tvg-logo="https://i.imgur.com/cf5Gyi4.jpg" group-title="Fashion",HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="Fashion", Models Inc. HD
+http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tyPCtX0.jpg" group-title="Fashion" tvg-id="" tvg-name"World Fashion",World Fashion
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21srP8Zoz5L.png" group-title="Fashion",JASMINTV
+https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MiamiTV" tvg-name="MiamiTV" tvg-language="En" tvg-logo="https://1.bp.blogspot.com/-XeEiOY0a1A0/YAVhrtRO_oI/AAAAAAAAA7o/3vqW5oFgpsw6LCVIhgDeFA8hoDBKV4PuwCLcBGAsYHQ/s0/Miami_tv.png" group-title="Fashion",MiamiTV
+https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-id="A3 Bikini" tvg-name="A3 Bikini Network" tvg-logo="https://i.imgur.com/tibZOIG.png" group-title="Fashion",A3 Bikini Network
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 tvg-id="Miami TV Jenny Live" tvg-name="Miami TV Jenny Live" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="Fashion",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
+
+
 // Hindi
 #EXTINF:-1 tvg-id="ext" tvg-name="&tv HD" tvg-logo="https://i.imgur.com/vV2pv50.png" group-title="Hindi",&tv HD
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
@@ -346,7 +344,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fLlvUPlcys8/XmnWFBlwDDI/AAAAAAAAMJI/L_aZ9v_HZnc5QdrRA7FqC9H8H2YPeeUTgCLcBGAsYHQ/s1600/logo_animax.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Animax",Animax
 http://rr1.dens.tv/h/h144/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_tvn_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"TVN",TVN
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=441a1754ea7709febd9371cbe8e41d93a5b6ffcefc736c3dfc1f40ec5838e6f0
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=441a1754ea7709febd9371cbe8e41d93a012ca35ba26d66ea5f0ab45e46a5cbe
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pg0XvovwRDA/VqRDN0MI3mI/AAAAAAAAFLo/iUh_5JgRNBM0lGiwaRBkZbYOT1zE_S5PgCPcBGAYYCw/s0/logo_kbs.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"KBS World",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wQwTP64gXmM/XL7vywGPw2I/AAAAAAAALVA/bmB_I5GZC7EKU6qzz37cfaEBs18gvQHCgCPcBGAYYCw/s0/logo_sbsin.png?rand=866" group-title="ENTERTAINMENT",SBS HD
@@ -357,8 +355,7 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wJ5MKYKE97Q/YAmw38sZhdI/AAAAAAAAMjA/bGfQ7NqfHdcEkalIQFxbFfN_l2q7-0hLgCLcBGAsYHQ/s0/logo_abcaustralia.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"ABC Australia",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_nhkworldpremium_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"NHK World Premium",NHK World Premium
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=45d0b492efc9c421c3c37b7325f12267a5b6ffcefc736c3dfc1f40ec5838e6f0
+
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_history_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"History",History
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=3cd15f8f2940aff879df34df4e5c2cd1a012ca35ba26d66ea5f0ab45e46a5cbe
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Waku Waku Japan",Waku Waku Japan
@@ -382,9 +379,9 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 // LIFESTYLE
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?id=8" group-title="LIFESTYLE" tvg-id="" tvg-name"Eat & Go",Eat & Go
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=bc8f15412d651a484a275664ff639db5&cdy=a429c413e708434257820f96d42afd01ac2e39f8ded35795f44c5e46e222861e
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashionone_small1.png?id=8" group-title="LIFESTYLE" tvg-id="" tvg-name"Fashion One",Fashion One
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kFkfudpPh_Q/YAm4mn9SheI/AAAAAAAAMj0/t4rzVieJM2cVIVdCWfultAdePkpWYw_3gCLcBGAsYHQ/s0/logo_fashionone.png" group-title="LIFESTYLE" tvg-id="" tvg-name"Fashion One",Fashion One
 https://stream-01.sg1.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDEXJS3GLjAVKfexAZ_zLVKA)/dm/3/x67chk3/s/live-2.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?id=8" group-title="LIFESTYLE" tvg-id="" tvg-name"FashionTV",FashionTV
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="LIFESTYLE" tvg-id="" tvg-name"FashionTV",FashionTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png?id=8" group-title="LIFESTYLE" tvg-id="" tvg-name"HGTV",HGTV
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=bc8f15412d651a484a275664ff639db5&cdy=26e104754d63adb5a0f6ce026be7182bac2e39f8ded35795f44c5e46e222861e
