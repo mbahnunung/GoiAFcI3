@@ -203,15 +203,13 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&cdy=def4a8e6
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1287777854659399682/VouJT4D3_400x400.jpg" tvg-id="" tvg-name"Euro News" group-title="NEWS",Euro News
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q40Lf2tDUrg/VfZh2qBeFEI/AAAAAAAAE-E/Aq4wwzZBw1Y/s1600/logo_dwtv.png" tvg-id="" tvg-name"DW English" group-title="NEWS",DW English
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1033935051505905664/Zu0V61s3_400x400.jpg" tvg-id="" tvg-name"ABC Australia" group-title="NEWS",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 // NEWS
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Au8vyLGqMg/XJ0HllCI69I/AAAAAAAALLg/pgFyzI0tD4EPGMduVTo1oHH0CmIWkIiUACLcBGAs/s1600/logo_newsasia.png?id=8.8" group-title="NEWS"  tvg-id="CANEL NEWS ASIA HD" tvg-name"CANEL NEWS ASIA HD",CANEL NEWS ASIA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/logo_cnbcid.png" group-title="NEWS"  tvg-id="" tvg-name"CNBC Indonesia",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0GAwZoMfeWU/YAmtb2T1ApI/AAAAAAAAMi0/eWyLxvkQXtE5TmA3aVflpd_R_SS-_zOFgCLcBGAsYHQ/s0/logo_cnbcid.png" group-title="NEWS"  tvg-id="" tvg-name"CNBC Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasia_small.png?id=8" group-title="NEWS"  tvg-id="" tvg-name"CNBC Asia",CNBC Asia
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=fac16785a610534f19d53eef96060d911a3c2bab86ff987141c1c0ca109fc331
@@ -223,15 +221,17 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=7f9bec28bc8902d45d905788d7aa59a11a3c2bab86ff987141c1c0ca109fc331
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ep5puJWQS3.jpg" group-title="NEWS"  tvg-id="BBC Arabic" tvg-name"BBC Arabic",BBC Arabic
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q40Lf2tDUrg/VfZh2qBeFEI/AAAAAAAAE-E/Aq4wwzZBw1Y/s1600/logo_dwtv.png" tvg-id="" tvg-name"DW English" group-title="NEWS",DW English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-3AG03fbtjY4/XLbppv8EJPI/AAAAAAAALQ4/3utLiSNlOJgYFJR9Q6VvZxcKJAXyR92FQCLcBGAs/s1600/logo_france24.png" group-title="NEWS"  tvg-id="" tvg-name"France 24",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png?id=8" group-title="NEWS"  tvg-id="" tvg-name"TRT World",TRT World
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J0NmyoJ8_PQ/YAmrrq8uzaI/AAAAAAAAMic/IeckGmQz04YiJvisw2Cjde8eyQXTkGI2ACLcBGAsYHQ/s0/logo_trtworld.png" group-title="NEWS"  tvg-id="" tvg-name"TRT World",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s7ZOCHittVk/V03sueWgDwI/AAAAAAAAFUU/-lYZd3UGm-o6sr8-oFEmD5wyhZkvpgUBACLcB/s1600/logo_cnn_ind.png" group-title="NEWS"  tvg-id="" tvg-name"CNN Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w123726846_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png?id=8" group-title="NEWS"  tvg-id="" tvg-name"CNN International",CNN International
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-S9kJPlzbwC0/YAms8nN3ECI/AAAAAAAAMis/3BfqZAT-aQ8McZ2TZgw5-XsDd9xfC9UAACLcBGAsYHQ/s0/logo_cnninternational.png" group-title="NEWS"  tvg-id="" tvg-name"CNN International",CNN International
 https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?id=8" group-title="NEWS"  tvg-id="" tvg-name"Bloomberg",Bloomberg
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BFfgSguye6I/YAmsElEgPiI/AAAAAAAAMik/mR3GAbpqwl4LYnoc1pBwhN9O8kMgo8-rwCLcBGAsYHQ/s0/logo_bloomberg.png" group-title="NEWS"  tvg-id="" tvg-name"Bloomberg",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/us/index.m3u8
 
 
@@ -340,7 +340,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_eljhon_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"El John TV",El John TV
 https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1351334769.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"AXN",AXN
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"AXN",AXN (UseeTV)
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=625fa0bfdb706073072b1d52884d47c6a012ca35ba26d66ea5f0ab45e46a5cbe
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VIeyIR1sdaw/V2AXyv26oHI/AAAAAAAAFeY/gGFMgoR-QKIulbOaFvdvBlcKequE2xj7ACLcB/s1600/arirang_tv.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Arirang",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -362,8 +362,6 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=45d0b492efc9c421c3c37b7325f12267a5b6ffcefc736c3dfc1f40ec5838e6f0
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_history_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"History",History
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=3cd15f8f2940aff879df34df4e5c2cd1a012ca35ba26d66ea5f0ab45e46a5cbe
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Kix",Kix
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Waku Waku Japan",Waku Waku Japan
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1bfc88fd0d4c9a2ff74b80258c4f482da012ca35ba26d66ea5f0ab45e46a5cbe
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-PeiBHh5e_ak/VgS9HGl2GqI/AAAAAAAAE-k/6f9MhB1ZkJs/s1600/logo_aniplus.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"ANIPlus",ANIPlus
