@@ -257,7 +257,7 @@ http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg" group-title="Hindi",&Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi", Zing
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Xi53WIjP0Ak/YAo9bcg0j_I/AAAAAAAAMkk/nIy_CQZjn3w5v5vt2_iivqUCjORjsZzzQCLcBGAsYHQ/s320/Zing.jpg" group-title="Hindi", Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png" group-title="Hindi", Zee Cinema HD
 #http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
@@ -266,17 +266,17 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBollywood.us" tvg-name="Zee Bollywood" tvg-logo="https://i.imgur.com/ohsQguR.jpg" group-title="Hindi",Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="Star Plus UK" tvg-logo="https://i.pinimg.com/originals/d5/54/36/d55436bd1581d135888b147892712b22.jpg" group-title="Hindi",Star Plus UK
+#EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="Star Plus UK" tvg-logo="https://1.bp.blogspot.com/-8t1A6h6ITrM/YAo8KkDnwEI/AAAAAAAAMkM/zpRyzqcZQ1AycwFTbGUw8cIxusK4GW3-gCLcBGAsYHQ/s320/StarPlus.jpg" group-title="Hindi",Star Plus UK
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U Kadak" tvg-language="Hindi" tvg-logo="https://i.imgur.com/yICjApS.png" tvg-country="IN" tvg-url="" group-title="Hindi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="B4U Music" tvg-name="B4U Music" tvg-language="Hindi" tvg-logo="https://4.bp.blogspot.com/-qTteHsiJnok/V2T5OII_wfI/AAAAAAAAFgs/rm8tYRptCCwUpx1S8KDvzD26ZyvCH2InwCLcB/s1600/B4U_Music_India.png" tvg-country="IN" tvg-url="" group-title="MUSIC",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="B4U Kadak" tvg-name="B4U Kadak" tvg-language="Hindi" tvg-logo="https://ntvplus.tv/files/image/01/24/76/qsx.png" tvg-country="IN" tvg-url="" group-title="Hindi",BollyWood HD
+#EXTINF:-1 tvg-id="B4U Kadak" tvg-name="B4U Kadak" tvg-language="Hindi" tvg-logo="https://1.bp.blogspot.com/-jg9bv2RWtXY/YAo8nxLDYUI/AAAAAAAAMkU/RLhi1ES9Jyou70jGT-_u7rLncMJYcN73QCLcBGAsYHQ/s0/bollywood.png" tvg-country="IN" tvg-url="" group-title="Hindi",BollyWood HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="Desi Channel" tvg-name="Desi Channel" tvg-language="Hindi" tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" tvg-country="IN" tvg-url="" group-title="MUSIC",Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi", Bflix Movies
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rSFl2yuZYvM/YAo9FitElmI/AAAAAAAAMkc/UgHoJlJaUGMmy6D_11wRyTgP5cO2JpqJACLcBGAsYHQ/s0/bflix-movies-logo.jpg" group-title="Hindi", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 
@@ -331,7 +331,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 // ENTERTAINMENT
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.15" group-title="ENTERTAINMENT" tvg-id="" tvg-name"INSERT LIVE",INSERT LIVE
 https://live.insertlive.com/insertlive/smil:insertlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_formosa_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Adventure 4K",FAdventure 4K
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"B Adventure 4K",B Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ajofhX4a1Wg/VXBG8IIDYkI/AAAAAAAAEsc/IBeZDQNdzT8/s1600/logo_tic.png" group-title="ENTERTAINMENT",THE INDONESIA CHANNEL
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
@@ -359,11 +359,9 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wJ5MKYKE97Q/YAmw38sZhdI/AAAAAAAAMjA/bGfQ7NqfHdcEkalIQFxbFfN_l2q7-0hLgCLcBGAsYHQ/s0/logo_abcaustralia.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"ABC Australia",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_history_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"History",History
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=3cd15f8f2940aff879df34df4e5c2cd1a012ca35ba26d66ea5f0ab45e46a5cbe
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Waku Waku Japan",Waku Waku Japan
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1bfc88fd0d4c9a2ff74b80258c4f482da012ca35ba26d66ea5f0ab45e46a5cbe
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-PeiBHh5e_ak/VgS9HGl2GqI/AAAAAAAAE-k/6f9MhB1ZkJs/s1600/logo_aniplus.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"ANIPlus",ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-9SwarJ_GVjk/W9dl4nKcYDI/AAAAAAAAJ3E/YHeHN8DqlCgj86eQ9w-9Dy3Xew7rt_RpACLcBGAs/s1600/logo_cctv4_tv.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"CCTV4",CCTV4
