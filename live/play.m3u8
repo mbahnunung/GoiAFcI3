@@ -237,7 +237,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="Fashion", Models Inc. HD
 http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tyPCtX0.jpg" group-title="Fashion" tvg-id="" tvg-name"World Fashion",World Fashion
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+https://bozztv.com/36bay2/gin/giniko_worldfashionchannel_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21srP8Zoz5L.png" group-title="Fashion",JASMINTV
 https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MiamiTV" tvg-name="MiamiTV" tvg-language="En" tvg-logo="https://1.bp.blogspot.com/-XeEiOY0a1A0/YAVhrtRO_oI/AAAAAAAAA7o/3vqW5oFgpsw6LCVIhgDeFA8hoDBKV4PuwCLcBGAsYHQ/s0/Miami_tv.png" group-title="Fashion",MiamiTV
