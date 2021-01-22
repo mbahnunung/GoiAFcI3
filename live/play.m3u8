@@ -351,7 +351,8 @@ http://nimlive4.giniko.com/cctv4/cctv4/chunklist_w336893209.m3u8?nimblesessionid
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-fnGIIyIaM_8/T8jQPFmpA3I/AAAAAAAABEE/ezIJ522VdoY/s60/nhk-world.png" group-title="News" tvg-id="" tvg-name"NHK World Japan",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_sgem_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"SGEM",SGEM
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
+http://rr.dens.tv/h/h19/index2.m3u8
+#https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zwP7D6wuuZA/XJ0BVN9566I/AAAAAAAALLM/3-wKSmfg1uwRdhCV6_23vcVzHpSGpLoXQCLcBGAs/s1600/logo_sone.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"SONE",SONE
 http://rr.dens.tv/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-5TUZBEqoIFI/W9dcAJ4fZXI/AAAAAAAAJ24/GmcO3LJ9OOgaKnkrzI6OoT54O9ejjeiAgCLcBGAs/s1600/logo_kplus_tv.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"Kplus",Kplus
