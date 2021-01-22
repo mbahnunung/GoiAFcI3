@@ -211,8 +211,6 @@ https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BFfgSguye6I/YAmsElEgPiI/AAAAAAAAMik/mR3GAbpqwl4LYnoc1pBwhN9O8kMgo8-rwCLcBGAsYHQ/s0/logo_bloomberg.png" group-title="News"  tvg-id="" tvg-name"Bloomberg",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/us/index.m3u8
 
-
-
 // MUSIC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="MUSIC" tvg-id="Maleo" tvg-name"Maleo",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
@@ -385,13 +383,26 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=bc8f15
 https://stream-01.sg1.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDEXJS3GLjAVKfexAZ_zLVKA)/dm/3/x67chk3/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="LIFESTYLE" tvg-id="" tvg-name"FashionTV",FashionTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png?id=8" group-title="LIFESTYLE" tvg-id="" tvg-name"HGTV",HGTV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2Xc7-AAajOg/YApExgl7KCI/AAAAAAAAMkw/RqbhGiH6vicPCWiYmoRE4UkrhkQNh1F8ACLcBGAsYHQ/s0/logo_hgtv.png" group-title="LIFESTYLE" tvg-id="" tvg-name"HGTV",HGTV
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=bc8f15412d651a484a275664ff639db5&cdy=26e104754d63adb5a0f6ce026be7182bac2e39f8ded35795f44c5e46e222861e
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XGLGzZBGqvY/YAm0rjHiWCI/AAAAAAAAMjo/83krrIQFj1EZoa0hdIQRnjKOs64Lp7PlgCLcBGAsYHQ/s0/logo_afn.png" group-title="LIFESTYLE" tvg-id="" tvg-name"Asian Food Network",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
 
 // RADIO
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cpg6ctebufpp.jpg" group-title="RADIO",mbah nunung Online
+http://78.129.237.53:9118/stream
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bIQJYXCkW1U/X_hIakBmkQI/AAAAAAAAMeU/x-8vwWIzMxYijxhEpSUaEDPWiyniq2vwACLcBGAsYHQ/s0/bintangtenggara.png" group-title="RADIO",Bintang Tenggara
+http://live.radiobintangtenggara.com:8000/mbahnunungonline
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zKfFBaCN2dU/WP21Pg4t5ZI/AAAAAAAAAjQ/ndweLDJMRYw-3r_J-GTM-RhEMtqul5FDACPcBGAYYCw/s0/mcfm_station.png" group-title="RADIO",MCFM
+http://live.sg.mcfmbwi.com:9720/mcfm
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ydBhgJoV9Wc/VYYKjRtXEqI/AAAAAAAAAJI/-sdDXgv4UzY/s1600/LOGO%2BSRITANJUNG.jpg" group-title="RADIO",SRITANJUNG
+http://play.xajist.com:8208/stream&1609467521220
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IVu0rwyczX8/U8gBkcGwu6I/AAAAAAAAD1k/-ZcGciZ4nUQ/s1600/visfm.png" group-title="RADIO",VisFM
+http://s4.vinhostmedia.com:8000/streamaac
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Uxf8xz3e6rg/VD4OjHN7jBI/AAAAAAAAEFw/hi81dF_UdQ0/s1600/gbsfm.png" group-title="RADIO",GBSFM
+https://s7.alhastream.com/radio/8090/radio?1609467814144
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/JK_vdgSzbuy1Z4zpXS2v_kYOAFQ=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7184/20f600.jpg" group-title="RADIO",[CODAY] Ardan Radio _VIDIO
 https://cdn-production-thumbor-vidio.akamaized.net/JK_vdgSzbuy1Z4zpXS2v_kYOAFQ=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7184/20f600.jpg?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjcxODQsInBsYXlsaXN0X3VybCI6Imh0dHBzOi8vYXBwLWV0c2xpdmUtMi52aWRpby5jb20vbGl2ZS83MTg0L21hc3Rlci5tM3U4IiwiZXhwaXJlX2luIjoxNDQwMH0sImV4cCI6MTYxMDQ2Njk3NiwiaXNzIjoid3d3LnZpZGlvLmNvbSJ9.p7AVZMeMWOWFKbpFfiBylkISQ6w2CJ1_5zuJXbw3HyNThIndwH0AMwDlGXRGJg7pLKh7EHiUWOkcs2RPoq5BonAB-0-rp9ppmgbI2GF9GeytBuIscA1w8lCUphbBB5LH0qJRCrx5nRaKl4hQRTDHTW90Bj-7DVt9dmUXajtTEWZ3J5NzCXCRGy4BeJ1pFOzIPLGuZGcLGw8DlQuBYlsDRdNFh_UvkrCy-YRaS8ywy0uzYiLEA6n4cPXg8qxpDlDubRFCDl7wtYkLPqBIWzdTzm3aFif1xP7xadNhVQMUGkz2CFG1_ZNcqNQMpPYARa5Z5adNx5TfTqbv4z7vngUEEA&auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdlk4NzVHeW1yWldSRWptZVhjUFhJTldwQXRMaEViMjk4MlI2WHhFOENxWEN3K0J1eTVraFZMdVdPMGR5RlE3YW9PZG1MbWdjMkwyMzkwMjRkVHJFK2dFWEtUeER1T0FTZWNWWUNvSFdINUZsSWFXTEpTeFR4SjRyWVpKMjM2U1gzYmVxd3VCbytHWDBVaHB0cHVjOG5QM2R4N1ozU2xOdnRsaWlWSmxzbVg2Nlp1Mmw5a0FYS2ZZUXRxdUJqcVVUUzQyRVY1ZkNTZU53bzNwVjk0enByRzYvVmkvNjY1bHEzMkVXUmtOZVVNNzhWdHVtdEJEMkVVNDlaRU0wVHN5MzlNaFE3VkRTVUN4eGM2UUxjY3lqcHZQYjJVb2J5YmJRdnhYck9ER3EzaVd4YlptSWJwMHNZYmRuTkZJNVB1RXd3SFpNd0RkeTdpQU03eVFMbCtmU3l0U1NOYTVZM253dExudzZnNkYzWmpuWW1JRmtPVXNvMTBKbmY1UTBra2FEQ3JKa0IrWE1LbzlSWXNSa1c4VHY3SzhIQkl6MWhSc21rbGoraXYvazJvOFBYcVhYSlQxczlkK0daaEVJT3gxUHJ2M0NwQ2lxbkVnWlhzb1NOWlJLQlMwMy9PQm9BK1FldVNwSWxTdkZQYjBNeXdCY1JoS1ozMzhrZnNDSXJrcnNQQU40VFVnTjVMcTNCTGR0eStBYlhsMnpRcWtaRTVLOUdZUEVjY1ZaVXB4VWVsU0lqYjE2aHZxWEZBWHpyWWRGeTltR245WDI4T0dORjJ6cXBXKy8yUk1YR0laYWJIcG5HaWZUdTBOV2JPeTkvV3I2MDhFdVN2TEdndHVrTDVOekFxYVVCaS92YkVodGNlTFFDUmFNOXJ2S2N5K3NGYW11R3h3alhuTTM5NXA5dTEyYTg5UEpKa0pSWWw3Nm85MDJWeUdsM3d6TlpEZW9xRDJSN3VvWnhqUT09&trace_id=1610466197702373841
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6oKgnw867mne27GzUUtVtT0N2UQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="RADIO",[CODAY] MGTRADIO _VIDIO
