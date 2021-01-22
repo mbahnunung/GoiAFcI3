@@ -107,12 +107,12 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce102a6ed6587b5b8cb4ebbe972864690b
 
 //RELIGI
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/L-T7VnfcN2Wk5nDNelMi3IRdJPI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" tvg-id="" tvg-name"Citra Muslim" group-title="RELIGIOUS",Citra Muslim
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=c4f8a2db7f8704b0bdaa266d61ef48c3855be097acdf2fea4e342615a154ca3c
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l-38Cf3Puq4/UyGOjz2m0kI/AAAAAAAACp0/rvspLPtz27s/s1600/logo_tvmuhammadiyah.png" group-title="RELIGIOUS" tvg-id="" tvg-name"Muhammadiyah TV",Muhammadiyah TV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=bc8f15412d651a484a275664ff639db5&cdy=0a5bae6923685f52437a8e4d4d76d4e9ac2e39f8ded35795f44c5e46e222861e
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/yz8y9eL4shlNzIj8LXBKmOIKGD4=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" tvg-id="" tvg-name"Al Quran Al Kareem TV" group-title="RELIGIOUS",Al Quran Al Kareem TV
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a855be097acdf2fea4e342615a154ca3c
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2MijAh7yeGM/X5yK-lyGa3I/AAAAAAAACPo/JjqNZH6paZ0_dwMVaM3k63SWln-jHZ35ACNcBGAsYHQ/s320/FB_IMG_16040942071976466.jpg" tvg-id="LOCAL" tvg-name"AJWATV" group-title="RELIGIOUS",AJWATV
-http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832855be097acdf2fea4e342615a154ca3c
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-id="TV9 Nusantara" tvg-name="TV9 Nusantara" tvg-language="ID" tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" tvg-country="ID" tvg-url="" group-title="RELIGIOUS",TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
@@ -196,7 +196,7 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=e92c2d
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png?id=8" group-title="News"  tvg-id="" tvg-name"IDX",IDX
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=7f9bec28bc8902d45d905788d7aa59a11a3c2bab86ff987141c1c0ca109fc331
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ep5puJWQS3.jpg" group-title="News"  tvg-id="BBC Arabic" tvg-name"BBC Arabic",BBC Arabic
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Y0EyCUvqQf8/XMYyi8sUh7I/AAAAAAAALXI/5JBaMEUXJR89kAUCcPkzEyGlcQRzVv9NwCLcBGAs/s1600/bbc-arab.png" group-title="News"  tvg-id="BBC Arabic" tvg-name"BBC Arabic",BBC Arabic
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q40Lf2tDUrg/VfZh2qBeFEI/AAAAAAAAE-E/Aq4wwzZBw1Y/s1600/logo_dwtv.png" tvg-id="" tvg-name"DW English" group-title="News",DW English
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
