@@ -346,7 +346,8 @@ http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-PeiBHh5e_ak/VgS9HGl2GqI/AAAAAAAAE-k/6f9MhB1ZkJs/s1600/logo_aniplus.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"ANIPlus",ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-9SwarJ_GVjk/W9dl4nKcYDI/AAAAAAAAJ3E/YHeHN8DqlCgj86eQ9w-9Dy3Xew7rt_RpACLcBGAs/s1600/logo_cctv4_tv.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"CCTV4",CCTV4
-http://rr2.dens.tv/s/s19/index.m3u8
+#http://rr2.dens.tv/s/s19/index.m3u8
+http://nimlive4.giniko.com/cctv4/cctv4/chunklist_w336893209.m3u8?nimblesessionid=42794486&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDg6NTI6NDMgQU0maGFzaF92YWx1ZT1veEcrZXQxVU5tbDZ0SmNPd0sxTlNBPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-fnGIIyIaM_8/T8jQPFmpA3I/AAAAAAAABEE/ezIJ522VdoY/s60/nhk-world.png" group-title="News" tvg-id="" tvg-name"NHK World Japan",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_sgem_small.png?id=8" group-title="ENTERTAINMENT" tvg-id="" tvg-name"SGEM",SGEM
