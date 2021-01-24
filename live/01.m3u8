@@ -114,9 +114,9 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://79.137.41.99/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/gemkids.jpg" group-title="KIDS",GEM Kids 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZEDeF0jqf_3JzXcCELjzI3NKXHU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg" tvg-id="" tvg-name"Hip Hip Horee!" group-title="KIDS",Hip Hip Horee!
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sheVqvQ0Pxg/YA2L2bWQ-nI/AAAAAAAAA-w/Zk3sYZl1LDsOd3o9f7oG4dGgl4r_IftkgCLcBGAsYHQ/s0/hiphiphoree.jpg" tvg-id="" tvg-name"Hip Hip Horee!" group-title="KIDS",Hip Hip Horee!
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-7052
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/STe84feg1i6KlL2HUbcZT_ocKLk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" tvg-id="" tvg-name"Zoomoo" group-title="KIDS",Zoomoo
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/B1KZQ2XIUAEdph8.jpg" tvg-id="" tvg-name"Zoomoo" group-title="KIDS",Zoomoo
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6533
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eEyNnyGiKJk/YAepZGXmimI/AAAAAAAAMhU/eD_hWT8k2MopDrkHfRc6i02p2hMZX5qAwCLcBGAsYHQ/s0/logo_horee.png" group-title="KIDS" tvg-id="" tvg-name"Horee",Horee
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-horee
