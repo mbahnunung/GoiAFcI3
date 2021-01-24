@@ -175,7 +175,7 @@ http://rr.dens.tv/h/h07/01.m3u8
 http://rr2.dens.tv/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="en" tvg-logo="https://i.imgur.com/r58Vr0z.jpg" tvg-country="id" tvg-url="" group-title="MOVIES",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" group-title="MOVIES",&Prive HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rOsgAVq8N8w/YA14unJCWII/AAAAAAAAA-U/pirVECA07dc6MvY--tnK8jQhy6pDVR37QCLcBGAsYHQ/s0/%2526Prive.jpg" group-title="MOVIES",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-uYE61c7L.png" group-title="MOVIES",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
@@ -212,11 +212,11 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?id=8" group-title="KNOWLEDGE" tvg-id="" tvg-name"CGTN Documentary (USEETV)",CGTN Documentary (USEETV)
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="" tvg-name"Smithsonian" group-title="KNOWLEDGE",Smithsonian
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IjZRdaLrdx4/YA12tIjx1EI/AAAAAAAAA-E/TsfAmoKu_8QoyMfy4QJciLd1x2ctrKpsACLcBGAsYHQ/s0/smithsonian.png" tvg-id="" tvg-name"Smithsonian" group-title="KNOWLEDGE",Smithsonian
 https://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6550
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hx04jq.jpg" tvg-id="" tvg-name"Love Nature" group-title="KNOWLEDGE",Love Nature
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6635
-#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="ANIMAL PLANET HD" tvg-logo="https://meganvsclimatechangehome.files.wordpress.com/2019/10/image.png" group-title="KNOWLEDGE",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-zVt8jckiDx0/YA13zhYCjAI/AAAAAAAAA-M/x4J2h5yAfpIyuY_lGp2zgIaFNMUNCH6AgCLcBGAsYHQ/s0/AnimalPlanet.jpg"" group-title="KNOWLEDGE",ANIMAL PLANET HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Asia" tvg-logo="https://www.cns.net.tw/web/upload/20170310093344FQyJrWL.jpg" group-title="KNOWLEDGE",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
