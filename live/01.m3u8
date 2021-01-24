@@ -290,16 +290,13 @@ http://s4.vinhostmedia.com:8000/streamaac
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Uxf8xz3e6rg/VD4OjHN7jBI/AAAAAAAAEFw/hi81dF_UdQ0/s1600/gbsfm.png" group-title="RADIO",GBSFM
 https://s7.alhastream.com/radio/8090/radio?1609467814144
 
-#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="Nasional",TVRI (Vision+)
-http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 ########################################## LOKAL ######################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1277608697624014849/E5S6vNgw_400x400.jpg" tvg-country="ID" tvg-url="" group-title="HBO",HBO HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1277608697624014849/E5S6vNgw_400x400.jpg" tvg-country="ID" tvg-url="" group-title="HBO",HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/b1VWps4.jpg" group-title="HBO",HBO Signature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b1VWps4.jpg" group-title="HBO",HBO Signature
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="HBO",Red by HBO
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZXDwlK3EX0I/YA3ERZPEZ1I/AAAAAAAABAM/pqE5HGqQ-wYU2Hepow5dGJA-Nu6rtVLKQCLcBGAsYHQ/s0/RED_byHBO.jpg" group-title="HBO",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 // SPORTS
@@ -318,3 +315,7 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-foxsport2
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dopyzDzv-FI/YAsEfVW6PLI/AAAAAAAAMl4/tTjq0xEPoaUAflywZ1-l0tsIrUSKMvwiwCLcBGAsYHQ/s0/logo_foxsports3.png?v=2.0.0.13" group-title="Sports",Fox Sport 3
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-foxsport3
 
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="Nasional",TVRI (Vision+)
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="First TV" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png",IDX Channel
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
