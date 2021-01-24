@@ -317,9 +317,8 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-foxsport3
 
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="Nasional",TVRI (Vision+)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iVNBFHSxdVk/YAsGMlNfW2I/AAAAAAAAMmE/5cW_37Q3HJIUIvpM8obgi3IlKilzTEucQCLcBGAsYHQ/s0/logo_idx.png" group-title="News"  tvg-id="" tvg-name"IDX",IDX
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFsWfYKR/SCTV.png" group-title="ID",SCTV 2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iVNBFHSxdVk/YAsGMlNfW2I/AAAAAAAAMmE/5cW_37Q3HJIUIvpM8obgi3IlKilzTEucQCLcBGAsYHQ/s0/logo_idx.png" group-title="News"  tvg-id="" tvg-name"IDX",IDX (Vision+)
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" group-title="ID",SCTV (Vision+)
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLsm5z9M/NETtv.png" group-title="ID",NET TV 2
-https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
+
