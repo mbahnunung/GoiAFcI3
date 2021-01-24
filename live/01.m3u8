@@ -24,8 +24,7 @@ http://rr2.dens.tv/s/s105/index2.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="Nasional",KOMPASTV
 http://rr2.dens.tv/s/s104/index.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-rcJgMo9yLzQ/YA1bfttxJlI/AAAAAAAAA9o/9Z3Lp-LnWXE0ymOoGJ3GKU5jGmgTBEnMwCLcBGAsYHQ/s0/rajawali_tv.png" group-title="Nasional",rtv
-http://rr2.dens.tv/s/s12/01.m3u8
-
+http://rr2.dens.tv/s/s12/index.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="Nasional",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-language="id" tvg-logo="https://tv.mbahnunungonline.net/img/berita-satu.png" tvg-country="ID" tvg-url="" group-title="Nasional",BERITASATU
