@@ -302,21 +302,19 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="HBO",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
-// YT CODAY
-#EXTINF:-1, RTL Living FHD
-http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/469
-#EXTINF:-1,AR: OSN Action FHD
-http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/107
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="" tvg-logo="https://i.imgur.com/KE8vaE0.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",UK : HBO FHD
-https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2O4QMG.jpg" group-title="MOVIES", SONY AXN FHD
-http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/468
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z7Rs4I4.jpg" group-title="MOVIES", SYFY UK FHD
-http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/532
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9pi6Cc.png" group-title="MOVIES", TNT FILM FHD
-http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/460
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2EXyYTlaYhU/X_hk34uYeEI/AAAAAAAAMfA/jLVIBn8mto4fVeaIsxO0JnMvunvGU6-7gCLcBGAsYHQ/s0/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"FR: Nat Geo Wild FHD",FR: Nat Geo Wild FHD
-http://iptvfree2021.myftp.org:5000/IPTVFREEUJ/IPTVFREE/236
-
-//LOCAL
+// SPORTS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lz8A0qIPP6Y/VgY1OB_2V5I/AAAAAAAAFAk/9ZZHeZCRrcI6QAkuJ1rptGxvOPViBC-8QCPcBGAYYCw/s0/beinSport1.png" group-title="Sports",Bein Sport 1
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-bein1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kfLY92b04nk/VgY3R0RRquI/AAAAAAAAFAw/2zEzh3rrBQs0ERmZcboo7IIhIfmTmBgLQCPcBGAYYCw/s0/beinSport2.png" group-title="Sports",bein Sport 2
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-bein2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yZhfZqwOeVk/YAryQT83B4I/AAAAAAAAMlY/M7B9Pz_GJZ0VtN3cbbeKgnmEdr9HL-L6QCLcBGAsYHQ/s0/logo_champTV1.png" tvg-id="" tvg-name"Champions TV 1" group-title="Sports",Champions TV 1
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-champion1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kGlB-sKLV4Q/YAryQHIavtI/AAAAAAAAMlU/GVzoW04KETwepTxXxkvWlf2k-7ZkXSRLgCLcBGAsYHQ/s0/logo_champTV2.png" tvg-id="" tvg-name"Champions TV 2" group-title="Sports",Champions TV 2
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6686
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1IdpSOaDbz4/YAsD_iCGmHI/AAAAAAAAMlo/1wBdrH_6M280Mreb41TB3sMYQaVtwmcwQCLcBGAsYHQ/s0/logo_foxsports1.png?v=2.0.0.13" group-title="Sports",Fox Sport 1
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-foxsport1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TBYTApGZA40/YAsEOw9wASI/AAAAAAAAMls/I9CewyP_Z44BoymOYNBzznPrkj9FPE_uwCLcBGAsYHQ/s0/logo_foxsports2.png?v=2.0.0.13" group-title="Sports",Fox Sport 2
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-foxsport2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dopyzDzv-FI/YAsEfVW6PLI/AAAAAAAAMl4/tTjq0xEPoaUAflywZ1-l0tsIrUSKMvwiwCLcBGAsYHQ/s0/logo_foxsports3.png?v=2.0.0.13" group-title="Sports",Fox Sport 3
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-foxsport3
 
