@@ -31,15 +31,15 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png" group-title="Nasional",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/logo_cnbcid.png" group-title="Nasional",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png" group-title="Nasional",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png" group-title="Nasional",iNews HD
 https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JOeiNebffoM/YAVPnl6j5rI/AAAAAAAAA7M/PaKUl_y2g40BRAAGy7IsEVqi1sD970f7wCLcBGAsYHQ/s0/logo_mytv.png" group-title="Nasional",MYTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png" group-title="Nasional",MYTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6711
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ajofhX4a1Wg/VXBG8IIDYkI/AAAAAAAAEsc/IBeZDQNdzT8/s1600/logo_tic.png" group-title="ENTERTAINMENT",THE INDONESIA CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png" group-title="ENTERTAINMENT",THE INDONESIA CHANNEL
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2BYW0ELh6DM/X_neNeq2l3I/AAAAAAAAMfw/3ujg1DFB8ocbe2tW5bTWOIl-tXPdmjV6QCLcBGAsYHQ/s0/logo_nusantaratv_big.png" group-title="LOKAL",Nusantara TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png" group-title="LOKAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
