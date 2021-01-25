@@ -41,7 +41,7 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6711
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2BYW0ELh6DM/X_neNeq2l3I/AAAAAAAAMfw/3ujg1DFB8ocbe2tW5bTWOIl-tXPdmjV6QCLcBGAsYHQ/s0/logo_nusantaratv_big.png" group-title="LOKAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/logo_rri_big1.png?v=2.0.0.13" group-title="LOKAL",RRI NET
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-gyyLTDUKF7o/UtPEO-LbVzI/AAAAAAAAChY/9vEGB9GVSfA/s1600/tvedukasi.png" tvg-id="TV Edukasi" group-title="KNOWLEDGE",TV Edukasi
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-tvedukasi
@@ -55,11 +55,11 @@ http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-jV_RHlaz7-s/W9Vgi441rXI/AAAAAAAAJ2o/cqTu9YwJWdI5U-hCqV7Q_fKpzdE5D9SEQCLcBGAs/s1600/logo_daaitv_big1.png" group-title="LOKAL",DAAITV
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2MijAh7yeGM/X5yK-lyGa3I/AAAAAAAACPo/JjqNZH6paZ0_dwMVaM3k63SWln-jHZ35ACNcBGAsYHQ/s320/FB_IMG_16040942071976466.jpg" tvg-id="LOCAL" group-title="RELIGIOUS",AJWATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeaT4iM.jpg" tvg-id="LOCAL" group-title="RELIGIOUS",AJWATV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-7464
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A_qEVTeUC4A/YA2tmvkJBjI/AAAAAAAAA_M/iH6bqoW7Z8wZvK90myZtbq04bVWZuDIMQCLcBGAsYHQ/s0/jawaposTV.jpg" group-title="LOKAL",Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1276492481140408321/kBGZTaC3_400x400.jpg" group-title="LOKAL",MagnaTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg" group-title="LOKAL",MagnaTV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png" group-title="LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
