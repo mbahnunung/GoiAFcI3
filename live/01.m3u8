@@ -15,11 +15,11 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-734
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png" group-title="Nasional",TRANSTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-733
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-eBDn0yWBAzs/UcA-CWH-wBI/AAAAAAAABwk/C76g5GJieTs/s1600/globaltv.png" group-title="Nasional",GTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4nkYUAd.png" group-title="Nasional",GTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="Nasional",NET.
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-net
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png" group-title="Nasional",tvOne
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="Nasional",tvOne
 http://rr2.dens.tv/s/s105/index2.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="Nasional",KOMPASTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-874
