@@ -148,7 +148,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/asal4pC.png" group-title="MALAYSIA",ASTRO AWANI 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M1VxzDA.jpg"group-title="MALAYSIA",Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxyFUpC.jpg" group-title="MALAYSIA",TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 
