@@ -11,7 +11,7 @@ http://rr2.dens.tv:80/s/s07/index2.m3u8
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-205
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" group-title="Nasional",METROTV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w396259667_b1492000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/logo_trans7.png" group-title="Nasional",TRANS7
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3wyTarimK-E/YAsbLLe0bKI/AAAAAAAAMoc/XHxKZGGY-e0JlY-DLqITZfX8CXw2CHd-ACLcBGAsYHQ/s0/logo_trans7.png" group-title="Nasional",TRANS7
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-734
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png" group-title="Nasional",TRANSTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-733
