@@ -349,3 +349,7 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=6-mp4a_66000
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-kompastv
 #EXTINF:-1  tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" group-title="ID",rtv (UseeTV)
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-rtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png" group-title="Nasional",antv
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-antv
+
+
