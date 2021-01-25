@@ -82,19 +82,19 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-p7I1lG_Aews/UndHCyhg-9I/AAAAAAAAB-8/WFHni9Tkxh8/s1600/arabiya.png" group-title="News",Al arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hKThVZv.jpg" group-title="News",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Y0EyCUvqQf8/XMYyi8sUh7I/AAAAAAAALXI/5JBaMEUXJR89kAUCcPkzEyGlcQRzVv9NwCLcBGAs/s1600/bbc-arab.png" group-title="News",BBC Arabic
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/63/90/3063902dd315fc4a51b6cb06219996fa.png" group-title="ARAB",Libya 218 (LIBYA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hKThVZv.jpg" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7E1ybv.png" group-title="ARAB",Libya 218 (LIBYA)
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MOVIES",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="" group-title="MOVIES",MBC Action HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MOVIES",MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX.jpg" group-title="MOVIES", MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="KNOWLEDGE",Nat Geo FHD (ABU DHABI)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kSL21Yo.jpg" group-title="KNOWLEDGE",Nat Geo FHD (ABU DHABI)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 ########################################## MALAYSIA TV ######################################################
@@ -149,15 +149,15 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1014075507.
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="MUSIC",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UzdfOrfmMpQ/YAm9EyWSRMI/AAAAAAAAMkA/LZN-6wA9D-w53zd2Rl66CX-959sDGRdVQCLcBGAsYHQ/s0/logo_MTVlive.png" group-title="MUSIC" tvg-id="MTV Live" tvg-name"MTV Live",MTV Live
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UzdfOrfmMpQ/YAm9EyWSRMI/AAAAAAAAMkA/LZN-6wA9D-w53zd2Rl66CX-959sDGRdVQCLcBGAsYHQ/s0/logo_MTVlive.png" group-title="MUSIC",MTV Live
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-mtvlive
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ym2-G670TNg/YAsGvaOuktI/AAAAAAAAMmM/QKWFay21iBUgijJ6fvxbWdkvT_jGIE9MwCLcBGAsYHQ/s0/logo_citradangdut.png" group-title="MUSIC" tvg-id="Citra Dangdut" tvg-name"Citra Dangdut",Citra Dangdut
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ym2-G670TNg/YAsGvaOuktI/AAAAAAAAMmM/QKWFay21iBUgijJ6fvxbWdkvT_jGIE9MwCLcBGAsYHQ/s0/logo_citradangdut.png" group-title="MUSIC",Citra Dangdut
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-citradangdut
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2wQ-oEC2FQw/T9AqHLwVY_I/AAAAAAAABUw/LQPrnUuFH48/s320/9x%2BMusic.png" tvg-id="9XM" tvg-name"9XM" group-title="MUSIC",9XM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png" group-title="MUSIC",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fNCrpQtEw8M/XL7vyVhgyWI/AAAAAAAALVA/cY9bq3SetPQzqapcsAEtV4JgsU5fzGyjwCPcBGAYYCw/s0/channel_v.png" group-title="MUSIC",Channel [V] Int
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="City Music TV" tvg-name="City Music TV" tvg-language="Dutch" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" tvg-country="BE" tvg-url="" group-title="MUSIC",City Music TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="MUSIC",City Music TV
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
 
@@ -216,7 +216,7 @@ https://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6550
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6635
 #EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-zVt8jckiDx0/YA13zhYCjAI/AAAAAAAAA-M/x4J2h5yAfpIyuY_lGp2zgIaFNMUNCH6AgCLcBGAsYHQ/s0/AnimalPlanet.jpg"" group-title="KNOWLEDGE",ANIMAL PLANET HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Asia" tvg-logo="https://www.cns.net.tw/web/upload/20170310093344FQyJrWL.jpg" group-title="KNOWLEDGE",Discovery Asia
+#EXTINF:-1 tvg-logo="https://www.cns.net.tw/web/upload/20170310093344FQyJrWL.jpg" group-title="KNOWLEDGE",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 
 
@@ -224,13 +224,13 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png" group-title="Hindi",&tv
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_action.png" group-title="Hindi",Zee Action 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHBlHd3.png" group-title="Hindi",Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg" group-title="Hindi",&Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY.jpg" group-title="Hindi",Zing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zoN04b.jpg" group-title="Hindi",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2wQ-oEC2FQw/T9AqHLwVY_I/AAAAAAAABUw/LQPrnUuFH48/s320/9x%2BMusic.png" group-title="MUSIC",9XM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png" group-title="Hindi",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png" group-title="Hindi",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
@@ -238,13 +238,13 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ohsQguR.jpg" group-title="Hindi",Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8t1A6h6ITrM/YAo8KkDnwEI/AAAAAAAAMkM/zpRyzqcZQ1AycwFTbGUw8cIxusK4GW3-gCLcBGAsYHQ/s320/StarPlus.jpg" group-title="Hindi",Star Plus UK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6LWreq.jpg" group-title="Hindi",Star Plus UK
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png" group-title="Hindi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qTteHsiJnok/V2T5OII_wfI/AAAAAAAAFgs/rm8tYRptCCwUpx1S8KDvzD26ZyvCH2InwCLcB/s1600/B4U_Music_India.png" group-title="MUSIC",B4U Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jIF1NXl.jpg" group-title="MUSIC",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/24/76/qsx.png" group-title="Hindi",BollyWood HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sl2JSJT.png" group-title="Hindi",BollyWood HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" group-title="MUSIC",Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
@@ -259,11 +259,11 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="Fashion",FashionTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HD Fashion & LifeStyle" tvg-logo="https://i.imgur.com/cf5Gyi4.jpg" group-title="Fashion",HD Fashion & LifeStyle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cf5Gyi4.jpg" group-title="Fashion",HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="Fashion", Models Inc. HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CeymXdN.jpg" group-title="Fashion",Models Inc. HD
 http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tyPCtX0.jpg" group-title="Fashion" tvg-id="" tvg-name"World Fashion",World Fashion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tyPCtX0.jpg" group-title="Fashion",World Fashion
 https://bozztv.com/36bay2/gin/giniko_worldfashionchannel_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21srP8Zoz5L.png" group-title="Fashion",JASMINTV
 https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
@@ -273,7 +273,7 @@ https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Fashion",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://content.jwplatform.com/v2/media/Z9pDgB08/poster.jpg?width=720" group-title="FashionT",Naked News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png" group-title="FashionT",Naked News
 https://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 
 
