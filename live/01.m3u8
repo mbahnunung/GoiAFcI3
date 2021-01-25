@@ -349,7 +349,6 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=6-mp4a_66000
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-kompastv
 #EXTINF:-1  tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" group-title="ID",rtv (UseeTV)
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-rtv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="Nasional",METROTV
-https://stream-03.nyc.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS9_kc1DRdC9nROrATUEp0iE)/dm/3/x75p70w/d/live.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="ID",METROTV
+https://stream-03.nyc.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS9_kc1DRdC9nROrATUEp0iE)/dm/3/x75p70w/d/live-2.m3u8
 
