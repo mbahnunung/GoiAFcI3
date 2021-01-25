@@ -138,7 +138,7 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1014075507.
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-q35SEqK9HvI/XMfJC7mMELI/AAAAAAAALYc/gEAOcpKPRJg7FJsGJjPpczRAmCi1Ja8UACLcBGAs/s1600/tv1-malaysia.png" group-title="MALAYSIA",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-itq7U8NLDv0/XMfHyEbUqaI/AAAAAAAALYU/V-0AwQiK2H4p_Q_M2rZj2LjNcBdpVWVvQCLcBGAs/s1600/tv2-malaysia.png" group-title="MALAYSIAV",TV2
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-itq7U8NLDv0/XMfHyEbUqaI/AAAAAAAALYU/V-0AwQiK2H4p_Q_M2rZj2LjNcBdpVWVvQCLcBGAs/s1600/tv2-malaysia.png" group-title="MALAYSIA",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/asal4pC.png" group-title="MALAYSIA",ASTRO AWANI 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
