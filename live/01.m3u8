@@ -9,15 +9,15 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-870
 http://rr2.dens.tv:80/s/s07/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png" group-title="Nasional",INDOSIAR
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-205
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" group-title="Nasional",METROTV
-https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w396259667_b1492000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3wyTarimK-E/YAsbLLe0bKI/AAAAAAAAMoc/XHxKZGGY-e0JlY-DLqITZfX8CXw2CHd-ACLcBGAsYHQ/s0/logo_trans7.png" group-title="Nasional",TRANS7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="Nasional",METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTEjMpg.png" group-title="Nasional",TRANS7
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-734
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png" group-title="Nasional",TRANSTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png" group-title="Nasional",TRANSTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-733
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-eBDn0yWBAzs/UcA-CWH-wBI/AAAAAAAABwk/C76g5GJieTs/s1600/globaltv.png" group-title="Nasional",GTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-778
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" group-title="Nasional",NET.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="Nasional",NET.
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-net
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png" group-title="Nasional",tvOne
 http://rr2.dens.tv/s/s105/index2.m3u8
