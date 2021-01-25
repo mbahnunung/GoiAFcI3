@@ -6,7 +6,7 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-204
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png" group-title="Nasional",MNCTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-870
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png" group-title="Nasional",antv
-http://rr2.dens.tv:80/s/s07/index2.m3u8
+https://tv.mbahnunungonline.net/playlist/antv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png" group-title="Nasional",INDOSIAR
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-205
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="Nasional",METROTV
@@ -20,13 +20,13 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="Nasional",NET.
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-net
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="Nasional",tvOne
-http://rr2.dens.tv/s/s105/index2.m3u8
+http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPXq5vh.png" group-title="Nasional",KOMPASTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-874
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlZqfwV.png" group-title="Nasional",rtv
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-1561
 #EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png" group-title="Nasional",TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png" group-title="Nasional",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png" group-title="Nasional",CNN Indonesia HD
