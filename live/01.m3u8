@@ -4,7 +4,7 @@ https://tv.mbahnunungonline.net/playlist/rctisd.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" group-title="Nasional",SCTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-204
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-8pY62LJlQFc/UcA9wBktyVI/AAAAAAAABwc/ymWOxlIRcPc/s1600/mnctv.png" group-title="Nasional",MNCTV
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-870
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" group-title="Nasional",antv
 http://rr2.dens.tv:80/s/s07/index2.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" group-title="Nasional",INDOSIAR
