@@ -37,7 +37,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kIGgj4ajWxs/XFu7SBDrfiI/AAAAAAAAK3Y/5k8FwkSMDfUY2NiH_oIhaDARqPn9WKgAQCLcBGAs/s1600/logo_mytv.png" group-title="Nasional",MYTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6711
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ajofhX4a1Wg/VXBG8IIDYkI/AAAAAAAAEsc/IBeZDQNdzT8/s1600/logo_tic.png" group-title="LOKAL",THE INDONESIA CHANNEL
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ajofhX4a1Wg/VXBG8IIDYkI/AAAAAAAAEsc/IBeZDQNdzT8/s1600/logo_tic.png" group-title="ENTERTAINMENT",THE INDONESIA CHANNEL
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2BYW0ELh6DM/X_neNeq2l3I/AAAAAAAAMfw/3ujg1DFB8ocbe2tW5bTWOIl-tXPdmjV6QCLcBGAsYHQ/s0/logo_nusantaratv_big.png" group-title="LOKAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
@@ -61,7 +61,7 @@ https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-7464
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XQGggkA.jpg" group-title="LOKAL",Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg" group-title="LOKAL",MagnaTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg" group-title="ENTERTAINMENT",MagnaTV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png" group-title="LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
@@ -192,6 +192,11 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-imc
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-bioskopindonesia
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lk5JRaDtGX8/XL7vzdidbRI/AAAAAAAALU8/3M80Z-B7yrMAA3W7_VSd9799s4Fq5_zlACPcBGAYYCw/s0/logo_warnerbtv.png" group-title="MOVIES",Warner Bros (USEETV)
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-warner
+
+########################################## ENTERTAINMENT ######################################################
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zMdHQ4dXXqI/YAsHtzoD2GI/AAAAAAAAMmY/toHuzLV9G2QFK6b5qnnO0c7DkFZagkAIACLcBGAsYHQ/s0/logo_insertlive.png?v=2.0.0.15" group-title="ENTERTAINMENT" tvg-id="" tvg-name"INSERT LIVE",INSERT LIVE
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-insert
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--7fmWXmYEpc/YAmzUQbiL1I/AAAAAAAAMjc/lgRrEHpdngE3HzjQuH6z6gxu3XwScXlWQCLcBGAsYHQ/s0/logo_blueant.png" group-title="ENTERTAINMENT",Blue Ant
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-OdxU5YbNy0A/XmnU8NK3AjI/AAAAAAAAMJA/kefPhkoHEooJPNQmUEu1MNpE2u4hsYGagCLcBGAsYHQ/s1600/logo_blueantext.png" group-title="ENTERTAINMENT",Blue Ant Extreme
