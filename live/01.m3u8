@@ -61,6 +61,8 @@ https://v2.siar.us/inspiratv/live/playlist.m3u8
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeaT4iM.jpg" tvg-id="LOCAL" group-title="RELIGIOUS",AJWATV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-7464
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg" group-title="RELIGIOUS",NU CHANNEL
+http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/chunklist_w1036967555.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XQGggkA.jpg" group-title="LOKAL",Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg" group-title="ENTERTAINMENT",MagnaTV
@@ -133,10 +135,9 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-davinci
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-mykids
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqz8uV5EVUM/YAsJsdLCVoI/AAAAAAAAMm8/W1-SNVA1O68M1tqyj8KKV6haNyDHBnS6ACLcBGAsYHQ/s0/logo_dreamworks.png" group-title="KIDS",Dreamworks
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-dreamworks
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mCq1jL50dnY/UayaSo6lBgI/AAAAAAAAF4k/LI_Z2SPm_zc/s320/spacetoon.png" group-title="NINMEDIA",SPACETOON
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mCq1jL50dnY/UayaSo6lBgI/AAAAAAAAF4k/LI_Z2SPm_zc/s320/spacetoon.png" group-title="KIDS",SPACETOON
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1014075507.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg" group-title="NINMEDIA",CHANNEL NU
-http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/chunklist_w1036967555.m3u8
+
 
 ########################################## MALAYSIA TV ######################################################
 
