@@ -51,6 +51,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZS4vru8Cbyg/W-nJ_4nefdI/AAAAAAAAKE0/rxZ68mY45ZQciOkh5e0W5h6RDJyJhNvJgCLcBGAs/s1600/jtv_surabaya.png" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l-38Cf3Puq4/UyGOjz2m0kI/AAAAAAAACp0/rvspLPtz27s/s1600/logo_tvmuhammadiyah.png" group-title="RELIGIOUS" tvg-id="" tvg-name"Muhammadiyah TV",Muhammadiyah TV
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-muhammadiyahtv
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fb_-MnrB1l4/VXUn39KIEuI/AAAAAAAAEvU/5vuSpIf6kow/s1600/Inspira-TV.png" group-title="LOKAL",InspiraTV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-jV_RHlaz7-s/W9Vgi441rXI/AAAAAAAAJ2o/cqTu9YwJWdI5U-hCqV7Q_fKpzdE5D9SEQCLcBGAs/s1600/logo_daaitv_big1.png" group-title="LOKAL",DAAITV
