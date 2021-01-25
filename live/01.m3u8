@@ -57,7 +57,7 @@ https://v2.siar.us/inspiratv/live/playlist.m3u8
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeaT4iM.jpg" tvg-id="LOCAL" group-title="RELIGIOUS",AJWATV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-7464
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A_qEVTeUC4A/YA2tmvkJBjI/AAAAAAAAA_M/iH6bqoW7Z8wZvK90myZtbq04bVWZuDIMQCLcBGAsYHQ/s0/jawaposTV.jpg" group-title="LOKAL",Jawapos TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQGggkA.jpg" group-title="LOKAL",Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg" group-title="LOKAL",MagnaTV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -112,9 +112,9 @@ https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 
 ########################################## KIDS ######################################################
 
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/disneyJunior.jpg" group-title="KIDS",Disney HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukeu4Fn.jpg" group-title="KIDS",Disney HD 
 http://79.137.41.99/DisneyChannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/gemkids.jpg" group-title="KIDS",GEM Kids 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjR1xoS.jpg" group-title="KIDS",GEM Kids 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sheVqvQ0Pxg/YA2L2bWQ-nI/AAAAAAAAA-w/Zk3sYZl1LDsOd3o9f7oG4dGgl4r_IftkgCLcBGAsYHQ/s0/hiphiphoree.jpg" group-title="KIDS",Hip Hip Horee!
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-7052
