@@ -47,6 +47,8 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-tvedukasi
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Au8vyLGqMg/XJ0HllCI69I/AAAAAAAALLg/pgFyzI0tD4EPGMduVTo1oHH0CmIWkIiUACLcBGAs/s1600/logo_newsasia.png" group-title="News",CANEL NEWS ASIA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2EXyYTlaYhU/X_hk34uYeEI/AAAAAAAAMfA/jLVIBn8mto4fVeaIsxO0JnMvunvGU6-7gCLcBGAsYHQ/s0/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo Wild (USEETV)",Nat Geo Wild (USEETV)
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-natgeowild
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" group-title="RELIGIOUS",TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZS4vru8Cbyg/W-nJ_4nefdI/AAAAAAAAKE0/rxZ68mY45ZQciOkh5e0W5h6RDJyJhNvJgCLcBGAs/s1600/jtv_surabaya.png" group-title="LOKAL",JTV
@@ -193,23 +195,12 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-bioskopindonesia
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lk5JRaDtGX8/XL7vzdidbRI/AAAAAAAALU8/3M80Z-B7yrMAA3W7_VSd9799s4Fq5_zlACPcBGAYYCw/s0/logo_warnerbtv.png" group-title="MOVIES",Warner Bros (USEETV)
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-warner
 
-########################################## ENTERTAINMENT ######################################################
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zMdHQ4dXXqI/YAsHtzoD2GI/AAAAAAAAMmY/toHuzLV9G2QFK6b5qnnO0c7DkFZagkAIACLcBGAsYHQ/s0/logo_insertlive.png?v=2.0.0.15" group-title="ENTERTAINMENT" tvg-id="" tvg-name"INSERT LIVE",INSERT LIVE
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-insert
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--7fmWXmYEpc/YAmzUQbiL1I/AAAAAAAAMjc/lgRrEHpdngE3HzjQuH6z6gxu3XwScXlWQCLcBGAsYHQ/s0/logo_blueant.png" group-title="ENTERTAINMENT",Blue Ant
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-OdxU5YbNy0A/XmnU8NK3AjI/AAAAAAAAMJA/kefPhkoHEooJPNQmUEu1MNpE2u4hsYGagCLcBGAsYHQ/s1600/logo_blueantext.png" group-title="ENTERTAINMENT",Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-
 ########################################## KNOWLEDGE ######################################################
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"National Geographic HD",National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nNWPgyVIfJ0/W-OlJVx18KI/AAAAAAAAKBI/E3sbUDC9_o4J3GPxN9pz6WCDxKWaMl26QCLcBGAs/s1600/logo_natgeopeople.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo People (USEETV)",Nat Geo People (USEETV)
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-natgeopeople
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2EXyYTlaYhU/X_hk34uYeEI/AAAAAAAAMfA/jLVIBn8mto4fVeaIsxO0JnMvunvGU6-7gCLcBGAsYHQ/s0/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo Wild (USEETV)",Nat Geo Wild (USEETV)
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-natgeowild
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vErztz6Hir4/YAV7IEZQTdI/AAAAAAAAA88/AMVdkdc0S8w2LhNQNpQA4kBtmblq0uTbQCLcBGAsYHQ/s0/logo_discovery.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Discovery Channel (USEETV)",Discovery Channel (USEETV)
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--mVVtEao6FM/YAV7vu0fuII/AAAAAAAAA9E/h1LpcaKg1lkccSfTghuPKDU_9Q3MxMFewCLcBGAsYHQ/s0/logo_crimeinvestigation.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Crime Investigation",Crime Investigation
@@ -220,10 +211,21 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6550
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hx04jq.jpg" tvg-id="" tvg-name"Love Nature" group-title="KNOWLEDGE",Love Nature
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6635
-#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-zVt8jckiDx0/YA13zhYCjAI/AAAAAAAAA-M/x4J2h5yAfpIyuY_lGp2zgIaFNMUNCH6AgCLcBGAsYHQ/s0/AnimalPlanet.jpg"" group-title="KNOWLEDGE",ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zVt8jckiDx0/YA13zhYCjAI/AAAAAAAAA-M/x4J2h5yAfpIyuY_lGp2zgIaFNMUNCH6AgCLcBGAsYHQ/s0/AnimalPlanet.jpg" group-title="KNOWLEDGE",ANIMAL PLANET HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cns.net.tw/web/upload/20170310093344FQyJrWL.jpg" group-title="KNOWLEDGE",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
+
+########################################## ENTERTAINMENT ######################################################
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zMdHQ4dXXqI/YAsHtzoD2GI/AAAAAAAAMmY/toHuzLV9G2QFK6b5qnnO0c7DkFZagkAIACLcBGAsYHQ/s0/logo_insertlive.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"INSERT LIVE",INSERT LIVE
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-insert
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--7fmWXmYEpc/YAmzUQbiL1I/AAAAAAAAMjc/lgRrEHpdngE3HzjQuH6z6gxu3XwScXlWQCLcBGAsYHQ/s0/logo_blueant.png" group-title="ENTERTAINMENT",Blue Ant
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-OdxU5YbNy0A/XmnU8NK3AjI/AAAAAAAAMJA/kefPhkoHEooJPNQmUEu1MNpE2u4hsYGagCLcBGAsYHQ/s1600/logo_blueantext.png" group-title="ENTERTAINMENT",Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sGaCIk_tfmA/YAsIh48Th5I/AAAAAAAAMmo/VHi5M8pXn24j8taTfimSn5bI0ynIDH8KwCLcBGAsYHQ/s0/logo_history_channel.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"History",History
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-history
 
 ########################################## Hindi ######################################################
 
