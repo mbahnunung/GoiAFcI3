@@ -228,6 +228,8 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sGaCIk_tfmA/YAsIh48Th5I/AAAAAAAAMmo/VHi5M8pXn24j8taTfimSn5bI0ynIDH8KwCLcBGAsYHQ/s0/logo_history_channel.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name"History",History
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-history
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" group-title="ENTERTAINMENT",AXN (dens)
+http://rr.dens.tv/h/h141/index.m3u8
 
 ########################################## Hindi ######################################################
 
