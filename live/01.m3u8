@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2jGabLLeS0o/UcA9f90KrhI/AAAAAAAABwU/NbGjpSP0LIk/s1600/rcti.png" group-title="Nasional",RCTI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png" group-title="Nasional",RCTI
 https://tv.mbahnunungonline.net/playlist/rctisd.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" group-title="Nasional",SCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png" group-title="Nasional",SCTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-204
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-8pY62LJlQFc/UcA9wBktyVI/AAAAAAAABwc/ymWOxlIRcPc/s1600/mnctv.png" group-title="Nasional",MNCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png" group-title="Nasional",MNCTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-870
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" group-title="Nasional",antv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png" group-title="Nasional",antv
 http://rr2.dens.tv:80/s/s07/index2.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" group-title="Nasional",INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png" group-title="Nasional",INDOSIAR
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-205
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png" group-title="Nasional",METROTV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w396259667_b1492000_sleng.m3u8
