@@ -132,7 +132,6 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-dreamworks
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mCq1jL50dnY/UayaSo6lBgI/AAAAAAAAF4k/LI_Z2SPm_zc/s320/spacetoon.png" group-title="NINMEDIA",SPACETOON
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1014075507.m3u8
 
-
 ########################################## MALAYSIA TV ######################################################
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-q35SEqK9HvI/XMfJC7mMELI/AAAAAAAALYc/gEAOcpKPRJg7FJsGJjPpczRAmCi1Ja8UACLcBGAs/s1600/tv1-malaysia.png" group-title="MALAYSIA",TV1
@@ -145,7 +144,6 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxyFUpC.jpg" group-title="MALAYSIA",TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
-
 
 ########################################## MUSIC ######################################################
 
@@ -220,7 +218,6 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cns.net.tw/web/upload/20170310093344FQyJrWL.jpg" group-title="KNOWLEDGE",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 
-
 ########################################## Hindi ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png" group-title="Hindi",&tv
@@ -266,7 +263,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tyPCtX0.jpg" group-title="Fashion",World Fashion
 https://bozztv.com/36bay2/gin/giniko_worldfashionchannel_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21srP8Zoz5L.png" group-title="Fashion",JASMINTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9BNs6G.png" group-title="Fashion",JASMINTV
 https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fSlGoJa.png" group-title="Fashion",MiamiTV
 https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
@@ -286,7 +283,7 @@ http://live.radiobintangtenggara.com:8000/mbahnunungonline
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zKfFBaCN2dU/WP21Pg4t5ZI/AAAAAAAAAjQ/ndweLDJMRYw-3r_J-GTM-RhEMtqul5FDACPcBGAYYCw/s0/mcfm_station.png" group-title="RADIO",MCFM
 http://live.sg.mcfmbwi.com:9720/mcfm
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ydBhgJoV9Wc/VYYKjRtXEqI/AAAAAAAAAJI/-sdDXgv4UzY/s1600/LOGO%2BSRITANJUNG.jpg" group-title="RADIO",SRITANJUNG
-http://play.xajist.com:8208/stream&1609467521220
+http://play.xajist.com:8208/stream
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IVu0rwyczX8/U8gBkcGwu6I/AAAAAAAAD1k/-ZcGciZ4nUQ/s1600/visfm.png" group-title="RADIO",VisFM
 http://s4.vinhostmedia.com:8000/streamaac
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Uxf8xz3e6rg/VD4OjHN7jBI/AAAAAAAAEFw/hi81dF_UdQ0/s1600/gbsfm.png" group-title="RADIO",GBSFM
