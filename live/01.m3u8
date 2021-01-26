@@ -207,7 +207,8 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nNWPgyVIfJ0/W-OlJVx18KI/AAAAAAAAKBI/E3sbUDC9_o4J3GPxN9pz6WCDxKWaMl26QCLcBGAs/s1600/logo_natgeopeople.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo People (USEETV)",Nat Geo People (USEETV)
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-natgeopeople
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vErztz6Hir4/YAV7IEZQTdI/AAAAAAAAA88/AMVdkdc0S8w2LhNQNpQA4kBtmblq0uTbQCLcBGAsYHQ/s0/logo_discovery.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Discovery Channel (USEETV)",Discovery Channel (USEETV)
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-disco
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--mVVtEao6FM/YAV7vu0fuII/AAAAAAAAA9E/h1LpcaKg1lkccSfTghuPKDU_9Q3MxMFewCLcBGAsYHQ/s0/logo_crimeinvestigation.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Crime Investigation",Crime Investigation
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mozr67tdgUc/W-CH02GZaeI/AAAAAAAAJ94/hYBVYnCgSXM3XAGx2gfP-wiPRckIVQwvACLcBGAs/s1600/logo_cgtndocumentary.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"CGTN Documentary (USEETV)",CGTN Documentary (USEETV)
