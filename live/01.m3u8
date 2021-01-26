@@ -37,20 +37,20 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png" group-title="Nasional",MYTV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6711
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png" group-title="ENTERTAINMENT",THE INDONESIA CHANNEL
-https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png" group-title="ENTERTAINMENT",The Indonesia Channel
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png" group-title="LOKAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-gyyLTDUKF7o/UtPEO-LbVzI/AAAAAAAAChY/9vEGB9GVSfA/s1600/tvedukasi.png" tvg-id="TV Edukasi" group-title="KNOWLEDGE",TV Edukasi
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-tvedukasi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Au8vyLGqMg/XJ0HllCI69I/AAAAAAAALLg/pgFyzI0tD4EPGMduVTo1oHH0CmIWkIiUACLcBGAs/s1600/logo_newsasia.png" group-title="News",CANEL NEWS ASIA HD
+http://118.98.221.131/live/tvedukasi_5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Au8vyLGqMg/XJ0HllCI69I/AAAAAAAALLg/pgFyzI0tD4EPGMduVTo1oHH0CmIWkIiUACLcBGAs/s1600/logo_newsasia.png" group-title="News",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2EXyYTlaYhU/X_hk34uYeEI/AAAAAAAAMfA/jLVIBn8mto4fVeaIsxO0JnMvunvGU6-7gCLcBGAsYHQ/s0/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"Nat Geo Wild (USEETV)",Nat Geo Wild (USEETV)
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-natgeowild
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-zTAvcPG4_yg/UmalEN7dfbI/AAAAAAAAB70/NJfsTTtZkfQ/s1600/tv9-surabaya.png" group-title="RELIGIOUS",TV9 Nusantara
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-tv9
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZS4vru8Cbyg/W-nJ_4nefdI/AAAAAAAAKE0/rxZ68mY45ZQciOkh5e0W5h6RDJyJhNvJgCLcBGAs/s1600/jtv_surabaya.png" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l-38Cf3Puq4/UyGOjz2m0kI/AAAAAAAACp0/rvspLPtz27s/s1600/logo_tvmuhammadiyah.png" group-title="RELIGIOUS" tvg-id="" tvg-name"Muhammadiyah TV",Muhammadiyah TV
