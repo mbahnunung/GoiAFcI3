@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# warningfm: http://ogp.me/ns/warningfm#">
-    <title>Live Streaming CNN Indonesia</title>
+    <title>Live Streaming RCTI</title>
     <meta charset="utf-8">
     <meta name="robots" content="noindex">
     <meta property="fb:app_id" content="306338632814491"/>
@@ -12,7 +12,7 @@
     <meta property="og:video:width" content="486" /> 
     <meta property="og:video:type" content="application/x-shockwave-flash" />
     <meta property="og:title" content="CNN Indonesia" /> 
-    <meta property="og:description" content="Klik Gambarnya Boss untuk nonton CNN Indonesia langsung lewat Facebook." />
+    <meta property="og:description" content="Klik Gambarnya Boss untuk nonton RCTI langsung lewat Facebook." />
     <meta property="og:image" content="https://2.bp.blogspot.com/-s7ZOCHittVk/V03sueWgDwI/AAAAAAAAFUU/-lYZd3UGm-o6sr8-oFEmD5wyhZkvpgUBACLcB/s1600/logo_cnn_ind.png" />
     <meta property="og:video" content="https://tv.mbahnunungonline.net/embed/player/?s=https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8&autoplay=1&image=https://content.jwplatform.com/thumbs/CqYFl76H-720.jpg"/>
     <link type='text/css' rel='stylesheet' href='//cdn4.mbahnunungonline.net/css/v7/jwplayer.css' />
@@ -46,31 +46,31 @@ document.getElementsByTagName('head')[0].appendChild(meta);
 		aboutlink: 'https://www.mbahnunungonline.net',
 		autostart: 'true',
 		file: "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
-		title: "CNN Indonesia",
+		title: "RCTI",
 		image: "https://cdn4.mbahnunungonline.net/images/rcti.jpg"
 	});
 	jwplayer().onError(function(){
 		jwplayer().load({
 			file: "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
-			title: "CNN Indonesia",
+			title: "RCTI",
 			//image:""
 		});jwplayer().play();
 		jwplayer().onError(function(){
 			jwplayer("streaming").setup({
 				primary: "html5",
 				file: "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
-				title: "CNN Indonesia",
+				title: "RCTI",
 				//image:""
 			});			
 			jwplayer("streaming").setup({
 				primary: "html5",
 				file: "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
-				title: "CNN Indonesia",
+				title: "RCTI",
 				//image:""
 			});			
 			jwplayer().onError(function(){
 				jwplayer("streaming").setup({
-					title: "CNN Indonesia",
+					title: "RCTI",
 					file:"https://edge.nim.mivo.tv/video/assets/oops.m3u8",
 					image:"error.jpg"
 				});
