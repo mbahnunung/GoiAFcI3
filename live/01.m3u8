@@ -53,13 +53,13 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-natgeowild
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-tv9
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZS4vru8Cbyg/W-nJ_4nefdI/AAAAAAAAKE0/rxZ68mY45ZQciOkh5e0W5h6RDJyJhNvJgCLcBGAs/s1600/jtv_surabaya.png" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l-38Cf3Puq4/UyGOjz2m0kI/AAAAAAAACp0/rvspLPtz27s/s1600/logo_tvmuhammadiyah.png" group-title="RELIGIOUS" tvg-id="" tvg-name"Muhammadiyah TV",Muhammadiyah TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l-38Cf3Puq4/UyGOjz2m0kI/AAAAAAAACp0/rvspLPtz27s/s1600/logo_tvmuhammadiyah.png" group-title="RELIGIOUS",Muhammadiyah TV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-muhammadiyahtv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png" group-title="LOKAL",InspiraTV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png" group-title="LOKAL",DAAITV
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeaT4iM.jpg" tvg-id="LOCAL" group-title="RELIGIOUS",AJWATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeaT4iM.jpg" group-title="RELIGIOUS",AJWATV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-7464
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg" group-title="RELIGIOUS",NU CHANNEL
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
