@@ -43,7 +43,7 @@ https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png" tvg-id="TV Edukasi" group-title="KNOWLEDGE",TV Edukasi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png" group-title="KNOWLEDGE",TV Edukasi
 http://118.98.221.131/live/tvedukasi_5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Au8vyLGqMg/XJ0HllCI69I/AAAAAAAALLg/pgFyzI0tD4EPGMduVTo1oHH0CmIWkIiUACLcBGAs/s1600/logo_newsasia.png" group-title="News",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -55,7 +55,7 @@ http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-tv9
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l-38Cf3Puq4/UyGOjz2m0kI/AAAAAAAACp0/rvspLPtz27s/s1600/logo_tvmuhammadiyah.png" group-title="RELIGIOUS" tvg-id="" tvg-name"Muhammadiyah TV",Muhammadiyah TV
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-muhammadiyahtv
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fb_-MnrB1l4/VXUn39KIEuI/AAAAAAAAEvU/5vuSpIf6kow/s1600/Inspira-TV.png" group-title="LOKAL",InspiraTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png" group-title="LOKAL",InspiraTV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png" group-title="LOKAL",DAAITV
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
