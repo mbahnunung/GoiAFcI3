@@ -214,7 +214,7 @@ http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mozr67tdgUc/W-CH02GZaeI/AAAAAAAAJ94/hYBVYnCgSXM3XAGx2gfP-wiPRckIVQwvACLcBGAs/s1600/logo_cgtndocumentary.png" group-title="KNOWLEDGE" tvg-id="" tvg-name"CGTN Documentary (USEETV)",CGTN Documentary (USEETV)
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IjZRdaLrdx4/YA12tIjx1EI/AAAAAAAAA-E/TsfAmoKu_8QoyMfy4QJciLd1x2ctrKpsACLcBGAsYHQ/s0/smithsonian.png" tvg-id="" tvg-name"Smithsonian" group-title="KNOWLEDGE",Smithsonian
-https://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6550
+http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6550
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hx04jq.jpg" tvg-id="" tvg-name"Love Nature" group-title="KNOWLEDGE",Love Nature
 http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-6635
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zVt8jckiDx0/YA13zhYCjAI/AAAAAAAAA-M/x4J2h5yAfpIyuY_lGp2zgIaFNMUNCH6AgCLcBGAsYHQ/s0/AnimalPlanet.jpg" group-title="KNOWLEDGE",ANIMAL PLANET HD
