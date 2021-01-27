@@ -101,7 +101,7 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX.jpg" group-title="MOVIES", MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kSL21Yo.jpg" group-title="KNOWLEDGE",Nat Geo FHD (ABU DHABI)
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 ########################################## KIDS ######################################################
 
@@ -148,9 +148,11 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/asal4pC.png" group-title="MALAYSIA",ASTRO AWANI 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M1VxzDA.jpg"group-title="MALAYSIA",Berita RTM
-https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
+https://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxyFUpC.jpg" group-title="MALAYSIA",TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv9.jpg", group-title="MALAYSIA",TV9
+https://raw.githubusercontent.com/androidrepublica/playlist/master/TV9.m3u8
 
 ########################################## MUSIC ######################################################
 
