@@ -151,8 +151,6 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxyFUpC.jpg" group-title="MALAYSIA",TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv9.jpg", group-title="MALAYSIA",TV9
-https://raw.githubusercontent.com/androidrepublica/playlist/master/TV9.m3u8
 
 ########################################## MUSIC ######################################################
 
