@@ -325,9 +325,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 ########################################## SPORTS ######################################################
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lz8A0qIPP6Y/VgY1OB_2V5I/AAAAAAAAFAk/9ZZHeZCRrcI6QAkuJ1rptGxvOPViBC-8QCPcBGAYYCw/s0/beinSport1.png" group-title="Sports",Bein Sport 1
-https://vcdnjt.useetv.com/dass/15/bein1/chunklist.m3u8
+https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w2027525038_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kfLY92b04nk/VgY3R0RRquI/AAAAAAAAFAw/2zEzh3rrBQs0ERmZcboo7IIhIfmTmBgLQCPcBGAYYCw/s0/beinSport2.png" group-title="Sports",bein Sport 2
-https://vcdnjt.useetv.com/dass/15/bein2/chunklist.m3u8
+https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w81028358_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yZhfZqwOeVk/YAryQT83B4I/AAAAAAAAMlY/M7B9Pz_GJZ0VtN3cbbeKgnmEdr9HL-L6QCLcBGAsYHQ/s0/logo_champTV1.png" tvg-id="" tvg-name"Champions TV 1" group-title="Sports",Champions TV 1
 https://vcdnjt.useetv.com/dass/15/champion1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kGlB-sKLV4Q/YAryQHIavtI/AAAAAAAAMlU/GVzoW04KETwepTxXxkvWlf2k-7ZkXSRLgCLcBGAsYHQ/s0/logo_champTV2.png" tvg-id="" tvg-name"Champions TV 2" group-title="Sports",Champions TV 2
