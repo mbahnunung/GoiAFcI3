@@ -12,9 +12,9 @@ http://rr2.dens.tv/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="Nasional",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTEjMpg.png" group-title="Nasional",TRANS7
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-734
+http://rr2.dens.tv/s/s101/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png" group-title="Nasional",TRANSTV
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-733
+http://rr3.dens.tv/s/s252/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nkYUAd.png" group-title="Nasional",GTV
 https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="Nasional",NET.
