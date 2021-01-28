@@ -18,13 +18,13 @@ http://rr3.dens.tv/s/s252/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nkYUAd.png" group-title="Nasional",GTV
 https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="Nasional",NET.
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-net
+http://rr2.dens.tv/s/s08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="Nasional",tvOne
 http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="Nasional",KOMPASTV
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-874
+http://rr2.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlZqfwV.png" group-title="Nasional",rtv
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=vidio-1561
+http://rr2.dens.tv/s/s12/01.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png" group-title="Nasional",TVRI
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png" group-title="Nasional",BERITASATU
