@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png" group-title="Nasional",RCTI
-https://tv.mbahnunungonline.net/playlist/rcti2.m3u8
+https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png" group-title="Nasional",SCTV
 http://rr2.dens.tv/s/s03/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png" group-title="Nasional",MNCTV
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/MNCTV2.m3u8
+https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png" group-title="Nasional",antv
 https://tv.mbahnunungonline.net/playlist/antv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png" group-title="Nasional",INDOSIAR
@@ -16,7 +16,7 @@ http://rr2.dens.tv/s/s101/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png" group-title="Nasional",TRANSTV
 http://rr3.dens.tv/s/s252/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nkYUAd.png" group-title="Nasional",GTV
-https://tv.mbahnunungonline.net/playlist/gtv.m3u8
+https://vcdn2.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="Nasional",NET.
 http://rr2.dens.tv/s/s08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="Nasional",tvOne
