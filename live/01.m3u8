@@ -346,9 +346,9 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_e
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" group-title="ID",SCTV (Dens)
 http://rr2.dens.tv/s/s03/index2.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="ID",KOMPASTV (UseeTV)
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-kompastv
+https://vcdnjt.useetv.com/dass/15/kompastv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" group-title="ID",rtv (UseeTV)
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-rtv
+https://vcdnjt.useetv.com/dass/14/rtv/chunklist_w1088506939_b684100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="ID",METROTV
 https://stream-03.nyc.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS9_kc1DRdC9nROrATUEp0iE)/dm/3/x75p70w/d/live-2.m3u8
 
