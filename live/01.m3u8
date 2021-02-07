@@ -6,9 +6,9 @@ http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Nasional",MNCTV
 http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png?v=2.0.0.13" group-title="Nasional",antv
-https://nonton.site:8443/live/novi/novi123/31.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png?v=2.0.0.13" group-title="Nasional",INDOSIAR
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png?v=2.0.0.13" group-title="Nasional",INDOSIAR
+http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTEjMpg.png?v=2.0.0.13" group-title="Nasional",TRANS7
@@ -22,7 +22,7 @@ http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=nettv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="Nasional",tvOne
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=tvone
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Nasional",KOMPASTV
-http://rr2.dens.tv/s/s104/index.m3u8
+http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlZqfwV.png?v=2.0.0.13" group-title="Nasional",rtv
 http://rr2.dens.tv/s/s12/01.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional",TVRI
