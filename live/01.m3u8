@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional",RCTI
-https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+https://tv.mbahnunungonline.net/playlist/rctisd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=2.0.0.13" group-title="Nasional",SCTV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
+http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Nasional",MNCTV
-https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png?v=2.0.0.13" group-title="Nasional",antv
 https://nonton.site:8443/live/novi/novi123/31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png?v=2.0.0.13" group-title="Nasional",INDOSIAR
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTEjMpg.png?v=2.0.0.13" group-title="Nasional",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1909954947_b744100_sleng.m3u8
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=trans7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=2.0.0.13" group-title="Nasional",TRANSTV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w929639454_b744100_sleng.m3u8
+http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nkYUAd.png?v=2.0.0.13" group-title="Nasional",GTV
-https://vcdn2.rctiplus.id:443/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional",NET.
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f063ff6b093d51bada01b2fd714eb3144a
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=nettv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="Nasional",tvOne
-https://nonton.site:8443/live/novi/novi123/29.m3u8
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=tvone
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Nasional",KOMPASTV
 http://rr2.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlZqfwV.png?v=2.0.0.13" group-title="Nasional",rtv
