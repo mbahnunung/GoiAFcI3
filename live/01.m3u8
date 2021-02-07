@@ -54,36 +54,34 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q2mnr5J.png" group-title="RELIGIOUS",Muhammadiyah TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q2mnr5J.png" group-title="Religious",Muhammadiyah TV
 http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-muhammadiyahtv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png" group-title="LOKAL",InspiraTV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png" group-title="LOKAL",DAAITV
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeaT4iM.jpg" group-title="RELIGIOUS",AJWATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeaT4iM.jpg" group-title="Religious",AJWATV
 http://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7464
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg" group-title="RELIGIOUS",NU CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg" group-title="Religious",NU CHANNEL
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XQGggkA.jpg" group-title="LOKAL",Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg" group-title="Entertainment",MagnaTV
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w947054069_b2692000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png" group-title="LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
 ########################################## ARAB TV ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqn0hP.png" group-title="ARAB",Saudi TV 1 (Saudi Arabia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqn0hP.png" group-title="Arab",Saudi TV 1 (Saudi Arabia)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-WJcBpmVGs1o/UndHS0zjRcI/AAAAAAAAB_U/jaJgo0G0tH8/s1600/iqratv.png" group-title="ARAB",Iqraa-Tv (Saudi Arabia)
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-WJcBpmVGs1o/UndHS0zjRcI/AAAAAAAAB_U/jaJgo0G0tH8/s1600/iqratv.png" group-title="Arab",Iqraa-Tv (Saudi Arabia)
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7NlQqle1tJQ/YA3DXBk0cVI/AAAAAAAABAE/UJL73M_2Qj8cD0vCyJgzPvtc8LC5w0htgCLcBGAsYHQ/s0/live.makkah.png" group-title="ARAB"", LIVE MAKKAH
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7NlQqle1tJQ/YA3DXBk0cVI/AAAAAAAABAE/UJL73M_2Qj8cD0vCyJgzPvtc8LC5w0htgCLcBGAsYHQ/s0/live.makkah.png" group-title="Arab"", LIVE MAKKAH
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="ARAB",DUBAI OLA HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="Arab",DUBAI OLA HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/754573256665997312/T4ATpb5Q_400x400.jpg" group-title="ARAB",NOOR DUBAI
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/754573256665997312/T4ATpb5Q_400x400.jpg" group-title="Arab",NOOR DUBAI
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" group-title="MOVIES",Dubai One
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" group-title="Movies",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FX_m76GhFdY/UndG6eJ4NcI/AAAAAAAAB-0/Vsf59f_2OmQ/s1600/aljazeera-arab.png" group-title="News",Aljazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
@@ -93,13 +91,13 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hKThVZv.jpg" group-title="News",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f7E1ybv.png" group-title="ARAB",Libya 218 (LIBYA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7E1ybv.png" group-title="Arab",Libya 218 (LIBYA)
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MOVIES",MBC 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MOVIES",MBC Action HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX.jpg" group-title="MOVIES", MAX HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX.jpg" group-title="Movies", MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kSL21Yo.jpg" group-title="Knowledge",Nat Geo FHD (ABU DHABI)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
@@ -376,18 +374,17 @@ http://45.64.98.181:8323/stream
 
 ########################################## HBO GO ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KE8vaE0.jpg" group-title="HBO GO",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b1VWps4.jpg" group-title="HBO GO",HBO Signature
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xjEovAm.jpg" group-title="HBO GO",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJhOCas.jpg" group-title="HBO GO",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HRv1pVq.png" group-title="HBO GO",Cinemax 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8SprCe.jpg" group-title="HBO GO",Red By HBO
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png", HBO
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png", HBO Hits
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png", HBO Signature
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png", HBO Family
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.postimg.cc/Gmy39FDR/cinema2.png", HBO Cinemax
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8SprCe.jpg" group-title=" HBO GO ",Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 ########################################## SPORTS ######################################################
