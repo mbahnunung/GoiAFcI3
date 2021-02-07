@@ -24,7 +24,7 @@ http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=tvone
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Nasional",KOMPASTV
 http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlZqfwV.png?v=2.0.0.13" group-title="Nasional",rtv
-http://rr2.dens.tv/s/s12/01.m3u8
+http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional",TVRI
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Nasional",BERITASATU
