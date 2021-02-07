@@ -168,7 +168,7 @@ https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="MUSIC",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UzdfOrfmMpQ/YAm9EyWSRMI/AAAAAAAAMkA/LZN-6wA9D-w53zd2Rl66CX-959sDGRdVQCLcBGAsYHQ/s0/logo_MTVlive.png" group-title="MUSIC",MTV Live
-http://home-tv.web.id/dinda/tv_live_aplikasi.m3u8?channel=usee-mtvlive
+http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-mtvlive
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png" group-title="MUSIC",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fNCrpQtEw8M/XL7vyVhgyWI/AAAAAAAALVA/cY9bq3SetPQzqapcsAEtV4JgsU5fzGyjwCPcBGAYYCw/s0/channel_v.png" group-title="MUSIC",Channel [V] Int
