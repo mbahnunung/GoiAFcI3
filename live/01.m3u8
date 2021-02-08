@@ -440,5 +440,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c4768
 http://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-777
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png?v=2.0.0.13" group-title="tes",rtv
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13" group-title="tes",Tes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13" group-title="tes",true4u
 https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="tes",NET. (Google Video)
+https://dl.dropboxusercontent.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
