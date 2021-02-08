@@ -46,7 +46,7 @@ https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="LOKAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png?v=2.0.0.13" group-title="LOKAL",RRI NET
-https://nonton.site:8443/live/novi/novi123/78.m3u8
+http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=2.0.0.13" group-title="Knowledge",TV Edukasi
 http://118.98.221.131/live/tvedukasi_5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=2.0.0.13" group-title="News",CNA HD
