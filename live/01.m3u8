@@ -19,7 +19,8 @@ http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nkYUAd.png?v=2.0.0.13" group-title="Nasional",GTV
 http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional",NET.
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=nettv
+#http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=nettv
+http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-net
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="Nasional",tvOne
 #http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=tvone
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
