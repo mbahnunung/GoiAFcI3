@@ -10,7 +10,8 @@ http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png?v=2.0.0.13" group-title="Nasional",INDOSIAR
 http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional",METROTV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=metrotv
+#http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=metrotv
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Nasional",TRANS7
 #http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=trans7
 http://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-734
