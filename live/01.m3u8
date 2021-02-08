@@ -48,6 +48,8 @@ http://rr2.dens.tv/s/s46/01.m3u8
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="LOKAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rKmfsgjM_18/YAsRQe1xIyI/AAAAAAAAMn0/CeWjURkYroYeTO--0phZIzsgIQ0hyR_qgCLcBGAsYHQ/s0/sea_today.png" group-title="News",SEA Today
+https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png?v=2.0.0.13" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=2.0.0.13" group-title="Knowledge",TV Edukasi
