@@ -165,6 +165,10 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQsUvIE.jpg" group-title="Malaysia",TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYeb1CE.jpg" group-title="Singapore", SuriaTV
+http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MqZdA4W.jpg" group-title="Singapore", Ch 5
+http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
 
 ########################################## MUSIC ######################################################
 
@@ -431,4 +435,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c4768
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc5663ff6b093d51bada01b2fd714eb3144a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="ID",METROTV
 http://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-777
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png?v=2.0.0.13" group-title="tes",rtv
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13" group-title="tes",Tes
+https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
