@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional",RCTI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Evkz1Rt.png?v=2.0.0.13" group-title="Nasional",RCTI
 http://93.190.139.34:8278/streams/d/Rcti/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHUcKkK.png?v=2.0.0.13" group-title="Nasional",SCTV
@@ -8,7 +8,7 @@ http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional",antv
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png?v=2.0.0.13" group-title="Nasional",INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1XLTPOj.png?v=2.0.0.13" group-title="Nasional",INDOSIAR
 http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional",METROTV
 #http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=metrotv
