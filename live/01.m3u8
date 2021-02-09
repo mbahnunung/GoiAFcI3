@@ -181,14 +181,11 @@ http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-mtvlive
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fNCrpQtEw8M/XL7vyVhgyWI/AAAAAAAALVA/cY9bq3SetPQzqapcsAEtV4JgsU5fzGyjwCPcBGAYYCw/s0/channel_v.png" group-title="MUSIC",Channel [V] Int
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="MUSIC",City Music TV
-https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
 ########################################## Movies TV ######################################################
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/ccm.png" group-title="Movies", CCM
-#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4296
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HXnfAlrgfrg/XmnTuPMVB4I/AAAAAAAAMI4/loc4VlIEFw4Bky0JZ_qMNQwawh2jpvFwwCLcBGAsYHQ/s1600/logo_celestialmovie.png" group-title="Movies" tvg-id="" tvg-name"Celestialmovies",Celestialmovies
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" group-title="Movies" tvg-id="AXN" tvg-name"AXN (UseeTV)",AXN (UseeTV)
@@ -201,7 +198,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 https://cdn6.goprimetime.info/feed/LC26/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png" group-title="Movies",Cinema World
 https://nonton.site:8443/live/novi/novi123/1194.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r58Vr0z.jpg" group-title="Movies" tvg-id="" tvg-name"&Flix",&Flix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r58Vr0z.jpg" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rOsgAVq8N8w/YA14unJCWII/AAAAAAAAA-U/pirVECA07dc6MvY--tnK8jQhy6pDVR37QCLcBGAsYHQ/s0/%2526Prive.jpg" group-title="Movies",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
@@ -332,7 +329,7 @@ http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png" group-title="Hindi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jIF1NXl.jpg" group-title="MUSIC",B4U Music
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+http://103.55.39.182/~dusktil2/a.m3u8?q=b4umusicindia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sl2JSJT.png" group-title="Hindi",BollyWood HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" group-title="MUSIC",Desi Channel
