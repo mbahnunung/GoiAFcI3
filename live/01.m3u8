@@ -32,7 +32,7 @@ http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Nasional",KOMPASTV
 #https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/noPq57I.png?v=2.0.0.13" group-title="Nasional",rtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="Nasional",rtv
 #http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
 http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-1561
 #EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional",TVRI
