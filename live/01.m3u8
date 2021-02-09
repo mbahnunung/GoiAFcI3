@@ -14,7 +14,7 @@ http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 #http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=metrotv
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Nasional",TRANS7
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=trans7
+http://oxygen.cpdev.us/oxygen/play/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional",TRANSTV
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=2.0.0.13" group-title="Nasional",GTV
