@@ -7,7 +7,8 @@ http://93.190.139.34:8278/streams/d/Rcti/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Nasional",SCTV
 http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Nasional",MNCTV
-http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
+#http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
+http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-870
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional",antv
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional",INDOSIAR
@@ -32,7 +33,8 @@ http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noPq57I.png?v=2.0.0.13" group-title="Nasional",rtv
-http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
+#http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
+http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-1561
 #EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional",TVRI
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13" group-title="Nasional",iNews HD
