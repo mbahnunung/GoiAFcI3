@@ -61,13 +61,13 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q2mnr5J.png" group-title="Religious",Muhammadiyah TV
-http://home-tv.web.id/dinda/nantihapus.m3u8?channel=usee-muhammadiyahtv
+http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-muhammadiyahtv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png" group-title="LOKAL",InspiraTV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png" group-title="LOKAL",DAAITV
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeaT4iM.jpg" group-title="Religious",AJWATV
-http://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-7464
+http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7464
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg" group-title="Religious",NU CHANNEL
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XQGggkA.jpg" group-title="LOKAL",Jawapos TV
