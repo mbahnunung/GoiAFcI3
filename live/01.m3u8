@@ -428,8 +428,6 @@ http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=sctv
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1  tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" group-title="ID",rtv (Max)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="ID",METROTV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=metrotv
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13" group-title="Tes",true4u
@@ -580,44 +578,3 @@ http://103.55.39.182/~dusktil2/a.m3u8?q=redbulltv
 #EXTINF:-1 tvg-id="redbulltv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mentaritv.png" group-title="OXYGEN", MENTARI TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=mentaritv
 
-################################################## LOKAL VIDIO ###############################################
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="LOKAL-Vidio", SCTV 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-204 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="LOKAL-Vidio", Indosiar 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-205 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL-Vidio", RCTI 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-665 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" group-title="LOKAL-Vidio", O Channel 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-206 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="LOKAL-Vidio", Kompas 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-874 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DLt5SLw/beritasatu.png" group-title="LOKAL-Vidio", Berita Satu 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6165 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="LOKAL-Vidio", MetroTV 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-777 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sV6MzVZ/net.png" group-title="LOKAL-Vidio", NET. 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-875 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="LOKAL-Vidio", TransTV 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-733 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qn8drTY/trans7.png" group-title="LOKAL-Vidio", Trans7 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-734 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="LOKAL-Vidio", TVRI 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6441 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL-Vidio", MNC TV 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-870 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8PX1m5F/jaktv.png" group-title="LOKAL-Vidio", Jaktv 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-5415 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL-Vidio", Global TV 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-778 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="LOKAL-Vidio", Rajawali TV 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-1561 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL-Vidio", Inews 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-5409 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ncBt90d/oshop.png" group-title="LOKAL-Vidio", O Shop 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6166 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="LOKAL-Vidio", MyTV 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6711 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="LOKAL-Vidio", Nusantara TV 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7432 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WxMM0S7/daaitv.png" group-title="LOKAL-Vidio", Daai TV 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6482 
