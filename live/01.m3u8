@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional",RCTI
 http://93.190.139.34:8278/streams/d/Rcti/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png?v=2.0.0.13" group-title="Nasional",SCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kHUcKkK.png?v=2.0.0.13" group-title="Nasional",SCTV
 http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Nasional",MNCTV
 http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
@@ -17,7 +17,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=trans7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional",TRANSTV
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4nkYUAd.png?v=2.0.0.13" group-title="Nasional",GTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=2.0.0.13" group-title="Nasional",GTV
 #https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional",NET.
@@ -28,7 +28,7 @@ http://sile.mengkacaktv.my.id:83/oxygen.m3u8/?channel=tvone
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Nasional",KOMPASTV
 #https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="Nasional",rtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noPq57I.png?v=2.0.0.13" group-title="Nasional",rtv
 http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional",TVRI
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8
@@ -244,11 +244,11 @@ https://nonton.site:8443/live/novi/novi123/455.m3u8
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--mVVtEao6FM/YAV7vu0fuII/AAAAAAAAA9E/h1LpcaKg1lkccSfTghuPKDU_9Q3MxMFewCLcBGAsYHQ/s0/logo_crimeinvestigation.png" group-title="Knowledge" tvg-id="" tvg-name"Crime Investigation",Crime Investigation
 http://203.154.243.31:15001
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mozr67tdgUc/W-CH02GZaeI/AAAAAAAAJ94/hYBVYnCgSXM3XAGx2gfP-wiPRckIVQwvACLcBGAs/s1600/logo_cgtndocumentary.png" group-title="Knowledge" tvg-id="" tvg-name"CGTN Documentary (USEETV)",CGTN Documentary (USEETV)
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mozr67tdgUc/W-CH02GZaeI/AAAAAAAAJ94/hYBVYnCgSXM3XAGx2gfP-wiPRckIVQwvACLcBGAs/s1600/logo_cgtndocumentary.png" group-title="Knowledge",CGTN Documentary (USEETV)
 http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IjZRdaLrdx4/YA12tIjx1EI/AAAAAAAAA-E/TsfAmoKu_8QoyMfy4QJciLd1x2ctrKpsACLcBGAsYHQ/s0/smithsonian.png" tvg-id="" tvg-name"Smithsonian" group-title="Knowledge",Smithsonian
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png" group-title="Knowledge",Smithsonian
 https://nonton.site:8443/live/novi/novi123/35998.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hx04jq.jpg" tvg-id="" tvg-name"Love Nature" group-title="Knowledge",Love Nature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png" tvg-id="" tvg-name"Love Nature" group-title="Knowledge",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zVt8jckiDx0/YA13zhYCjAI/AAAAAAAAA-M/x4J2h5yAfpIyuY_lGp2zgIaFNMUNCH6AgCLcBGAsYHQ/s0/AnimalPlanet.jpg" group-title="Knowledge",ANIMAL PLANET HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
