@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="MUSIC",Maleo
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional",RCTI
 http://93.190.139.34:8278/streams/d/Rcti/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/rcti.m3u8
@@ -17,6 +19,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://oxygen.cpdev.us/oxygen/play/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional",TRANSTV
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-c0g03ph4I-0/W96E_5Ii8WI/AAAAAAAAJ8g/CLrWh37oMHE-QTsWZQTvc0d9VhBP3ksgACLcBGAs/s1600/logo_alquran_live.png" group-title="Religious",Al Quran Al Kareem
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=2.0.0.13" group-title="Nasional",GTV
 #https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
@@ -172,8 +176,6 @@ http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
 
 ########################################## MUSIC ######################################################
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="MUSIC",Maleo
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UzdfOrfmMpQ/YAm9EyWSRMI/AAAAAAAAMkA/LZN-6wA9D-w53zd2Rl66CX-959sDGRdVQCLcBGAsYHQ/s0/logo_MTVlive.png" group-title="MUSIC",MTV Live
 http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-mtvlive
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png" group-title="MUSIC",9XM
@@ -249,8 +251,6 @@ http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
 https://nonton.site:8443/live/novi/novi123/35998.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png" tvg-id="" tvg-name"Love Nature" group-title="Knowledge",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zVt8jckiDx0/YA13zhYCjAI/AAAAAAAAA-M/x4J2h5yAfpIyuY_lGp2zgIaFNMUNCH6AgCLcBGAsYHQ/s0/AnimalPlanet.jpg" group-title="Knowledge",ANIMAL PLANET HD
-https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CLN1nXp.jpg" group-title="Knowledge",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 
@@ -358,16 +358,6 @@ https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Fashion",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png" group-title="Fashion",Naked News
-https://content.jwplatform.com/manifests/Z9pDgB08.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJYOQ8g.jpg" group-title="Fashion",Wanisa-p01h(TBA)
-https://content.jwplatform.com/manifests/gG9DRJhA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qj8wo0m.jpg" group-title="Fashion",Amber Sym Shows Off Her Perfect Physique And Tight Muff On The Bed
-https://content.jwplatform.com/manifests/FvZNULgu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dJKOAbO.jpg" group-title="Fashion",Ravishing blonde model in the nude makes love to the camera
-https://content.jwplatform.com/manifests/cNEunswQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rggRHeB.jpg" group-title="Fashion",Fara Q. striptease
-https://content.jwplatform.com/manifests/GiPndjAz.m3u8
 
 ########################################## RADIO ######################################################
 
@@ -589,3 +579,45 @@ http://103.55.39.182/~dusktil2/a.m3u8?q=sportone
 http://103.55.39.182/~dusktil2/a.m3u8?q=redbulltv
 #EXTINF:-1 tvg-id="redbulltv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mentaritv.png" group-title="OXYGEN", MENTARI TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=mentaritv
+
+################################################## LOKAL VIDIO ###############################################
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="LOKAL-Vidio", SCTV 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-204 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="LOKAL-Vidio", Indosiar 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-205 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL-Vidio", RCTI 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-665 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" group-title="LOKAL-Vidio", O Channel 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-206 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="LOKAL-Vidio", Kompas 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-874 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DLt5SLw/beritasatu.png" group-title="LOKAL-Vidio", Berita Satu 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6165 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="LOKAL-Vidio", MetroTV 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-777 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sV6MzVZ/net.png" group-title="LOKAL-Vidio", NET. 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-875 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="LOKAL-Vidio", TransTV 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-733 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qn8drTY/trans7.png" group-title="LOKAL-Vidio", Trans7 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-734 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="LOKAL-Vidio", TVRI 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6441 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL-Vidio", MNC TV 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-870 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PX1m5F/jaktv.png" group-title="LOKAL-Vidio", Jaktv 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-5415 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL-Vidio", Global TV 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-778 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="LOKAL-Vidio", Rajawali TV 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-1561 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL-Vidio", Inews 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-5409 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncBt90d/oshop.png" group-title="LOKAL-Vidio", O Shop 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6166 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="LOKAL-Vidio", MyTV 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6711 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="LOKAL-Vidio", Nusantara TV 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7432 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WxMM0S7/daaitv.png" group-title="LOKAL-Vidio", Daai TV 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6482 
