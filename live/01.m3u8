@@ -19,7 +19,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://oxygen.cpdev.us/oxygen/play/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional",TRANSTV
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-c0g03ph4I-0/W96E_5Ii8WI/AAAAAAAAJ8g/CLrWh37oMHE-QTsWZQTvc0d9VhBP3ksgACLcBGAs/s1600/logo_alquran_live.png" group-title="Religious",Al Quran Al Kareem
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png" group-title="Religious",Al Quran Al Kareem
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=2.0.0.13" group-title="Nasional",GTV
 #https://tv.mbahnunungonline.net/playlist/gtv.m3u8
@@ -49,7 +49,7 @@ http://rr2.dens.tv/s/s46/01.m3u8
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="LOKAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rKmfsgjM_18/YAsRQe1xIyI/AAAAAAAAMn0/CeWjURkYroYeTO--0phZIzsgIQ0hyR_qgCLcBGAsYHQ/s0/sea_today.png" group-title="News",SEA Today
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png" group-title="News",SEA Today
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png?v=2.0.0.13" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
