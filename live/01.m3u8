@@ -16,7 +16,7 @@ http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Nasional",TRANS7
-http://oxygen.cpdev.us/oxygen/play/trans7.m3u8
+http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-trans7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional",TRANSTV
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png" group-title="Religious",Al Quran Al Kareem
@@ -25,7 +25,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 #https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional",NET.
-http://gratismkctv.net/oxygen.m3u8?channel=nettv
+http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-net
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="Nasional",tvOne
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Nasional",KOMPASTV
