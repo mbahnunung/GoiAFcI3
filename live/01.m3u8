@@ -148,7 +148,7 @@ http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-nickelodeon
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Tvq_gIW5Fa8/YAsKvZlh7rI/AAAAAAAAMnY/iVXnMubezQkJ5f3Tr0BTTe6T1kzwNeS0QCLcBGAsYHQ/s0/logo_davinci.png" group-title="Entertainment" tvg-id="" tvg-name"Da Vinci Learning",Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sugpdHpvozU/YAsKFSdWq2I/AAAAAAAAMnE/bEknEgYBvHocv8hJZ_5igHFThhtM9STDQCLcBGAsYHQ/s0/logo_mykids.png" group-title="Kids" tvg-id="" tvg-name"My Kids",My Kids
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-mykids
+http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqz8uV5EVUM/YAsJsdLCVoI/AAAAAAAAMm8/W1-SNVA1O68M1tqyj8KKV6haNyDHBnS6ACLcBGAsYHQ/s0/logo_dreamworks.png" group-title="Kids" tvg-id="" tvg-name"Dreamworks",Dreamworks
 http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-dreamworks
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mCq1jL50dnY/UayaSo6lBgI/AAAAAAAAF4k/LI_Z2SPm_zc/s320/spacetoon.png" group-title="Kids",SPACETOON
