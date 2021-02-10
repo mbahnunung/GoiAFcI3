@@ -14,7 +14,8 @@ http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional",INDOSIAR
 http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional",METROTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Nasional",TRANS7
 http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-trans7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional",TRANSTV
