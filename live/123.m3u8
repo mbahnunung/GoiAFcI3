@@ -12,7 +12,7 @@ http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png" group-title="Nasional", Indosiar 
 http://103.55.39.182/~dusktil2/a.m3u8?q=indosiar 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="Nasional", MetroTV 
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="Nasional", Trans7 
 https://gratismkctv.net/oxygen.m3u8?channel=trans7 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png" group-title="Nasional", TransTV 
@@ -192,3 +192,7 @@ https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MqZdA4W.jpg" group-title="Singapore", Ch 5
 http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kM072Wq/rtv.png" group-title="INDONESIA",RTV
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
