@@ -26,7 +26,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional",NET.
-http://103.55.39.182/~dusktil2/a.m3u8?q=nettv
+https://tv.mbahnunungonline.net/playlist/nettv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="Nasional",tvOne
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Nasional",KOMPASTV
@@ -38,8 +38,8 @@ http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional",TVRI
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13" group-title="Nasional",iNews HD
-#https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
-http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8
+https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Nasional",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="Nasional",CNN Indonesia HD
@@ -54,7 +54,7 @@ https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="LOKAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png" group-title="News",SEA Today
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index05.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png?v=2.0.0.13" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=2.0.0.13" group-title="LOKAL",JAKTV
