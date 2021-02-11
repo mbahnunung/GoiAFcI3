@@ -26,9 +26,9 @@ http://103.55.39.182/~dusktil2/a.m3u8?q=nettv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="Nasional", tvOne
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png" group-title="Nasional", SEA Today 
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="Nasional", KompasTV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png" group-title="Nasional", BeritaSatu 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png" group-title="Nasional", TVRI 
@@ -36,7 +36,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png" group-title="Nasional", Jaktv 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png" group-title="Nasional", RTV 
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png" group-title="Religious", TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png" group-title="LOKAL", JTV
