@@ -7,8 +7,8 @@ https://tv.mbahnunungonline.net/playlist/rctisd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Nasional",SCTV
 http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Nasional",MNCTV
-#http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
-https://tv.mbahnunungonline.net/playlist/mnctvsd.m3u8
+http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
+#https://tv.mbahnunungonline.net/playlist/mnctvsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional",antv
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional",INDOSIAR
@@ -54,7 +54,7 @@ https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="LOKAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png" group-title="News",SEA Today
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png?v=2.0.0.13" group-title="LOKAL",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=2.0.0.13" group-title="LOKAL",JAKTV
