@@ -25,28 +25,28 @@ http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
 http://103.55.39.182/~dusktil2/a.m3u8?q=nettv 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="Nasional", tvOne
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png" group-title="Nasional", SEA Today 
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png" group-title="Nasional", iNews 
+http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png" group-title="Nasional", CNN Indonesia HD 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="Nasional", KompasTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png" group-title="Nasional", BeritaSatu 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png" group-title="Nasional", TVRI 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png" group-title="Nasional", Jaktv 
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png" group-title="Nasional", rtv 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png" group-title="Nasional", Jaktv 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png" group-title="Religious", TV9 Nusantara
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png" group-title="LOKAL", JTV
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png" group-title="Nasional", iNews 
-http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png" group-title="Nasional", CNN Indonesia HD 
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png" group-title="LOKAL", JTV 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png" group-title="Nasional", MyTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png" group-title="Nasional", SEA Today 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png" group-title="Nasional", NusantaraTV 
 https://v6.siar.us/nusantaratv/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png" group-title="LOKAL", Daai TV 
@@ -194,5 +194,7 @@ http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kM072Wq/rtv.png" group-title="INDONESIA",RTV
-https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:-1 group-title="MAXSTREAM" tvg-logo="https://i.imgur.com/DiZMiIR.png", Mola TV Free
+https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/maxstreammusic.png" group-title="MAXSTREAM",MAXSTREAM Music
+https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
