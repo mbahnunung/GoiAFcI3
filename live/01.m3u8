@@ -78,7 +78,7 @@ https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png" group-title="LOKAL",DAAITV
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png" group-title="Religious",AJWATV
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7464
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg" group-title="Religious",NU CHANNEL
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XQGggkA.jpg" group-title="LOKAL",Jawapos TV
@@ -405,9 +405,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png" group-title="Sports",Golf Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lz8A0qIPP6Y/VgY1OB_2V5I/AAAAAAAAFAk/9ZZHeZCRrcI6QAkuJ1rptGxvOPViBC-8QCPcBGAYYCw/s0/beinSport1.png" group-title="Sports",Bein Sport 1
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein1
+http://160.119.77.116:8081/iptv/hd-bein1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kfLY92b04nk/VgY3R0RRquI/AAAAAAAAFAw/2zEzh3rrBQs0ERmZcboo7IIhIfmTmBgLQCPcBGAYYCw/s0/beinSport2.png" group-title="Sports",bein Sport 2
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein2
+http://160.119.77.116:8081/iptv/hd-bein2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yZhfZqwOeVk/YAryQT83B4I/AAAAAAAAMlY/M7B9Pz_GJZ0VtN3cbbeKgnmEdr9HL-L6QCLcBGAsYHQ/s0/logo_champTV1.png" group-title="Sports",Champions TV 1
 http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6685
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kGlB-sKLV4Q/YAryQHIavtI/AAAAAAAAMlU/GVzoW04KETwepTxXxkvWlf2k-7ZkXSRLgCLcBGAsYHQ/s0/logo_champTV2.png" group-title="Sports",Champions TV 2
