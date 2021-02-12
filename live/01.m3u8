@@ -11,8 +11,8 @@ https://tv.mbahnunungonline.net/playlist/sctv.m3u8
 http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/mnctvsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
-#http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
-http://103.55.39.182/~dusktil2/a.m3u8?q=antv
+http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
+#http://103.55.39.182/~dusktil2/a.m3u8?q=antv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
 #http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/indosiar.m3u8
@@ -30,7 +30,7 @@ https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET.
 https://tv.mbahnunungonline.net/playlist/nettv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png?v=2.0.0.13" group-title="Nasional", tvOne
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=2.0.0.13" group-title="Nasional", tvOne
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Nasional", KOMPASTV
 #http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
