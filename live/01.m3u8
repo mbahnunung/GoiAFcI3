@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="MUSIC", Maleo
-https://ritesh.ch/miniproxy/miniproxy.php/http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional", RCTI
 #http://93.190.139.34:8278/streams/d/Rcti/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/rctisd.m3u8
@@ -11,7 +11,8 @@ https://tv.mbahnunungonline.net/playlist/sctv.m3u8
 http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/mnctvsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
-http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
+#http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
+http://103.55.39.182/~dusktil2/a.m3u8?q=antv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
 #http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/indosiar.m3u8
@@ -302,7 +303,8 @@ https://nonton.site:8443/live/novi/novi123/8131.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-PeiBHh5e_ak/VgS9HGl2GqI/AAAAAAAAE-k/6f9MhB1ZkJs/s1600/logo_aniplus.png" group-title="Entertainment" tvg-id="" tvg-name"ANIPlus",ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-9SwarJ_GVjk/W9dl4nKcYDI/AAAAAAAAJ3E/YHeHN8DqlCgj86eQ9w-9Dy3Xew7rt_RpACLcBGAs/s1600/logo_cctv4_tv.png" group-title="Entertainment" tvg-id="" tvg-name"CCTV4",CCTV4
-http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+http://93.190.139.36:8278/streams/d/cctv4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-fnGIIyIaM_8/T8jQPFmpA3I/AAAAAAAABEE/ezIJ522VdoY/s60/nhk-world.png" group-title="News" tvg-id="" tvg-name"NHK World Japan",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-r7cMFfHmmdg/YAqYk0GvHbI/AAAAAAAAMk8/WAQd1x9BR3wMW-fv-zf4NrZXdU5J6hfdACLcBGAsYHQ/s0/logo_sgem.png" group-title="Korengan" tvg-id="" tvg-name"GEM",GEM
