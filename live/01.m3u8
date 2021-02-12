@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="MUSIC", Maleo
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+https://ritesh.ch/miniproxy/miniproxy.php/http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional", RCTI
 #http://93.190.139.34:8278/streams/d/Rcti/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/rctisd.m3u8
@@ -11,7 +11,7 @@ https://tv.mbahnunungonline.net/playlist/sctv.m3u8
 http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/mnctvsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
-http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
+https://ritesh.ch/miniproxy/miniproxy.php/http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
 #http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/indosiar.m3u8
