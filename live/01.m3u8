@@ -46,7 +46,7 @@ https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Nasional", BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="Nasional", CNN Indonesia HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://ch.iptvmate.net/ba3539a9b1f8c864f53b6acb4ca3c72b.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=2.0.0.13" group-title="Nasional", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png?v=2.0.0.13" group-title="Entertainment", MYTV
@@ -160,8 +160,8 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1014075507.
 ########################################## MALAYSIA TV ######################################################
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="Malaysia",ASTRO AWANI 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
-#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AdhVuZ-u8xg/V1lUMUAhBEI/AAAAAAAAFcA/93nYQbYwam4GHDq0-q-LHcQUdcQp7XsTwCLcB/s1600/bernama-tv.png" group-title="Malaysia",BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwx1i1I.png" group-title="Malaysia",TV1
