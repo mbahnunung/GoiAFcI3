@@ -19,10 +19,10 @@ https://gratismkctv.net/oxygen.m3u8?channel=trans7
 https://gratismkctv.net/oxygen.m3u8?channel=transtv 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png" group-title="Religious",Al Quran Al Kareem
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png" group-title="Nasional", GTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png" group-title="Nasional", GTV 
 http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="Nasional", NET. 
-http://103.55.39.182/~dusktil2/a.m3u8?q=nettv 
+https://tv.mbahnunungonline.net/playlist/nettv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="Nasional", tvOne
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png" group-title="Nasional", iNews 
