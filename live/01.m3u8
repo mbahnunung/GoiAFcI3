@@ -418,7 +418,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dopyzDzv-FI/YAsEfVW6PLI/AAAAAAAAMl4/tTjq0xEPoaUAflywZ1-l0tsIrUSKMvwiwCLcBGAsYHQ/s0/logo_foxsports3.png?v=2.0.0.13" group-title="Sports",Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://store-images.s-microsoft.com/image/apps.17102.9007199266286060.e5a6c641-2165-46d1-90f1-429549b643cd.baa183a4-ef9a-488a-a0e1-fab4395f0c7d", Redbull TV
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/VPKATFr.png", Redbull TV
 http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/imv7fuM.jpg?v=2.0.0.13", ESPN fs2
 https://gma2.blab.email/fs2.m3u8
