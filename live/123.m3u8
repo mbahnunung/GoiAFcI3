@@ -16,7 +16,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="Nasional", Trans7 
 https://gratismkctv.net/oxygen.m3u8?channel=trans7 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png" group-title="Nasional", TransTV 
-https://gratismkctv.net/oxygen.m3u8?channel=transtv 
+http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png" group-title="Religious",Al Quran Al Kareem
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1186111470569832448/2g9czfPc_400x400.jpg" group-title="MUSIC", MATRIX TV
