@@ -71,8 +71,8 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q2mnr5J.png" group-title="Religious",Muhammadiyah TV
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-muhammadiyahtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwxmNpN.png" group-title="LOKAL",ELSHINTA TV
+http://ironman.my.id/andri/andriant.php?channel=elshinta
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png" group-title="LOKAL",InspiraTV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png" group-title="LOKAL",DAAITV
