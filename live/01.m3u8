@@ -7,7 +7,7 @@ https://tv.mbahnunungonline.net/playlist/rctisd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV
 #http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/sctv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Nasional", MNCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV
 http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/mnctvsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
@@ -39,7 +39,7 @@ https://tv.mbahnunungonline.net/playlist/kompastv.m3u8
 https://tv.mbahnunungonline.net/playlist/rtv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional", TVRI
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13" group-title="Nasional", iNews HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Nasional", iNews HD
 https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Nasional", BERITASATU
@@ -367,6 +367,16 @@ https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Fashion",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png" group-title="Fashion",Naked News
+https://content.jwplatform.com/manifests/Z9pDgB08.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJYOQ8g.jpg" group-title="Fashion",Wanisa-p01h(TBA)
+https://content.jwplatform.com/manifests/gG9DRJhA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qj8wo0m.jpg" group-title="Fashion",Amber Sym Shows Off Her Perfect Physique And Tight Muff On The Bed
+https://content.jwplatform.com/manifests/FvZNULgu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dJKOAbO.jpg" group-title="Fashion",Ravishing blonde model in the nude makes love to the camera
+https://content.jwplatform.com/manifests/cNEunswQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rggRHeB.jpg" group-title="Fashion",Fara Q. striptease
+https://content.jwplatform.com/manifests/GiPndjAz.m3u8
 
 ########################################## RADIO ######################################################
 
@@ -453,7 +463,7 @@ http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia-x
 
 #EXTINF:-1 group-title="MAXSTREAM" tvg-logo="https://i.imgur.com/DiZMiIR.png", Mola TV Free
 https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/maxstreammusic.png" group-title="MAXSTREAM",MAXSTREAM Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="MAXSTREAM", MAXSTREAM Music
 https://tv.mbahnunungonline.net/playlist/maxstream.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1186111470569832448/2g9czfPc_400x400.jpg" group-title="MUSIC", MATRIX TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=matrixtv 
