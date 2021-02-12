@@ -5,7 +5,7 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png" group-title="Nasional", SCTV 
 https://gratismkctv.net/oxygen.m3u8?channel=sctv 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png" group-title="Nasional", MNCTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png" group-title="Nasional", MNCTV 
 https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png" group-title="Nasional", antv
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8 
@@ -19,15 +19,13 @@ https://gratismkctv.net/oxygen.m3u8?channel=trans7
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png" group-title="Religious",Al Quran Al Kareem
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1186111470569832448/2g9czfPc_400x400.jpg" group-title="MUSIC", MATRIX TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=matrixtv 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png" group-title="Nasional", GTV 
 http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="Nasional", NET. 
 https://tv.mbahnunungonline.net/playlist/nettv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="Nasional", tvOne
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png" group-title="Nasional", iNews 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png" group-title="Nasional", iNews 
 http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png" group-title="Nasional", CNN Indonesia HD 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
@@ -198,5 +196,7 @@ http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
 
 #EXTINF:-1 group-title="MAXSTREAM" tvg-logo="https://i.imgur.com/DiZMiIR.png", Mola TV Free
 https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1186111470569832448/2g9czfPc_400x400.jpg" group-title="MUSIC", MATRIX TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=matrixtv 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/maxstreammusic.png" group-title="MAXSTREAM",MAXSTREAM Music
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
