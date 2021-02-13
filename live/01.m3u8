@@ -159,26 +159,26 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1014075507.
 
 ########################################## MALAYSIA TV ######################################################
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="Malaysia",ASTRO AWANI 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="Malaysia", ASTRO AWANI 
 #https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AdhVuZ-u8xg/V1lUMUAhBEI/AAAAAAAAFcA/93nYQbYwam4GHDq0-q-LHcQUdcQp7XsTwCLcB/s1600/bernama-tv.png" group-title="Malaysia",BERNAMA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AdhVuZ-u8xg/V1lUMUAhBEI/AAAAAAAAFcA/93nYQbYwam4GHDq0-q-LHcQUdcQp7XsTwCLcB/s1600/bernama-tv.png" group-title="Malaysia", BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gwx1i1I.png" group-title="Malaysia",TV1
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-q35SEqK9HvI/XMfJC7mMELI/AAAAAAAALYc/gEAOcpKPRJg7FJsGJjPpczRAmCi1Ja8UACLcBGAs/s1600/tv1-malaysia.png" group-title="Malaysia", TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mps176t.png" group-title="Malaysia",TV2
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-itq7U8NLDv0/XMfHyEbUqaI/AAAAAAAALYU/V-0AwQiK2H4p_Q_M2rZj2LjNcBdpVWVvQCLcBGAs/s1600/tv2-malaysia.png" group-title="Malaysia", TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oW0riHe.jpg" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oW0riHe.jpg" group-title="Malaysia", TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LnYVMQN/TV7-PPI.png" group-title="Malaysia",NTV7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnYVMQN/TV7-PPI.png" group-title="Malaysia", NTV7
 http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JF474FR/TV8-PPI.png" group-title="Malaysia",8TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JF474FR/TV8-PPI.png" group-title="Malaysia", 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XsNDd3Z/TV9-PPI.png" group-title="Malaysia",TV9 MALAYSIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsNDd3Z/TV9-PPI.png" group-title="Malaysia", TV9 MALAYSIA
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png" group-title="Malaysia",AL HIJRAH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png" group-title="Malaysia", AL HIJRAH
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQsUvIE.jpg" group-title="Malaysia",TVIKIM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQsUvIE.jpg" group-title="Malaysia", TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XYeb1CE.jpg" group-title="Singapore", SuriaTV
 http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
