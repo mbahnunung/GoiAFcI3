@@ -345,7 +345,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lO1Oebd.png" group-title="FOX Movies", FOX
 http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7sK1Ikd.png" group-title="HBO-FOX", FOX LIFE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sK1Ikd.png" group-title="FOX Movies", FOX LIFE
 http://50.7.161.82:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2sGsLW.png" group-title="FOX Movies",FOX Action Movies FHD
 #https://nonton.site:8443/live/novi/novi123/1478.m3u8
