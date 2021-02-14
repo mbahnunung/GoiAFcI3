@@ -390,17 +390,17 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg" group-title="Radio",RAYA FM
 http://45.64.98.181:8323/stream
 
-########################################## FOX ######################################################
+########################################## FOX Movies ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lO1Oebd.png" group-title="Movies", FOX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lO1Oebd.png" group-title="FOX Movies", FOX
 http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2sGsLW.png" group-title="Movies",FOX Action Movies FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2sGsLW.png" group-title="FOX Movies",FOX Action Movies FHD
 #https://nonton.site:8443/live/novi/novi123/1478.m3u8
 http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5kpF86D.png" group-title="Movies",Foxmovies HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5kpF86D.png" group-title="FOX Movies",Foxmovies HD
 #https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ul4Qxnh.png" group-title="Movies",FOX FAMILY HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ul4Qxnh.png" group-title="FOX Movies",FOX FAMILY HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 ########################################## HBO GO ######################################################
@@ -423,9 +423,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png" group-title="Sports",Golf Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lz8A0qIPP6Y/VgY1OB_2V5I/AAAAAAAAFAk/9ZZHeZCRrcI6QAkuJ1rptGxvOPViBC-8QCPcBGAYYCw/s0/beinSport1.png" group-title="Sports",Bein Sport 1
-http://160.119.77.116:8081/iptv/hd-bein1.stream/chunks.m3u8
+http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33992 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kfLY92b04nk/VgY3R0RRquI/AAAAAAAAFAw/2zEzh3rrBQs0ERmZcboo7IIhIfmTmBgLQCPcBGAYYCw/s0/beinSport2.png" group-title="Sports",bein Sport 2
-http://160.119.77.116:8081/iptv/hd-bein2.stream/chunks.m3u8
+http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33971 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yZhfZqwOeVk/YAryQT83B4I/AAAAAAAAMlY/M7B9Pz_GJZ0VtN3cbbeKgnmEdr9HL-L6QCLcBGAsYHQ/s0/logo_champTV1.png" group-title="Sports",Champions TV 1
 http://warkop.xyz/m3u/vidio-champion1.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kGlB-sKLV4Q/YAryQHIavtI/AAAAAAAAMlU/GVzoW04KETwepTxXxkvWlf2k-7ZkXSRLgCLcBGAsYHQ/s0/logo_champTV2.png" group-title="Sports",Champions TV 2
