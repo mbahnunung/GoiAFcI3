@@ -221,17 +221,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-V--x426kR1Q/YAH5KJF83mI/AAAAAAAAMgc/JCIl7lXYK8oouh6D4UAc_PawZ55mUhqiACLcBGAsYHQ/s320/zeecafe.jpg" group-title="Movies",ZEE CAFE
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lO1Oebd.png" group-title="Movies", FOX
-http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2sGsLW.png" group-title="Movies",FOX Action Movies FHD
-#https://nonton.site:8443/live/novi/novi123/1478.m3u8
-http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5kpF86D.png" group-title="Movies",Foxmovies HD
-#https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ul4Qxnh.png" group-title="Movies",FOX FAMILY HD
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-http://warkop.xyz/m3u/foxfamily.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wqroWnF.jpg" group-title="Movies",MY CINEMA
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vvQ08bs1O1k/YAVi9kzFGGI/AAAAAAAAA70/IeP6w9cLSsUOg8Pf6a8ljvysHtuQqGl9QCLcBGAsYHQ/s0/logo_dunialain.png" group-title="Horor" tvg-id="" tvg-name"Dunia Lain",Dunia Lain
@@ -400,6 +389,19 @@ http://s4.vinhostmedia.com:8000/streamaac
 https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg" group-title="Radio",RAYA FM
 http://45.64.98.181:8323/stream
+
+########################################## FOX ######################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lO1Oebd.png" group-title="Movies", FOX
+http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2sGsLW.png" group-title="Movies",FOX Action Movies FHD
+#https://nonton.site:8443/live/novi/novi123/1478.m3u8
+http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5kpF86D.png" group-title="Movies",Foxmovies HD
+#https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ul4Qxnh.png" group-title="Movies",FOX FAMILY HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 ########################################## HBO GO ######################################################
 
