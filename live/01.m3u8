@@ -209,8 +209,8 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" group-title="Movies" tvg-id="AXN" tvg-name"AXN",AXN
 http://rr.dens.tv/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" group-title="Movies" tvg-id="KIX HD" tvg-name"KIX HD",KIX HD
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+#https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" group-title="Horor", thrill
 #https://nonton.site:8443/live/novi/novi123/4.m3u8
 https://cdn6.goprimetime.info/feed/LC26/index.m3u8
