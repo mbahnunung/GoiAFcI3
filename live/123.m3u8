@@ -28,7 +28,8 @@ https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #https://tv.mbahnunungonline.net/playlist/nettv.m3u8
 http://warkop.xyz/m3u/net.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", tvOne
-http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
+#http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
+http://103.55.39.182/~dusktil2/a.m3u8?q=tvone 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Nasional", iNews 
 http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="Nasional", CNN Indonesia HD 
