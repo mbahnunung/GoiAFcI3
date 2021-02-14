@@ -4,8 +4,8 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional", RCTI 
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV 
-http://warkop.xyz/m3u/sctv.m3u8
-#http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
+http://warkop.xyz/m3u/sctv.m3u8 
+#http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV 
 https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
@@ -17,6 +17,7 @@ http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="Nasional", Trans7 
 https://gratismkctv.net/oxygen.m3u8?channel=trans7 
+http://warkop.xyz/m3u/trans7.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TransTV 
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious",Al Quran Al Kareem
