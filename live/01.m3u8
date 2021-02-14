@@ -403,8 +403,8 @@ http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ul4Qxnh.png" group-title="FOX Movies",FOX FAMILY HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="FOX Movies", FOX CRIME
-https://warkop.xyz/m3u/foxcrime.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8Ki0LZVyY-8/YClRcz7o8SI/AAAAAAAAMqw/CUYDWnlJ5g0sB70X_zbZJLO_-7UnkGH2QCLcBGAsYHQ/s0/foxcrime.png" group-title="FOX Movies", FOX CRIME
+http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
 
 ########################################## HBO GO ######################################################
 
