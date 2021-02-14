@@ -38,9 +38,8 @@ http://103.55.39.182/~dusktil2/a.m3u8?q=tvone
 #http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/kompastv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="Nasional", rtv
-#http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
+http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/rtv.m3u8
-http://warkop.xyz/m3u/vidio-rtv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional", TVRI
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Nasional", iNews HD
