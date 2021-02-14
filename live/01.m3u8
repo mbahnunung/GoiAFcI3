@@ -18,7 +18,8 @@ https://tv.mbahnunungonline.net/playlist/indosiar.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Nasional", TRANS7
-https://tv.mbahnunungonline.net/playlist/trans7.m3u8
+#https://tv.mbahnunungonline.net/playlist/trans7.m3u8
+http://warkop.xyz/m3u/vidio-trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TRANSTV
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png" group-title="Religious", Al Quran Al Kareem
@@ -133,27 +134,27 @@ http://79.137.41.99/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JjR1xoS.jpg" group-title="Kids", GEM Kids 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eEyNnyGiKJk/YAepZGXmimI/AAAAAAAAMhU/eD_hWT8k2MopDrkHfRc6i02p2hMZX5qAwCLcBGAsYHQ/s0/logo_horee.png" group-title="Kids" tvg-id="" tvg-name"Horee", Horee
-http://home-tv.web.id/dinda/nantihapus.m3u8?channel=vidio-6397
+http://warkop.xyz/m3u/horee.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nm1cw2LInGY/YAepxrh8ClI/AAAAAAAAMhc/HZLo0jf-beowVA3NYcdQYnJZ7x4aMSWGgCLcBGAsYHQ/s0/logo_babyfirst.png" group-title="Kids" tvg-id="" tvg-name"Baby First", Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6cVz4M5I3Ag/YAsJUy3Qr1I/AAAAAAAAMm0/ehYQrYXfBFMFDqbvTnkSRrdM9pH-SPDCgCLcBGAsYHQ/s0/logo_duck_TV.png" group-title="Kids" tvg-id="" tvg-name"Duck TV", Duck TV
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-ducktv
+http://warkop.xyz/m3u/ducktv.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nu-YaVv_LTc/YAesF_A9NJI/AAAAAAAAMhw/1XXk1BHyJTkyrguVkz5cf6hq6b22xum1QCLcBGAsYHQ/s0/logo_boomerang.png" group-title="Kids" tvg-id="Boomerang" tvg-name"Boomerang", Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3no11rMHabU/YAeqMxxDN7I/AAAAAAAAMhk/sH3shIkm-u0DplaX9Hdw81UILkjT1nB1ACLcBGAsYHQ/s0/logo_cartoonnetwork.png" group-title="Kids" tvg-id="" tvg-name"Cartoon Network", Cartoon Network
 http://79.137.41.99/Cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9z4J4L_mQos/YAsLHhtwaHI/AAAAAAAAMng/oyNGa8sTViwNP6cFsXWK1cv7O57jTKnPgCLcBGAsYHQ/s0/logo_duniaanak.png" group-title="Kids" tvg-id="" tvg-name"Dunia anak", Dunia anak
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-duniaanak
+http://warkop.xyz/m3u/duniaanak.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lV0xm4qtqC0/YAfU0EQWVwI/AAAAAAAAMh8/yuaxXMz8fBoUKseFaaYtfilyH2p8rRLngCLcBGAsYHQ/s0/logo_nickjr.png" group-title="Kids" tvg-id="" tvg-name"Nick Junior", Nick Junior
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-nickjr
+http://warkop.xyz/m3u/nickjr.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8DTjIAhzRx4/YAsKZ9mE1lI/AAAAAAAAMnM/-og_Q6wgBngmZR41X4g-RPRJP0pVIsRMgCLcBGAsYHQ/s0/logo_nickelodeon.png" group-title="Kids" tvg-id="" tvg-name"Nickelodeon", Nickelodeon
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-nickelodeon
+http://warkop.xyz/m3u/nickelodeon.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Tvq_gIW5Fa8/YAsKvZlh7rI/AAAAAAAAMnY/iVXnMubezQkJ5f3Tr0BTTe6T1kzwNeS0QCLcBGAsYHQ/s0/logo_davinci.png" group-title="Entertainment" tvg-id="" tvg-name"Da Vinci Learning", Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sugpdHpvozU/YAsKFSdWq2I/AAAAAAAAMnE/bEknEgYBvHocv8hJZ_5igHFThhtM9STDQCLcBGAsYHQ/s0/logo_mykids.png" group-title="Kids" tvg-id="" tvg-name"My Kids", My Kids
 http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqz8uV5EVUM/YAsJsdLCVoI/AAAAAAAAMm8/W1-SNVA1O68M1tqyj8KKV6haNyDHBnS6ACLcBGAsYHQ/s0/logo_dreamworks.png" group-title="Kids" tvg-id="" tvg-name"Dreamworks", Dreamworks
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-dreamworks
+http://warkop.xyz/m3u/dreamworks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mCq1jL50dnY/UayaSo6lBgI/AAAAAAAAF4k/LI_Z2SPm_zc/s320/spacetoon.png" group-title="Kids", SPACETOON
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1014075507.m3u8
 
@@ -227,12 +228,12 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wqroWnF.jpg" group-title="Movies",MY CINEMA
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vvQ08bs1O1k/YAVi9kzFGGI/AAAAAAAAA70/IeP6w9cLSsUOg8Pf6a8ljvysHtuQqGl9QCLcBGAsYHQ/s0/logo_dunialain.png" group-title="Horor" tvg-id="" tvg-name"Dunia Lain",Dunia Lain
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-dunialain
+http://warkop.xyz/m3u/dunialain.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EuRaJy6SP28/YAsQUhLUENI/AAAAAAAAMns/_WJRvzFroy8-_rXvkW-LQXnWbvbiqbjbgCLcBGAsYHQ/s0/logo_imc.png" group-title="Movies" tvg-id="IMC (USEETV)" tvg-name"IMC (USEETV)",IMC (USEETV)
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-imc
+http://warkop.xyz/m3u/imc.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3FNJE69u8Gk/W9yMvE3XYBI/AAAAAAAAJ7M/zWiB51aguT0mV1Yh_PiosfmLmlbHhblewCLcBGAs/s1600/bioskopindonesia.png" group-title="Movies" tvg-id="Bioskop Indonesia" tvg-name"Bioskop Indonesia",Bioskop Indonesia
-#http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bioskopindonesia
-https://nonton.site:8443/live/novi/novi123/908.m3u8
+http://warkop.xyz/m3u/bioskopindonesia.m3u8
+#https://nonton.site:8443/live/novi/novi123/908.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lk5JRaDtGX8/XL7vzdidbRI/AAAAAAAALU8/3M80Z-B7yrMAA3W7_VSd9799s4Fq5_zlACPcBGAYYCw/s0/logo_warnerbtv.png" group-title="Movies" tvg-id="Warner Bros (USEETV)" tvg-name"Warner Bros (USEETV)",Warner Bros (USEETV)
 #http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-warner
 https://nonton.site:8443/live/novi/novi123/1533.m3u8
@@ -417,9 +418,9 @@ http://160.119.77.116:8081/iptv/hd-bein1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kfLY92b04nk/VgY3R0RRquI/AAAAAAAAFAw/2zEzh3rrBQs0ERmZcboo7IIhIfmTmBgLQCPcBGAYYCw/s0/beinSport2.png" group-title="Sports",bein Sport 2
 http://160.119.77.116:8081/iptv/hd-bein2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yZhfZqwOeVk/YAryQT83B4I/AAAAAAAAMlY/M7B9Pz_GJZ0VtN3cbbeKgnmEdr9HL-L6QCLcBGAsYHQ/s0/logo_champTV1.png" group-title="Sports",Champions TV 1
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6685
+http://warkop.xyz/m3u/vidio-champion1.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kGlB-sKLV4Q/YAryQHIavtI/AAAAAAAAMlU/GVzoW04KETwepTxXxkvWlf2k-7ZkXSRLgCLcBGAsYHQ/s0/logo_champTV2.png" group-title="Sports",Champions TV 2
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6686
+https://warkop.xyz/m3u/vidio-champion2.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1IdpSOaDbz4/YAsD_iCGmHI/AAAAAAAAMlo/1wBdrH_6M280Mreb41TB3sMYQaVtwmcwQCLcBGAsYHQ/s0/logo_foxsports1.png?v=2.0.0.13" group-title="Sports",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TBYTApGZA40/YAsEOw9wASI/AAAAAAAAMls/I9CewyP_Z44BoymOYNBzznPrkj9FPE_uwCLcBGAsYHQ/s0/logo_foxsports2.png?v=2.0.0.13" group-title="Sports",Fox Sport 2
