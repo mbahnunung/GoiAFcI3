@@ -341,60 +341,12 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JnDa5NiJFz8/YA26GMyTDHI/AAAAAAAAA_o/-Z8g-f0-Ny8V_fT17wTq2swCMtmrOCr-QCLcBGAsYHQ/s0/bflix-movies-logo.jpg" group-title="Hindi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
-########################################## Fashion ######################################################
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hL11ma0KAUw/VXJqM7C0riI/AAAAAAAAEvA/qk7H37dKuJQ/s1600/fashion_tv_hot.png" group-title="Fashion",FTV Midnight Secrets FHD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sjZl08Q.jpg" group-title="Fashion",FTV Midnight Secrets HD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="Fashion",FashionTV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cf5Gyi4.jpg" group-title="Fashion",HD Fashion & LifeStyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CeymXdN.jpg" group-title="Fashion",Models Inc. HD
-http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tyPCtX0.jpg" group-title="Fashion",World Fashion
-https://bozztv.com/36bay2/gin/giniko_worldfashionchannel_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a9BNs6G.png" group-title="Fashion",JASMINTV
-https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fSlGoJa.png" group-title="Fashion",MiamiTV
-https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tibZOIG.png" group-title="Fashion",A3 Bikini Network
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Fashion",Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png" group-title="Fashion",Naked News
-https://content.jwplatform.com/manifests/Z9pDgB08.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJYOQ8g.jpg" group-title="Fashion",Wanisa-p01h(TBA)
-https://content.jwplatform.com/manifests/gG9DRJhA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qj8wo0m.jpg" group-title="Fashion",Amber Sym Shows Off Her Perfect Physique And Tight Muff On The Bed
-https://content.jwplatform.com/manifests/FvZNULgu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dJKOAbO.jpg" group-title="Fashion",Ravishing blonde model in the nude makes love to the camera
-https://content.jwplatform.com/manifests/cNEunswQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rggRHeB.jpg" group-title="Fashion",Fara Q. striptease
-https://content.jwplatform.com/manifests/GiPndjAz.m3u8
-
-########################################## RADIO ######################################################
-
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cpg6ctebufpp.jpg" group-title="Radio",mbah nunung Online
-http://78.129.237.53:9118/stream
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bIQJYXCkW1U/X_hIakBmkQI/AAAAAAAAMeU/x-8vwWIzMxYijxhEpSUaEDPWiyniq2vwACLcBGAsYHQ/s0/bintangtenggara.png" group-title="Radio",Bintang Tenggara
-http://live.radiobintangtenggara.com:8000/mbahnunungonline
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zKfFBaCN2dU/WP21Pg4t5ZI/AAAAAAAAAjQ/ndweLDJMRYw-3r_J-GTM-RhEMtqul5FDACPcBGAYYCw/s0/mcfm_station.png" group-title="Radio",MCFM
-http://live.sg.mcfmbwi.com:9720/mcfm
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ydBhgJoV9Wc/VYYKjRtXEqI/AAAAAAAAAJI/-sdDXgv4UzY/s1600/LOGO%2BSRITANJUNG.jpg" group-title="Radio",SRITANJUNG
-http://play.xajist.com:8208/stream
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IVu0rwyczX8/U8gBkcGwu6I/AAAAAAAAD1k/-ZcGciZ4nUQ/s1600/visfm.png" group-title="Radio",VisFM
-http://s4.vinhostmedia.com:8000/streamaac
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Uxf8xz3e6rg/VD4OjHN7jBI/AAAAAAAAEFw/hi81dF_UdQ0/s1600/gbsfm.png" group-title="Radio",GBSFM
-https://s7.alhastream.com/radio/8090/radio?1609467814144
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg" group-title="Radio",RAYA FM
-http://45.64.98.181:8323/stream
-
 ########################################## FOX Movies ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lO1Oebd.png" group-title="FOX Movies", FOX
 http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sK1Ikd.png" group-title="HBO-FOX", FOX LIFE
+http://50.7.161.82:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2sGsLW.png" group-title="FOX Movies",FOX Action Movies FHD
 #https://nonton.site:8443/live/novi/novi123/1478.m3u8
 http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
@@ -449,6 +401,57 @@ https://gma2.blab.email/espnu.m3u8
 https://gma2.blab.email/acc.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/WgiGQiY.jpg?v=2.0.0.13", SEC ESPN
 https://gma2.blab.email/sec.m3u8
+
+########################################## Fashion ######################################################
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hL11ma0KAUw/VXJqM7C0riI/AAAAAAAAEvA/qk7H37dKuJQ/s1600/fashion_tv_hot.png" group-title="Fashion",FTV Midnight Secrets FHD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sjZl08Q.jpg" group-title="Fashion",FTV Midnight Secrets HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="Fashion",FashionTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cf5Gyi4.jpg" group-title="Fashion",HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CeymXdN.jpg" group-title="Fashion",Models Inc. HD
+http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tyPCtX0.jpg" group-title="Fashion",World Fashion
+https://bozztv.com/36bay2/gin/giniko_worldfashionchannel_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9BNs6G.png" group-title="Fashion",JASMINTV
+https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fSlGoJa.png" group-title="Fashion",MiamiTV
+https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tibZOIG.png" group-title="Fashion",A3 Bikini Network
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Fashion",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png" group-title="Fashion",Naked News
+https://content.jwplatform.com/manifests/Z9pDgB08.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJYOQ8g.jpg" group-title="Fashion",Wanisa-p01h(TBA)
+https://content.jwplatform.com/manifests/gG9DRJhA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qj8wo0m.jpg" group-title="Fashion",Amber Sym Shows Off Her Perfect Physique And Tight Muff On The Bed
+https://content.jwplatform.com/manifests/FvZNULgu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dJKOAbO.jpg" group-title="Fashion",Ravishing blonde model in the nude makes love to the camera
+https://content.jwplatform.com/manifests/cNEunswQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rggRHeB.jpg" group-title="Fashion",Fara Q. striptease
+https://content.jwplatform.com/manifests/GiPndjAz.m3u8
+
+########################################## RADIO ######################################################
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cpg6ctebufpp.jpg" group-title="Radio",mbah nunung Online
+http://78.129.237.53:9118/stream
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bIQJYXCkW1U/X_hIakBmkQI/AAAAAAAAMeU/x-8vwWIzMxYijxhEpSUaEDPWiyniq2vwACLcBGAsYHQ/s0/bintangtenggara.png" group-title="Radio",Bintang Tenggara
+http://live.radiobintangtenggara.com:8000/mbahnunungonline
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zKfFBaCN2dU/WP21Pg4t5ZI/AAAAAAAAAjQ/ndweLDJMRYw-3r_J-GTM-RhEMtqul5FDACPcBGAYYCw/s0/mcfm_station.png" group-title="Radio",MCFM
+http://live.sg.mcfmbwi.com:9720/mcfm
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ydBhgJoV9Wc/VYYKjRtXEqI/AAAAAAAAAJI/-sdDXgv4UzY/s1600/LOGO%2BSRITANJUNG.jpg" group-title="Radio",SRITANJUNG
+http://play.xajist.com:8208/stream
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IVu0rwyczX8/U8gBkcGwu6I/AAAAAAAAD1k/-ZcGciZ4nUQ/s1600/visfm.png" group-title="Radio",VisFM
+http://s4.vinhostmedia.com:8000/streamaac
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Uxf8xz3e6rg/VD4OjHN7jBI/AAAAAAAAEFw/hi81dF_UdQ0/s1600/gbsfm.png" group-title="Radio",GBSFM
+https://s7.alhastream.com/radio/8090/radio?1609467814144
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg" group-title="Radio",RAYA FM
+http://45.64.98.181:8323/stream
+
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="Nasional",TVRI (Vision+)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
