@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="MUSIC", Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious",Al Quran Al Kareem
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional", RCTI 
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV 
@@ -20,6 +18,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 https://gratismkctv.net/oxygen.m3u8?channel=trans7 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TransTV 
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious",Al Quran Al Kareem
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV 
 #http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8 
 https://tv.mbahnunungonline.net/playlist/gtv.m3u8
