@@ -4,8 +4,7 @@
 https://tv.mbahnunungonline.net/playlist/rctisd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV
 #http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
-#https://tv.mbahnunungonline.net/playlist/sctv.m3u8
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
+https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV
 http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/mnctvsd.m3u8
@@ -14,8 +13,7 @@ http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #http://103.55.39.182/~dusktil2/a.m3u8?q=antv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
 #http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
-#https://tv.mbahnunungonline.net/playlist/indosiar.m3u8
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+https://tv.mbahnunungonline.net/playlist/indosiarhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="Nasional", METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
@@ -38,8 +36,8 @@ http://103.55.39.182/~dusktil2/a.m3u8?q=tvone
 #http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/kompastv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="Nasional", rtv
-http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
-#https://tv.mbahnunungonline.net/playlist/rtv.m3u8
+#http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
+https://tv.mbahnunungonline.net/playlist/rtv2.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional", TVRI
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Nasional", iNews HD
