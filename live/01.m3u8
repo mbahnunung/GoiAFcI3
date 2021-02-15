@@ -9,8 +9,8 @@ https://tv.mbahnunungonline.net/playlist/sctv.m3u8
 http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/mnctvsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
-http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
-#http://103.55.39.182/~dusktil2/a.m3u8?q=antv
+#http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
+http://103.55.39.182/~dusktil2/a.m3u8?q=antv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
 #http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/indosiar.m3u8
@@ -424,9 +424,9 @@ https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fSlGoJa.png" group-title="Fashion",MiamiTV
 https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tibZOIG.png" group-title="Fashion",A3 Bikini Network
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Fashion",Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
+http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png" group-title="Fashion",Naked News
 http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJYOQ8g.jpg" group-title="Fashion",Wanisa-p01h(TBA)
