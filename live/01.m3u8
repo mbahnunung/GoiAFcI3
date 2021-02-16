@@ -37,7 +37,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://103.55.39.182/~dusktil2/a.m3u8?q=tvone 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Nasional", KOMPASTV
 #http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
-http://tv.mbahnunungonline.net/playlist/kompastv1.m3u8
+https://tv.mbahnunungonline.net/playlist/kompastv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="Nasional", rtv
 #http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/rtv.m3u8
@@ -479,8 +479,7 @@ https://5effe161e0fba.streamlock.net:30443/live/ngrp:TIC.stream_all/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13" group-title="Tes",true4u
 https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Tes",NET. (Google Video)
-#http://dl.dropboxusercontent.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
-http://tv.mbahnunungonline.net/playlist/NetTV.m3u8
+https://dl.dropboxusercontent.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 #EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.imgur.com/fMNhEYh.jpg" group-title="oxygen",SINEMA INDONESIA
 http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
 #EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://2.bp.blogspot.com/-95KNePoIAOI/XE6oA78TNrI/AAAAAAAAnJA/7EmSy6tZPVMPbw_3L-45Hjua1y8Do4gywCLcBGAs/s1600/sinema-indonesia-x-tv-channel-logo.jpg" group-title="oxygen",SINEMA INDONESIA X
