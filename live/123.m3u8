@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="MUSIC", Maleo
+#EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="Music", Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional", RCTI 
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
@@ -9,14 +9,13 @@ http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", Indosiar 
-#http://103.55.39.182/~dusktil2/a.m3u8?q=indosiar 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
 http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", MetroTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", METROTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="Nasional", Trans7 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="Nasional", TRANS7 
 https://gratismkctv.net/oxygen.m3u8?channel=trans7 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TransTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TRANSTV 
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious",Al Quran Al Kareem
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
@@ -43,22 +42,24 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=2.0.0.13" group-title="Religious", TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png?v=2.0.0.13" group-title="LOKAL", JTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png?v=2.0.0.13" group-title="Lokal", JTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png?v=2.0.0.13" group-title="Nasional", MyTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=2.0.0.13" group-title="Nasional", SEA Today 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="Nasional", NusantaraTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="Lokal", NusantaraTV 
 https://v6.siar.us/nusantaratv/live/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13" group-title="LOKAL", Daai TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13" group-title="Lokal", Daai TV 
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=2.0.0.13" group-title="Knowledge",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1186111470569832448/2g9czfPc_400x400.jpg" group-title="MUSIC", MATRIX TV
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1186111470569832448/2g9czfPc_400x400.jpg" group-title="Music", MATRIX TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=matrixtv 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/maxstreammusic.png" group-title="MAXSTREAM",MAXSTREAM Music
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/maxstreammusic.png" group-title="Music", MAXSTREAM Music
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=2.0.0.13" group-title="Religious", Muhammadiyah TV
+http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8
 
 ########################################## ARAB TV ######################################################
 
@@ -98,7 +99,6 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 ########################################## MALAYSIA TV ######################################################
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="Malaysia", ASTRO AWANI 
-#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AdhVuZ-u8xg/V1lUMUAhBEI/AAAAAAAAFcA/93nYQbYwam4GHDq0-q-LHcQUdcQp7XsTwCLcB/s1600/bernama-tv.png" group-title="Malaysia", BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
@@ -118,6 +118,9 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQsUvIE.jpg" group-title="Malaysia", TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
+
+########################################## Singapore TV ######################################################
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XYeb1CE.jpg" group-title="Singapore", SuriaTV
 http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MqZdA4W.jpg" group-title="Singapore", Ch 5
@@ -145,11 +148,11 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png" group-title="Hindi", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jIF1NXl.jpg" group-title="MUSIC", B4U Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jIF1NXl.jpg" group-title="Music", B4U Music
 http://103.55.39.182/~dusktil2/a.m3u8?q=b4umusicindia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sl2JSJT.png" group-title="Hindi", BollyWood HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" group-title="MUSIC", Desi Channel
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JnDa5NiJFz8/YA26GMyTDHI/AAAAAAAAA_o/-Z8g-f0-Ny8V_fT17wTq2swCMtmrOCr-QCLcBGAsYHQ/s0/bflix-movies-logo.jpg" group-title="Hindi", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
@@ -168,38 +171,10 @@ http://203.154.243.31:15001
 http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png" group-title="Knowledge", Smithsonian
 https://nonton.site:8443/live/novi/novi123/35998.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png" tvg-id="" tvg-name"Love Nature" group-title="Knowledge", Love Nature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png" group-title="Knowledge", Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CLN1nXp.jpg" group-title="Knowledge", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
-
-########################################## MALAYSIA TV ######################################################
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="Malaysia", ASTRO AWANI 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
-#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AdhVuZ-u8xg/V1lUMUAhBEI/AAAAAAAAFcA/93nYQbYwam4GHDq0-q-LHcQUdcQp7XsTwCLcB/s1600/bernama-tv.png" group-title="Malaysia", BERNAMA
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gwx1i1I.png" group-title="Malaysia", TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mps176t.png" group-title="Malaysia", TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oW0riHe.jpg" group-title="Malaysia", TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LnYVMQN/TV7-PPI.png" group-title="Malaysia", NTV7
-http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JF474FR/TV8-PPI.png" group-title="Malaysia", 8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XsNDd3Z/TV9-PPI.png" group-title="Malaysia", TV9 MALAYSIA
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png" group-title="Malaysia", AL HIJRAH
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQsUvIE.jpg" group-title="Malaysia", TVIKIM
-https://origin.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XYeb1CE.jpg" group-title="Singapore", SuriaTV
-http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MqZdA4W.jpg" group-title="Singapore", Ch 5
-http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
 
 
 #EXTINF:-1 group-title="MAXSTREAM" tvg-logo="https://i.imgur.com/DiZMiIR.png", Mola TV Free
