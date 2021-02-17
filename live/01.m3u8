@@ -46,24 +46,24 @@ https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Nasional", iNews HD
 https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Nasional", BERITASATU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="News", BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="Nasional", CNN Indonesia HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="News", CNN Indonesia HD
 https://ch.iptvmate.net/ba3539a9b1f8c864f53b6acb4ca3c72b.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=2.0.0.13" group-title="Nasional", CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=2.0.0.13" group-title="News", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png?v=2.0.0.13" group-title="Entertainment", MYTV
 #http://rr2.dens.tv/s/s46/01.m3u8
 http://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=2.0.0.13" group-title="Entertainment", The Indonesia Channel
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="LOKAL", Nusantara TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="Lokal", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png" group-title="News",SEA Today
 https://tv.mbahnunungonline.net/playlist/seatoday.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png?v=2.0.0.13" group-title="LOKAL", RRI NET
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png?v=2.0.0.13" group-title="Lokal", RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=2.0.0.13" group-title="LOKAL", JAKTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=2.0.0.13" group-title="Lokal", JAKTV
 http://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwxmNpN.png" group-title="LOKAL", Elshinta TV
 http://ironman.my.id/andri/andriant.php?channel=elshinta
@@ -77,11 +77,11 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=2.0.0.13" group-title="Religious", Muhammadiyah TV
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png" group-title="LOKAL", JTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png" group-title="Lokal", JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png" group-title="LOKAL", InspiraTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png" group-title="Lokal", InspiraTV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png" group-title="LOKAL", DAAITV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png" group-title="Lokal", DAAITV
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iVNBFHSxdVk/YAsGMlNfW2I/AAAAAAAAMmE/5cW_37Q3HJIUIvpM8obgi3IlKilzTEucQCLcBGAsYHQ/s0/logo_idx.png" group-title="News",IDX (Vision+)
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8
@@ -89,11 +89,11 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_e
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg" group-title="Religious", NU CHANNEL
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XQGggkA.jpg" group-title="LOKAL", Jawapos TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQGggkA.jpg" group-title="Lokal", Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tj2eF2o.png" group-title="LOKAL", Bali TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tj2eF2o.png" group-title="Lokal", Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png" group-title="LOKAL", TVKU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png" group-title="Lokal", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="MUSIC", Maleo
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
