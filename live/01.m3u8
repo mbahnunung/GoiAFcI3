@@ -12,7 +12,7 @@ http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
 #http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 https://gratismkctv.net/oxygen.m3u8?channel=antv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
 #http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/indosiar.m3u8
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
