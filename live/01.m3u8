@@ -16,20 +16,20 @@ https://gratismkctv.net/oxygen.m3u8?channel=antv
 #http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/indosiar.m3u8
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="Nasional", METROTV
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/un1priK.png?v=2.0.0.13" group-title="Nasional", METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Nasional", TRANS7
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/i8l6OHc.png?v=2.0.0.13" group-title="Nasional", TRANS7
 #https://tv.mbahnunungonline.net/playlist/trans7.m3u8
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TRANSTV
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TRANSTV
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png" group-title="Religious", Al Quran Al Kareem
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Al Kareem
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV
 #https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET.
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET.
 #https://tv.mbahnunungonline.net/playlist/nettv.m3u8
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=2.0.0.13" group-title="Nasional", tvOne
