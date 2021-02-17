@@ -32,16 +32,16 @@ http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET.
 #https://tv.mbahnunungonline.net/playlist/nettv.m3u8
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=2.0.0.13" group-title="Nasional", tvOne
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", tvOne
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #http://103.55.39.182/~dusktil2/a.m3u8?q=tvone 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Nasional", KOMPASTV
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/aJhpmgf.png?v=2.0.0.13" group-title="Nasional", KOMPASTV
 #http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/kompastv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="Nasional", rtv
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XlZqfwV.png?v=2.0.0.13" group-title="Nasional", rtv
 #http://93.190.139.34:8278/streams/d/Rtv/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/rtv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional", TVRI
+#EXTINF:0 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XBtbPBF.png?v=2.0.0.14" group-title="Nasional", TVRI
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Nasional", iNews HD
 https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
