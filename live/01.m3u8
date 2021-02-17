@@ -4,8 +4,7 @@
 https://tv.mbahnunungonline.net/playlist/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV
 #http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
-#https://tv.mbahnunungonline.net/playlist/sctv.m3u8
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
+https://tv.mbahnunungonline.net/playlist/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV
 #http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/mnctvsd.m3u8
@@ -13,15 +12,13 @@ https://tv.mbahnunungonline.net/playlist/mnctvsd.m3u8
 #http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 https://gratismkctv.net/oxygen.m3u8?channel=antv
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
-#http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
+http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/indosiar.m3u8
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/i8l6OHc.png?v=2.0.0.13" group-title="Nasional", TRANS7
-#https://tv.mbahnunungonline.net/playlist/trans7.m3u8
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1102a6ed6587b5b8cb4ebbe972864690b
+https://tv.mbahnunungonline.net/playlist/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TRANSTV
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Kareem
@@ -30,8 +27,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 #https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET.
-#https://tv.mbahnunungonline.net/playlist/nettv.m3u8
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
+https://tv.mbahnunungonline.net/playlist/nettv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", tvOne
 #http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 https://gratismkctv.net/oxygen.m3u8?channel=tvone 
