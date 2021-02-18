@@ -85,7 +85,7 @@ https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png" group-title="News",IDX (Vision+)
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" group-title="Religious", AJWATV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832102a6ed6587b5b8cb4ebbe972864690b
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7464_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg?v=2.0.0.13" group-title="Religious", NU CHANNEL
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XQGggkA.jpg?v=2.0.0.13" group-title="Lokal", JawaposTV
