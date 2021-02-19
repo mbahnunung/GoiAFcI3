@@ -26,7 +26,7 @@ http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13", KompasTV
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13", rtv 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_1561_720p/index.m3u8 
+https://tv.mbahnunungonline.net/playlist/rtv.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13", TVRI 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13", BeritaSatu 
