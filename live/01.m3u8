@@ -4,8 +4,7 @@
 https://tv.mbahnunungonline.net/playlist/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV
 #http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
-#https://tv.mbahnunungonline.net/playlist/sctv.m3u8
+https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV
 #http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/mnctv.m3u8
