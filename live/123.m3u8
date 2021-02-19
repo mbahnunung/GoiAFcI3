@@ -71,7 +71,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-WJcBpmVGs1o/UndHS0zjRcI/AAAAAAAAB_U/jaJgo0G0tH8/s1600/iqratv.png" group-title="Arab", Iqraa-Tv (Saudi Arabia)
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7NlQqle1tJQ/YA3DXBk0cVI/AAAAAAAABAE/UJL73M_2Qj8cD0vCyJgzPvtc8LC5w0htgCLcBGAsYHQ/s0/live.makkah.png" group-title="Arab"", LIVE MAKKAH
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qUN6uhewCWY/YDAHT1gm97I/AAAAAAAAMrQ/8WKK_LHVaMopTVXzufo1oUvpec9A1E-KACLcBGAsYHQ/s0/Makkah_Live.png" group-title="Arab"", Makkah Live
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="Arab", DUBAI OLA HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
