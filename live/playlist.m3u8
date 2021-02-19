@@ -4,10 +4,10 @@ https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/sHsPccL.png?v=2.0.0.13", SCTV 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13", MNCTV 
-http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8 
-#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13", ANTV 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8 
+#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13", antv 
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
-#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13", INDOSIAR 
+#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13", INDOSIAR 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13", METROTV 
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8 
