@@ -22,8 +22,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/trans7vid.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TRANSTV
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Kareem
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV
 #https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
@@ -94,11 +92,11 @@ http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png?v=2.0.0.13" group-title="Lokal", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="MUSIC", Maleo
-https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
 
 ########################################## ARAB TV ######################################################
 
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Kareem
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tAqn0hP.png" group-title="Arab", Saudi TV 1 (Saudi Arabia)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-WJcBpmVGs1o/UndHS0zjRcI/AAAAAAAAB_U/jaJgo0G0tH8/s1600/iqratv.png" group-title="Arab", Iqraa-Tv (Saudi Arabia)
@@ -195,6 +193,8 @@ http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
 
 ########################################## MUSIC ######################################################
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="MUSIC", Maleo
+https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UzdfOrfmMpQ/YAm9EyWSRMI/AAAAAAAAMkA/LZN-6wA9D-w53zd2Rl66CX-959sDGRdVQCLcBGAsYHQ/s0/logo_MTVlive.png" group-title="MUSIC", MTV Live
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png" group-title="MUSIC", 9XM
