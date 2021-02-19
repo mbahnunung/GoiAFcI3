@@ -2,13 +2,13 @@
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13", RCTI 
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/sHsPccL.png?v=2.0.0.13", SCTV 
-http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13", MNCTV 
 http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13", ANTV 
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13", INDOSIAR 
-http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13", METROTV 
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13", TRANS7 
@@ -24,9 +24,9 @@ http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13", iNews 
 http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13", KompasTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13", rtv 
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_1561_720p/index.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13", TVRI 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13", BeritaSatu 
