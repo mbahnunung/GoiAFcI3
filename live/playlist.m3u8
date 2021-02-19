@@ -18,7 +18,7 @@ http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/45Vmwv5.png?v=2.0.0.13", GTV 
 http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13", NET. 
-http://103.55.39.182/~dusktil2/a.m3u8?q=nettv 
+https://tv.mbahnunungonline.net/playlist/NetTV.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13", tvOne 
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13", iNews 
@@ -64,12 +64,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 
 ########################################## RELIGI ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" group-title="Religious", ajwaTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" group-title=" Religious ", ajwaTV
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7464_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l-38Cf3Puq4/UyGOjz2m0kI/AAAAAAAACp0/rvspLPtz27s/s1600/logo_tvmuhammadiyah.png" group-title="Religious", Muhammadiyah TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l-38Cf3Puq4/UyGOjz2m0kI/AAAAAAAACp0/rvspLPtz27s/s1600/logo_tvmuhammadiyah.png" group-title=" Religious ", Muhammadiyah TV
 https://5d63d49f772ce.streamlock.net/tvmu/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg" group-title="Religious",NU CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg" group-title=" Religious ",NU CHANNEL
 https://5d63d49f772ce.streamlock.net/nuchannel/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1iO-f7p94mU/AAAAAAAAAAI/AAAAAAAAAAA/SrN5r51cvvE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Religious", SALING SAPA TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1iO-f7p94mU/AAAAAAAAAAI/AAAAAAAAAAA/SrN5r51cvvE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title=" Religious ", SALING SAPA TV
 https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/playlist.m3u8 
 
