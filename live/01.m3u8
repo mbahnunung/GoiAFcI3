@@ -4,7 +4,7 @@
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV
 #http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
-https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8
+https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV
 #http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/mnctv.m3u8
@@ -13,12 +13,12 @@ http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #https://gratismkctv.net/oxygen.m3u8?channel=antv
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
 #http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
+https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Nasional", TRANS7
-https://tv.mbahnunungonline.net/playlist/trans7vid.m3u8
+https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TRANSTV
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV
