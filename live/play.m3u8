@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional", RCTI 
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=2.0.0.13" group-title="Nasional", SCTV 
-https://livestreaming-swiftserve-etslive.vidio.com/live/204/master.m3u8 
+https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Nasional", MNCTV 
 https://vcdn2.rctiplus.id:443/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png?v=2.0.0.13" group-title="Nasional", Indosiar 
-https://livestreaming-swiftserve-etslive.vidio.com/live/205/master.m3u8 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", MetroTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Nasional", Trans7 
@@ -16,7 +16,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_734_720p/index.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TransTV 
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV 
-https://livestreaming-swiftserve-etslive.vidio.com/live/778/master.m3u8 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_778_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET. 
 https://tv.mbahnunungonline.net/playlist/NetTV.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", tvOne
