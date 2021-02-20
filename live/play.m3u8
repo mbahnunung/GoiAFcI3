@@ -12,9 +12,9 @@ https://tv.mbahnunungonline.net/playlist/indosiarhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", MetroTV 
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Nasional", Trans7 
-https://tv.mbahnunungonline.net/playlist/trans7vid.m3u8 
+https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TransTV 
-https://tv.mbahnunungonline.net/playlist/transtv-vid.m3u8 
+https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_778_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET. 
