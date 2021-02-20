@@ -61,8 +61,11 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5415_720p/index.
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://4.bp.blogspot.com/-L_-z5RIPdtE/VXZWv45S5kI/AAAAAAAAEv0/NvuEMYTDFjU/s1600/balitv.png?v=2.0.0.13", Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hL11ma0KAUw/VXJqM7C0riI/AAAAAAAAEvA/qk7H37dKuJQ/s1600/fashion_tv_hot.png" group-title="Fashion", FTV Midnight Secrets
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6504_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yZhfZqwOeVk/YAryQT83B4I/AAAAAAAAMlY/M7B9Pz_GJZ0VtN3cbbeKgnmEdr9HL-L6QCLcBGAsYHQ/s0/logo_champTV1.png" group-title="Sports", Champions TV 1
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6685_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kGlB-sKLV4Q/YAryQHIavtI/AAAAAAAAMlU/GVzoW04KETwepTxXxkvWlf2k-7ZkXSRLgCLcBGAsYHQ/s0/logo_champTV2.png" group-title="Sports", Champions TV 2
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6686_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8 
