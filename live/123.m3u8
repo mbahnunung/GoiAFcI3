@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="Music", Maleo Channel
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional", RCTI 
-https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
+https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV 
 #http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b 
