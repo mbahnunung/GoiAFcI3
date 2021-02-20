@@ -16,7 +16,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_734_720p/index.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TransTV 
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV 
-http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8 
+https://livestreaming-swiftserve-etslive.vidio.com/live/778/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET. 
 https://tv.mbahnunungonline.net/playlist/NetTV.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", tvOne
