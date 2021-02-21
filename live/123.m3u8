@@ -9,7 +9,8 @@ https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV 
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
-http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8 
+#http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8 
+https://gratismkctv.net/oxygen.m3u8?channel=antv 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
 #http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8 
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0 
@@ -18,18 +19,19 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="Nasional", TRANS7 
 https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TRANSTV 
-http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
+#http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
+https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious",Al Quran Kareem
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" group-title="Religious", ajwaTV
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7464_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV 
 #http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8 
-https://tv.mbahnunungonline.net/playlist/gtv.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET. 
-https://tv.mbahnunungonline.net/playlist/nettv.m3u8
+#https://tv.mbahnunungonline.net/playlist/nettv.m3u8 
+http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-net
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", tvOne
-http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
+#http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
+https://gratismkctv.net/oxygen.m3u8?channel=tvone 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Nasional", iNews 
 https://dl.dropboxusercontent.com/s/vd7uvm50pzth7a4/iNews.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="Nasional", CNN Indonesia HD 
@@ -44,6 +46,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=2.0.0.13" group-title="Nasional", Jaktv 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" group-title="Religious", ajwaTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7464_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=2.0.0.13" group-title="Religious", TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png?v=2.0.0.13" group-title="Lokal", JTV 
