@@ -82,3 +82,38 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6852_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="Music", Maleo Channel
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/ls1.png" group-title="DENS",Live Streaming 1
+http://rr3.dens.tv/s/s100/live.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/ls2.png" group-title="DENS",Live Streaming 2
+http://210.210.155.35/uq2663/h/h998/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="DENS",METROTV
+http://210.210.155.35:80/uq2663/h/h12/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="DENS",TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png" group-title="DENS",SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png" group-title="DENS",INDOSIAR
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-id="transtv" tvg-logo="https://i.imgur.com/n8qUiYO.png" group-title="DENS", TRANS TV
+http://210.210.155.35:80/x6bnqe/s/s252/01.m3u8
+#EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="DENS", TRANS 7
+http://210.210.155.35:80/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png" group-title="DENS", ANTV
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/denslifestyle.png" group-title="DENS",DENS Lifestyle
+http://210.210.155.35:80/uq2663/h/h28/01.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/denslearning.png" group-title="DENS",DENS Learning Knowlegde
+http://210.210.155.35:80/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/densshowbiz.png" group-title="DENS",DENS Showbiz
+http://210.210.155.35:80/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="DENS", NET.
+http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="DENS", KOMPASTV
+http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/elshinta.png" group-title="DENS", ElshintaTV
+http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png" group-title="DENS", TVRI
+http://210.210.155.35:80/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-logo="https://i.imgur.com/vXWQN7Q.png" group-title="DENS", RTV
+http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
