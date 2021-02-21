@@ -6,7 +6,7 @@ https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Nasional", MNCTV 
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
-http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8 
+http://ironman.my.id/andri/andriant.php?channel=antv 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", Indosiar 
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="Nasional", MetroTV 
