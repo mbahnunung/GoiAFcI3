@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/If0UMcd.png?v=2.0.0.13" group-title="Nasional", RCTI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=2.0.0.13" group-title="Nasional", RCTI
 #http://93.190.139.34:8278/streams/d/Rcti/playlist.m3u8
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV
@@ -473,12 +473,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=2.0.0.13" group-title="Tes", TIC
 https://5effe161e0fba.streamlock.net:30443/live/ngrp:TIC.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13" group-title="Tes",true4u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13" group-title="Tes", true4u
 https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Tes",NET. (UseeTV)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Tes", NET. (UseeTV)
 #https://dl.dropboxusercontent.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-net
-#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.imgur.com/fMNhEYh.jpg" group-title="oxygen",SINEMA INDONESIA
+#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="oxygen", Sinema Indonesia
 https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia
 #EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://2.bp.blogspot.com/-95KNePoIAOI/XE6oA78TNrI/AAAAAAAAnJA/7EmSy6tZPVMPbw_3L-45Hjua1y8Do4gywCLcBGAs/s1600/sinema-indonesia-x-tv-channel-logo.jpg" group-title="oxygen",SINEMA INDONESIA X
 https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia-x
