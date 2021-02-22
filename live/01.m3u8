@@ -165,8 +165,8 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1014075507.
 ########################################## MALAYSIA TV ######################################################
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ko99gp8UoNg/UZTT5vY3SdI/AAAAAAAAF1M/H1ic3di9xyo/s320/astro-awani.png" group-title="Malaysia", ASTRO AWANI 
-#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AdhVuZ-u8xg/V1lUMUAhBEI/AAAAAAAAFcA/93nYQbYwam4GHDq0-q-LHcQUdcQp7XsTwCLcB/s1600/bernama-tv.png" group-title="Malaysia", BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-q35SEqK9HvI/XMfJC7mMELI/AAAAAAAALYc/gEAOcpKPRJg7FJsGJjPpczRAmCi1Ja8UACLcBGAs/s1600/tv1-malaysia.png" group-title="Malaysia", TV1
@@ -234,7 +234,6 @@ http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-dunialain
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EuRaJy6SP28/YAsQUhLUENI/AAAAAAAAMns/_WJRvzFroy8-_rXvkW-LQXnWbvbiqbjbgCLcBGAsYHQ/s0/logo_imc.png" group-title="Movies" tvg-id="IMC (USEETV)" tvg-name"IMC (USEETV)", IMC (USEETV)
 http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-imc
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3FNJE69u8Gk/W9yMvE3XYBI/AAAAAAAAJ7M/zWiB51aguT0mV1Yh_PiosfmLmlbHhblewCLcBGAs/s1600/bioskopindonesia.png" group-title="Movies" tvg-id="Bioskop Indonesia" tvg-name"Bioskop Indonesia", Bioskop Indonesia
-http://warkop.xyz/m3u/bioskopindonesia.m3u8
 #https://nonton.site:8443/live/novi/novi123/908.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lk5JRaDtGX8/XL7vzdidbRI/AAAAAAAALU8/3M80Z-B7yrMAA3W7_VSd9799s4Fq5_zlACPcBGAYYCw/s0/logo_warnerbtv.png" group-title="Movies" tvg-id="Warner Bros (USEETV)" tvg-name"Warner Bros (USEETV)",Warner Bros (USEETV)
 #http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-warner
