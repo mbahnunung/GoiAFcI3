@@ -60,8 +60,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-46
 https://v6.siar.us/nusantaratv/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13" group-title="Lokal", Daai TV 
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1186111470569832448/2g9czfPc_400x400.jpg" group-title="Music", MATRIX TV
 https://gratismkctv.net/oxygen.m3u8?channel=matrixtv 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="Music", MAXSTREAM Music
@@ -167,6 +165,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 ########################################## KNOWLEDGE ######################################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="Knowledge" tvg-id="" tvg-name"National Geographic HD", National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nNWPgyVIfJ0/W-OlJVx18KI/AAAAAAAAKBI/E3sbUDC9_o4J3GPxN9pz6WCDxKWaMl26QCLcBGAs/s1600/logo_natgeopeople.png" group-title="Knowledge" tvg-id="" tvg-name"Nat Geo People (USEETV)", Nat Geo People (USEETV)
