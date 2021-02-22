@@ -80,7 +80,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png" group-title="Religious", Al Quran Kareem (Mecca)
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6852_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="Music", Maleo Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Zx04Kp.png?v=2.0.0.13" group-title="Music", Maleo Channel
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=2.0.0.13" group-title="Music", Citra Dangdut
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.m3u8
