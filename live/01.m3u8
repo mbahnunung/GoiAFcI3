@@ -142,25 +142,25 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6397_720p/index.
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nm1cw2LInGY/YAepxrh8ClI/AAAAAAAAMhc/HZLo0jf-beowVA3NYcdQYnJZ7x4aMSWGgCLcBGAsYHQ/s0/logo_babyfirst.png" group-title="Kids" tvg-id="" tvg-name"Baby First", Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6cVz4M5I3Ag/YAsJUy3Qr1I/AAAAAAAAMm0/ehYQrYXfBFMFDqbvTnkSRrdM9pH-SPDCgCLcBGAsYHQ/s0/logo_duck_TV.png" group-title="Kids" tvg-id="" tvg-name"Duck TV", Duck TV
-http://warkop.xyz/m3u/ducktv.m3u8
+http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-ducktv
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nu-YaVv_LTc/YAesF_A9NJI/AAAAAAAAMhw/1XXk1BHyJTkyrguVkz5cf6hq6b22xum1QCLcBGAsYHQ/s0/logo_boomerang.png" group-title="Kids" tvg-id="Boomerang" tvg-name"Boomerang", Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3no11rMHabU/YAeqMxxDN7I/AAAAAAAAMhk/sH3shIkm-u0DplaX9Hdw81UILkjT1nB1ACLcBGAsYHQ/s0/logo_cartoonnetwork.png" group-title="Kids" tvg-id="" tvg-name"Cartoon Network", Cartoon Network
 http://79.137.41.99/Cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9z4J4L_mQos/YAsLHhtwaHI/AAAAAAAAMng/oyNGa8sTViwNP6cFsXWK1cv7O57jTKnPgCLcBGAsYHQ/s0/logo_duniaanak.png" group-title="Kids" tvg-id="" tvg-name"Dunia anak", Dunia anak
-http://warkop.xyz/m3u/duniaanak.m3u8
+http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-duniaanak
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lV0xm4qtqC0/YAfU0EQWVwI/AAAAAAAAMh8/yuaxXMz8fBoUKseFaaYtfilyH2p8rRLngCLcBGAsYHQ/s0/logo_nickjr.png" group-title="Kids" tvg-id="" tvg-name"Nick Junior", Nick Junior
-http://warkop.xyz/m3u/nickjr.m3u8
+http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nickjr
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8DTjIAhzRx4/YAsKZ9mE1lI/AAAAAAAAMnM/-og_Q6wgBngmZR41X4g-RPRJP0pVIsRMgCLcBGAsYHQ/s0/logo_nickelodeon.png" group-title="Kids" tvg-id="" tvg-name"Nickelodeon", Nickelodeon
-http://warkop.xyz/m3u/nickelodeon.m3u8
+http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nickelodeon
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Tvq_gIW5Fa8/YAsKvZlh7rI/AAAAAAAAMnY/iVXnMubezQkJ5f3Tr0BTTe6T1kzwNeS0QCLcBGAsYHQ/s0/logo_davinci.png" group-title="Entertainment" tvg-id="" tvg-name"Da Vinci Learning", Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sugpdHpvozU/YAsKFSdWq2I/AAAAAAAAMnE/bEknEgYBvHocv8hJZ_5igHFThhtM9STDQCLcBGAsYHQ/s0/logo_mykids.png" group-title="Kids" tvg-id="" tvg-name"My Kids", My Kids
 http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqz8uV5EVUM/YAsJsdLCVoI/AAAAAAAAMm8/W1-SNVA1O68M1tqyj8KKV6haNyDHBnS6ACLcBGAsYHQ/s0/logo_dreamworks.png" group-title="Kids" tvg-id="" tvg-name"Dreamworks", Dreamworks
-http://warkop.xyz/m3u/dreamworks.m3u8
+http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-dreamworks
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mCq1jL50dnY/UayaSo6lBgI/AAAAAAAAF4k/LI_Z2SPm_zc/s320/spacetoon.png" group-title="Kids", SPACETOON
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1014075507.m3u8
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 
 ########################################## MALAYSIA TV ######################################################
 
@@ -205,13 +205,13 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/ccm.png" group-title="Movies", CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HXnfAlrgfrg/XmnTuPMVB4I/AAAAAAAAMI4/loc4VlIEFw4Bky0JZ_qMNQwawh2jpvFwwCLcBGAsYHQ/s1600/logo_celestialmovie.png" group-title="Movies" tvg-id="" tvg-name"Celestialmovies",Celestialmovies
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HXnfAlrgfrg/XmnTuPMVB4I/AAAAAAAAMI4/loc4VlIEFw4Bky0JZ_qMNQwawh2jpvFwwCLcBGAsYHQ/s1600/logo_celestialmovie.png" group-title="Movies" tvg-id="" tvg-name"Celestialmovies", Celestialmovies
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" group-title="Movies" tvg-id="AXN" tvg-name"AXN",AXN
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" group-title="Movies" tvg-id="AXN" tvg-name"AXN", AXN
 http://rr.dens.tv/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" group-title="Movies" tvg-id="KIX HD" tvg-name"KIX HD",KIX HD
-#https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" group-title="Movies" tvg-id="KIX HD" tvg-name"KIX HD", KIX HD
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" group-title="Horor", thrill
 #https://nonton.site:8443/live/novi/novi123/4.m3u8
 https://cdn6.goprimetime.info/feed/LC26/index.m3u8
