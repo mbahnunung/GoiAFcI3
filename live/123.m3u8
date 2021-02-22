@@ -28,7 +28,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET. 
 #https://tv.mbahnunungonline.net/playlist/nettv.m3u8 
-http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-net
+https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", tvOne
 #http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
 https://gratismkctv.net/oxygen.m3u8?channel=tvone 
