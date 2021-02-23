@@ -100,6 +100,13 @@ https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=2.0.0.13" group-title="Music", Citra Dangdut
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.m3u8
 
+#EXTINF:-1, group-title="NINMEDIA" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-SFI-Saluran-Film-Indonesia_o-132x136px.png",Saluran Film Indonesia
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="oxygen", Sinema Indonesia
+https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia
+#EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://2.bp.blogspot.com/-95KNePoIAOI/XE6oA78TNrI/AAAAAAAAnJA/7EmSy6tZPVMPbw_3L-45Hjua1y8Do4gywCLcBGAs/s1600/sinema-indonesia-x-tv-channel-logo.jpg" group-title="oxygen",SINEMA INDONESIA X
+https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia-x
+
 ########################################## DENS TV ###############################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="DENS", KOMPASTV
