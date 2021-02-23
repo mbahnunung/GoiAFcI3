@@ -38,11 +38,11 @@
   <channel id="ANTV.RUANGTV.">
     <display-name lang="en">ANTV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/tvlokal/antv.jpg"/>
-    <url>http://www.firstmedia.com</url>
+    <url>http://dens.tv</url>
   </channel>
   <channel id="TVOne.RUANGTV.">
-    <display-name lang="en">TV ONE</display-name>
-    <url>http://www.firstmedia.com</url>
+    <display-name lang="en">tvOne</display-name>
+    <url>http://dens.tv</url>
   </channel>
   <channel id="KompasTv.RUANGTV.">
     <display-name lang="en">KOMPAS TV</display-name>
@@ -59,7 +59,7 @@
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="IDX.RUANGTV.">
-    <display-name lang="en">IDX HD</display-name>
+    <display-name lang="en">IDX</display-name>
     <icon src="https://www.firstmedia.com/files/images/rt-logo.png"/>
     <url>http://www.firstmedia.com</url>
   </channel>
