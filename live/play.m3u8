@@ -100,26 +100,28 @@ https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=2.0.0.13" group-title="Music", Citra Dangdut
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.m3u8
 
+########################################## DENS TV ###############################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="DENS", KOMPASTV
+http://rr2.dens.tv/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png" group-title="DENS", ANTV
+http://rr2.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="DENS", METROTV
-http://210.210.155.35:80/uq2663/h/h12/01.m3u8
+http://210.210.155.35/uq2663/h/h12/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="DENS", TVONE
 http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png" group-title="DENS", SCTV
 http://rr2.dens.tv/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png" group-title="DENS", INDOSIAR
 http://rr2.dens.tv/s/s04/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png" group-title="DENS", TRANS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png" group-title="DENS", TRANSTV
 http://210.210.155.35/x6bnqe/s/s252/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="DENS", TRANS 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="DENS", TRANS7
 http://rr2.dens.tv/s/s101/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png" group-title="DENS", ANTV
-http://rr2.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png" group-title="DENS", MYTV
 http://rr2.dens.tv/s/s46/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="DENS", NET.
 http://rr2.dens.tv/s/s08/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="DENS", KOMPASTV
-http://rr2.dens.tv/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwxmNpN.png" group-title="DENS", ElshintaTV
 http://rr2.dens.tv/s/s10/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png" group-title="DENS", TVRI
