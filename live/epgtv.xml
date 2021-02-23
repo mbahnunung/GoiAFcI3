@@ -6,7 +6,7 @@
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="Indosiar.RUANGTV.">
-    <display-name lang="en">INDOSIAR</display-name>
+    <display-name lang="en">Indosiar</display-name>
     <icon src="https://www.firstmedia.com/files/packages/tvlokal/indosiar.jpg"/>
     <url>https://www.firstmedia.com</url>
   </channel>
@@ -79,7 +79,7 @@
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="TVRI.RUANGTV.">
-    <display-name lang="en">TVRI NASIONAL</display-name>
+    <display-name lang="en">TVRI</display-name>
     <icon src="https://www.firstmedia.com/files/packages/tvlokal/tvri.jpg"/>
     <url>http://www.firstmedia.com</url>
   </channel>
@@ -137,9 +137,9 @@
     <icon src="https://mncvision.id/userfiles/image/channel/baby_tv.png"/>
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <channel id="besmart.RUANGTV.">
-    <display-name lang="id">besmart</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_112.png"/>
+  <channel id="RCTI.RUANGTV.">
+    <display-name lang="id">RCTI</display-name>
+    <icon src="https://i.imgur.com/rA0rUsj.png"/>
     <url>http://www.mncvision.id.E</url>
   </channel>
   <channel id="Channel[V].RUANGTV.">
@@ -166,10 +166,10 @@
     <icon src="https://www.firstmedia.com/files/images/afn-channel.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
-  <channel id="TLC.RUANGTV.">
-    <display-name lang="en">TLC</display-name>
+  <channel id="MNCTV">
+    <display-name lang="en">MNCTV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/family/discoverytl.jpg"/>
-    <url>https://www.firstmedia.com</url>
+    <url>https://telkomvision.com</url>
   </channel>
   <channel id="BBCEarth.RUANGTV.">
     <display-name lang="id">BBC Earth</display-name>
