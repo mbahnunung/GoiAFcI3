@@ -78,7 +78,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=2.0.0.13" group-title="Knowledge", National Geographic
-https://nonton.site:8443/live/novi/novi123/165.m3u8
+https://nonton.site:8443/live/novi/novi123/96.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png?v=2.0.0.13" group-title="Knowledge", Smithsonian
 https://dl.dropboxusercontent.com/s/pvin86ey4pqavia/Smithsonian.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png?v=2.0.0.13" group-title="Knowledge", Love Nature 4K
@@ -87,7 +87,14 @@ https://dl.dropboxusercontent.com/s/0jug1965kcz6mvv/LoveNature.m3u8?dl=0
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Kareem (Mecca)
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6852_720p/index.m3u8
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6852_720p/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" group-title="Religious", ajwaTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7464_720p/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=2.0.0.13" group-title="Religious", TV9 Nusantara
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=2.0.0.13" group-title="Religious", tvMu
+http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Zx04Kp.png?v=2.0.0.13" group-title="Music", Maleo Channel
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=2.0.0.13" group-title="Music", Citra Dangdut
