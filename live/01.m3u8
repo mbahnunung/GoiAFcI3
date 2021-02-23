@@ -104,9 +104,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qUN6uhewCWY/YDAHT1gm97I/AAAAAAAAMrQ/8WKK_LHVaMopTVXzufo1oUvpec9A1E-KACLcBGAsYHQ/s0/Makkah_Live.png" group-title="Arab", Makkah Live
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="Arab", DUBAI OLA HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="Arab", Dubai TV HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/754573256665997312/T4ATpb5Q_400x400.jpg" group-title="Arab", NOOR DUBAI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png" group-title="Arab", Noor Dubai TV
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" group-title="Movies", Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
