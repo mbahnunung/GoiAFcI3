@@ -1,91 +1,90 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="NetTV.RUANGTV.">
     <display-name lang="en">NET.</display-name>
-    <icon src="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13"/>
-    <url>http://www.firstmedia.com</url>
+    <icon src="https://www.firstmedia.com/files/packages/NET-tv.jpg"/>
+    <url>https://www.firstmedia.com</url>
   </channel>
-  <channel id="Indosiar">
-    <display-name lang="en">Indosiar</display-name>
-    <icon src="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13"/>
-    <url>http://www.firstmedia.com</url>
+  <channel id="Indosiar.RUANGTV.">
+    <display-name lang="en">INDOSIAR</display-name>
+    <icon src="https://www.firstmedia.com/files/packages/tvlokal/indosiar.jpg"/>
+    <url>https://www.firstmedia.com</url>
   </channel>
-  <channel id="SCTV">
+  <channel id="SCTV.RUANGTV.">
     <display-name lang="en">SCTV</display-name>
-    <icon src="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13"/>
+    <icon src="https://www.firstmedia.com/files/packages/tvlokal/sctv.jpg"/>
+    <url>https://www.firstmedia.com</url>
+  </channel>
+  <channel id="Trans7.RUANGTV.">
+    <display-name lang="en">TRANS 7</display-name>
+    <icon src="https://www.firstmedia.com/files/packages/channel_trans7.jpg"/>
+    <url>https://www.firstmedia.com</url>
+  </channel>
+  <channel id="TransTV.RUANGTV.">
+    <display-name lang="en">TRANS TV</display-name>
+    <icon src="https://www.firstmedia.com/files/packages/transtv-new.png"/>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="Trans7">
-    <display-name lang="en">Trans7</display-name>
-    <icon src="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13"/>
-    <url>http://www.firstmedia.com</url>
-  </channel>
-  <channel id="TransTV">
-    <display-name lang="en">TransTV</display-name>
-    <icon src="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13"/>
-    <url>http://www.firstmedia.com</url>
-  </channel>
-  <channel id="CNN Indonesia HD">
+  <channel id="CNNIndonesia.RUANGTV.">
     <display-name lang="id">CNN Indonesia HD</display-name>
-    <icon src="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13"/>
+    <icon src="http://www.transvision.co.id/images/channel/cnn_ind_bg.png"/>
     <url>http://www.transvision.co.id</url>
   </channel>
-  <channel id="rtv">
-    <display-name lang="id">rtv</display-name>
-    <icon src="https://i.imgur.com/XlZqfwV.png"/>
+  <channel id="RTV.RUANGTV.">
+    <display-name lang="id">RTV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/rajawali.png"/>
     <url>http://www.transvision.co.id</url>
   </channel>
-  <channel id="antv">
-    <display-name lang="en">antv</display-name>
-    <icon src="https://i.imgur.com/W47u6m4.png"/>
+  <channel id="ANTV.RUANGTV.">
+    <display-name lang="en">ANTV</display-name>
+    <icon src="https://www.firstmedia.com/files/packages/tvlokal/antv.jpg"/>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="tvOne">
-    <display-name lang="en">tvOne</display-name>
-    <icon src="https://i.imgur.com/UqGSTVT.png"/>
+  <channel id="TVOne.RUANGTV.">
+    <display-name lang="en">TV ONE</display-name>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="KompasTV">
-    <display-name lang="en">KompasTV</display-name>
+  <channel id="KompasTv.RUANGTV.">
+    <display-name lang="en">KOMPAS TV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/kompas-new.png"/>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="MetroTV">
-    <display-name lang="en">MetroTV</display-name>
+  <channel id="MetroTV.RUANGTV.">
+    <display-name lang="en">METRO TV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/metrorv-new.jpg"/>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="BeritaSatu">
-    <display-name lang="en">BeritaSatu</display-name>
+  <channel id="BeritaSatu.RUANGTV.">
+    <display-name lang="en">BERITA SATU</display-name>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="IDX">
-    <display-name lang="en">IDX</display-name>
-    <icon src="https://i.imgur.com/RytQgdW.png"/>
+  <channel id="IDX.RUANGTV.">
+    <display-name lang="en">IDX HD</display-name>
+    <icon src="https://www.firstmedia.com/files/images/rt-logo.png"/>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="DaaiTv">
+  <channel id="DaaiTv.RUANGTV.">
     <display-name lang="en">DAAITV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/tvlokal/daaitv.jpg"/>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="JTV">
+  <channel id="JTV.RUANGTV.">
     <display-name lang="en">JTV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/channel_jtv.jpg"/>
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="JakTV.RUANGTV.">
-    <display-name lang="en">JAKTV</display-name>
+    <display-name lang="en">JAK-TV</display-name>
     <icon src="https://www.firstmedia.com/files/images/jak-tv_new.png"/>
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="TVRI.RUANGTV.">
-    <display-name lang="en">TVRI</display-name>
+    <display-name lang="en">TVRI NASIONAL</display-name>
     <icon src="https://www.firstmedia.com/files/packages/tvlokal/tvri.jpg"/>
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="AlQuranAlKareem.RUANGTV.">
-    <display-name lang="id">Al Quran Kareem</display-name>
+    <display-name lang="id">Al Quran Al Kareem TV</display-name>
     <icon src="http://www.transvision.co.id/images/channel/al_kareem.png"/>
     <url>http://www.transvision.co.id</url>
   </channel>
@@ -105,7 +104,7 @@
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="DisneyJunior.RUANGTV.">
-    <display-name lang="en">Disney Junior HD </display-name>
+    <display-name lang="en">DISNEY JUNIOR</display-name>
     <icon src="https://www.firstmedia.com/files/packages/selection/disneyjunior.jpg"/>
     <url>http://www.firstmedia.com</url>
   </channel>
@@ -138,12 +137,12 @@
     <icon src="https://mncvision.id/userfiles/image/channel/baby_tv.png"/>
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <channel id="RCTI">
-    <display-name lang="id">RCTI</display-name>
+  <channel id="besmart.RUANGTV.">
+    <display-name lang="id">besmart</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_112.png"/>
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <channel id="Channel[V]">
+  <channel id="Channel[V].RUANGTV.">
     <display-name lang="en">CHANNEL [V] INTL</display-name>
     <url>http://www.firstmedia.com</url>
   </channel>
@@ -153,7 +152,7 @@
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="HistoryChannel.id">
-    <display-name lang="en">HISTORY</display-name>
+    <display-name lang="en">HISTORY HD</display-name>
     <icon src="https://www.firstmedia.com/files/packages/History.jpg"/>
     <url>http://www.firstmedia.com</url>
   </channel>
@@ -165,12 +164,12 @@
   <channel id="AsianFoodChannel.RUANGTV.">
     <display-name lang="en">ASIAN FOOD CHANNEL</display-name>
     <icon src="https://www.firstmedia.com/files/images/afn-channel.png"/>
-    <url>http://www.firstmedia.com</url>
+    <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="TLC.RUANGTV.">
     <display-name lang="en">TLC</display-name>
     <icon src="https://www.firstmedia.com/files/packages/family/discoverytl.jpg"/>
-    <url>http://www.firstmedia.com</url>
+    <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="BBCEarth.RUANGTV.">
     <display-name lang="id">BBC Earth</display-name>
@@ -180,17 +179,17 @@
   <channel id="AnimalPlanet.RUANGTV.">
     <display-name lang="en">ANIMAL PLANET</display-name>
     <icon src="https://www.firstmedia.com/files/packages/family/animalplanet.jpg"/>
-    <url>http://www.firstmedia.com</url>
+    <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="DiscoveryChannel.RUANGTV.">
     <display-name lang="en">DISCOVERY CHANNEL</display-name>
     <icon src="https://www.firstmedia.com/files/packages/selection/discoverychannel.jpg"/>
-    <url>http://www.firstmedia.com</url>
+    <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="Discovery Asia">
     <display-name lang="en">DISCOVERY ASIA</display-name>
     <icon src="https://www.firstmedia.com/files/packages/DA-LOGO_FINAL_HD_black.jpg"/>
-    <url>http://www.firstmedia.com</url>
+    <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="NationalGeographicChannel.RUANGTV.">
     <display-name lang="en">NATIONAL GEOGRAPHIC CHANNEL</display-name>
@@ -200,7 +199,7 @@
   <channel id="NationalGeographicPeople.RUANGTV.">
     <display-name lang="en">NAT GEO PEOPLE</display-name>
     <icon src="https://www.firstmedia.com/files/packages/channel-natgeopeople-sd.jpg"/>
-    <url>http://www.firstmedia.com</url>
+    <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="NationalGeographicWild.RUANGTV.">
     <display-name lang="en">NAT GEO WILD</display-name>
@@ -230,17 +229,17 @@
     <display-name lang="id">FX</display-name>
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <channel id="FOX">
+  <channel id="FOX.RUANGTV.">
     <display-name lang="en">FOX HD</display-name>
     <icon src="https://www.firstmedia.com/files/packages/FOX Channel Logo_Mono Orange.png"/>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="FOXCrime">
+  <channel id="FOXCrime.RUANGTV.">
     <display-name lang="en">FOX CRIME</display-name>
     <icon src="https://www.firstmedia.com/files/packages/FC_LOGO.png"/>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="FoxLife">
+  <channel id="FoxLife.RUANGTV.">
     <display-name lang="en">Fox Life</display-name>
     <icon src="https://www.firstmedia.com/files/images/FOXlife- Ch327.jpg"/>
     <url>http://www.firstmedia.com</url>
@@ -260,7 +259,7 @@
     <icon src="https://www.firstmedia.com/files/fox-action-movies-new.jpg"/>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="HBO">
+  <channel id="HBOHD.RUANGTV.">
     <display-name lang="en">HBO</display-name>
     <icon src="https://www.firstmedia.com/files/packages/selection/hbo.jpg"/>
     <url>http://www.firstmedia.com</url>
