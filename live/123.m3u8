@@ -4,34 +4,28 @@ https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional", RCTI 
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV 
-#http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8 
 https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV 
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
-#http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8 
 https://gratismkctv.net/oxygen.m3u8?channel=antv 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", INDOSIAR
-#http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", Indosiar
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", METROTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", MetroTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="Nasional", TRANS7 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="Nasional", Trans7 
 https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TRANSTV 
-#http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", TransTV 
 https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious",Al Quran Kareem
 #http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6852_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV 
-#http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8 
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET. 
 #https://tv.mbahnunungonline.net/playlist/nettv.m3u8 
 https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", tvOne
-#http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
 https://gratismkctv.net/oxygen.m3u8?channel=tvone 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Nasional", iNews 
 https://dl.dropboxusercontent.com/s/vd7uvm50pzth7a4/iNews.m3u8?dl=0 
@@ -78,9 +72,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qUN6uhewCWY/YDAHT1gm97I/AAAAAAAAMrQ/8WKK_LHVaMopTVXzufo1oUvpec9A1E-KACLcBGAsYHQ/s0/Makkah_Live.png" group-title="Arab", Makkah Live
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="Arab", DUBAI OLA HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="Arab", Dubai TV HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/754573256665997312/T4ATpb5Q_400x400.jpg" group-title="Arab", NOOR DUBAI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png" group-title="Arab", Noor Dubai TV
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" group-title="Movies", Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
