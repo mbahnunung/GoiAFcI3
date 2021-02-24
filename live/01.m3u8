@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=2.0.0.13" group-title="Nasional", RCTI
-#http://93.190.139.34:8278/streams/d/Rcti/playlist.m3u8
-https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0 
+#https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV
 #http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
@@ -22,8 +22,6 @@ https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0
 #http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
 https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV
-#https://tv.mbahnunungonline.net/playlist/gtv.m3u8
-#http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8
 https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET.
 https://tv.mbahnunungonline.net/playlist/nettv.m3u8
