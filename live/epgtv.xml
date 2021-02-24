@@ -16,12 +16,12 @@
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="Trans7.RUANGTV.">
-    <display-name lang="en">TRANS 7</display-name>
+    <display-name lang="en">TRANS7</display-name>
     <icon src="https://www.firstmedia.com/files/packages/channel_trans7.jpg"/>
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="TransTV.RUANGTV.">
-    <display-name lang="en">TRANS TV</display-name>
+    <display-name lang="en">TRANSTV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/transtv-new.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
