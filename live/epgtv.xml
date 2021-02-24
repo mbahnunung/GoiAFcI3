@@ -16,12 +16,12 @@
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="Trans7.RUANGTV.">
-    <display-name lang="en">TRANS7</display-name>
+    <display-name lang="en">TRANS 7</display-name>
     <icon src="https://www.firstmedia.com/files/packages/channel_trans7.jpg"/>
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="TransTV.RUANGTV.">
-    <display-name lang="en">TRANSTV</display-name>
+    <display-name lang="en">TRANS TV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/transtv-new.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
@@ -41,7 +41,7 @@
     <url>https://dens.tv</url>
   </channel>
   <channel id="TVOne.RUANGTV.">
-    <display-name lang="en">tvOne</display-name>
+    <display-name lang="en">tv One</display-name>
     <url>https://dens.tv</url>
   </channel>
   <channel id="KompasTv.RUANGTV.">
