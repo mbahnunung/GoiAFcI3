@@ -68,11 +68,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6685_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kGlB-sKLV4Q/YAryQHIavtI/AAAAAAAAMlU/GVzoW04KETwepTxXxkvWlf2k-7ZkXSRLgCLcBGAsYHQ/s0/logo_champTV2.png" group-title="Sports", Champions TV 2
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6686_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1IdpSOaDbz4/YAsD_iCGmHI/AAAAAAAAMlo/1wBdrH_6M280Mreb41TB3sMYQaVtwmcwQCLcBGAsYHQ/s0/logo_foxsports1.png?v=2.0.0.13" group-title="Sports",Fox Sport 1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1IdpSOaDbz4/YAsD_iCGmHI/AAAAAAAAMlo/1wBdrH_6M280Mreb41TB3sMYQaVtwmcwQCLcBGAsYHQ/s0/logo_foxsports1.png?v=2.0.0.13" group-title="Sports",Fox Sports
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TBYTApGZA40/YAsEOw9wASI/AAAAAAAAMls/I9CewyP_Z44BoymOYNBzznPrkj9FPE_uwCLcBGAsYHQ/s0/logo_foxsports2.png?v=2.0.0.13" group-title="Sports",Fox Sport 2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TBYTApGZA40/YAsEOw9wASI/AAAAAAAAMls/I9CewyP_Z44BoymOYNBzznPrkj9FPE_uwCLcBGAsYHQ/s0/logo_foxsports2.png?v=2.0.0.13" group-title="Sports",Fox Sports 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dopyzDzv-FI/YAsEfVW6PLI/AAAAAAAAMl4/tTjq0xEPoaUAflywZ1-l0tsIrUSKMvwiwCLcBGAsYHQ/s0/logo_foxsports3.png?v=2.0.0.13" group-title="Sports",Fox Sport 3
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dopyzDzv-FI/YAsEfVW6PLI/AAAAAAAAMl4/tTjq0xEPoaUAflywZ1-l0tsIrUSKMvwiwCLcBGAsYHQ/s0/logo_foxsports3.png?v=2.0.0.13" group-title="Sports",Fox Sports 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
@@ -86,7 +86,7 @@ https://dl.dropboxusercontent.com/s/0jug1965kcz6mvv/LoveNature.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RfIj9lU.png?v=2.0.0.13" group-title="Knowledge", Ruang Terampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Kareem (Mecca)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Kareem
 https://dl.dropboxusercontent.com/s/pxkcar19a4yei1s/Quran.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" group-title="Religious", ajwaTV
 https://dl.dropboxusercontent.com/s/anlevmjwq11og3z/AjwaTV.m3u8?dl=0 
