@@ -287,7 +287,7 @@ https://nonton.site:8443/live/novi/novi123/9.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fLlvUPlcys8/XmnWFBlwDDI/AAAAAAAAMJI/L_aZ9v_HZnc5QdrRA7FqC9H8H2YPeeUTgCLcBGAsYHQ/s1600/logo_animax.png" group-title="Entertainment" tvg-id="" tvg-name"Animax",Animax
 http://rr1.dens.tv/h/h144/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z8XViXpm-dI/YAsIIqYXhJI/AAAAAAAAMmg/RiQ4W5eXJmo0oRDIKsCRpE97yDsisQckgCLcBGAsYHQ/s0/logo_tvn.png" group-title="Korengan" tvg-id="" tvg-name"TVN",TVN
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z8XViXpm-dI/YAsIIqYXhJI/AAAAAAAAMmg/RiQ4W5eXJmo0oRDIKsCRpE97yDsisQckgCLcBGAsYHQ/s0/logo_tvn.png" group-title="Korengan" tvg-id="" tvg-name"TVN HD",TVN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pg0XvovwRDA/VqRDN0MI3mI/AAAAAAAAFLo/iUh_5JgRNBM0lGiwaRBkZbYOT1zE_S5PgCPcBGAYYCw/s0/logo_kbs.png" group-title="Korengan" tvg-id="" tvg-name"KBS World",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
@@ -310,7 +310,7 @@ http://93.190.139.36:8278/streams/d/cctv4/playlist.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-r7cMFfHmmdg/YAqYk0GvHbI/AAAAAAAAMk8/WAQd1x9BR3wMW-fv-zf4NrZXdU5J6hfdACLcBGAsYHQ/s0/logo_sgem.png" group-title="Korengan" tvg-id="" tvg-name"GEM",GEM
 http://210.210.155.35/uq2663/h/h19/01.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zwP7D6wuuZA/XJ0BVN9566I/AAAAAAAALLM/3-wKSmfg1uwRdhCV6_23vcVzHpSGpLoXQCLcBGAs/s1600/logo_sone.png" group-title="Korengan" tvg-id="" tvg-name"SONE",SONE
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zwP7D6wuuZA/XJ0BVN9566I/AAAAAAAALLM/3-wKSmfg1uwRdhCV6_23vcVzHpSGpLoXQCLcBGAs/s1600/logo_sone.png" group-title="Korengan" tvg-id="" tvg-name"SONE",S ONE
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-5TUZBEqoIFI/W9dcAJ4fZXI/AAAAAAAAJ24/GmcO3LJ9OOgaKnkrzI6OoT54O9ejjeiAgCLcBGAs/s1600/logo_kplus_tv.png" group-title="Korengan" tvg-id="" tvg-name"Kplus",Kplus
 http://rr.dens.tv/h/h08/index.m3u8
@@ -329,9 +329,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png" group-title="Hindi", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png" group-title="Hindi", Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png" group-title="Hindi", Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg" group-title="Hindi", Zee Tv HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg" group-title="Hindi", Zee Tv
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ohsQguR.jpg" group-title="Hindi", Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
@@ -346,17 +346,17 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 ########################################## FOX Movies ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lO1Oebd.png" group-title="FOX Movies", FOX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lO1Oebd.png" group-title="FOX Movies", FOX HD
 http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sK1Ikd.png" group-title="FOX Movies", FOX LIFE
 http://50.7.161.82:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2sGsLW.png" group-title="FOX Movies",FOX Action Movies FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2sGsLW.png" group-title="FOX Movies",FOX Action Movies HD
 #https://nonton.site:8443/live/novi/novi123/1478.m3u8
 http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5kpF86D.png" group-title="FOX Movies",Foxmovies HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5kpF86D.png" group-title="FOX Movies",Foxmovies
 #https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ul4Qxnh.png" group-title="FOX Movies",FOX FAMILY HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ul4Qxnh.png" group-title="FOX Movies",FOX FAMILY
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8Ki0LZVyY-8/YClRcz7o8SI/AAAAAAAAMqw/CUYDWnlJ5g0sB70X_zbZJLO_-7UnkGH2QCLcBGAsYHQ/s0/foxcrime.png" group-title="FOX Movies", FOX CRIME
 http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
