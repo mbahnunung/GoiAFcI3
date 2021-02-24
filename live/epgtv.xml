@@ -57,16 +57,17 @@
   </channel>
   <channel id="BeritaSatu.RUANGTV.">
     <display-name lang="en">BERITA SATU HD</display-name>
+    <icon src="https://3.bp.blogspot.com/-p6qwZWRUdTc/T8d07Dixt8I/AAAAAAAABCA/ZFtYpUN2gu8/s320/berita-satu.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="IDX.RUANGTV.">
     <display-name lang="en">IDX</display-name>
-    <icon src="https://www.firstmedia.com/files/images/rt-logo.png"/>
+    <icon src="https://i.imgur.com/RytQgdW.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="DaaiTv.RUANGTV.">
     <display-name lang="en">DAAITV</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/tvlokal/daaitv.jpg"/>
+    <icon src="https://4.bp.blogspot.com/-jV_RHlaz7-s/W9Vgi441rXI/AAAAAAAAJ2o/cqTu9YwJWdI5U-hCqV7Q_fKpzdE5D9SEQCLcBGAs/s1600/logo_daaitv_big1.png?v=1.0.0.0"/>
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="JTV.RUANGTV.">
