@@ -2,56 +2,57 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="NetTV.RUANGTV.">
     <display-name lang="en">NET.</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/NET-tv.jpg"/>
+    <icon src="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="Indosiar.RUANGTV.">
     <display-name lang="en">INDOSIAR</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/tvlokal/indosiar.jpg"/>
+    <icon src="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="SCTV.RUANGTV.">
     <display-name lang="en">SCTV</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/tvlokal/sctv.jpg"/>
+    <icon src="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="Trans7.RUANGTV.">
     <display-name lang="en">TRANS 7</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/channel_trans7.jpg"/>
+    <icon src="https://4.bp.blogspot.com/-We8hxjgkQmg/UtKsjhq5QcI/AAAAAAAAAOQ/Y5XtKk6R8lA/s1600/trans7.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="TransTV.RUANGTV.">
     <display-name lang="en">TRANS TV</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/transtv-new.png"/>
+    <icon src="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="CNNIndonesia.RUANGTV.">
     <display-name lang="id">CNN Indonesia HD</display-name>
-    <icon src="http://www.transvision.co.id/images/channel/cnn_ind_bg.png"/>
+    <icon src="https://2.bp.blogspot.com/-s7ZOCHittVk/V03sueWgDwI/AAAAAAAAFUU/-lYZd3UGm-o6sr8-oFEmD5wyhZkvpgUBACLcB/s1600/logo_cnn_ind.png"/>
     <url>https://www.transvision.co.id</url>
   </channel>
   <channel id="RTV.RUANGTV.">
     <display-name lang="id">RTV</display-name>
-    <icon src="http://www.transvision.co.id/images/channel/rajawali.png"/>
+    <icon src="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png"/>
     <url>https://www.transvision.co.id</url>
   </channel>
   <channel id="ANTV.RUANGTV.">
     <display-name lang="en">ANTV</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/tvlokal/antv.jpg"/>
+    <icon src="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png"/>
     <url>https://dens.tv</url>
   </channel>
   <channel id="TVOne.RUANGTV.">
     <display-name lang="en">tv One</display-name>
+    <icon src="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png"/>
     <url>https://dens.tv</url>
   </channel>
   <channel id="KompasTv.RUANGTV.">
     <display-name lang="en">KOMPAS TV</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/kompas-new.png"/>
+    <icon src="https://1.bp.blogspot.com/-ZYdIGIFt7ak/YBBHPvidJjI/AAAAAAAAMpE/sR35MTpSYfcaLe_pdirehIUxG_nPGy4mQCLcBGAsYHQ/s0/kompasTV.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="MetroTV.RUANGTV.">
     <display-name lang="en">METRO TV</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/metrorv-new.jpg"/>
+    <icon src="https://2.bp.blogspot.com/-TCD8yeBb0xY/W9tML0dx4rI/AAAAAAAAJ5s/VqTdNaiKEEskIEIZpXNA5KWaJhJ4dmfgwCLcBGAs/s1600/logo_metrotv.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="BeritaSatu.RUANGTV.">
