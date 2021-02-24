@@ -6,7 +6,7 @@
     <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="Indosiar.RUANGTV.">
-    <display-name lang="en">Indosiar</display-name>
+    <display-name lang="en">INDOSIAR</display-name>
     <icon src="https://www.firstmedia.com/files/packages/tvlokal/indosiar.jpg"/>
     <url>https://www.firstmedia.com</url>
   </channel>
@@ -55,7 +55,7 @@
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="BeritaSatu.RUANGTV.">
-    <display-name lang="en">BERITA SATU</display-name>
+    <display-name lang="en">BERITA SATU HD</display-name>
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="IDX.RUANGTV.">
