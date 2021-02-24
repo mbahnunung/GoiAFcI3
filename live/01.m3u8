@@ -13,7 +13,7 @@ https://gratismkctv.net/oxygen.m3u8?channel=antv
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", Indosiar
 #http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", Metro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Nasional", Trans 7
@@ -42,7 +42,7 @@ https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Nasional", iNews HD
 https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="News", BERITA SATU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="News", Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="News", CNN Indonesia HD
 https://ch.iptvmate.net/ba3539a9b1f8c864f53b6acb4ca3c72b.m3u8 
