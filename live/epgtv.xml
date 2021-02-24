@@ -23,45 +23,45 @@
   <channel id="TransTV.RUANGTV.">
     <display-name lang="en">TRANS TV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/transtv-new.png"/>
-    <url>http://www.firstmedia.com</url>
+    <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="CNNIndonesia.RUANGTV.">
     <display-name lang="id">CNN Indonesia HD</display-name>
     <icon src="http://www.transvision.co.id/images/channel/cnn_ind_bg.png"/>
-    <url>http://www.transvision.co.id</url>
+    <url>https://www.transvision.co.id</url>
   </channel>
   <channel id="RTV.RUANGTV.">
     <display-name lang="id">RTV</display-name>
     <icon src="http://www.transvision.co.id/images/channel/rajawali.png"/>
-    <url>http://www.transvision.co.id</url>
+    <url>https://www.transvision.co.id</url>
   </channel>
   <channel id="ANTV.RUANGTV.">
     <display-name lang="en">ANTV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/tvlokal/antv.jpg"/>
-    <url>http://dens.tv</url>
+    <url>https://dens.tv</url>
   </channel>
   <channel id="TVOne.RUANGTV.">
     <display-name lang="en">tvOne</display-name>
-    <url>http://dens.tv</url>
+    <url>https://dens.tv</url>
   </channel>
   <channel id="KompasTv.RUANGTV.">
     <display-name lang="en">KOMPAS TV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/kompas-new.png"/>
-    <url>http://www.firstmedia.com</url>
+    <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="MetroTV.RUANGTV.">
     <display-name lang="en">METRO TV</display-name>
     <icon src="https://www.firstmedia.com/files/packages/metrorv-new.jpg"/>
-    <url>http://www.firstmedia.com</url>
+    <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="BeritaSatu.RUANGTV.">
     <display-name lang="en">BERITA SATU HD</display-name>
-    <url>http://www.firstmedia.com</url>
+    <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="IDX.RUANGTV.">
     <display-name lang="en">IDX</display-name>
     <icon src="https://www.firstmedia.com/files/images/rt-logo.png"/>
-    <url>http://www.firstmedia.com</url>
+    <url>https://www.firstmedia.com</url>
   </channel>
   <channel id="DaaiTv.RUANGTV.">
     <display-name lang="en">DAAITV</display-name>
@@ -83,8 +83,8 @@
     <icon src="https://www.firstmedia.com/files/packages/tvlokal/tvri.jpg"/>
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="AlQuranAlKareem.RUANGTV.">
-    <display-name lang="id">Al Quran Al Kareem TV</display-name>
+  <channel id="AlQuranKareem.RUANGTV.">
+    <display-name lang="id">Al Quran Kareem</display-name>
     <icon src="http://www.transvision.co.id/images/channel/al_kareem.png"/>
     <url>http://www.transvision.co.id</url>
   </channel>
