@@ -29,7 +29,7 @@ https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/KompasTV.m3u8?dl=0
 https://dl.dropboxusercontent.com/s/vd7uvm50pzth7a4/iNews.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="Nasional", CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Nasional", Berita Satu HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Nasional", Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional", TVRI 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
@@ -38,7 +38,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/XQGggkA.jpg?v=2.0.0.13", JawaposTV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/rg1rTkj.png?v=2.0.0.13", JAKARTA GLOBE NEWS CHANNEL
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/rg1rTkj.png?v=2.0.0.13", Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/pwxmNpN.png?v=2.0.0.13", Elshinta TV
 http://ironman.my.id/andri/andriant.php?channel=elshinta
@@ -106,35 +106,6 @@ https://nonton.site:8443/live/novi/novi123/908.m3u8
 https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-95KNePoIAOI/XE6oA78TNrI/AAAAAAAAnJA/7EmSy6tZPVMPbw_3L-45Hjua1y8Do4gywCLcBGAs/s1600/sinema-indonesia-x-tv-channel-logo.jpg" group-title="oxygen",SINEMA INDONESIA X
 https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia-x
-
-########################################## DENS TV ###############################################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="DENS", KOMPASTV
-http://rr2.dens.tv/s/s104/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png" group-title="DENS", ANTV
-http://rr2.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="DENS", METROTV
-http://210.210.155.35/uq2663/h/h12/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="DENS", TVONE
-http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png" group-title="DENS", SCTV
-http://rr2.dens.tv/s/s03/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png" group-title="DENS", INDOSIAR
-http://rr2.dens.tv/s/s04/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png" group-title="DENS", TRANSTV
-http://210.210.155.35/x6bnqe/s/s252/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="DENS", TRANS7
-http://rr2.dens.tv/s/s101/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png" group-title="DENS", MYTV
-http://rr2.dens.tv/s/s46/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="DENS", NET.
-http://rr2.dens.tv/s/s08/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pwxmNpN.png" group-title="DENS", ElshintaTV
-http://rr2.dens.tv/s/s10/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png" group-title="DENS", TVRI
-http://rr2.dens.tv/s/s11/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png" group-title="DENS", RTV
-http://rr2.dens.tv/s/s12/01.m3u8
 
 ########################################## RADIO ######################################################
 
