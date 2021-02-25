@@ -1,5 +1,108 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="beIN Sport 1">
+    <display-name lang="id">beIN Sport 1</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="beIN Sport 2">
+    <display-name lang="id">beIN Sport 2</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein2_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="UseeSports">
+    <display-name lang="id">UseeSports 1</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesport_small.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="UseeSports2">
+    <display-name lang="id">UseeSports 2</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Champion TV 1">
+    <display-name lang="id">Champion TV 1</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ1_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Champion TV 2">
+    <display-name lang="id">Champion TV 2</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ2_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Fox Sport 1">
+    <display-name lang="id">Fox Sport 1</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports1_small.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Fox Sport 2">
+    <display-name lang="id">Fox Sport 2</display-name>
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Fox Sport 3">
+    <display-name lang="id">Fox Sport 3</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports3_small.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Golf">
+    <display-name lang="id">Golf</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_golf_small1.png?v=2.0.0.14" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="egg network">
+    <display-name lang="id">eGG TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_egg_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="NBA">
+    <display-name lang="id">NBA</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_nba_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="id">HBO</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/hbo.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="id">HBO Family</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/hbo_family.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="HBO Hits">
+    <display-name lang="id">HBO Hits</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/hbo_hits.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="id">HBO Signature</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/hbo_signature.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="id">CINEMAX</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/cinemax.jpg" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="RCTI">
+    <display-name lang="id">RCTI</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_80.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="Global TV">
+    <display-name lang="id">GTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_81.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="MNC TV">
+    <display-name lang="id">MNCTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_82.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="iNews">
+    <display-name lang="id">iNews</display-name>
+    <url>http://www.mncvision.id.E</url>
+  </channel>
   <channel id="NetTV">
     <display-name lang="en">NET.</display-name>
     <icon src="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png"/>
@@ -8438,5 +8541,3455 @@
   <programme start="20210224200000 +0700" stop="20210225000000 +0700" channel="BabyFirst">
     <title lang="en">A Dreamy Journey</title>
     <desc lang="en">A soothing audio-visual journey that lulls babies into the realm of sleep.(n)</desc>
+  </programme>
+    <programme start="20210223162000 +0700" stop="20210223163000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210223163000 +0700" stop="20210223183000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210223183000 +0700" stop="20210223190000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Show 2020-21</title>
+  </programme>
+  <programme start="20210223190000 +0700" stop="20210223195500 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Pre Match 2020-21</title>
+  </programme>
+  <programme start="20210223195500 +0700" stop="20210223220000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210223220000 +0700" stop="20210223221000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Pre Match 2020-21</title>
+  </programme>
+  <programme start="20210223221000 +0700" stop="20210224001500 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210224001500 +0700" stop="20210224002500 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Pre Match 2020-21</title>
+  </programme>
+  <programme start="20210224002500 +0700" stop="20210224023000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210224023000 +0700" stop="20210224025500 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Pre Match 2020-21</title>
+  </programme>
+  <programme start="20210224025500 +0700" stop="20210224050000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210224050000 +0700" stop="20210224060000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Post Match 2020-21</title>
+  </programme>
+  <programme start="20210224060000 +0700" stop="20210224075000 +0700" channel="beIN Sport 1">
+    <title lang="id">Ligue 1 2020-21</title>
+  </programme>
+  <programme start="20210224075000 +0700" stop="20210224094000 +0700" channel="beIN Sport 1">
+    <title lang="id">International Womens Friendly 2021</title>
+  </programme>
+  <programme start="20210224094000 +0700" stop="20210224101000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Top Moments 2020-21</title>
+  </programme>
+  <programme start="20210224101000 +0700" stop="20210224120000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210224120000 +0700" stop="20210224132000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210225120000 +0700" stop="20210225140500 +0700" channel="beIN Sport 1">
+    <title lang="id">A-League 2020-21</title>
+  </programme>
+  <programme start="20210225140500 +0700" stop="20210225160000 +0700" channel="beIN Sport 1">
+    <title lang="id">A-League 2020-21</title>
+  </programme>
+  <programme start="20210225160000 +0700" stop="20210225180000 +0700" channel="beIN Sport 1">
+    <title lang="id">Liverpool TV 2020-21</title>
+  </programme>
+  <programme start="20210225180000 +0700" stop="20210225183000 +0700" channel="beIN Sport 1">
+    <title lang="id">LFC Trending 2020-21</title>
+  </programme>
+  <programme start="20210225183000 +0700" stop="20210225190000 +0700" channel="beIN Sport 1">
+    <title lang="id">LFC TV Specials 2020-21</title>
+  </programme>
+  <programme start="20210225190000 +0700" stop="20210225195500 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Pre Match 2020-21</title>
+  </programme>
+  <programme start="20210225195500 +0700" stop="20210225220000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210225220000 +0700" stop="20210225221000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Pre Match 2020-21</title>
+  </programme>
+  <programme start="20210225221000 +0700" stop="20210226001500 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210226001500 +0700" stop="20210226002500 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Pre Match 2020-21</title>
+  </programme>
+  <programme start="20210226002500 +0700" stop="20210226023000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210226023000 +0700" stop="20210226025500 +0700" channel="beIN Sport 1">
+    <title lang="id">beIN Specials</title>
+  </programme>
+  <programme start="20210226025500 +0700" stop="20210226050000 +0700" channel="beIN Sport 1">
+    <title lang="id">Ligue 1 2020-21</title>
+  </programme>
+  <programme start="20210226050000 +0700" stop="20210226065000 +0700" channel="beIN Sport 1">
+    <title lang="id">Ligue 1 2020-21</title>
+  </programme>
+  <programme start="20210226065000 +0700" stop="20210226084000 +0700" channel="beIN Sport 1">
+    <title lang="id">Ligue 1 2020-21</title>
+  </programme>
+  <programme start="20210226084000 +0700" stop="20210226103000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210226103000 +0700" stop="20210226123000 +0700" channel="beIN Sport 1">
+    <title lang="id">Ligue 1 2020-21</title>
+  </programme>
+  <programme start="20210226123000 +0700" stop="20210226142000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210226142000 +0700" stop="20210226161000 +0700" channel="beIN Sport 1">
+    <title lang="id">A-League 2020-21</title>
+  </programme>
+  <programme start="20210226161000 +0700" stop="20210226180000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210226180000 +0700" stop="20210226190000 +0700" channel="beIN Sport 1">
+    <title lang="id">Serie A Highlights Show 2020-21</title>
+  </programme>
+  <programme start="20210226190000 +0700" stop="20210226200000 +0700" channel="beIN Sport 1">
+    <title lang="id">Ligue 1 Highlights 2020-21</title>
+  </programme>
+  <programme start="20210226200000 +0700" stop="20210226210000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Highlights 2020-21</title>
+  </programme>
+  <programme start="20210226210000 +0700" stop="20210226213000 +0700" channel="beIN Sport 1">
+    <title lang="id">Arsenal World 2020-21</title>
+  </programme>
+  <programme start="20210226213000 +0700" stop="20210226220000 +0700" channel="beIN Sport 1">
+    <title lang="id">Arsenal 360 2020-21</title>
+  </programme>
+  <programme start="20210226220000 +0700" stop="20210227000000 +0700" channel="beIN Sport 1">
+    <title lang="id">Arsenal TV 2020-21</title>
+  </programme>
+  <programme start="20210227000000 +0700" stop="20210227003000 +0700" channel="beIN Sport 1">
+    <title lang="id">Mini Match - Laliga 2020-21</title>
+  </programme>
+  <programme start="20210227003000 +0700" stop="20210227010000 +0700" channel="beIN Sport 1">
+    <title lang="id">Mini Match - Laliga 2020-21</title>
+  </programme>
+  <programme start="20210227010000 +0700" stop="20210227025500 +0700" channel="beIN Sport 1">
+    <title lang="id">Viva LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210227025500 +0700" stop="20210227050000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210227050000 +0700" stop="20210227053000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Post Match 2020-21</title>
+  </programme>
+  <programme start="20210227053000 +0700" stop="20210227063000 +0700" channel="beIN Sport 1">
+    <title lang="id">Ligue 1 Highlights 2020-21</title>
+  </programme>
+  <programme start="20210227063000 +0700" stop="20210227083000 +0700" channel="beIN Sport 1">
+    <title lang="id">Liverpool TV 2020-21</title>
+  </programme>
+  <programme start="20210227083000 +0700" stop="20210227090000 +0700" channel="beIN Sport 1">
+    <title lang="id">LFC Trending 2020-21</title>
+  </programme>
+  <programme start="20210227090000 +0700" stop="20210227093000 +0700" channel="beIN Sport 1">
+    <title lang="id">LFC TV Specials 2020-21</title>
+  </programme>
+  <programme start="20210227093000 +0700" stop="20210227112000 +0700" channel="beIN Sport 1">
+    <title lang="id">Total U-20 Africa Cup of Nations Mauritania 2021</title>
+  </programme>
+  <programme start="20210227112000 +0700" stop="20210227131000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210227131000 +0700" stop="20210227150000 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210227150000 +0700" stop="20210227170500 +0700" channel="beIN Sport 1">
+    <title lang="id">A-League 2020-21</title>
+  </programme>
+  <programme start="20210227170500 +0700" stop="20210227173500 +0700" channel="beIN Sport 1">
+    <title lang="id">Mini Match - Serie A 2020-21</title>
+  </programme>
+  <programme start="20210227173500 +0700" stop="20210227180500 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga Top Moments 2020-21</title>
+  </programme>
+  <programme start="20210227180500 +0700" stop="20210227195700 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2020-21</title>
+  </programme>
+  <programme start="20210227195700 +0700" stop="20210227215700 +0700" channel="beIN Sport 1">
+    <title lang="id">Total CAF Champions League 2020-21</title>
+  </programme>
+  <programme start="20210227215700 +0700" stop="20210227225700 +0700" channel="beIN Sport 1">
+    <title lang="id">LaLiga 2 Highlights 2020-21</title>
+  </programme>
+  <programme start="20210227225700 +0700" stop="20210228005700 +0700" channel="beIN Sport 1">
+    <title lang="id">Total CAF Champions League 2020-21</title>
+  </programme>
+  <programme start="20210223000000 +0700" stop="20210223020000 +0700" channel="beIN Sport 2">
+    <title lang="id">Serie A 2020 - 2021</title>
+  </programme>
+  <programme start="20210223020000 +0700" stop="20210223023500 +0700" channel="beIN Sport 2">
+    <title lang="id">Mini Match - Serie A 2020 - 2021</title>
+  </programme>
+  <programme start="20210223023500 +0700" stop="20210223044500 +0700" channel="beIN Sport 2">
+    <title lang="id">Serie A 2020 - 2021</title>
+  </programme>
+  <programme start="20210223044500 +0700" stop="20210223045500 +0700" channel="beIN Sport 2">
+    <title lang="id">Great Goals CC</title>
+  </programme>
+  <programme start="20210223045500 +0700" stop="20210223053000 +0700" channel="beIN Sport 2">
+    <title lang="id">IMSA The Road to Racing Magazine Shows 2020</title>
+  </programme>
+  <programme start="20210223053000 +0700" stop="20210223060000 +0700" channel="beIN Sport 2">
+    <title lang="id">Mini Match - Laliga 2020 - 2021</title>
+  </programme>
+  <programme start="20210223060000 +0700" stop="20210223070000 +0700" channel="beIN Sport 2">
+    <title lang="id">LaLiga Highlights 2020 - 2021</title>
+  </programme>
+  <programme start="20210223070000 +0700" stop="20210223080000 +0700" channel="beIN Sport 2">
+    <title lang="id">Serie A Highlights Show 2020 - 2021</title>
+  </programme>
+  <programme start="20210223080000 +0700" stop="20210223090000 +0700" channel="beIN Sport 2">
+    <title lang="id">Ligue 1 Highlights 2020 - 2021</title>
+  </programme>
+  <programme start="20210223090000 +0700" stop="20210223093000 +0700" channel="beIN Sport 2">
+    <title lang="id">Mini Match - Ligue 1 2020 - 2021</title>
+  </programme>
+  <programme start="20210223093000 +0700" stop="20210223100000 +0700" channel="beIN Sport 2">
+    <title lang="id">Chelsea TV : Premier League Years 2020 - 2021</title>
+  </programme>
+  <programme start="20210223100000 +0700" stop="20210223103000 +0700" channel="beIN Sport 2">
+    <title lang="id">Inside Chelsea 2020 - 2021</title>
+  </programme>
+  <programme start="20210223103000 +0700" stop="20210223123000 +0700" channel="beIN Sport 2">
+    <title lang="id">Chelsea TV 2020 - 2021</title>
+  </programme>
+  <programme start="20210223123000 +0700" stop="20210223143000 +0700" channel="beIN Sport 2">
+    <title lang="id">Serie A 2020 - 2021</title>
+  </programme>
+  <programme start="20210223143000 +0700" stop="20210223162700 +0700" channel="beIN Sport 2">
+    <title lang="id">Total U - 20 Africa Cup of Nations Mauritania 2021</title>
+  </programme>
+  <programme start="20210224161700 +0700" stop="20210224162700 +0700" channel="beIN Sport 2">
+    <title lang="id">Gearing Up 2021</title>
+  </programme>
+  <programme start="20210224162700 +0700" stop="20210224165700 +0700" channel="beIN Sport 2">
+    <title lang="id">Gearing Up 2021</title>
+  </programme>
+  <programme start="20210224165700 +0700" stop="20210224172700 +0700" channel="beIN Sport 2">
+    <title lang="id">Arsenal World 2020 - 2021</title>
+  </programme>
+  <programme start="20210224172700 +0700" stop="20210224175700 +0700" channel="beIN Sport 2">
+    <title lang="id">Arsenal 360 2020 - 2021</title>
+  </programme>
+  <programme start="20210224175700 +0700" stop="20210224195700 +0700" channel="beIN Sport 2">
+    <title lang="id">Arsenal TV 2020 - 2021</title>
+  </programme>
+  <programme start="20210224195700 +0700" stop="20210224215700 +0700" channel="beIN Sport 2">
+    <title lang="id">Total CAF Champions League 2020 - 2021</title>
+  </programme>
+  <programme start="20210224215700 +0700" stop="20210224222700 +0700" channel="beIN Sport 2">
+    <title lang="id">Mini Match - Serie A 2020 - 2021</title>
+  </programme>
+  <programme start="20210224222700 +0700" stop="20210224225700 +0700" channel="beIN Sport 2">
+    <title lang="id">Mini Match - Serie A 2020 - 2021</title>
+  </programme>
+  <programme start="20210224225700 +0700" stop="20210225010000 +0700" channel="beIN Sport 2">
+    <title lang="id">Total CAF Champions League 2020 - 2021</title>
+  </programme>
+  <programme start="20210223000000 +0700" stop="20210223003000 +0700" channel="UseeSports">
+    <title lang="id">Sports Arena</title>
+  </programme>
+  <programme start="20210223003000 +0700" stop="20210223013000 +0700" channel="UseeSports">
+    <title lang="id">Prime Sports Insight</title>
+  </programme>
+  <programme start="20210223013000 +0700" stop="20210223020000 +0700" channel="UseeSports">
+    <title lang="id">Smashing Day</title>
+  </programme>
+  <programme start="20210223020000 +0700" stop="20210223040000 +0700" channel="UseeSports">
+    <title lang="id">Rivalitas</title>
+  </programme>
+  <programme start="20210223040000 +0700" stop="20210223043000 +0700" channel="UseeSports">
+    <title lang="id">Soccer Tonight</title>
+  </programme>
+  <programme start="20210223043000 +0700" stop="20210223050000 +0700" channel="UseeSports">
+    <title lang="id">Sport Story</title>
+  </programme>
+  <programme start="20210223050000 +0700" stop="20210223070000 +0700" channel="UseeSports">
+    <title lang="id">Liga 1 Shopee 2020</title>
+  </programme>
+  <programme start="20210223070000 +0700" stop="20210223073000 +0700" channel="UseeSports">
+    <title lang="id">Ruang Ganti</title>
+  </programme>
+  <programme start="20210223073000 +0700" stop="20210223080000 +0700" channel="UseeSports">
+    <title lang="id">Ricky Smash</title>
+  </programme>
+  <programme start="20210223080000 +0700" stop="20210223090000 +0700" channel="UseeSports">
+    <title lang="id">BWF Toyota Thailand Open 2020</title>
+  </programme>
+  <programme start="20210223090000 +0700" stop="20210223100000 +0700" channel="UseeSports">
+    <title lang="id">BWF Toyota Thailand Open 2020</title>
+  </programme>
+  <programme start="20210223100000 +0700" stop="20210223103000 +0700" channel="UseeSports">
+    <title lang="id">Soccer Tonight</title>
+  </programme>
+  <programme start="20210223103000 +0700" stop="20210223123000 +0700" channel="UseeSports">
+    <title lang="id">Rivalitas</title>
+  </programme>
+  <programme start="20210223123000 +0700" stop="20210223130000 +0700" channel="UseeSports">
+    <title lang="id">Ruang Ganti</title>
+  </programme>
+  <programme start="20210223130000 +0700" stop="20210223150000 +0700" channel="UseeSports">
+    <title lang="id">Liga 1 Shopee 2020</title>
+  </programme>
+  <programme start="20210223150000 +0700" stop="20210223153000 +0700" channel="UseeSports">
+    <title lang="id">Indihome Gideon Badminton Academy</title>
+  </programme>
+  <programme start="20210223153000 +0700" stop="20210223163000 +0700" channel="UseeSports">
+    <title lang="id">BWF Yonex Thailand Open 2020</title>
+  </programme>
+  <programme start="20210223163000 +0700" stop="20210223173000 +0700" channel="UseeSports">
+    <title lang="id">BWF Yonex Thailand Open 2020</title>
+  </programme>
+  <programme start="20210223173000 +0700" stop="20210223180000 +0700" channel="UseeSports">
+    <title lang="id">Soccer Tonight</title>
+  </programme>
+  <programme start="20210223180000 +0700" stop="20210223183000 +0700" channel="UseeSports">
+    <title lang="id">Bola Kita</title>
+  </programme>
+  <programme start="20210223183000 +0700" stop="20210223203000 +0700" channel="UseeSports">
+    <title lang="id">Rivalitas</title>
+  </programme>
+  <programme start="20210223203000 +0700" stop="20210223213000 +0700" channel="UseeSports">
+    <title lang="id">Up Close</title>
+  </programme>
+  <programme start="20210223213000 +0700" stop="20210223220000 +0700" channel="UseeSports">
+    <title lang="id">Sport Story</title>
+  </programme>
+  <programme start="20210223220000 +0700" stop="20210223233000 +0700" channel="UseeSports">
+    <title lang="id">IBL 2020 Series 6 Surabaya</title>
+  </programme>
+  <programme start="20210223233000 +0700" stop="20210224000000 +0700" channel="UseeSports">
+    <title lang="id">Smashing Day</title>
+  </programme>
+  <programme start="20210223000000 +0700" stop="20210223003000 +0700" channel="UseeSports2">
+    <title lang="id">Soccer Tonight</title>
+  </programme>
+  <programme start="20210223003000 +0700" stop="20210223013000 +0700" channel="UseeSports2">
+    <title lang="id">Up Close</title>
+  </programme>
+  <programme start="20210223013000 +0700" stop="20210223040000 +0700" channel="UseeSports2">
+    <title lang="id">Coppa Italia 2020 - 2021</title>
+  </programme>
+  <programme start="20210223040000 +0700" stop="20210223043000 +0700" channel="UseeSports2">
+    <title lang="id">Smashing Day</title>
+  </programme>
+  <programme start="20210223043000 +0700" stop="20210223051500 +0700" channel="UseeSports2">
+    <title lang="id">HSBC BWF World Tour Finals 2020</title>
+  </programme>
+  <programme start="20210223051500 +0700" stop="20210223064500 +0700" channel="UseeSports2">
+    <title lang="id">HSBC BWF World Tour Finals 2020</title>
+  </programme>
+  <programme start="20210223064500 +0700" stop="20210223080000 +0700" channel="UseeSports2">
+    <title lang="id">HSBC BWF World Tour Finals 2020</title>
+  </programme>
+  <programme start="20210223080000 +0700" stop="20210223083000 +0700" channel="UseeSports2">
+    <title lang="id">Smashing Day</title>
+  </programme>
+  <programme start="20210223083000 +0700" stop="20210223090000 +0700" channel="UseeSports2">
+    <title lang="id">Bola Kita</title>
+  </programme>
+  <programme start="20210223090000 +0700" stop="20210223100000 +0700" channel="UseeSports2">
+    <title lang="id">Up Close</title>
+  </programme>
+  <programme start="20210223100000 +0700" stop="20210223120000 +0700" channel="UseeSports2">
+    <title lang="id">IBL 2020 Series 3 Jakarta</title>
+  </programme>
+  <programme start="20210223120000 +0700" stop="20210223130000 +0700" channel="UseeSports2">
+    <title lang="id">BWF Yonex Thailand Open 2020</title>
+  </programme>
+  <programme start="20210223130000 +0700" stop="20210223140000 +0700" channel="UseeSports2">
+    <title lang="id">BWF Yonex Thailand Open 2020</title>
+  </programme>
+  <programme start="20210223140000 +0700" stop="20210223150000 +0700" channel="UseeSports2">
+    <title lang="id">Up Close</title>
+  </programme>
+  <programme start="20210223150000 +0700" stop="20210223170000 +0700" channel="UseeSports2">
+    <title lang="id">IBL 2020 Series 3 Jakarta</title>
+  </programme>
+  <programme start="20210223170000 +0700" stop="20210223173000 +0700" channel="UseeSports2">
+    <title lang="id">Soccer Tonight</title>
+  </programme>
+  <programme start="20210223173000 +0700" stop="20210223180000 +0700" channel="UseeSports2">
+    <title lang="id">INDIHOME GIDEON BADMINTON ACADEMY</title>
+  </programme>
+  <programme start="20210223180000 +0700" stop="20210223190000 +0700" channel="UseeSports2">
+    <title lang="id">Prime Sports Insight</title>
+  </programme>
+  <programme start="20210223190000 +0700" stop="20210223193000 +0700" channel="UseeSports2">
+    <title lang="id">Sports Arena</title>
+  </programme>
+  <programme start="20210223193000 +0700" stop="20210223200000 +0700" channel="UseeSports2">
+    <title lang="id">Smashing Day</title>
+  </programme>
+  <programme start="20210223200000 +0700" stop="20210223203000 +0700" channel="UseeSports2">
+    <title lang="id">Soccer Tonight</title>
+  </programme>
+  <programme start="20210223203000 +0700" stop="20210223211500 +0700" channel="UseeSports2">
+    <title lang="id">BWF Yonex Thailand Open 2020</title>
+  </programme>
+  <programme start="20210223211500 +0700" stop="20210223220000 +0700" channel="UseeSports2">
+    <title lang="id">BWF Yonex Thailand Open 2020</title>
+  </programme>
+  <programme start="20210223220000 +0700" stop="20210223230000 +0700" channel="UseeSports2">
+    <title lang="id">BWF Yonex Thailand Open 2020</title>
+  </programme>
+  <programme start="20210223230000 +0700" stop="20210223233000 +0700" channel="UseeSports2">
+    <title lang="id">Smashing Day</title>
+  </programme>
+  <programme start="20210223233000 +0700" stop="20210224000000 +0700" channel="UseeSports2">
+    <title lang="id">Bola Kita</title>
+  </programme>
+  <programme start="20210224000000 +0700" stop="20210224003000 +0700" channel="Champion TV 1">
+    <title lang="id">WTA 500 Melbourne Summer Series</title>
+  </programme>
+  <programme start="20210224003000 +0700" stop="20210224020000 +0700" channel="Champion TV 1">
+    <title lang="id">EFL Championship 2020 - 2021</title>
+  </programme>
+  <programme start="20210224020000 +0700" stop="20210224023000 +0700" channel="Champion TV 1">
+    <title lang="id">UCL Magazine 2020 - 2021 - Match Day 7a</title>
+  </programme>
+  <programme start="20210224023000 +0700" stop="20210224030000 +0700" channel="Champion TV 1">
+    <title lang="id">EFL Highlight 2020 - 2021</title>
+  </programme>
+  <programme start="20210224030000 +0700" stop="20210224050000 +0700" channel="Champion TV 1">
+    <title lang="id">EFL Championship 2020 - 2021</title>
+  </programme>
+  <programme start="20210224050000 +0700" stop="20210224073000 +0700" channel="Champion TV 1">
+    <title lang="id">UCL 2020 - 2021</title>
+  </programme>
+  <programme start="20210224073000 +0700" stop="20210224093000 +0700" channel="Champion TV 1">
+    <title lang="id">WTA 500 Adelaide International LIVE</title>
+  </programme>
+  <programme start="20210224093000 +0700" stop="20210224113000 +0700" channel="Champion TV 1">
+    <title lang="id">WTA 500 Adelaide International LIVE</title>
+  </programme>
+  <programme start="20210224113000 +0700" stop="20210224133000 +0700" channel="Champion TV 1">
+    <title lang="id">WTA 500 Adelaide International LIVE</title>
+  </programme>
+  <programme start="20210224133000 +0700" stop="20210224140000 +0700" channel="Champion TV 1">
+    <title lang="id">UCL Magazine 2020 - 2021 - Match Day 7a</title>
+  </programme>
+  <programme start="20210224140000 +0700" stop="20210224143000 +0700" channel="Champion TV 1">
+    <title lang="id">UEL Magazine 2020 - 2021</title>
+  </programme>
+  <programme start="20210224143000 +0700" stop="20210224150000 +0700" channel="Champion TV 1">
+    <title lang="id">UCL Final Archive Series</title>
+  </programme>
+  <programme start="20210224150000 +0700" stop="20210224170000 +0700" channel="Champion TV 1">
+    <title lang="id">WTA 500 Adelaide International LIVE</title>
+  </programme>
+  <programme start="20210224170000 +0700" stop="20210224190000 +0700" channel="Champion TV 1">
+    <title lang="id">WTA 500 Adelaide International LIVE</title>
+  </programme>
+  <programme start="20210224190000 +0700" stop="20210224213000 +0700" channel="Champion TV 1">
+    <title lang="id">UCL 2020 - 2021</title>
+  </programme>
+  <programme start="20210224213000 +0700" stop="20210225000000 +0700" channel="Champion TV 1">
+    <title lang="id">UCL 2020 - 2021</title>
+  </programme>
+  <programme start="20210223000000 +0700" stop="20210223020000 +0700" channel="Champion TV 2">
+    <title lang="id">UEL 2020 - 2021</title>
+  </programme>
+  <programme start="20210223020000 +0700" stop="20210223040000 +0700" channel="Champion TV 2">
+    <title lang="id">WTA 250 - Melbourne Summer Series Philip Island Trophy</title>
+  </programme>
+  <programme start="20210223040000 +0700" stop="20210223060000 +0700" channel="Champion TV 2">
+    <title lang="id">WTA 250 - Melbourne Summer Series Philip Island Trophy</title>
+  </programme>
+  <programme start="20210223060000 +0700" stop="20210223063000 +0700" channel="Champion TV 2">
+    <title lang="id">Badminton Unlimited</title>
+  </programme>
+  <programme start="20210223063000 +0700" stop="20210223070000 +0700" channel="Champion TV 2">
+    <title lang="id">UCL Final Archive Series</title>
+  </programme>
+  <programme start="20210223070000 +0700" stop="20210223090000 +0700" channel="Champion TV 2">
+    <title lang="id">EFL Championship 2020 - 2022</title>
+  </programme>
+  <programme start="20210223090000 +0700" stop="20210223110000 +0700" channel="Champion TV 2">
+    <title lang="id">EFL Championship 2020 - 2022</title>
+  </programme>
+  <programme start="20210223110000 +0700" stop="20210223130000 +0700" channel="Champion TV 2">
+    <title lang="id">WTA 250 - Melbourne Summer Series Philip Island Trophy</title>
+  </programme>
+  <programme start="20210223130000 +0700" stop="20210223133000 +0700" channel="Champion TV 2">
+    <title lang="id">UCL Extra Show</title>
+  </programme>
+  <programme start="20210223133000 +0700" stop="20210223140000 +0700" channel="Champion TV 2">
+    <title lang="id">Badminton Unlimited</title>
+  </programme>
+  <programme start="20210223140000 +0700" stop="20210223160000 +0700" channel="Champion TV 2">
+    <title lang="id">EFL Championship 2020 - 2022</title>
+  </programme>
+  <programme start="20210223160000 +0700" stop="20210223180000 +0700" channel="Champion TV 2">
+    <title lang="id">UEL 2020 - 2021</title>
+  </programme>
+  <programme start="20210223180000 +0700" stop="20210223183000 +0700" channel="Champion TV 2">
+    <title lang="id">The Immortal</title>
+  </programme>
+  <programme start="20210223183000 +0700" stop="20210223190000 +0700" channel="Champion TV 2">
+    <title lang="id">Sport Woman</title>
+  </programme>
+  <programme start="20210223190000 +0700" stop="20210223213000 +0700" channel="Champion TV 2">
+    <title lang="id">UEL 2020 - 2021</title>
+  </programme>
+  <programme start="20210223213000 +0700" stop="20210223233000 +0700" channel="Champion TV 2">
+    <title lang="id">UEL 2020 - 2021</title>
+  </programme>
+  <programme start="20210223233000 +0700" stop="20210224000000 +0700" channel="Champion TV 2">
+    <title lang="id">Sport Woman</title>
+  </programme>
+  <programme start="20210223010000 +0700" stop="20210223013000 +0700" channel="Fox Sport 1">
+    <title lang="id">Sportscenter Asia 2021</title>
+  </programme>
+  <programme start="20210223013000 +0700" stop="20210223033000 +0700" channel="Fox Sport 1">
+    <title lang="id">AFC Champions League 2020</title>
+  </programme>
+  <programme start="20210223033000 +0700" stop="20210223060000 +0700" channel="Fox Sport 1">
+    <title lang="id">UFC Fight Night Prelims : Overeem Vs. Volkov</title>
+  </programme>
+  <programme start="20210223060000 +0700" stop="20210223070000 +0700" channel="Fox Sport 1">
+    <title lang="id">The John Dykes Show</title>
+  </programme>
+  <programme start="20210223070000 +0700" stop="20210223080000 +0700" channel="Fox Sport 1">
+    <title lang="id">AFC Champions League 2020</title>
+  </programme>
+  <programme start="20210223080000 +0700" stop="20210223103000 +0700" channel="Fox Sport 1">
+    <title lang="id">UFC Epics : UFC 238 : Cejudo Vs. Moraes</title>
+  </programme>
+  <programme start="20210223103000 +0700" stop="20210223110000 +0700" channel="Fox Sport 1">
+    <title lang="id">AFC Champions League 2020 Highlights</title>
+  </programme>
+  <programme start="20210223110000 +0700" stop="20210223113000 +0700" channel="Fox Sport 1">
+    <title lang="id">ESPN FC 2021</title>
+  </programme>
+  <programme start="20210223113000 +0700" stop="20210223123000 +0700" channel="Fox Sport 1">
+    <title lang="id">The John Dykes Show</title>
+  </programme>
+  <programme start="20210223123000 +0700" stop="20210223130000 +0700" channel="Fox Sport 1">
+    <title lang="id">ESPN FC 2021</title>
+  </programme>
+  <programme start="20210223130000 +0700" stop="20210223150000 +0700" channel="Fox Sport 1">
+    <title lang="id">AFC Champions League 2020</title>
+  </programme>
+  <programme start="20210223150000 +0700" stop="20210223153000 +0700" channel="Fox Sport 1">
+    <title lang="id">Sportscenter Asia 2021</title>
+  </programme>
+  <programme start="20210223153000 +0700" stop="20210223170000 +0700" channel="Fox Sport 1">
+    <title lang="id">F1 Classic : Formula 1 Rolex Australian Grand Prix 2019</title>
+  </programme>
+  <programme start="20210223170000 +0700" stop="20210223180000 +0700" channel="Fox Sport 1">
+    <title lang="id">The John Dykes Show</title>
+  </programme>
+  <programme start="20210223180000 +0700" stop="20210223183000 +0700" channel="Fox Sport 1">
+    <title lang="id">ESPN FC 2021</title>
+  </programme>
+  <programme start="20210223183000 +0700" stop="20210223190000 +0700" channel="Fox Sport 1">
+    <title lang="id">Sportscenter Asia 2021</title>
+  </programme>
+  <programme start="20210223190000 +0700" stop="20210223193000 +0700" channel="Fox Sport 1">
+    <title lang="id">Outdoor Sports Show 2021</title>
+  </programme>
+  <programme start="20210223193000 +0700" stop="20210223213000 +0700" channel="Fox Sport 1">
+    <title lang="id">International 9-Ball Open 2019</title>
+  </programme>
+  <programme start="20210223213000 +0700" stop="20210223220000 +0700" channel="Fox Sport 1">
+    <title lang="id">Sportscenter Asia 2021</title>
+  </programme>
+  <programme start="20210223220000 +0700" stop="20210224010000 +0700" channel="Fox Sport 1">
+    <title lang="id">UFC Fight Night Prelims : Blaydes Vs. Lewis</title>
+  </programme>
+  <programme start="20210223003000 +0700" stop="20210223020000 +0700" channel="Fox Sport 2">
+    <title lang="id">FIM Motocross World Championship 2020 : Race 2</title>
+  </programme>
+  <programme start="20210223020000 +0700" stop="20210223030000 +0700" channel="Fox Sport 2">
+    <title lang="id">Monster Jam 2020 - Anaheim 5</title>
+  </programme>
+  <programme start="20210223030000 +0700" stop="20210223040000 +0700" channel="Fox Sport 2">
+    <title lang="id">World Sport Stacking Championships 2007</title>
+  </programme>
+  <programme start="20210223040000 +0700" stop="20210223043000 +0700" channel="Fox Sport 2">
+    <title lang="id">Dakar Rally 2021: Saudi Arabia - Daily Highlights</title>
+  </programme>
+  <programme start="20210223043000 +0700" stop="20210223050000 +0700" channel="Fox Sport 2">
+    <title lang="id">Dakar Rally 2021: Saudi Arabia - Daily Highlights</title>
+  </programme>
+  <programme start="20210223050000 +0700" stop="20210223070000 +0700" channel="Fox Sport 2">
+    <title lang="id">E1 Championship Round 8 Bathurst</title>
+  </programme>
+  <programme start="20210223070000 +0700" stop="20210223073000 +0700" channel="Fox Sport 2">
+    <title lang="id">Dakar Rally 2021: Saudi Arabia - Daily Highlights</title>
+  </programme>
+  <programme start="20210223073000 +0700" stop="20210223080000 +0700" channel="Fox Sport 2">
+    <title lang="id">Dakar Rally 2021: Saudi Arabia - Daily Highlights</title>
+  </programme>
+  <programme start="20210223080000 +0700" stop="20210223090000 +0700" channel="Fox Sport 2">
+    <title lang="id">Monster Jam 2020 - Anaheim 5</title>
+  </programme>
+  <programme start="20210223090000 +0700" stop="20210223110000 +0700" channel="Fox Sport 2">
+    <title lang="id">AFC Champions League 2020</title>
+  </programme>
+  <programme start="20210223110000 +0700" stop="20210223123000 +0700" channel="Fox Sport 2">
+    <title lang="id">FIM Motocross World Championship 2020 : Race 1</title>
+  </programme>
+  <programme start="20210223123000 +0700" stop="20210223140000 +0700" channel="Fox Sport 2">
+    <title lang="id">FIM Motocross World Championship 2020 : Race 2</title>
+  </programme>
+  <programme start="20210223140000 +0700" stop="20210223143000 +0700" channel="Fox Sport 2">
+    <title lang="id">Dakar Rally 2021: Saudi Arabia - Daily Highlights</title>
+  </programme>
+  <programme start="20210223143000 +0700" stop="20210223150000 +0700" channel="Fox Sport 2">
+    <title lang="id">Dakar Rally 2021: Saudi Arabia - Daily Highlights</title>
+  </programme>
+  <programme start="20210223150000 +0700" stop="20210223160000 +0700" channel="Fox Sport 2">
+    <title lang="id">Australian Open Tennis 2021 Best Matches Of The Day Mens Singles Final</title>
+  </programme>
+  <programme start="20210223160000 +0700" stop="20210223170000 +0700" channel="Fox Sport 2">
+    <title lang="id">Australian Open Tennis 2021 Day 14 Highlights</title>
+  </programme>
+  <programme start="20210223170000 +0700" stop="20210223180000 +0700" channel="Fox Sport 2">
+    <title lang="id">Melbourne Summer Series 2021 ATP 250 Highlights</title>
+  </programme>
+  <programme start="20210223180000 +0700" stop="20210223190000 +0700" channel="Fox Sport 2">
+    <title lang="id">Melbourne Summer Series 2021 ATP 250 Highlights</title>
+  </programme>
+  <programme start="20210223190000 +0700" stop="20210223200000 +0700" channel="Fox Sport 2">
+    <title lang="id">Australian Open Tennis 2021 Best Matches Of The Day Womens Doubles Final</title>
+  </programme>
+  <programme start="20210223200000 +0700" stop="20210223210000 +0700" channel="Fox Sport 2">
+    <title lang="id">Australian Open Tennis 2021 Best Matches Of The Day Mens Doubles Final</title>
+  </programme>
+  <programme start="20210223210000 +0700" stop="20210223230000 +0700" channel="Fox Sport 2">
+    <title lang="id">ATP Cup 2021 Best Matches Of Day 1 Group Stages</title>
+  </programme>
+  <programme start="20210223230000 +0700" stop="20210224003000 +0700" channel="Fox Sport 2">
+    <title lang="id">FIM Motocross World Championship 2020 : Race 1</title>
+  </programme>
+  <programme start="20210223023000 +0700" stop="20210223030000 +0700" channel="Fox Sport 3">
+    <title lang="id">Planet Speed</title>
+  </programme>
+  <programme start="20210223030000 +0700" stop="20210223050000 +0700" channel="Fox Sport 3">
+    <title lang="id">Dettol T20 Intl Series Aust V India - Sydney</title>
+  </programme>
+  <programme start="20210223050000 +0700" stop="20210223070000 +0700" channel="Fox Sport 3">
+    <title lang="id">AFC Asian Cup 2019</title>
+  </programme>
+  <programme start="20210223070000 +0700" stop="20210223080000 +0700" channel="Fox Sport 3">
+    <title lang="id">ESPN Classic Boxing: Gene Fullmer Vs Sugar Ray Robinson - I</title>
+  </programme>
+  <programme start="20210223080000 +0700" stop="20210223083000 +0700" channel="Fox Sport 3">
+    <title lang="id">ESPN Classic Boxing: Sugar Ray Robinson Vs Randy Turpin - II</title>
+  </programme>
+  <programme start="20210223083000 +0700" stop="20210223090000 +0700" channel="Fox Sport 3">
+    <title lang="id">ESPN Classic Boxing: Sugar Ray Robinson Vs Rocky Castellani</title>
+  </programme>
+  <programme start="20210223090000 +0700" stop="20210223100000 +0700" channel="Fox Sport 3">
+    <title lang="id">GT World Challenge Endurance 2020 - Highlights</title>
+  </programme>
+  <programme start="20210223100000 +0700" stop="20210223110000 +0700" channel="Fox Sport 3">
+    <title lang="id">GT World Challenge Endurance 2020 - Highlights</title>
+  </programme>
+  <programme start="20210223110000 +0700" stop="20210223130000 +0700" channel="Fox Sport 3">
+    <title lang="id">AFC Asian Cup 2019</title>
+  </programme>
+  <programme start="20210223130000 +0700" stop="20210223140000 +0700" channel="Fox Sport 3">
+    <title lang="id">ESPN Classic Boxing: Gene Fullmer Vs Sugar Ray Robinson - I</title>
+  </programme>
+  <programme start="20210223140000 +0700" stop="20210223143000 +0700" channel="Fox Sport 3">
+    <title lang="id">ESPN Classic Boxing: Sugar Ray Robinson Vs Randy Turpin - II</title>
+  </programme>
+  <programme start="20210223143000 +0700" stop="20210223150000 +0700" channel="Fox Sport 3">
+    <title lang="id">ESPN Classic Boxing: Sugar Ray Robinson Vs Rocky Castellani</title>
+  </programme>
+  <programme start="20210223150000 +0700" stop="20210223160000 +0700" channel="Fox Sport 3">
+    <title lang="id">Motoamerica Rewind 2020</title>
+  </programme>
+  <programme start="20210223160000 +0700" stop="20210223170000 +0700" channel="Fox Sport 3">
+    <title lang="id">Ergp - Global Edition 2020</title>
+  </programme>
+  <programme start="20210223170000 +0700" stop="20210223190000 +0700" channel="Fox Sport 3">
+    <title lang="id">E1 Championship Round 3 Dubai</title>
+  </programme>
+  <programme start="20210223190000 +0700" stop="20210223210000 +0700" channel="Fox Sport 3">
+    <title lang="id">Danish Superliga 202021</title>
+  </programme>
+  <programme start="20210223210000 +0700" stop="20210223233000 +0700" channel="Fox Sport 3">
+    <title lang="id">Ringside: Sugar Ray Robinson - Pound For Pound</title>
+  </programme>
+  <programme start="20210223233000 +0700" stop="20210224023000 +0700" channel="Fox Sport 3">
+    <title lang="id">Wlc: Heartless Tigers</title>
+  </programme>
+  <programme start="20210223000000 +0700" stop="20210223010000 +0700" channel="Golf">
+    <title lang="id">Golf Films: Hogan - Perfection</title>
+  </programme>
+  <programme start="20210223010000 +0700" stop="20210223060000 +0700" channel="Golf">
+    <title lang="id">The Genesis Invitational 2021 - Day 3</title>
+  </programme>
+  <programme start="20210223060000 +0700" stop="20210223090000 +0700" channel="Golf">
+    <title lang="id">2021 Southwestern Invitational - Final Round</title>
+  </programme>
+  <programme start="20210223090000 +0700" stop="20210223140000 +0700" channel="Golf">
+    <title lang="id">Waste Management Phoenix Open 2021 - Day 3</title>
+  </programme>
+  <programme start="20210223140000 +0700" stop="20210223170000 +0700" channel="Golf">
+    <title lang="id">Diamond Resorts Tournament of Champions 2021 - Day 3</title>
+  </programme>
+  <programme start="20210223170000 +0700" stop="20210223190000 +0700" channel="Golf">
+    <title lang="id">Golf Today</title>
+  </programme>
+  <programme start="20210223190000 +0700" stop="20210223200000 +0700" channel="Golf">
+    <title lang="id">Golf Central</title>
+  </programme>
+  <programme start="20210223200000 +0700" stop="20210224010000 +0700" channel="Golf">
+    <title lang="id">The Genesis Invitational 2021 - Day 3</title>
+  </programme>
+  <programme start="20210224010000 +0700" stop="20210224063000 +0700" channel="Golf">
+    <title lang="id">The Genesis Invitational 2021 - Day 4</title>
+  </programme>
+  <programme start="20210224063000 +0700" stop="20210224090000 +0700" channel="Golf">
+    <title lang="id">Charity Exhibition - The American Express Charity Challenge 2020</title>
+  </programme>
+  <programme start="20210224090000 +0700" stop="20210224140000 +0700" channel="Golf">
+    <title lang="id">Waste Management Phoenix Open 2021 - Day 4</title>
+  </programme>
+  <programme start="20210224140000 +0700" stop="20210224170000 +0700" channel="Golf">
+    <title lang="id">Diamond Resorts Tournament of Champions 2021 - Day 4</title>
+  </programme>
+  <programme start="20210224170000 +0700" stop="20210224190000 +0700" channel="Golf">
+    <title lang="id">Golf Today</title>
+  </programme>
+  <programme start="20210224190000 +0700" stop="20210224200000 +0700" channel="Golf">
+    <title lang="id">Golf Central</title>
+  </programme>
+  <programme start="20210224200000 +0700" stop="20210224210000 +0700" channel="Golf">
+    <title lang="id">The Genesis Invitational 2021 - Highlights</title>
+  </programme>
+  <programme start="20210224210000 +0700" stop="20210225020000 +0700" channel="Golf">
+    <title lang="id">The Genesis Invitational 2021 - Day 4</title>
+  </programme>
+  <programme start="20210225020000 +0700" stop="20210225060000 +0700" channel="Golf">
+    <title lang="id">Farmers Insurance Open 2021 - Day 2</title>
+  </programme>
+  <programme start="20210225060000 +0700" stop="20210225130000 +0700" channel="Golf">
+    <title lang="id">Abu Dhabi HSBC Golf Championship 2021 - Day 1</title>
+  </programme>
+  <programme start="20210225130000 +0700" stop="20210225170000 +0700" channel="Golf">
+    <title lang="id">The Genesis Invitational 2021 - Day 2</title>
+  </programme>
+  <programme start="20210225170000 +0700" stop="20210225190000 +0700" channel="Golf">
+    <title lang="id">Golf Today</title>
+  </programme>
+  <programme start="20210225190000 +0700" stop="20210225200000 +0700" channel="Golf">
+    <title lang="id">Golf Central</title>
+  </programme>
+  <programme start="20210225200000 +0700" stop="20210225203000 +0700" channel="Golf">
+    <title lang="id">School of Golf</title>
+  </programme>
+  <programme start="20210225203000 +0700" stop="20210225233000 +0700" channel="Golf">
+    <title lang="id">ATT Pebble Beach Pro-Am 2021 - Day 1</title>
+  </programme>
+  <programme start="20210225233000 +0700" stop="20210226023000 +0700" channel="Golf">
+    <title lang="id">ATT Pebble Beach Pro-Am 2021 - Day 2</title>
+  </programme>
+  <programme start="20210223000000 +0700" stop="20210223010000 +0700" channel="egg network">
+    <title lang="id">Blast Premier Spring Group 1 - Day 2</title>
+  </programme>
+  <programme start="20210223010000 +0700" stop="20210223020000 +0700" channel="egg network">
+    <title lang="id">Blast Premier Spring Group 1 - Day 2</title>
+  </programme>
+  <programme start="20210223020000 +0700" stop="20210223030000 +0700" channel="egg network">
+    <title lang="id">Blast Premier Spring Group 1 - Day 2</title>
+  </programme>
+  <programme start="20210223030000 +0700" stop="20210223040000 +0700" channel="egg network">
+    <title lang="id">Blast Premier Spring Group 1 - Day 2</title>
+  </programme>
+  <programme start="20210223040000 +0700" stop="20210223050000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 3 - Day 4</title>
+  </programme>
+  <programme start="20210223050000 +0700" stop="20210223060000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 3 - Day 4</title>
+  </programme>
+  <programme start="20210223060000 +0700" stop="20210223070000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 3 - Day 4</title>
+  </programme>
+  <programme start="20210223070000 +0700" stop="20210223080000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 3 - Day 4</title>
+  </programme>
+  <programme start="20210223080000 +0700" stop="20210223090000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 3 - Day 4</title>
+  </programme>
+  <programme start="20210223090000 +0700" stop="20210223100000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 5 Day 2</title>
+  </programme>
+  <programme start="20210223100000 +0700" stop="20210223110000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 5 Day 2</title>
+  </programme>
+  <programme start="20210223110000 +0700" stop="20210223120000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 5 Day 2</title>
+  </programme>
+  <programme start="20210223120000 +0700" stop="20210223130000 +0700" channel="egg network">
+    <title lang="id">Apex Legends Global Series : Winter Circuit - Online Tournament 2</title>
+  </programme>
+  <programme start="20210223130000 +0700" stop="20210223140000 +0700" channel="egg network">
+    <title lang="id">Apex Legends Global Series : Winter Circuit - Online Tournament 2</title>
+  </programme>
+  <programme start="20210223140000 +0700" stop="20210223150000 +0700" channel="egg network">
+    <title lang="id">Apex Legends Global Series : Winter Circuit - Online Tournament 2</title>
+  </programme>
+  <programme start="20210223150000 +0700" stop="20210223160000 +0700" channel="egg network">
+    <title lang="id">Apex Legends Global Series : Winter Circuit - Online Tournament 2</title>
+  </programme>
+  <programme start="20210223160000 +0700" stop="20210223170000 +0700" channel="egg network">
+    <title lang="id">PGI. S Show - Episode 2</title>
+  </programme>
+  <programme start="20210223170000 +0700" stop="20210223180000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 4 - Day 1</title>
+  </programme>
+  <programme start="20210223180000 +0700" stop="20210223190000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 4 - Day 1</title>
+  </programme>
+  <programme start="20210223190000 +0700" stop="20210223200000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 4 - Day 1</title>
+  </programme>
+  <programme start="20210223200000 +0700" stop="20210223210000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 4 - Day 1</title>
+  </programme>
+  <programme start="20210223210000 +0700" stop="20210223220000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 4 - Day 1</title>
+  </programme>
+  <programme start="20210223220000 +0700" stop="20210223230000 +0700" channel="egg network">
+    <title lang="id">PGI. S Show - Episode 2</title>
+  </programme>
+  <programme start="20210223230000 +0700" stop="20210224000000 +0700" channel="egg network">
+    <title lang="id">Blast Premier Spring Group 1 - Day 3</title>
+  </programme>
+  <programme start="20210223000000 +0700" stop="20210223020000 +0700" channel="NBA">
+    <title lang="id">NBA Regular Season Sacramento Kings Vs Milwaukee Bucks February 21St 2021 Taped</title>
+  </programme>
+  <programme start="20210223020000 +0700" stop="20210223040000 +0700" channel="NBA">
+    <title lang="id">Marquee Matchup Lakers Vs Sixers January 27 2021</title>
+  </programme>
+  <programme start="20210223040000 +0700" stop="20210223060000 +0700" channel="NBA">
+    <title lang="id">Gleague Regular Season Long Island Nets Vs G League Ignite Live</title>
+  </programme>
+  <programme start="20210223060000 +0700" stop="20210223063000 +0700" channel="NBA">
+    <title lang="id">Swac Pregame</title>
+  </programme>
+  <programme start="20210223063000 +0700" stop="20210223083000 +0700" channel="NBA">
+    <title lang="id">Swac Game Grambling State Vs Jackson State Live</title>
+  </programme>
+  <programme start="20210223083000 +0700" stop="20210223090000 +0700" channel="NBA">
+    <title lang="id">Swac Postgame</title>
+  </programme>
+  <programme start="20210223090000 +0700" stop="20210223100000 +0700" channel="NBA">
+    <title lang="id">NBA Special Allan Iverson - The Answer</title>
+  </programme>
+  <programme start="20210223100000 +0700" stop="20210223123000 +0700" channel="NBA">
+    <title lang="id">NBA Regular Season Portland Trail Blazers Vs Phoenix Suns Live</title>
+  </programme>
+  <programme start="20210223123000 +0700" stop="20210223143000 +0700" channel="NBA">
+    <title lang="id">Marquee Matchup Lakers Vs Sixers January 27 2021</title>
+  </programme>
+  <programme start="20210223143000 +0700" stop="20210223150000 +0700" channel="NBA">
+    <title lang="id">High Tops 3</title>
+  </programme>
+  <programme start="20210223150000 +0700" stop="20210223153000 +0700" channel="NBA">
+    <title lang="id">NBA Gametime</title>
+  </programme>
+  <programme start="20210223153000 +0700" stop="20210223160000 +0700" channel="NBA">
+    <title lang="id">NBA Gametime</title>
+  </programme>
+  <programme start="20210223160000 +0700" stop="20210223163000 +0700" channel="NBA">
+    <title lang="id">NBA Gametime</title>
+  </programme>
+  <programme start="20210223163000 +0700" stop="20210223170000 +0700" channel="NBA">
+    <title lang="id">NBA Gametime</title>
+  </programme>
+  <programme start="20210223170000 +0700" stop="20210223173000 +0700" channel="NBA">
+    <title lang="id">NBA Gametime</title>
+  </programme>
+  <programme start="20210223173000 +0700" stop="20210223180000 +0700" channel="NBA">
+    <title lang="id">NBA Gametime</title>
+  </programme>
+  <programme start="20210223180000 +0700" stop="20210223200000 +0700" channel="NBA">
+    <title lang="id">NBA Regular Season Portland Trail Blazers Vs Phoenix Suns February 22Nd 2021 Taped</title>
+  </programme>
+  <programme start="20210223200000 +0700" stop="20210223203000 +0700" channel="NBA">
+    <title lang="id">NBA Gametime</title>
+  </programme>
+  <programme start="20210223203000 +0700" stop="20210223210000 +0700" channel="NBA">
+    <title lang="id">NBA Gametime</title>
+  </programme>
+  <programme start="20210223210000 +0700" stop="20210223213000 +0700" channel="NBA">
+    <title lang="id">NBA Gametime</title>
+  </programme>
+  <programme start="20210223213000 +0700" stop="20210223220000 +0700" channel="NBA">
+    <title lang="id">NBA Gametime</title>
+  </programme>
+  <programme start="20210223220000 +0700" stop="20210224000000 +0700" channel="NBA">
+    <title lang="id">NBA Regular Season Portland Trail Blazers Vs Phoenix Suns February 22Nd 2021 Taped</title>
+  </programme>
+  <programme start="20210223161500 +0700" stop="20210223183000 +0700" channel="HBO">
+    <title lang="id">Jerry Maguire</title>
+  </programme>
+  <programme start="20210223183000 +0700" stop="20210223200000 +0700" channel="HBO">
+    <title lang="id">Getaway</title>
+  </programme>
+  <programme start="20210223200000 +0700" stop="20210223215000 +0700" channel="HBO">
+    <title lang="id">Men In Black: International</title>
+  </programme>
+  <programme start="20210223215000 +0700" stop="20210223235000 +0700" channel="HBO">
+    <title lang="id">Rocketman</title>
+  </programme>
+  <programme start="20210223235000 +0700" stop="20210224014000 +0700" channel="HBO">
+    <title lang="id">Terminator 3: Rise Of Machines</title>
+  </programme>
+  <programme start="20210224014000 +0700" stop="20210224033000 +0700" channel="HBO">
+    <title lang="id">Pitch Perfect</title>
+  </programme>
+  <programme start="20210224033000 +0700" stop="20210224051500 +0700" channel="HBO">
+    <title lang="id">The Time Traveler's Wife</title>
+  </programme>
+  <programme start="20210224051500 +0700" stop="20210224064000 +0700" channel="HBO">
+    <title lang="id">Western Stars</title>
+  </programme>
+  <programme start="20210224064000 +0700" stop="20210224081500 +0700" channel="HBO">
+    <title lang="id">The Guilt Trip</title>
+  </programme>
+  <programme start="20210224081500 +0700" stop="20210224103000 +0700" channel="HBO">
+    <title lang="id">Jerry Maguire</title>
+  </programme>
+  <programme start="20210224103000 +0700" stop="20210224125000 +0700" channel="HBO">
+    <title lang="id">Bad Boys 2</title>
+  </programme>
+  <programme start="20210224125000 +0700" stop="20210224143500 +0700" channel="HBO">
+    <title lang="id">State Of Mind</title>
+  </programme>
+  <programme start="20210224143500 +0700" stop="20210224162000 +0700" channel="HBO">
+    <title lang="id">The Time Traveler's Wife</title>
+  </programme>
+  <programme start="20210224162000 +0700" stop="20210224181500 +0700" channel="HBO">
+    <title lang="id">Men In Black: International</title>
+  </programme>
+  <programme start="20210224181500 +0700" stop="20210224200000 +0700" channel="HBO">
+    <title lang="id">Terminator 3: Rise Of Machines</title>
+  </programme>
+  <programme start="20210224200000 +0700" stop="20210224212000 +0700" channel="HBO">
+    <title lang="id">Like A Boss</title>
+  </programme>
+  <programme start="20210224212000 +0700" stop="20210224222000 +0700" channel="HBO">
+    <title lang="id">Allen V. Farrow</title>
+  </programme>
+  <programme start="20210224222000 +0700" stop="20210225003000 +0700" channel="HBO">
+    <title lang="id">The Bourne Legacy</title>
+  </programme>
+  <programme start="20210225003000 +0700" stop="20210225020000 +0700" channel="HBO">
+    <title lang="id">Gravity</title>
+  </programme>
+  <programme start="20210225020000 +0700" stop="20210225033500 +0700" channel="HBO">
+    <title lang="id">The Guilt Trip</title>
+  </programme>
+  <programme start="20210225033500 +0700" stop="20210225050500 +0700" channel="HBO">
+    <title lang="id">Anaconda</title>
+  </programme>
+  <programme start="20210225050500 +0700" stop="20210225064500 +0700" channel="HBO">
+    <title lang="id">Greta</title>
+  </programme>
+  <programme start="20210225064500 +0700" stop="20210225083000 +0700" channel="HBO">
+    <title lang="id">Imagine That</title>
+  </programme>
+  <programme start="20210225083000 +0700" stop="20210225100000 +0700" channel="HBO">
+    <title lang="id">Flipped</title>
+  </programme>
+  <programme start="20210225100000 +0700" stop="20210225121500 +0700" channel="HBO">
+    <title lang="id">The Bourne Legacy</title>
+  </programme>
+  <programme start="20210225121500 +0700" stop="20210225133500 +0700" channel="HBO">
+    <title lang="id">Like A Boss</title>
+  </programme>
+  <programme start="20210225133500 +0700" stop="20210225150500 +0700" channel="HBO">
+    <title lang="id">Gravity</title>
+  </programme>
+  <programme start="20210225150500 +0700" stop="20210225163500 +0700" channel="HBO">
+    <title lang="id">Anaconda</title>
+  </programme>
+  <programme start="20210225163500 +0700" stop="20210225182000 +0700" channel="HBO">
+    <title lang="id">Jumanji</title>
+  </programme>
+  <programme start="20210225182000 +0700" stop="20210225200000 +0700" channel="HBO">
+    <title lang="id">Dolittle</title>
+  </programme>
+  <programme start="20210225200000 +0700" stop="20210225221500 +0700" channel="HBO">
+    <title lang="id">Midway</title>
+  </programme>
+  <programme start="20210225221500 +0700" stop="20210226002500 +0700" channel="HBO">
+    <title lang="id">Flight</title>
+  </programme>
+  <programme start="20210226002500 +0700" stop="20210226020500 +0700" channel="HBO">
+    <title lang="id">Red Riding Hood</title>
+  </programme>
+  <programme start="20210226020500 +0700" stop="20210226035500 +0700" channel="HBO">
+    <title lang="id">Elysium</title>
+  </programme>
+  <programme start="20210226035500 +0700" stop="20210226052500 +0700" channel="HBO">
+    <title lang="id">Apollo 11</title>
+  </programme>
+  <programme start="20210226052500 +0700" stop="20210226071000 +0700" channel="HBO">
+    <title lang="id">Jumanji</title>
+  </programme>
+  <programme start="20210226071000 +0700" stop="20210226090500 +0700" channel="HBO">
+    <title lang="id">Hairspray</title>
+  </programme>
+  <programme start="20210226090500 +0700" stop="20210226110500 +0700" channel="HBO">
+    <title lang="id">Trial By Fire</title>
+  </programme>
+  <programme start="20210226110500 +0700" stop="20210226124500 +0700" channel="HBO">
+    <title lang="id">Dolittle</title>
+  </programme>
+  <programme start="20210226124500 +0700" stop="20210226150000 +0700" channel="HBO">
+    <title lang="id">Midway</title>
+  </programme>
+  <programme start="20210226150000 +0700" stop="20210226162500 +0700" channel="HBO">
+    <title lang="id">Space Jam</title>
+  </programme>
+  <programme start="20210226162500 +0700" stop="20210226182500 +0700" channel="HBO">
+    <title lang="id">Around The World In 80 Days</title>
+  </programme>
+  <programme start="20210226182500 +0700" stop="20210226200000 +0700" channel="HBO">
+    <title lang="id">Faster</title>
+  </programme>
+  <programme start="20210226200000 +0700" stop="20210226214500 +0700" channel="HBO">
+    <title lang="id">Birds Of Prey &amp; Fantabulous...</title>
+  </programme>
+  <programme start="20210226214500 +0700" stop="20210226235500 +0700" channel="HBO">
+    <title lang="id">Battleship</title>
+  </programme>
+  <programme start="20210226235500 +0700" stop="20210227020500 +0700" channel="HBO">
+    <title lang="id">The Conjuring 2</title>
+  </programme>
+  <programme start="20210227020500 +0700" stop="20210227034500 +0700" channel="HBO">
+    <title lang="id">The Dead Don't Die</title>
+  </programme>
+  <programme start="20210227034500 +0700" stop="20210227052000 +0700" channel="HBO">
+    <title lang="id">The Courier</title>
+  </programme>
+  <programme start="20210227052000 +0700" stop="20210227070000 +0700" channel="HBO">
+    <title lang="id">Mighty Oak</title>
+  </programme>
+  <programme start="20210227070000 +0700" stop="20210227072500 +0700" channel="HBO">
+    <title lang="id">Hollywood On Set</title>
+  </programme>
+  <programme start="20210227072500 +0700" stop="20210227092000 +0700" channel="HBO">
+    <title lang="id">Around The World In 80 Days</title>
+  </programme>
+  <programme start="20210227092000 +0700" stop="20210227105500 +0700" channel="HBO">
+    <title lang="id">Aeon Flux</title>
+  </programme>
+  <programme start="20210227105500 +0700" stop="20210227124500 +0700" channel="HBO">
+    <title lang="id">The Good Liar</title>
+  </programme>
+  <programme start="20210227124500 +0700" stop="20210227142000 +0700" channel="HBO">
+    <title lang="id">Faster</title>
+  </programme>
+  <programme start="20210227142000 +0700" stop="20210227161000 +0700" channel="HBO">
+    <title lang="id">Birds Of Prey &amp; Fantabulous...</title>
+  </programme>
+  <programme start="20210227161000 +0700" stop="20210227175000 +0700" channel="HBO">
+    <title lang="id">Dora And The Lost City Of Gold</title>
+  </programme>
+  <programme start="20210227175000 +0700" stop="20210227200000 +0700" channel="HBO">
+    <title lang="id">Battleship</title>
+  </programme>
+  <programme start="20210227200000 +0700" stop="20210227220000 +0700" channel="HBO">
+    <title lang="id">The Invisible Man</title>
+  </programme>
+  <programme start="20210227220000 +0700" stop="20210228001000 +0700" channel="HBO">
+    <title lang="id">Shazam!</title>
+  </programme>
+  <programme start="20210228001000 +0700" stop="20210228022000 +0700" channel="HBO">
+    <title lang="id">John Wick Chapter 3: Parabellum</title>
+  </programme>
+  <programme start="20210228022000 +0700" stop="20210228035000 +0700" channel="HBO">
+    <title lang="id">Aeon Flux</title>
+  </programme>
+  <programme start="20210228035000 +0700" stop="20210228061000 +0700" channel="HBO">
+    <title lang="id">Bad Boys 2</title>
+  </programme>
+  <programme start="20210228061000 +0700" stop="20210228080000 +0700" channel="HBO">
+    <title lang="id">Beowulf</title>
+  </programme>
+  <programme start="20210228080000 +0700" stop="20210228094000 +0700" channel="HBO">
+    <title lang="id">Dora And The Lost City Of Gold</title>
+  </programme>
+  <programme start="20210228094000 +0700" stop="20210228113500 +0700" channel="HBO">
+    <title lang="id">Meet The Fockers</title>
+  </programme>
+  <programme start="20210228113500 +0700" stop="20210228133000 +0700" channel="HBO">
+    <title lang="id">Total Recall</title>
+  </programme>
+  <programme start="20210228133000 +0700" stop="20210228153500 +0700" channel="HBO">
+    <title lang="id">The Invisible Man</title>
+  </programme>
+  <programme start="20210228153500 +0700" stop="20210228171500 +0700" channel="HBO">
+    <title lang="id">The Last Airbender</title>
+  </programme>
+  <programme start="20210228171500 +0700" stop="20210228185000 +0700" channel="HBO">
+    <title lang="id">Despicable Me 2</title>
+  </programme>
+  <programme start="20210228185000 +0700" stop="20210228210000 +0700" channel="HBO">
+    <title lang="id">Shazam!</title>
+  </programme>
+  <programme start="20210228210000 +0700" stop="20210228230500 +0700" channel="HBO">
+    <title lang="id">John Wick Chapter 3: Parabellum</title>
+  </programme>
+  <programme start="20210228230500 +0700" stop="20210301003500 +0700" channel="HBO">
+    <title lang="id">12 Rounds 3: Lockdown</title>
+  </programme>
+  <programme start="20210301003500 +0700" stop="20210301020500 +0700" channel="HBO">
+    <title lang="id">Anaconda</title>
+  </programme>
+  <programme start="20210301020500 +0700" stop="20210301032500 +0700" channel="HBO">
+    <title lang="id">The Final Destination</title>
+  </programme>
+  <programme start="20210301032500 +0700" stop="20210301050000 +0700" channel="HBO">
+    <title lang="id">The Mustang</title>
+  </programme>
+  <programme start="20210301050000 +0700" stop="20210301064000 +0700" channel="HBO">
+    <title lang="id">Nancy Drew</title>
+  </programme>
+  <programme start="20210301064000 +0700" stop="20210301080000 +0700" channel="HBO">
+    <title lang="id">LEGO DC Batman: Family Matters</title>
+  </programme>
+  <programme start="20210301080000 +0700" stop="20210301091500 +0700" channel="HBO">
+    <title lang="id">Open Water</title>
+  </programme>
+  <programme start="20210301091500 +0700" stop="20210301105000 +0700" channel="HBO">
+    <title lang="id">The Eye</title>
+  </programme>
+  <programme start="20210301105000 +0700" stop="20210301122000 +0700" channel="HBO">
+    <title lang="id">12 Rounds 3: Lockdown</title>
+  </programme>
+  <programme start="20210301122000 +0700" stop="20210301135500 +0700" channel="HBO">
+    <title lang="id">Despicable Me 2</title>
+  </programme>
+  <programme start="20210301135500 +0700" stop="20210301161000 +0700" channel="HBO">
+    <title lang="id">Harry Potter &amp; Order Of...</title>
+  </programme>
+  <programme start="20210301161000 +0700" stop="20210301174000 +0700" channel="HBO">
+    <title lang="id">Madagascar 3: Most Wanted</title>
+  </programme>
+  <programme start="20210301174000 +0700" stop="20210301192500 +0700" channel="HBO">
+    <title lang="id">Pokemon Detective Pikachu</title>
+  </programme>
+  <programme start="20210301192500 +0700" stop="20210301210000 +0700" channel="HBO">
+    <title lang="id">21 Bridges</title>
+  </programme>
+  <programme start="20210301210000 +0700" stop="20210301220000 +0700" channel="HBO">
+    <title lang="id">Allen V. Farrow</title>
+  </programme>
+  <programme start="20210301220000 +0700" stop="20210301235500 +0700" channel="HBO">
+    <title lang="id">Us</title>
+  </programme>
+  <programme start="20210301235500 +0700" stop="20210302012500 +0700" channel="HBO">
+    <title lang="id">A History Of Violence</title>
+  </programme>
+  <programme start="20210223163000 +0700" stop="20210223170000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210223170000 +0700" stop="20210223173000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210223173000 +0700" stop="20210223180000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210223180000 +0700" stop="20210223192500 +0700" channel="HBO Family">
+    <title lang="id">Scooby-Doo! &amp; The 13th Ghost</title>
+  </programme>
+  <programme start="20210223192500 +0700" stop="20210223204500 +0700" channel="HBO Family">
+    <title lang="id">Scooby-Doo!: Zombie Island</title>
+  </programme>
+  <programme start="20210223204500 +0700" stop="20210223221500 +0700" channel="HBO Family">
+    <title lang="id">Reign Of The Supermen</title>
+  </programme>
+  <programme start="20210223221500 +0700" stop="20210223224000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210223224000 +0700" stop="20210223231000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210223231000 +0700" stop="20210224011500 +0700" channel="HBO Family">
+    <title lang="id">Captain America: First Avenger</title>
+  </programme>
+  <programme start="20210224011500 +0700" stop="20210224031500 +0700" channel="HBO Family">
+    <title lang="id">You've Got Mail</title>
+  </programme>
+  <programme start="20210224031500 +0700" stop="20210224053000 +0700" channel="HBO Family">
+    <title lang="id">The Mask Of Zorro</title>
+  </programme>
+  <programme start="20210224053000 +0700" stop="20210224060000 +0700" channel="HBO Family">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20210224060000 +0700" stop="20210224062500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210224062500 +0700" stop="20210224065500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210224065500 +0700" stop="20210224072300 +0700" channel="HBO Family">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20210224072300 +0700" stop="20210224075500 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210224075500 +0700" stop="20210224091500 +0700" channel="HBO Family">
+    <title lang="id">Scooby-Doo! &amp; The 13th Ghost</title>
+  </programme>
+  <programme start="20210224091500 +0700" stop="20210224103500 +0700" channel="HBO Family">
+    <title lang="id">Scooby-Doo!: Zombie Island</title>
+  </programme>
+  <programme start="20210224103500 +0700" stop="20210224110300 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210224110300 +0700" stop="20210224113500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210224113500 +0700" stop="20210224133500 +0700" channel="HBO Family">
+    <title lang="id">Captain America: First Avenger</title>
+  </programme>
+  <programme start="20210224133500 +0700" stop="20210224143500 +0700" channel="HBO Family">
+    <title lang="id">Saving My Tomorrow, Pt 1 &amp; 2</title>
+  </programme>
+  <programme start="20210224143500 +0700" stop="20210224160500 +0700" channel="HBO Family">
+    <title lang="id">Shark Tale</title>
+  </programme>
+  <programme start="20210224160500 +0700" stop="20210224163000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210224163000 +0700" stop="20210224170000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210224170000 +0700" stop="20210224173000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210224173000 +0700" stop="20210224180000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210224180000 +0700" stop="20210224192500 +0700" channel="HBO Family">
+    <title lang="id">Anastasia: Once Upon A Time</title>
+  </programme>
+  <programme start="20210224192500 +0700" stop="20210224214000 +0700" channel="HBO Family">
+    <title lang="id">The Mask Of Zorro</title>
+  </programme>
+  <programme start="20210224214000 +0700" stop="20210224234000 +0700" channel="HBO Family">
+    <title lang="id">You've Got Mail</title>
+  </programme>
+  <programme start="20210224234000 +0700" stop="20210225000500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210225000500 +0700" stop="20210225003500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210225003500 +0700" stop="20210225021000 +0700" channel="HBO Family">
+    <title lang="id">Clueless</title>
+  </programme>
+  <programme start="20210225021000 +0700" stop="20210225040000 +0700" channel="HBO Family">
+    <title lang="id">You, Me And Dupree</title>
+  </programme>
+  <programme start="20210225040000 +0700" stop="20210225060000 +0700" channel="HBO Family">
+    <title lang="id">The Twilight Saga: Eclipse</title>
+  </programme>
+  <programme start="20210225060000 +0700" stop="20210225062500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210225062500 +0700" stop="20210225065500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210225065500 +0700" stop="20210225072000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210225072000 +0700" stop="20210225075000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210225075000 +0700" stop="20210225092000 +0700" channel="HBO Family">
+    <title lang="id">Shark Tale</title>
+  </programme>
+  <programme start="20210225092000 +0700" stop="20210225110000 +0700" channel="HBO Family">
+    <title lang="id">Clueless</title>
+  </programme>
+  <programme start="20210225110000 +0700" stop="20210225113000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210225113000 +0700" stop="20210225120500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210225120500 +0700" stop="20210225133500 +0700" channel="HBO Family">
+    <title lang="id">Anastasia: Once Upon A Time</title>
+  </programme>
+  <programme start="20210225133500 +0700" stop="20210225140500 +0700" channel="HBO Family">
+    <title lang="id">Saving My Tomorrow, Pt 3</title>
+  </programme>
+  <programme start="20210225140500 +0700" stop="20210225144000 +0700" channel="HBO Family">
+    <title lang="id">Saving My Tomorrow, Pt 4</title>
+  </programme>
+  <programme start="20210225144000 +0700" stop="20210225160000 +0700" channel="HBO Family">
+    <title lang="id">Lego DC Shazam: Magic &amp;...</title>
+  </programme>
+  <programme start="20210225160000 +0700" stop="20210225163000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210225163000 +0700" stop="20210225170000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210225170000 +0700" stop="20210225173000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210225173000 +0700" stop="20210225180000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210225180000 +0700" stop="20210225203500 +0700" channel="HBO Family">
+    <title lang="id">Harry Potter &amp; Half-Blood...</title>
+  </programme>
+  <programme start="20210225203500 +0700" stop="20210225222500 +0700" channel="HBO Family">
+    <title lang="id">You, Me And Dupree</title>
+  </programme>
+  <programme start="20210225222500 +0700" stop="20210225225000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210225225000 +0700" stop="20210225232000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210225232000 +0700" stop="20210226005500 +0700" channel="HBO Family">
+    <title lang="id">Rush Hour 2</title>
+  </programme>
+  <programme start="20210226005500 +0700" stop="20210226013000 +0700" channel="HBO Family">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20210226013000 +0700" stop="20210226015500 +0700" channel="HBO Family">
+    <title lang="id">Hollywood On Set</title>
+  </programme>
+  <programme start="20210226015500 +0700" stop="20210226040000 +0700" channel="HBO Family">
+    <title lang="id">The Twilight Saga: Eclipse</title>
+  </programme>
+  <programme start="20210226040000 +0700" stop="20210226060000 +0700" channel="HBO Family">
+    <title lang="id">Twilight: Breaking Dawn, Pt 1</title>
+  </programme>
+  <programme start="20210226060000 +0700" stop="20210226062500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210226062500 +0700" stop="20210226065500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210226065500 +0700" stop="20210226072000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210226072000 +0700" stop="20210226075000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210226075000 +0700" stop="20210226092000 +0700" channel="HBO Family">
+    <title lang="id">Rush Hour 2</title>
+  </programme>
+  <programme start="20210226092000 +0700" stop="20210226095000 +0700" channel="HBO Family">
+    <title lang="id">Happily Ever After</title>
+  </programme>
+  <programme start="20210226095000 +0700" stop="20210226122500 +0700" channel="HBO Family">
+    <title lang="id">Harry Potter &amp; Half-Blood...</title>
+  </programme>
+  <programme start="20210226122500 +0700" stop="20210226130000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210226130000 +0700" stop="20210226133500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210226133500 +0700" stop="20210226145000 +0700" channel="HBO Family">
+    <title lang="id">Lego DC Shazam: Magic &amp;...</title>
+  </programme>
+  <programme start="20210226145000 +0700" stop="20210226152500 +0700" channel="HBO Family">
+    <title lang="id">Saving My Tomorrow, Pt 5</title>
+  </programme>
+  <programme start="20210226152500 +0700" stop="20210226160000 +0700" channel="HBO Family">
+    <title lang="id">Saving My Tomorrow: The Earth</title>
+  </programme>
+  <programme start="20210226160000 +0700" stop="20210226163000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210226163000 +0700" stop="20210226170000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210226170000 +0700" stop="20210226173000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210226173000 +0700" stop="20210226180000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210226180000 +0700" stop="20210226202500 +0700" channel="HBO Family">
+    <title lang="id">Harry Potter &amp; Deathly..., Pt 1</title>
+  </programme>
+  <programme start="20210226202500 +0700" stop="20210226223500 +0700" channel="HBO Family">
+    <title lang="id">Harry Potter &amp; Deathly..., Pt 2</title>
+  </programme>
+  <programme start="20210226223500 +0700" stop="20210226230000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210226230000 +0700" stop="20210226233000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210226233000 +0700" stop="20210227013000 +0700" channel="HBO Family">
+    <title lang="id">You've Got Mail</title>
+  </programme>
+  <programme start="20210227013000 +0700" stop="20210227033000 +0700" channel="HBO Family">
+    <title lang="id">Twilight: Breaking Dawn, Pt 1</title>
+  </programme>
+  <programme start="20210227033000 +0700" stop="20210227052500 +0700" channel="HBO Family">
+    <title lang="id">Twilight: Breaking Dawn, Pt 2</title>
+  </programme>
+  <programme start="20210227052500 +0700" stop="20210227060000 +0700" channel="HBO Family">
+    <title lang="id">Hollywood On Set</title>
+  </programme>
+  <programme start="20210227060000 +0700" stop="20210227062800 +0700" channel="HBO Family">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20210227062800 +0700" stop="20210227065600 +0700" channel="HBO Family">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20210227065600 +0700" stop="20210227072400 +0700" channel="HBO Family">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20210227072400 +0700" stop="20210227075300 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210227075300 +0700" stop="20210227082200 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210227082200 +0700" stop="20210227085100 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210227085100 +0700" stop="20210227091900 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210227091900 +0700" stop="20210227094800 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210227094800 +0700" stop="20210227103000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210227103000 +0700" stop="20210227125000 +0700" channel="HBO Family">
+    <title lang="id">Harry Potter &amp; Deathly..., Pt 1</title>
+  </programme>
+  <programme start="20210227125000 +0700" stop="20210227150000 +0700" channel="HBO Family">
+    <title lang="id">Harry Potter &amp; Deathly..., Pt 2</title>
+  </programme>
+  <programme start="20210227150000 +0700" stop="20210227153000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210227153000 +0700" stop="20210227160000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20210227160000 +0700" stop="20210227180000 +0700" channel="HBO Family">
+    <title lang="id">You've Got Mail</title>
+  </programme>
+  <programme start="20210227180000 +0700" stop="20210227193000 +0700" channel="HBO Family">
+    <title lang="id">The Emoji Movie</title>
+  </programme>
+  <programme start="20210227193000 +0700" stop="20210227212500 +0700" channel="HBO Family">
+    <title lang="id">Twilight: Breaking Dawn, Pt 2</title>
+  </programme>
+  <programme start="20210227212500 +0700" stop="20210227233000 +0700" channel="HBO Family">
+    <title lang="id">Captain America: First Avenger</title>
+  </programme>
+  <programme start="20210227233000 +0700" stop="20210227235500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210227235500 +0700" stop="20210228002000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228002000 +0700" stop="20210228004500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228004500 +0700" stop="20210228011000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228011000 +0700" stop="20210228013500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228013500 +0700" stop="20210228020000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228020000 +0700" stop="20210228022500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228022500 +0700" stop="20210228025000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228025000 +0700" stop="20210228033000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228033000 +0700" stop="20210228060000 +0700" channel="HBO Family">
+    <title lang="id">Harry Potter &amp; Sorcerer's Stone</title>
+  </programme>
+  <programme start="20210228060000 +0700" stop="20210228062500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228062500 +0700" stop="20210228065000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228065000 +0700" stop="20210228071500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228071500 +0700" stop="20210228074000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228074000 +0700" stop="20210228080500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228080500 +0700" stop="20210228083000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228083000 +0700" stop="20210228085500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228085500 +0700" stop="20210228092000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228092000 +0700" stop="20210228094500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228094500 +0700" stop="20210228102500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228102500 +0700" stop="20210228114000 +0700" channel="HBO Family">
+    <title lang="id">Teen Titans Go! Vs Teen Titans</title>
+  </programme>
+  <programme start="20210228114000 +0700" stop="20210228121000 +0700" channel="HBO Family">
+    <title lang="id">Happily Ever After</title>
+  </programme>
+  <programme start="20210228121000 +0700" stop="20210228141000 +0700" channel="HBO Family">
+    <title lang="id">Captain America: First Avenger</title>
+  </programme>
+  <programme start="20210228141000 +0700" stop="20210228153500 +0700" channel="HBO Family">
+    <title lang="id">The Emoji Movie</title>
+  </programme>
+  <programme start="20210228153500 +0700" stop="20210228160000 +0700" channel="HBO Family">
+    <title lang="id">Happily Ever After</title>
+  </programme>
+  <programme start="20210228160000 +0700" stop="20210228163000 +0700" channel="HBO Family">
+    <title lang="id">Happily Ever After</title>
+  </programme>
+  <programme start="20210228163000 +0700" stop="20210228180000 +0700" channel="HBO Family">
+    <title lang="id">Anastasia: Once Upon A Time</title>
+  </programme>
+  <programme start="20210228180000 +0700" stop="20210228193000 +0700" channel="HBO Family">
+    <title lang="id">Shark Tale</title>
+  </programme>
+  <programme start="20210228193000 +0700" stop="20210228220000 +0700" channel="HBO Family">
+    <title lang="id">Harry Potter &amp; Sorcerer's Stone</title>
+  </programme>
+  <programme start="20210228220000 +0700" stop="20210228222800 +0700" channel="HBO Family">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20210228222800 +0700" stop="20210228225600 +0700" channel="HBO Family">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20210228225600 +0700" stop="20210228232400 +0700" channel="HBO Family">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20210228232400 +0700" stop="20210228235300 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210228235300 +0700" stop="20210301002200 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210223161000 +0700" stop="20210223180000 +0700" channel="HBO Hits">
+    <title lang="id">Revolutionary Road</title>
+  </programme>
+  <programme start="20210223180000 +0700" stop="20210223195500 +0700" channel="HBO Hits">
+    <title lang="id">47 Ronin</title>
+  </programme>
+  <programme start="20210223195500 +0700" stop="20210223220000 +0700" channel="HBO Hits">
+    <title lang="id">Snow White And The Huntsman</title>
+  </programme>
+  <programme start="20210223220000 +0700" stop="20210223235000 +0700" channel="HBO Hits">
+    <title lang="id">Charlie's Angels: Full Throttle</title>
+  </programme>
+  <programme start="20210223235000 +0700" stop="20210224015000 +0700" channel="HBO Hits">
+    <title lang="id">Mr. &amp; Mrs. Smith</title>
+  </programme>
+  <programme start="20210224015000 +0700" stop="20210224033500 +0700" channel="HBO Hits">
+    <title lang="id">Bombshell</title>
+  </programme>
+  <programme start="20210224033500 +0700" stop="20210224053000 +0700" channel="HBO Hits">
+    <title lang="id">Us</title>
+  </programme>
+  <programme start="20210224053000 +0700" stop="20210224075500 +0700" channel="HBO Hits">
+    <title lang="id">The Da Vinci Code</title>
+  </programme>
+  <programme start="20210224075500 +0700" stop="20210224100000 +0700" channel="HBO Hits">
+    <title lang="id">Snow White And The Huntsman</title>
+  </programme>
+  <programme start="20210224100000 +0700" stop="20210224113000 +0700" channel="HBO Hits">
+    <title lang="id">Goosebumps 2: Halloween</title>
+  </programme>
+  <programme start="20210224113000 +0700" stop="20210224125500 +0700" channel="HBO Hits">
+    <title lang="id">Good Boys</title>
+  </programme>
+  <programme start="20210224125500 +0700" stop="20210224142000 +0700" channel="HBO Hits">
+    <title lang="id">Alvin &amp; Chipmunks: Chipwrecked</title>
+  </programme>
+  <programme start="20210224142000 +0700" stop="20210224161500 +0700" channel="HBO Hits">
+    <title lang="id">Revolutionary Road</title>
+  </programme>
+  <programme start="20210224161500 +0700" stop="20210224180500 +0700" channel="HBO Hits">
+    <title lang="id">Charlie's Angels: Full Throttle</title>
+  </programme>
+  <programme start="20210224180500 +0700" stop="20210224200000 +0700" channel="HBO Hits">
+    <title lang="id">Us</title>
+  </programme>
+  <programme start="20210224200000 +0700" stop="20210224220000 +0700" channel="HBO Hits">
+    <title lang="id">Mr. &amp; Mrs. Smith</title>
+  </programme>
+  <programme start="20210224220000 +0700" stop="20210225003000 +0700" channel="HBO Hits">
+    <title lang="id">The Da Vinci Code</title>
+  </programme>
+  <programme start="20210225003000 +0700" stop="20210225023000 +0700" channel="HBO Hits">
+    <title lang="id">47 Ronin</title>
+  </programme>
+  <programme start="20210225023000 +0700" stop="20210225040000 +0700" channel="HBO Hits">
+    <title lang="id">Good Boys</title>
+  </programme>
+  <programme start="20210225040000 +0700" stop="20210225053000 +0700" channel="HBO Hits">
+    <title lang="id">Goosebumps 2: Halloween</title>
+  </programme>
+  <programme start="20210225053000 +0700" stop="20210225072500 +0700" channel="HBO Hits">
+    <title lang="id">Us</title>
+  </programme>
+  <programme start="20210225072500 +0700" stop="20210225092500 +0700" channel="HBO Hits">
+    <title lang="id">Bridesmaids</title>
+  </programme>
+  <programme start="20210225092500 +0700" stop="20210225110500 +0700" channel="HBO Hits">
+    <title lang="id">A Score To Settle</title>
+  </programme>
+  <programme start="20210225110500 +0700" stop="20210225131500 +0700" channel="HBO Hits">
+    <title lang="id">Queen &amp; Slim</title>
+  </programme>
+  <programme start="20210225131500 +0700" stop="20210225144500 +0700" channel="HBO Hits">
+    <title lang="id">Hancock</title>
+  </programme>
+  <programme start="20210225144500 +0700" stop="20210225163000 +0700" channel="HBO Hits">
+    <title lang="id">17 Again</title>
+  </programme>
+  <programme start="20210225163000 +0700" stop="20210225181000 +0700" channel="HBO Hits">
+    <title lang="id">Alvin &amp; Chipmunks: Road Chip</title>
+  </programme>
+  <programme start="20210225181000 +0700" stop="20210225202500 +0700" channel="HBO Hits">
+    <title lang="id">Queen &amp; Slim</title>
+  </programme>
+  <programme start="20210225202500 +0700" stop="20210225220000 +0700" channel="HBO Hits">
+    <title lang="id">An American Pickle</title>
+  </programme>
+  <programme start="20210225220000 +0700" stop="20210225233500 +0700" channel="HBO Hits">
+    <title lang="id">Hancock</title>
+  </programme>
+  <programme start="20210225233500 +0700" stop="20210226013500 +0700" channel="HBO Hits">
+    <title lang="id">Bridesmaids</title>
+  </programme>
+  <programme start="20210226013500 +0700" stop="20210226033000 +0700" channel="HBO Hits">
+    <title lang="id">Baby Driver</title>
+  </programme>
+  <programme start="20210226033000 +0700" stop="20210226051500 +0700" channel="HBO Hits">
+    <title lang="id">17 Again</title>
+  </programme>
+  <programme start="20210226051500 +0700" stop="20210226070000 +0700" channel="HBO Hits">
+    <title lang="id">A Score To Settle</title>
+  </programme>
+  <programme start="20210226070000 +0700" stop="20210226092500 +0700" channel="HBO Hits">
+    <title lang="id">Memoirs Of A Geisha</title>
+  </programme>
+  <programme start="20210226092500 +0700" stop="20210226113500 +0700" channel="HBO Hits">
+    <title lang="id">Spider-Man: Far From Home</title>
+  </programme>
+  <programme start="20210226113500 +0700" stop="20210226131000 +0700" channel="HBO Hits">
+    <title lang="id">Hancock</title>
+  </programme>
+  <programme start="20210226131000 +0700" stop="20210226144500 +0700" channel="HBO Hits">
+    <title lang="id">An American Pickle</title>
+  </programme>
+  <programme start="20210226144500 +0700" stop="20210226162000 +0700" channel="HBO Hits">
+    <title lang="id">Alvin &amp; Chipmunks: Road Chip</title>
+  </programme>
+  <programme start="20210226162000 +0700" stop="20210226183000 +0700" channel="HBO Hits">
+    <title lang="id">Spider-Man: Far From Home</title>
+  </programme>
+  <programme start="20210226183000 +0700" stop="20210226201000 +0700" channel="HBO Hits">
+    <title lang="id">A Score To Settle</title>
+  </programme>
+  <programme start="20210226201000 +0700" stop="20210226220000 +0700" channel="HBO Hits">
+    <title lang="id">Baby Driver</title>
+  </programme>
+  <programme start="20210226220000 +0700" stop="20210227001000 +0700" channel="HBO Hits">
+    <title lang="id">Queen &amp; Slim</title>
+  </programme>
+  <programme start="20210227001000 +0700" stop="20210227023500 +0700" channel="HBO Hits">
+    <title lang="id">Memoirs Of A Geisha</title>
+  </programme>
+  <programme start="20210227023500 +0700" stop="20210227041000 +0700" channel="HBO Hits">
+    <title lang="id">Hancock</title>
+  </programme>
+  <programme start="20210227041000 +0700" stop="20210227063500 +0700" channel="HBO Hits">
+    <title lang="id">Man On Fire</title>
+  </programme>
+  <programme start="20210227063500 +0700" stop="20210227081000 +0700" channel="HBO Hits">
+    <title lang="id">An American Pickle</title>
+  </programme>
+  <programme start="20210227081000 +0700" stop="20210227102000 +0700" channel="HBO Hits">
+    <title lang="id">Queen &amp; Slim</title>
+  </programme>
+  <programme start="20210227102000 +0700" stop="20210227122500 +0700" channel="HBO Hits">
+    <title lang="id">Bridesmaids</title>
+  </programme>
+  <programme start="20210227122500 +0700" stop="20210227140500 +0700" channel="HBO Hits">
+    <title lang="id">A Score To Settle</title>
+  </programme>
+  <programme start="20210227140500 +0700" stop="20210227162000 +0700" channel="HBO Hits">
+    <title lang="id">Spider-Man: Far From Home</title>
+  </programme>
+  <programme start="20210227162000 +0700" stop="20210227180000 +0700" channel="HBO Hits">
+    <title lang="id">17 Again</title>
+  </programme>
+  <programme start="20210227180000 +0700" stop="20210227202500 +0700" channel="HBO Hits">
+    <title lang="id">Man On Fire</title>
+  </programme>
+  <programme start="20210227202500 +0700" stop="20210227220000 +0700" channel="HBO Hits">
+    <title lang="id">Hancock</title>
+  </programme>
+  <programme start="20210227220000 +0700" stop="20210228001000 +0700" channel="HBO Hits">
+    <title lang="id">Spider-Man: Far From Home</title>
+  </programme>
+  <programme start="20210228001000 +0700" stop="20210228021000 +0700" channel="HBO Hits">
+    <title lang="id">Hellboy</title>
+  </programme>
+  <programme start="20210228021000 +0700" stop="20210228035500 +0700" channel="HBO Hits">
+    <title lang="id">A Score To Settle</title>
+  </programme>
+  <programme start="20210228035500 +0700" stop="20210228062000 +0700" channel="HBO Hits">
+    <title lang="id">Memoirs Of A Geisha</title>
+  </programme>
+  <programme start="20210228062000 +0700" stop="20210228081500 +0700" channel="HBO Hits">
+    <title lang="id">Labor Day</title>
+  </programme>
+  <programme start="20210228081500 +0700" stop="20210228095000 +0700" channel="HBO Hits">
+    <title lang="id">Hancock</title>
+  </programme>
+  <programme start="20210228095000 +0700" stop="20210228121500 +0700" channel="HBO Hits">
+    <title lang="id">Man On Fire</title>
+  </programme>
+  <programme start="20210228121500 +0700" stop="20210228144000 +0700" channel="HBO Hits">
+    <title lang="id">Memoirs Of A Geisha</title>
+  </programme>
+  <programme start="20210228144000 +0700" stop="20210228162500 +0700" channel="HBO Hits">
+    <title lang="id">17 Again</title>
+  </programme>
+  <programme start="20210228162500 +0700" stop="20210228180000 +0700" channel="HBO Hits">
+    <title lang="id">Alvin &amp; Chipmunks: Road Chip</title>
+  </programme>
+  <programme start="20210228180000 +0700" stop="20210228195000 +0700" channel="HBO Hits">
+    <title lang="id">Labor Day</title>
+  </programme>
+  <programme start="20210228195000 +0700" stop="20210228220000 +0700" channel="HBO Hits">
+    <title lang="id">Spider-Man: Far From Home</title>
+  </programme>
+  <programme start="20210228220000 +0700" stop="20210228233500 +0700" channel="HBO Hits">
+    <title lang="id">An American Pickle</title>
+  </programme>
+  <programme start="20210228233500 +0700" stop="20210301020500 +0700" channel="HBO Hits">
+    <title lang="id">Man On Fire</title>
+  </programme>
+  <programme start="20210301020500 +0700" stop="20210301042000 +0700" channel="HBO Hits">
+    <title lang="id">Queen &amp; Slim</title>
+  </programme>
+  <programme start="20210301042000 +0700" stop="20210301063000 +0700" channel="HBO Hits">
+    <title lang="id">Bridesmaids</title>
+  </programme>
+  <programme start="20210301063000 +0700" stop="20210301081500 +0700" channel="HBO Hits">
+    <title lang="id">17 Again</title>
+  </programme>
+  <programme start="20210301081500 +0700" stop="20210301095000 +0700" channel="HBO Hits">
+    <title lang="id">An American Pickle</title>
+  </programme>
+  <programme start="20210301095000 +0700" stop="20210301121500 +0700" channel="HBO Hits">
+    <title lang="id">Memoirs Of A Geisha</title>
+  </programme>
+  <programme start="20210301121500 +0700" stop="20210301143000 +0700" channel="HBO Hits">
+    <title lang="id">Queen &amp; Slim</title>
+  </programme>
+  <programme start="20210301143000 +0700" stop="20210301160500 +0700" channel="HBO Hits">
+    <title lang="id">Alvin &amp; Chipmunks: Road Chip</title>
+  </programme>
+  <programme start="20210301160500 +0700" stop="20210301181000 +0700" channel="HBO Hits">
+    <title lang="id">Spider-Man: Far From Home</title>
+  </programme>
+  <programme start="20210301181000 +0700" stop="20210301194000 +0700" channel="HBO Hits">
+    <title lang="id">An American Pickle</title>
+  </programme>
+  <programme start="20210301194000 +0700" stop="20210301220000 +0700" channel="HBO Hits">
+    <title lang="id">Memoirs Of A Geisha</title>
+  </programme>
+  <programme start="20210301220000 +0700" stop="20210301234500 +0700" channel="HBO Hits">
+    <title lang="id">A Score To Settle</title>
+  </programme>
+  <programme start="20210301234500 +0700" stop="20210302013000 +0700" channel="HBO Hits">
+    <title lang="id">17 Again</title>
+  </programme>
+  <programme start="20210223155000 +0700" stop="20210223173000 +0700" channel="HBO Signature">
+    <title lang="id">Last Christmas</title>
+  </programme>
+  <programme start="20210223173000 +0700" stop="20210223190500 +0700" channel="HBO Signature">
+    <title lang="id">The Gathering Storm</title>
+  </programme>
+  <programme start="20210223190500 +0700" stop="20210223210000 +0700" channel="HBO Signature">
+    <title lang="id">The Social Network</title>
+  </programme>
+  <programme start="20210223210000 +0700" stop="20210223220000 +0700" channel="HBO Signature">
+    <title lang="id">Allen V. Farrow</title>
+  </programme>
+  <programme start="20210223220000 +0700" stop="20210224002500 +0700" channel="HBO Signature">
+    <title lang="id">Babel</title>
+  </programme>
+  <programme start="20210224002500 +0700" stop="20210224024000 +0700" channel="HBO Signature">
+    <title lang="id">Green Book</title>
+  </programme>
+  <programme start="20210224024000 +0700" stop="20210224031000 +0700" channel="HBO Signature">
+    <title lang="id">Hollywood On Set</title>
+  </programme>
+  <programme start="20210224031000 +0700" stop="20210224045000 +0700" channel="HBO Signature">
+    <title lang="id">Sleepy Hollow</title>
+  </programme>
+  <programme start="20210224045000 +0700" stop="20210224064000 +0700" channel="HBO Signature">
+    <title lang="id">Don't Let Go</title>
+  </programme>
+  <programme start="20210224064000 +0700" stop="20210224082000 +0700" channel="HBO Signature">
+    <title lang="id">Must Love Dogs</title>
+  </programme>
+  <programme start="20210224082000 +0700" stop="20210224101500 +0700" channel="HBO Signature">
+    <title lang="id">Identity Thief</title>
+  </programme>
+  <programme start="20210224101500 +0700" stop="20210224122000 +0700" channel="HBO Signature">
+    <title lang="id">The Social Network</title>
+  </programme>
+  <programme start="20210224122000 +0700" stop="20210224143500 +0700" channel="HBO Signature">
+    <title lang="id">Green Book</title>
+  </programme>
+  <programme start="20210224143500 +0700" stop="20210224165000 +0700" channel="HBO Signature">
+    <title lang="id">I Am Sam</title>
+  </programme>
+  <programme start="20210224165000 +0700" stop="20210224190000 +0700" channel="HBO Signature">
+    <title lang="id">61*</title>
+  </programme>
+  <programme start="20210224190000 +0700" stop="20210224210000 +0700" channel="HBO Signature">
+    <title lang="id">Four Weddings And A Funeral</title>
+  </programme>
+  <programme start="20210224210000 +0700" stop="20210224230500 +0700" channel="HBO Signature">
+    <title lang="id">Hugo</title>
+  </programme>
+  <programme start="20210224230500 +0700" stop="20210225005000 +0700" channel="HBO Signature">
+    <title lang="id">Sleepy Hollow</title>
+  </programme>
+  <programme start="20210225005000 +0700" stop="20210225030000 +0700" channel="HBO Signature">
+    <title lang="id">The Manchurian Candidate</title>
+  </programme>
+  <programme start="20210225030000 +0700" stop="20210225050500 +0700" channel="HBO Signature">
+    <title lang="id">Dark Waters</title>
+  </programme>
+  <programme start="20210225050500 +0700" stop="20210225072000 +0700" channel="HBO Signature">
+    <title lang="id">I Am Sam</title>
+  </programme>
+  <programme start="20210225072000 +0700" stop="20210225092000 +0700" channel="HBO Signature">
+    <title lang="id">Boycott</title>
+  </programme>
+  <programme start="20210225092000 +0700" stop="20210225112000 +0700" channel="HBO Signature">
+    <title lang="id">Four Weddings And A Funeral</title>
+  </programme>
+  <programme start="20210225112000 +0700" stop="20210225134000 +0700" channel="HBO Signature">
+    <title lang="id">Angels &amp; Demons</title>
+  </programme>
+  <programme start="20210225134000 +0700" stop="20210225140500 +0700" channel="HBO Signature">
+    <title lang="id">Hollywood On Set</title>
+  </programme>
+  <programme start="20210225140500 +0700" stop="20210225155000 +0700" channel="HBO Signature">
+    <title lang="id">There's Something Wrong...</title>
+  </programme>
+  <programme start="20210225155000 +0700" stop="20210225180000 +0700" channel="HBO Signature">
+    <title lang="id">Hugo</title>
+  </programme>
+  <programme start="20210225180000 +0700" stop="20210225210000 +0700" channel="HBO Signature">
+    <title lang="id">TLOTR: The Two Towers</title>
+  </programme>
+  <programme start="20210225210000 +0700" stop="20210225222500 +0700" channel="HBO Signature">
+    <title lang="id">Once</title>
+  </programme>
+  <programme start="20210225222500 +0700" stop="20210226003500 +0700" channel="HBO Signature">
+    <title lang="id">Dark Waters</title>
+  </programme>
+  <programme start="20210226003500 +0700" stop="20210226021000 +0700" channel="HBO Signature">
+    <title lang="id">The Festival</title>
+  </programme>
+  <programme start="20210226021000 +0700" stop="20210226034500 +0700" channel="HBO Signature">
+    <title lang="id">Ma</title>
+  </programme>
+  <programme start="20210226034500 +0700" stop="20210226054000 +0700" channel="HBO Signature">
+    <title lang="id">The Silence Of The Lambs</title>
+  </programme>
+  <programme start="20210226054000 +0700" stop="20210226083500 +0700" channel="HBO Signature">
+    <title lang="id">TLOTR: The Two Towers</title>
+  </programme>
+  <programme start="20210226083500 +0700" stop="20210226105000 +0700" channel="HBO Signature">
+    <title lang="id">Angels &amp; Demons</title>
+  </programme>
+  <programme start="20210226105000 +0700" stop="20210226121500 +0700" channel="HBO Signature">
+    <title lang="id">Once</title>
+  </programme>
+  <programme start="20210226121500 +0700" stop="20210226140000 +0700" channel="HBO Signature">
+    <title lang="id">Misery</title>
+  </programme>
+  <programme start="20210226140000 +0700" stop="20210226155000 +0700" channel="HBO Signature">
+    <title lang="id">My Sister's Keeper</title>
+  </programme>
+  <programme start="20210226155000 +0700" stop="20210226174000 +0700" channel="HBO Signature">
+    <title lang="id">Lemony Snicket's A Series Of...</title>
+  </programme>
+  <programme start="20210226174000 +0700" stop="20210226192500 +0700" channel="HBO Signature">
+    <title lang="id">Last Christmas</title>
+  </programme>
+  <programme start="20210226192500 +0700" stop="20210226210000 +0700" channel="HBO Signature">
+    <title lang="id">Lions For Lambs</title>
+  </programme>
+  <programme start="20210226210000 +0700" stop="20210227002000 +0700" channel="HBO Signature">
+    <title lang="id">TLOTR: The Return Of The King</title>
+  </programme>
+  <programme start="20210227002000 +0700" stop="20210227012000 +0700" channel="HBO Signature">
+    <title lang="id">Allen V. Farrow</title>
+  </programme>
+  <programme start="20210227012000 +0700" stop="20210227032000 +0700" channel="HBO Signature">
+    <title lang="id">Blue Story</title>
+  </programme>
+  <programme start="20210227032000 +0700" stop="20210227052000 +0700" channel="HBO Signature">
+    <title lang="id">Spider-Man: Into Spider-Verse</title>
+  </programme>
+  <programme start="20210227052000 +0700" stop="20210227070000 +0700" channel="HBO Signature">
+    <title lang="id">The Gathering Storm</title>
+  </programme>
+  <programme start="20210227070000 +0700" stop="20210227084000 +0700" channel="HBO Signature">
+    <title lang="id">Lions For Lambs</title>
+  </programme>
+  <programme start="20210227084000 +0700" stop="20210227094000 +0700" channel="HBO Signature">
+    <title lang="id">I Know This Much Is...</title>
+  </programme>
+  <programme start="20210227094000 +0700" stop="20210227104000 +0700" channel="HBO Signature">
+    <title lang="id">I Know This Much Is...</title>
+  </programme>
+  <programme start="20210227104000 +0700" stop="20210227114000 +0700" channel="HBO Signature">
+    <title lang="id">I Know This Much Is...</title>
+  </programme>
+  <programme start="20210227114000 +0700" stop="20210227124000 +0700" channel="HBO Signature">
+    <title lang="id">I Know This Much Is...</title>
+  </programme>
+  <programme start="20210227124000 +0700" stop="20210227134000 +0700" channel="HBO Signature">
+    <title lang="id">I Know This Much Is...</title>
+  </programme>
+  <programme start="20210227134000 +0700" stop="20210227150000 +0700" channel="HBO Signature">
+    <title lang="id">I Know This Much Is...</title>
+  </programme>
+  <programme start="20210227150000 +0700" stop="20210227165000 +0700" channel="HBO Signature">
+    <title lang="id">Cats</title>
+  </programme>
+  <programme start="20210227165000 +0700" stop="20210227184500 +0700" channel="HBO Signature">
+    <title lang="id">Spider-Man: Into Spider-Verse</title>
+  </programme>
+  <programme start="20210227184500 +0700" stop="20210227210000 +0700" channel="HBO Signature">
+    <title lang="id">Captain Phillips</title>
+  </programme>
+  <programme start="20210227210000 +0700" stop="20210227224000 +0700" channel="HBO Signature">
+    <title lang="id">Searching</title>
+  </programme>
+  <programme start="20210227224000 +0700" stop="20210228001500 +0700" channel="HBO Signature">
+    <title lang="id">Blue Story</title>
+  </programme>
+  <programme start="20210228001500 +0700" stop="20210228023500 +0700" channel="HBO Signature">
+    <title lang="id">Babel</title>
+  </programme>
+  <programme start="20210228023500 +0700" stop="20210228051000 +0700" channel="HBO Signature">
+    <title lang="id">Les Miserables</title>
+  </programme>
+  <programme start="20210228051000 +0700" stop="20210228064000 +0700" channel="HBO Signature">
+    <title lang="id">Undefeated</title>
+  </programme>
+  <programme start="20210228064000 +0700" stop="20210228083000 +0700" channel="HBO Signature">
+    <title lang="id">Cats</title>
+  </programme>
+  <programme start="20210228083000 +0700" stop="20210228101500 +0700" channel="HBO Signature">
+    <title lang="id">Assault On Precinct 13</title>
+  </programme>
+  <programme start="20210228101500 +0700" stop="20210228115500 +0700" channel="HBO Signature">
+    <title lang="id">Searching</title>
+  </programme>
+  <programme start="20210228115500 +0700" stop="20210228140500 +0700" channel="HBO Signature">
+    <title lang="id">Captain Phillips</title>
+  </programme>
+  <programme start="20210228140500 +0700" stop="20210228161500 +0700" channel="HBO Signature">
+    <title lang="id">Love Actually</title>
+  </programme>
+  <programme start="20210228161500 +0700" stop="20210228182500 +0700" channel="HBO Signature">
+    <title lang="id">Stardust</title>
+  </programme>
+  <programme start="20210228182500 +0700" stop="20210228210000 +0700" channel="HBO Signature">
+    <title lang="id">Les Miserables</title>
+  </programme>
+  <programme start="20210228210000 +0700" stop="20210228232000 +0700" channel="HBO Signature">
+    <title lang="id">Babel</title>
+  </programme>
+  <programme start="20210228232000 +0700" stop="20210301014000 +0700" channel="HBO Signature">
+    <title lang="id">Fight Club</title>
+  </programme>
+  <programme start="20210223150000 +0700" stop="20210223170000 +0700" channel="CINEMAX">
+    <title lang="id">Spider-Man</title>
+  </programme>
+  <programme start="20210223170000 +0700" stop="20210223182500 +0700" channel="CINEMAX">
+    <title lang="id">The Leisure Class</title>
+  </programme>
+  <programme start="20210223182500 +0700" stop="20210223210000 +0700" channel="CINEMAX">
+    <title lang="id">Blade Runner 2049</title>
+  </programme>
+  <programme start="20210223210000 +0700" stop="20210223223000 +0700" channel="CINEMAX">
+    <title lang="id">The Man With The Iron Fists 2</title>
+  </programme>
+  <programme start="20210223223000 +0700" stop="20210224002000 +0700" channel="CINEMAX">
+    <title lang="id">Knight And Day</title>
+  </programme>
+  <programme start="20210224002000 +0700" stop="20210224024000 +0700" channel="CINEMAX">
+    <title lang="id">Catch Me If You Can</title>
+  </programme>
+  <programme start="20210224024000 +0700" stop="20210224043000 +0700" channel="CINEMAX">
+    <title lang="id">War Dogs</title>
+  </programme>
+  <programme start="20210224043000 +0700" stop="20210224063000 +0700" channel="CINEMAX">
+    <title lang="id">Angel Has Fallen</title>
+  </programme>
+  <programme start="20210224063000 +0700" stop="20210224081500 +0700" channel="CINEMAX">
+    <title lang="id">Along Came A Spider</title>
+  </programme>
+  <programme start="20210224081500 +0700" stop="20210224100500 +0700" channel="CINEMAX">
+    <title lang="id">Sudden Death</title>
+  </programme>
+  <programme start="20210224100500 +0700" stop="20210224115500 +0700" channel="CINEMAX">
+    <title lang="id">The Hard Way</title>
+  </programme>
+  <programme start="20210224115500 +0700" stop="20210224134500 +0700" channel="CINEMAX">
+    <title lang="id">Knight And Day</title>
+  </programme>
+  <programme start="20210224134500 +0700" stop="20210224152000 +0700" channel="CINEMAX">
+    <title lang="id">Mistrial</title>
+  </programme>
+  <programme start="20210224152000 +0700" stop="20210224174000 +0700" channel="CINEMAX">
+    <title lang="id">Catch Me If You Can</title>
+  </programme>
+  <programme start="20210224174000 +0700" stop="20210224191500 +0700" channel="CINEMAX">
+    <title lang="id">Wayne's World 2</title>
+  </programme>
+  <programme start="20210224191500 +0700" stop="20210224210000 +0700" channel="CINEMAX">
+    <title lang="id">Cop Out</title>
+  </programme>
+  <programme start="20210224210000 +0700" stop="20210224230000 +0700" channel="CINEMAX">
+    <title lang="id">Blown Away</title>
+  </programme>
+  <programme start="20210224230000 +0700" stop="20210225003000 +0700" channel="CINEMAX">
+    <title lang="id">The Banana Splits Movie</title>
+  </programme>
+  <programme start="20210225003000 +0700" stop="20210225021000 +0700" channel="CINEMAX">
+    <title lang="id">Spawn</title>
+  </programme>
+  <programme start="20210225021000 +0700" stop="20210225034000 +0700" channel="CINEMAX">
+    <title lang="id">Justice League Dark: War</title>
+  </programme>
+  <programme start="20210225034000 +0700" stop="20210225053000 +0700" channel="CINEMAX">
+    <title lang="id">Sudden Death</title>
+  </programme>
+  <programme start="20210225053000 +0700" stop="20210225072500 +0700" channel="CINEMAX">
+    <title lang="id">The Hard Way</title>
+  </programme>
+  <programme start="20210225072500 +0700" stop="20210225092000 +0700" channel="CINEMAX">
+    <title lang="id">Footloose 2011</title>
+  </programme>
+  <programme start="20210225092000 +0700" stop="20210225111000 +0700" channel="CINEMAX">
+    <title lang="id">True Grit</title>
+  </programme>
+  <programme start="20210225111000 +0700" stop="20210225124000 +0700" channel="CINEMAX">
+    <title lang="id">Justice League Dark: War</title>
+  </programme>
+  <programme start="20210225124000 +0700" stop="20210225142500 +0700" channel="CINEMAX">
+    <title lang="id">Cop Out</title>
+  </programme>
+  <programme start="20210225142500 +0700" stop="20210225160000 +0700" channel="CINEMAX">
+    <title lang="id">Wayne's World 2</title>
+  </programme>
+  <programme start="20210225160000 +0700" stop="20210225173500 +0700" channel="CINEMAX">
+    <title lang="id">Mean Machine</title>
+  </programme>
+  <programme start="20210225173500 +0700" stop="20210225190000 +0700" channel="CINEMAX">
+    <title lang="id">Life Support</title>
+  </programme>
+  <programme start="20210225190000 +0700" stop="20210225210000 +0700" channel="CINEMAX">
+    <title lang="id">Blown Away</title>
+  </programme>
+  <programme start="20210225210000 +0700" stop="20210225223000 +0700" channel="CINEMAX">
+    <title lang="id">Bulletproof 2</title>
+  </programme>
+  <programme start="20210225223000 +0700" stop="20210225232500 +0700" channel="CINEMAX">
+    <title lang="id">The Rook</title>
+  </programme>
+  <programme start="20210225232500 +0700" stop="20210226010500 +0700" channel="CINEMAX">
+    <title lang="id">Escape Room</title>
+  </programme>
+  <programme start="20210226010500 +0700" stop="20210226023500 +0700" channel="CINEMAX">
+    <title lang="id">The Uninvited</title>
+  </programme>
+  <programme start="20210226023500 +0700" stop="20210226044000 +0700" channel="CINEMAX">
+    <title lang="id">Spider-Man 2</title>
+  </programme>
+  <programme start="20210226044000 +0700" stop="20210226063000 +0700" channel="CINEMAX">
+    <title lang="id">Footloose 2011</title>
+  </programme>
+  <programme start="20210226063000 +0700" stop="20210226081500 +0700" channel="CINEMAX">
+    <title lang="id">The Scorpion King 3: Battle...</title>
+  </programme>
+  <programme start="20210226081500 +0700" stop="20210226084000 +0700" channel="CINEMAX">
+    <title lang="id">Hollywood On Set</title>
+  </programme>
+  <programme start="20210226084000 +0700" stop="20210226110000 +0700" channel="CINEMAX">
+    <title lang="id">The Pelican Brief</title>
+  </programme>
+  <programme start="20210226110000 +0700" stop="20210226123000 +0700" channel="CINEMAX">
+    <title lang="id">Bulletproof 2</title>
+  </programme>
+  <programme start="20210226123000 +0700" stop="20210226140000 +0700" channel="CINEMAX">
+    <title lang="id">Blood &amp; Chrome</title>
+  </programme>
+  <programme start="20210226140000 +0700" stop="20210226153500 +0700" channel="CINEMAX">
+    <title lang="id">Mean Machine</title>
+  </programme>
+  <programme start="20210226153500 +0700" stop="20210226174000 +0700" channel="CINEMAX">
+    <title lang="id">Spider-Man 2</title>
+  </programme>
+  <programme start="20210226174000 +0700" stop="20210226192000 +0700" channel="CINEMAX">
+    <title lang="id">Charlie's Angels</title>
+  </programme>
+  <programme start="20210226192000 +0700" stop="20210226210000 +0700" channel="CINEMAX">
+    <title lang="id">Tremors 5: Bloodlines</title>
+  </programme>
+  <programme start="20210226210000 +0700" stop="20210226225500 +0700" channel="CINEMAX">
+    <title lang="id">The Operative</title>
+  </programme>
+  <programme start="20210226225500 +0700" stop="20210227004500 +0700" channel="CINEMAX">
+    <title lang="id">Red</title>
+  </programme>
+  <programme start="20210227004500 +0700" stop="20210227014000 +0700" channel="CINEMAX">
+    <title lang="id">The Rook</title>
+  </programme>
+  <programme start="20210227014000 +0700" stop="20210227031000 +0700" channel="CINEMAX">
+    <title lang="id">The Glimmer Man</title>
+  </programme>
+  <programme start="20210227031000 +0700" stop="20210227045000 +0700" channel="CINEMAX">
+    <title lang="id">Reservoir Dogs</title>
+  </programme>
+  <programme start="20210227045000 +0700" stop="20210227064000 +0700" channel="CINEMAX">
+    <title lang="id">The Scorpion King 3: Battle...</title>
+  </programme>
+  <programme start="20210227064000 +0700" stop="20210227082500 +0700" channel="CINEMAX">
+    <title lang="id">Daredevil</title>
+  </programme>
+  <programme start="20210227082500 +0700" stop="20210227095500 +0700" channel="CINEMAX">
+    <title lang="id">Blood &amp; Chrome</title>
+  </programme>
+  <programme start="20210227095500 +0700" stop="20210227115000 +0700" channel="CINEMAX">
+    <title lang="id">Red</title>
+  </programme>
+  <programme start="20210227115000 +0700" stop="20210227133000 +0700" channel="CINEMAX">
+    <title lang="id">Tremors 5: Bloodlines</title>
+  </programme>
+  <programme start="20210227133000 +0700" stop="20210227150000 +0700" channel="CINEMAX">
+    <title lang="id">The Glimmer Man</title>
+  </programme>
+  <programme start="20210227150000 +0700" stop="20210227164000 +0700" channel="CINEMAX">
+    <title lang="id">Charlie's Angels</title>
+  </programme>
+  <programme start="20210227164000 +0700" stop="20210227190000 +0700" channel="CINEMAX">
+    <title lang="id">Spider-Man 3</title>
+  </programme>
+  <programme start="20210227190000 +0700" stop="20210227210000 +0700" channel="CINEMAX">
+    <title lang="id">The Operative</title>
+  </programme>
+  <programme start="20210227210000 +0700" stop="20210227215500 +0700" channel="CINEMAX">
+    <title lang="id">The Rook</title>
+  </programme>
+  <programme start="20210227215500 +0700" stop="20210227233500 +0700" channel="CINEMAX">
+    <title lang="id">Rambo: Last Blood</title>
+  </programme>
+  <programme start="20210227233500 +0700" stop="20210228013000 +0700" channel="CINEMAX">
+    <title lang="id">Tropic Thunder</title>
+  </programme>
+  <programme start="20210228013000 +0700" stop="20210228031500 +0700" channel="CINEMAX">
+    <title lang="id">Backdraft 2</title>
+  </programme>
+  <programme start="20210228031500 +0700" stop="20210228050000 +0700" channel="CINEMAX">
+    <title lang="id">Daredevil</title>
+  </programme>
+  <programme start="20210228050000 +0700" stop="20210228070000 +0700" channel="CINEMAX">
+    <title lang="id">Angel Has Fallen</title>
+  </programme>
+  <programme start="20210228070000 +0700" stop="20210228090000 +0700" channel="CINEMAX">
+    <title lang="id">Frequency</title>
+  </programme>
+  <programme start="20210228090000 +0700" stop="20210228104000 +0700" channel="CINEMAX">
+    <title lang="id">The Wedding Singer</title>
+  </programme>
+  <programme start="20210228104000 +0700" stop="20210228122500 +0700" channel="CINEMAX">
+    <title lang="id">Backdraft 2</title>
+  </programme>
+  <programme start="20210228122500 +0700" stop="20210228142000 +0700" channel="CINEMAX">
+    <title lang="id">Tropic Thunder</title>
+  </programme>
+  <programme start="20210228142000 +0700" stop="20210228164000 +0700" channel="CINEMAX">
+    <title lang="id">Spider-Man 3</title>
+  </programme>
+  <programme start="20210228164000 +0700" stop="20210228190000 +0700" channel="CINEMAX">
+    <title lang="id">Catch Me If You Can</title>
+  </programme>
+  <programme start="20210228190000 +0700" stop="20210228210000 +0700" channel="CINEMAX">
+    <title lang="id">Angel Has Fallen</title>
+  </programme>
+  <programme start="20210228210000 +0700" stop="20210228224000 +0700" channel="CINEMAX">
+    <title lang="id">Jarhead: Law Of Return</title>
+  </programme>
+  <programme start="20210228224000 +0700" stop="20210301002000 +0700" channel="CINEMAX">
+    <title lang="id">Jarhead 2: Field Of Fire</title>
+  </programme>
+  <programme start="20210301002000 +0700" stop="20210301022000 +0700" channel="CINEMAX">
+    <title lang="id">Chappie</title>
+  </programme>
+  <programme start="20210301022000 +0700" stop="20210301042000 +0700" channel="CINEMAX">
+    <title lang="id">Blown Away</title>
+  </programme>
+  <programme start="20210301042000 +0700" stop="20210301061000 +0700" channel="CINEMAX">
+    <title lang="id">Knight And Day</title>
+  </programme>
+  <programme start="20210301061000 +0700" stop="20210301075000 +0700" channel="CINEMAX">
+    <title lang="id">The Wedding Singer</title>
+  </programme>
+  <programme start="20210301075000 +0700" stop="20210301103000 +0700" channel="CINEMAX">
+    <title lang="id">Munich</title>
+  </programme>
+  <programme start="20210301103000 +0700" stop="20210301122500 +0700" channel="CINEMAX">
+    <title lang="id">Chappie</title>
+  </programme>
+  <programme start="20210301122500 +0700" stop="20210301142500 +0700" channel="CINEMAX">
+    <title lang="id">Blown Away</title>
+  </programme>
+  <programme start="20210301142500 +0700" stop="20210301164500 +0700" channel="CINEMAX">
+    <title lang="id">Catch Me If You Can</title>
+  </programme>
+  <programme start="20210301164500 +0700" stop="20210301184000 +0700" channel="CINEMAX">
+    <title lang="id">Game Change</title>
+  </programme>
+  <programme start="20210301184000 +0700" stop="20210301191000 +0700" channel="CINEMAX">
+    <title lang="id">Hollywood On Set</title>
+  </programme>
+  <programme start="20210301191000 +0700" stop="20210301210000 +0700" channel="CINEMAX">
+    <title lang="id">Knight And Day</title>
+  </programme>
+  <programme start="20210301210000 +0700" stop="20210301225500 +0700" channel="CINEMAX">
+    <title lang="id">Flight Of The Intruder</title>
+  </programme>
+  <programme start="20210301225500 +0700" stop="20210302003000 +0700" channel="CINEMAX">
+    <title lang="id">Waist Deep</title>
+  </programme>
+  <programme start="20210223154500 +0700" stop="20210223174500 +0700" channel="RCTI">
+    <title lang="id">Tukang Ojek Pengkolan</title>
+  </programme>
+  <programme start="20210223174500 +0700" stop="20210223193000 +0700" channel="RCTI">
+    <title lang="id">Putri Untuk Pangeran</title>
+  </programme>
+  <programme start="20210223193000 +0700" stop="20210223211500 +0700" channel="RCTI">
+    <title lang="id">Ikatan Cinta</title>
+  </programme>
+  <programme start="20210223211500 +0700" stop="20210223224500 +0700" channel="RCTI">
+    <title lang="id">Amanah Wali S4</title>
+  </programme>
+  <programme start="20210223224500 +0700" stop="20210224000000 +0700" channel="RCTI">
+    <title lang="id">Dunia Terbalik</title>
+  </programme>
+  <programme start="20210224000000 +0700" stop="20210224014500 +0700" channel="RCTI">
+    <title lang="id">Busway Jurusan Cinta</title>
+  </programme>
+  <programme start="20210224014500 +0700" stop="20210224020000 +0700" channel="RCTI">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210224020000 +0700" stop="20210224031500 +0700" channel="RCTI">
+    <title lang="id">Cinta Bersemi Di Palang Kereta</title>
+  </programme>
+  <programme start="20210224031500 +0700" stop="20210224034500 +0700" channel="RCTI">
+    <title lang="id">Chuck And Friends S2</title>
+  </programme>
+  <programme start="20210224034500 +0700" stop="20210224040000 +0700" channel="RCTI">
+    <title lang="id">Kultum</title>
+  </programme>
+  <programme start="20210224040000 +0700" stop="20210224053000 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210224053000 +0700" stop="20210224061500 +0700" channel="RCTI">
+    <title lang="id">Sergap</title>
+  </programme>
+  <programme start="20210224061500 +0700" stop="20210224070000 +0700" channel="RCTI">
+    <title lang="id">Go Spot</title>
+  </programme>
+  <programme start="20210224070000 +0700" stop="20210224081500 +0700" channel="RCTI">
+    <title lang="id">Antara Aku, Kau &amp; Janur...</title>
+  </programme>
+  <programme start="20210224081500 +0700" stop="20210224094500 +0700" channel="RCTI">
+    <title lang="id">Dahsyatnya 2021</title>
+  </programme>
+  <programme start="20210224094500 +0700" stop="20210224111500 +0700" channel="RCTI">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20210224111500 +0700" stop="20210224121500 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Siang (L)</title>
+  </programme>
+  <programme start="20210224121500 +0700" stop="20210224131500 +0700" channel="RCTI">
+    <title lang="id">Minta Tolong</title>
+  </programme>
+  <programme start="20210224131500 +0700" stop="20210224154500 +0700" channel="RCTI">
+    <title lang="id">Tamu Tak Diundang</title>
+  </programme>
+  <programme start="20210224154500 +0700" stop="20210224174500 +0700" channel="RCTI">
+    <title lang="id">Tukang Ojek Pengkolan</title>
+  </programme>
+  <programme start="20210224174500 +0700" stop="20210224193000 +0700" channel="RCTI">
+    <title lang="id">Putri Untuk Pangeran</title>
+  </programme>
+  <programme start="20210224193000 +0700" stop="20210224211500 +0700" channel="RCTI">
+    <title lang="id">Ikatan Cinta</title>
+  </programme>
+  <programme start="20210224211500 +0700" stop="20210224224500 +0700" channel="RCTI">
+    <title lang="id">Amanah Wali S4</title>
+  </programme>
+  <programme start="20210224224500 +0700" stop="20210225000000 +0700" channel="RCTI">
+    <title lang="id">Dunia Terbalik</title>
+  </programme>
+  <programme start="20210225000000 +0700" stop="20210225014500 +0700" channel="RCTI">
+    <title lang="id">Ada Cewek Cantik Banget...</title>
+  </programme>
+  <programme start="20210225014500 +0700" stop="20210225020000 +0700" channel="RCTI">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210225020000 +0700" stop="20210225031500 +0700" channel="RCTI">
+    <title lang="id">Kolang-Kaling I'm In Love</title>
+  </programme>
+  <programme start="20210225031500 +0700" stop="20210225034500 +0700" channel="RCTI">
+    <title lang="id">Chuck And Friends S2</title>
+  </programme>
+  <programme start="20210225034500 +0700" stop="20210225040000 +0700" channel="RCTI">
+    <title lang="id">Kultum</title>
+  </programme>
+  <programme start="20210225040000 +0700" stop="20210225053000 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210225053000 +0700" stop="20210225061500 +0700" channel="RCTI">
+    <title lang="id">Sergap</title>
+  </programme>
+  <programme start="20210225061500 +0700" stop="20210225070000 +0700" channel="RCTI">
+    <title lang="id">Go Spot</title>
+  </programme>
+  <programme start="20210225070000 +0700" stop="20210225084500 +0700" channel="RCTI">
+    <title lang="id">Penjaga Dokter Cantik</title>
+  </programme>
+  <programme start="20210225084500 +0700" stop="20210225094500 +0700" channel="RCTI">
+    <title lang="id">Bapau Asli Indonesia</title>
+  </programme>
+  <programme start="20210225094500 +0700" stop="20210225111500 +0700" channel="RCTI">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20210225111500 +0700" stop="20210225121500 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Siang (L)</title>
+  </programme>
+  <programme start="20210225121500 +0700" stop="20210225154500 +0700" channel="RCTI">
+    <title lang="id">Tamu Tak Diundang</title>
+  </programme>
+  <programme start="20210225154500 +0700" stop="20210225174500 +0700" channel="RCTI">
+    <title lang="id">Tukang Ojek Pengkolan</title>
+  </programme>
+  <programme start="20210225174500 +0700" stop="20210225193000 +0700" channel="RCTI">
+    <title lang="id">Putri Untuk Pangeran</title>
+  </programme>
+  <programme start="20210225193000 +0700" stop="20210225211500 +0700" channel="RCTI">
+    <title lang="id">Ikatan Cinta</title>
+  </programme>
+  <programme start="20210225211500 +0700" stop="20210225224500 +0700" channel="RCTI">
+    <title lang="id">Amanah Wali S4</title>
+  </programme>
+  <programme start="20210225224500 +0700" stop="20210226000000 +0700" channel="RCTI">
+    <title lang="id">Dunia Terbalik</title>
+  </programme>
+  <programme start="20210226000000 +0700" stop="20210226014500 +0700" channel="RCTI">
+    <title lang="id">Ip Man</title>
+  </programme>
+  <programme start="20210226014500 +0700" stop="20210226020000 +0700" channel="RCTI">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210226020000 +0700" stop="20210226031500 +0700" channel="RCTI">
+    <title lang="id">Adventurous Treasure Island</title>
+  </programme>
+  <programme start="20210226031500 +0700" stop="20210226034500 +0700" channel="RCTI">
+    <title lang="id">Oddbods</title>
+  </programme>
+  <programme start="20210226034500 +0700" stop="20210226040000 +0700" channel="RCTI">
+    <title lang="id">Kultum</title>
+  </programme>
+  <programme start="20210226040000 +0700" stop="20210226053000 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210226053000 +0700" stop="20210226061500 +0700" channel="RCTI">
+    <title lang="id">Sergap</title>
+  </programme>
+  <programme start="20210226061500 +0700" stop="20210226070000 +0700" channel="RCTI">
+    <title lang="id">Go Spot</title>
+  </programme>
+  <programme start="20210226070000 +0700" stop="20210226084500 +0700" channel="RCTI">
+    <title lang="id">Bajaj Belum Berlalu</title>
+  </programme>
+  <programme start="20210226084500 +0700" stop="20210226094500 +0700" channel="RCTI">
+    <title lang="id">Bapau Asli Indonesia</title>
+  </programme>
+  <programme start="20210226094500 +0700" stop="20210226111500 +0700" channel="RCTI">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20210226111500 +0700" stop="20210226121500 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Siang (L)</title>
+  </programme>
+  <programme start="20210226121500 +0700" stop="20210226154500 +0700" channel="RCTI">
+    <title lang="id">Tamu Tak Diundang</title>
+  </programme>
+  <programme start="20210226154500 +0700" stop="20210226174500 +0700" channel="RCTI">
+    <title lang="id">Tukang Ojek Pengkolan</title>
+  </programme>
+  <programme start="20210226174500 +0700" stop="20210226193000 +0700" channel="RCTI">
+    <title lang="id">Putri Untuk Pangeran</title>
+  </programme>
+  <programme start="20210226193000 +0700" stop="20210226211500 +0700" channel="RCTI">
+    <title lang="id">Ikatan Cinta</title>
+  </programme>
+  <programme start="20210226211500 +0700" stop="20210226224500 +0700" channel="RCTI">
+    <title lang="id">Amanah Wali S4</title>
+  </programme>
+  <programme start="20210226224500 +0700" stop="20210227000000 +0700" channel="RCTI">
+    <title lang="id">Dunia Terbalik</title>
+  </programme>
+  <programme start="20210227000000 +0700" stop="20210227014500 +0700" channel="RCTI">
+    <title lang="id">Ong Bak 3</title>
+  </programme>
+  <programme start="20210227014500 +0700" stop="20210227020000 +0700" channel="RCTI">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210227020000 +0700" stop="20210227031500 +0700" channel="RCTI">
+    <title lang="id">Chicvalrous Legend</title>
+  </programme>
+  <programme start="20210227031500 +0700" stop="20210227034500 +0700" channel="RCTI">
+    <title lang="id">Oddbods</title>
+  </programme>
+  <programme start="20210227034500 +0700" stop="20210227040000 +0700" channel="RCTI">
+    <title lang="id">Kultum</title>
+  </programme>
+  <programme start="20210227040000 +0700" stop="20210227053000 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210227053000 +0700" stop="20210227061500 +0700" channel="RCTI">
+    <title lang="id">Sergap</title>
+  </programme>
+  <programme start="20210227061500 +0700" stop="20210227070000 +0700" channel="RCTI">
+    <title lang="id">Go Spot</title>
+  </programme>
+  <programme start="20210227070000 +0700" stop="20210227080000 +0700" channel="RCTI">
+    <title lang="id">OK Chef S2</title>
+  </programme>
+  <programme start="20210227080000 +0700" stop="20210227091500 +0700" channel="RCTI">
+    <title lang="id">Petualangan Nobita Di Museum...</title>
+  </programme>
+  <programme start="20210227091500 +0700" stop="20210227094500 +0700" channel="RCTI">
+    <title lang="id">Kiko</title>
+  </programme>
+  <programme start="20210227094500 +0700" stop="20210227113000 +0700" channel="RCTI">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20210227113000 +0700" stop="20210227120000 +0700" channel="RCTI">
+    <title lang="id">Barista</title>
+  </programme>
+  <programme start="20210227120000 +0700" stop="20210227123000 +0700" channel="RCTI">
+    <title lang="id">Hati Sang Bidadari</title>
+  </programme>
+  <programme start="20210227123000 +0700" stop="20210227130000 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Siang (L)</title>
+  </programme>
+  <programme start="20210227130000 +0700" stop="20210227140000 +0700" channel="RCTI">
+    <title lang="id">Sule Pulang Haji Dapet Jodoh</title>
+  </programme>
+  <programme start="20210227140000 +0700" stop="20210227153000 +0700" channel="RCTI">
+    <title lang="id">Olga &amp; Billy Lost In Singapure</title>
+  </programme>
+  <programme start="20210227153000 +0700" stop="20210227173000 +0700" channel="RCTI">
+    <title lang="id">Dahsyatnya Pupa 300 Episode</title>
+  </programme>
+  <programme start="20210227173000 +0700" stop="20210227193000 +0700" channel="RCTI">
+    <title lang="id">Putri Untuk Pangeran</title>
+  </programme>
+  <programme start="20210227193000 +0700" stop="20210227211500 +0700" channel="RCTI">
+    <title lang="id">Ikatan Cinta</title>
+  </programme>
+  <programme start="20210227211500 +0700" stop="20210227224500 +0700" channel="RCTI">
+    <title lang="id">Amanah Wali S4</title>
+  </programme>
+  <programme start="20210227224500 +0700" stop="20210228000000 +0700" channel="RCTI">
+    <title lang="id">Dunia Terbalik</title>
+  </programme>
+  <programme start="20210228000000 +0700" stop="20210228020000 +0700" channel="RCTI">
+    <title lang="id">Petualangan Menangkap Petir</title>
+  </programme>
+  <programme start="20210228020000 +0700" stop="20210228044500 +0700" channel="RCTI">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210228044500 +0700" stop="20210228060000 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210228060000 +0700" stop="20210228063000 +0700" channel="RCTI">
+    <title lang="id">Mukjizat Itu Nyata</title>
+  </programme>
+  <programme start="20210228063000 +0700" stop="20210228071500 +0700" channel="RCTI">
+    <title lang="id">Go Spot</title>
+  </programme>
+  <programme start="20210228071500 +0700" stop="20210228073000 +0700" channel="RCTI">
+    <title lang="id">Larva</title>
+  </programme>
+  <programme start="20210228073000 +0700" stop="20210228080000 +0700" channel="RCTI">
+    <title lang="id">Rudi &amp; Sahabat</title>
+  </programme>
+  <programme start="20210228080000 +0700" stop="20210228083000 +0700" channel="RCTI">
+    <title lang="id">Ninja Hattori</title>
+  </programme>
+  <programme start="20210228083000 +0700" stop="20210228090000 +0700" channel="RCTI">
+    <title lang="id">Doraemon Spesial</title>
+  </programme>
+  <programme start="20210228090000 +0700" stop="20210228100000 +0700" channel="RCTI">
+    <title lang="id">Kiko S3</title>
+  </programme>
+  <programme start="20210228100000 +0700" stop="20210228103000 +0700" channel="RCTI">
+    <title lang="id">Bima S</title>
+  </programme>
+  <programme start="20210228103000 +0700" stop="20210228113000 +0700" channel="RCTI">
+    <title lang="id">Ninja Hattori</title>
+  </programme>
+  <programme start="20210228113000 +0700" stop="20210228120000 +0700" channel="RCTI">
+    <title lang="id">Barista</title>
+  </programme>
+  <programme start="20210228120000 +0700" stop="20210228123000 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Siang (L)</title>
+  </programme>
+  <programme start="20210228123000 +0700" stop="20210228143000 +0700" channel="RCTI">
+    <title lang="id">Sule Saingan</title>
+  </programme>
+  <programme start="20210228143000 +0700" stop="20210228163000 +0700" channel="RCTI">
+    <title lang="id">Matt &amp; Mou</title>
+  </programme>
+  <programme start="20210228163000 +0700" stop="20210228174500 +0700" channel="RCTI">
+    <title lang="id">Tukang Ojek Pengkolan</title>
+  </programme>
+  <programme start="20210228174500 +0700" stop="20210228193000 +0700" channel="RCTI">
+    <title lang="id">Putri Untuk Pangeran</title>
+  </programme>
+  <programme start="20210228193000 +0700" stop="20210228211500 +0700" channel="RCTI">
+    <title lang="id">Ikatan Cinta</title>
+  </programme>
+  <programme start="20210228211500 +0700" stop="20210228224500 +0700" channel="RCTI">
+    <title lang="id">Amanah Wali S4</title>
+  </programme>
+  <programme start="20210228224500 +0700" stop="20210228234500 +0700" channel="RCTI">
+    <title lang="id">Dunia Terbalik</title>
+  </programme>
+  <programme start="20210228234500 +0700" stop="20210301020000 +0700" channel="RCTI">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210301020000 +0700" stop="20210301044500 +0700" channel="RCTI">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210301044500 +0700" stop="20210301053000 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210301053000 +0700" stop="20210301061500 +0700" channel="RCTI">
+    <title lang="id">Sergap</title>
+  </programme>
+  <programme start="20210301061500 +0700" stop="20210301070000 +0700" channel="RCTI">
+    <title lang="id">Go Spot</title>
+  </programme>
+  <programme start="20210301070000 +0700" stop="20210301081500 +0700" channel="RCTI">
+    <title lang="id">Layar Drama Indonesia</title>
+  </programme>
+  <programme start="20210301081500 +0700" stop="20210301094500 +0700" channel="RCTI">
+    <title lang="id">Dahsyatnya 2021</title>
+  </programme>
+  <programme start="20210301094500 +0700" stop="20210301111500 +0700" channel="RCTI">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20210301111500 +0700" stop="20210301121500 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Siang (L)</title>
+  </programme>
+  <programme start="20210301121500 +0700" stop="20210301131500 +0700" channel="RCTI">
+    <title lang="id">Minta Tolong</title>
+  </programme>
+  <programme start="20210301131500 +0700" stop="20210301154500 +0700" channel="RCTI">
+    <title lang="id">Tamu Tak Diundang</title>
+  </programme>
+  <programme start="20210301154500 +0700" stop="20210301174500 +0700" channel="RCTI">
+    <title lang="id">Tukang Ojek Pengkolan</title>
+  </programme>
+  <programme start="20210301174500 +0700" stop="20210301193000 +0700" channel="RCTI">
+    <title lang="id">Putri Untuk Pangeran</title>
+  </programme>
+  <programme start="20210301193000 +0700" stop="20210301210000 +0700" channel="RCTI">
+    <title lang="id">Ikatan Cinta</title>
+  </programme>
+  <programme start="20210301210000 +0700" stop="20210302000000 +0700" channel="RCTI">
+    <title lang="id">Indonesian Idol 2020 (L)</title>
+  </programme>
+  <programme start="20210223163000 +0700" stop="20210223170000 +0700" channel="Global TV">
+    <title lang="id">Konon Katanya</title>
+  </programme>
+  <programme start="20210223170000 +0700" stop="20210223180000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210223180000 +0700" stop="20210223190000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210223190000 +0700" stop="20210223200000 +0700" channel="Global TV">
+    <title lang="id">Legenda Sang Penunggu</title>
+  </programme>
+  <programme start="20210223200000 +0700" stop="20210223210000 +0700" channel="Global TV">
+    <title lang="id">Super Family 100</title>
+  </programme>
+  <programme start="20210223210000 +0700" stop="20210223230000 +0700" channel="Global TV">
+    <title lang="id">Lucy</title>
+  </programme>
+  <programme start="20210223230000 +0700" stop="20210224003000 +0700" channel="Global TV">
+    <title lang="id">Bedah Rumah Untuk Indonesia</title>
+  </programme>
+  <programme start="20210224003000 +0700" stop="20210224010000 +0700" channel="Global TV">
+    <title lang="id">Gerebek</title>
+  </programme>
+  <programme start="20210224010000 +0700" stop="20210224013000 +0700" channel="Global TV">
+    <title lang="id">MSHOP</title>
+  </programme>
+  <programme start="20210224013000 +0700" stop="20210224020000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Malam</title>
+  </programme>
+  <programme start="20210224020000 +0700" stop="20210224030000 +0700" channel="Global TV">
+    <title lang="id">Awas Ada Sule Lagi</title>
+  </programme>
+  <programme start="20210224030000 +0700" stop="20210224040000 +0700" channel="Global TV">
+    <title lang="id">Warbiasak</title>
+  </programme>
+  <programme start="20210224040000 +0700" stop="20210224043000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210224043000 +0700" stop="20210224050000 +0700" channel="Global TV">
+    <title lang="id">Ragam Cerita</title>
+  </programme>
+  <programme start="20210224050000 +0700" stop="20210224053000 +0700" channel="Global TV">
+    <title lang="id">Be Be Bears</title>
+  </programme>
+  <programme start="20210224053000 +0700" stop="20210224060000 +0700" channel="Global TV">
+    <title lang="id">Bernard Bears</title>
+  </programme>
+  <programme start="20210224060000 +0700" stop="20210224063000 +0700" channel="Global TV">
+    <title lang="id">Zak Storm</title>
+  </programme>
+  <programme start="20210224063000 +0700" stop="20210224080000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210224080000 +0700" stop="20210224093000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210224093000 +0700" stop="20210224100000 +0700" channel="Global TV">
+    <title lang="id">Obsesi (L)</title>
+  </programme>
+  <programme start="20210224100000 +0700" stop="20210224110000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Siang (L)</title>
+  </programme>
+  <programme start="20210224110000 +0700" stop="20210224123000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210224123000 +0700" stop="20210224153000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210224153000 +0700" stop="20210224163000 +0700" channel="Global TV">
+    <title lang="id">Bisa Gitu Yak</title>
+  </programme>
+  <programme start="20210224163000 +0700" stop="20210224170000 +0700" channel="Global TV">
+    <title lang="id">Konon Katanya</title>
+  </programme>
+  <programme start="20210224170000 +0700" stop="20210224180000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210224180000 +0700" stop="20210224190000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210224190000 +0700" stop="20210224200000 +0700" channel="Global TV">
+    <title lang="id">Legenda Sang Penunggu</title>
+  </programme>
+  <programme start="20210224200000 +0700" stop="20210224223000 +0700" channel="Global TV">
+    <title lang="id">Amazing Concert</title>
+  </programme>
+  <programme start="20210224223000 +0700" stop="20210225003000 +0700" channel="Global TV">
+    <title lang="id">A Good Day To Die Hard</title>
+  </programme>
+  <programme start="20210225003000 +0700" stop="20210225010000 +0700" channel="Global TV">
+    <title lang="id">Gerebek</title>
+  </programme>
+  <programme start="20210225010000 +0700" stop="20210225013000 +0700" channel="Global TV">
+    <title lang="id">MSHOP</title>
+  </programme>
+  <programme start="20210225013000 +0700" stop="20210225020000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Malam</title>
+  </programme>
+  <programme start="20210225020000 +0700" stop="20210225030000 +0700" channel="Global TV">
+    <title lang="id">Awas Ada Sule Lagi</title>
+  </programme>
+  <programme start="20210225030000 +0700" stop="20210225040000 +0700" channel="Global TV">
+    <title lang="id">Warbiasak</title>
+  </programme>
+  <programme start="20210225040000 +0700" stop="20210225043000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210225043000 +0700" stop="20210225053000 +0700" channel="Global TV">
+    <title lang="id">Ragam Cerita</title>
+  </programme>
+  <programme start="20210225053000 +0700" stop="20210225060000 +0700" channel="Global TV">
+    <title lang="id">Turis Rempong</title>
+  </programme>
+  <programme start="20210225060000 +0700" stop="20210225063000 +0700" channel="Global TV">
+    <title lang="id">Zak Storm</title>
+  </programme>
+  <programme start="20210225063000 +0700" stop="20210225080000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210225080000 +0700" stop="20210225093000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210225093000 +0700" stop="20210225100000 +0700" channel="Global TV">
+    <title lang="id">Obsesi (L)</title>
+  </programme>
+  <programme start="20210225100000 +0700" stop="20210225110000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Siang (L)</title>
+  </programme>
+  <programme start="20210225110000 +0700" stop="20210225123000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210225123000 +0700" stop="20210225150000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210225150000 +0700" stop="20210225163000 +0700" channel="Global TV">
+    <title lang="id">The Penguin Of The Madagascar</title>
+  </programme>
+  <programme start="20210225163000 +0700" stop="20210225180000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210225180000 +0700" stop="20210225203000 +0700" channel="Global TV">
+    <title lang="id">The Voice Kids Indonesia</title>
+  </programme>
+  <programme start="20210225203000 +0700" stop="20210225223000 +0700" channel="Global TV">
+    <title lang="id">The Huntsman: Winter's War</title>
+  </programme>
+  <programme start="20210225223000 +0700" stop="20210226003000 +0700" channel="Global TV">
+    <title lang="id">Independence Day</title>
+  </programme>
+  <programme start="20210226003000 +0700" stop="20210226010000 +0700" channel="Global TV">
+    <title lang="id">Gerebek</title>
+  </programme>
+  <programme start="20210226010000 +0700" stop="20210226013000 +0700" channel="Global TV">
+    <title lang="id">MSHOP</title>
+  </programme>
+  <programme start="20210226013000 +0700" stop="20210226020000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Malam</title>
+  </programme>
+  <programme start="20210226020000 +0700" stop="20210226030000 +0700" channel="Global TV">
+    <title lang="id">Awas Ada Sule Lagi</title>
+  </programme>
+  <programme start="20210226030000 +0700" stop="20210226040000 +0700" channel="Global TV">
+    <title lang="id">Warbiasak</title>
+  </programme>
+  <programme start="20210226040000 +0700" stop="20210226043000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210226043000 +0700" stop="20210226053000 +0700" channel="Global TV">
+    <title lang="id">Ragam Cerita</title>
+  </programme>
+  <programme start="20210226053000 +0700" stop="20210226063000 +0700" channel="Global TV">
+    <title lang="id">Top 20 Funniest</title>
+  </programme>
+  <programme start="20210226063000 +0700" stop="20210226080000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210226080000 +0700" stop="20210226093000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210226093000 +0700" stop="20210226100000 +0700" channel="Global TV">
+    <title lang="id">Obsesi (L)</title>
+  </programme>
+  <programme start="20210226100000 +0700" stop="20210226110000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Siang (L)</title>
+  </programme>
+  <programme start="20210226110000 +0700" stop="20210226123000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210226123000 +0700" stop="20210226150000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210226150000 +0700" stop="20210226163000 +0700" channel="Global TV">
+    <title lang="id">Shaun The Sheep Movie</title>
+  </programme>
+  <programme start="20210226163000 +0700" stop="20210226180000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210226180000 +0700" stop="20210226203000 +0700" channel="Global TV">
+    <title lang="id">The Voice Kids Indonesia</title>
+  </programme>
+  <programme start="20210226203000 +0700" stop="20210226230000 +0700" channel="Global TV">
+    <title lang="id">Incredible Hulk</title>
+  </programme>
+  <programme start="20210226230000 +0700" stop="20210227003000 +0700" channel="Global TV">
+    <title lang="id">Si Kabayan Mencari Jodoh</title>
+  </programme>
+  <programme start="20210227003000 +0700" stop="20210227010000 +0700" channel="Global TV">
+    <title lang="id">Gerebek</title>
+  </programme>
+  <programme start="20210227010000 +0700" stop="20210227013000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Malam</title>
+  </programme>
+  <programme start="20210227013000 +0700" stop="20210227020000 +0700" channel="Global TV">
+    <title lang="id">Abdel &amp; Temon Bukan Superstar</title>
+  </programme>
+  <programme start="20210227020000 +0700" stop="20210227030000 +0700" channel="Global TV">
+    <title lang="id">Awas Ada Sule Lagi</title>
+  </programme>
+  <programme start="20210227030000 +0700" stop="20210227040000 +0700" channel="Global TV">
+    <title lang="id">Jeany &amp; Soun Miun</title>
+  </programme>
+  <programme start="20210227040000 +0700" stop="20210227043000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210227043000 +0700" stop="20210227050000 +0700" channel="Global TV">
+    <title lang="id">Ragam Cerita</title>
+  </programme>
+  <programme start="20210227050000 +0700" stop="20210227053000 +0700" channel="Global TV">
+    <title lang="id">Be Be Bears</title>
+  </programme>
+  <programme start="20210227053000 +0700" stop="20210227060000 +0700" channel="Global TV">
+    <title lang="id">Lost In Oz</title>
+  </programme>
+  <programme start="20210227060000 +0700" stop="20210227080000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Candyland</title>
+  </programme>
+  <programme start="20210227080000 +0700" stop="20210227090000 +0700" channel="Global TV">
+    <title lang="id">Hypening</title>
+  </programme>
+  <programme start="20210227090000 +0700" stop="20210227100000 +0700" channel="Global TV">
+    <title lang="id">Top Gamer</title>
+  </programme>
+  <programme start="20210227100000 +0700" stop="20210227103000 +0700" channel="Global TV">
+    <title lang="id">Super Youth Generation</title>
+  </programme>
+  <programme start="20210227103000 +0700" stop="20210227110000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Siang (L)</title>
+  </programme>
+  <programme start="20210227110000 +0700" stop="20210227123000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Family</title>
+  </programme>
+  <programme start="20210227123000 +0700" stop="20210227153000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Family</title>
+  </programme>
+  <programme start="20210227153000 +0700" stop="20210227163000 +0700" channel="Global TV">
+    <title lang="id">Bisa Gitu Yak</title>
+  </programme>
+  <programme start="20210227163000 +0700" stop="20210227183000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210227183000 +0700" stop="20210227193000 +0700" channel="Global TV">
+    <title lang="id">Legenda Sang Penunggu</title>
+  </programme>
+  <programme start="20210227193000 +0700" stop="20210227210000 +0700" channel="Global TV">
+    <title lang="id">Asal: Asli Atau Palsu</title>
+  </programme>
+  <programme start="20210227210000 +0700" stop="20210227220000 +0700" channel="Global TV">
+    <title lang="id">Kisah Kasih Ciki Rezky</title>
+  </programme>
+  <programme start="20210227220000 +0700" stop="20210227233000 +0700" channel="Global TV">
+    <title lang="id">Fantastic Four</title>
+  </programme>
+  <programme start="20210227233000 +0700" stop="20210228003000 +0700" channel="Global TV">
+    <title lang="id">Maria Mercedes</title>
+  </programme>
+  <programme start="20210228003000 +0700" stop="20210228010000 +0700" channel="Global TV">
+    <title lang="id">Konon Katanya</title>
+  </programme>
+  <programme start="20210228010000 +0700" stop="20210228020000 +0700" channel="Global TV">
+    <title lang="id">Abdel &amp; Temon Bukan Superstar</title>
+  </programme>
+  <programme start="20210228020000 +0700" stop="20210228030000 +0700" channel="Global TV">
+    <title lang="id">Awas Ada Sule Lagi</title>
+  </programme>
+  <programme start="20210228030000 +0700" stop="20210228040000 +0700" channel="Global TV">
+    <title lang="id">Jeany &amp; Soun Miun</title>
+  </programme>
+  <programme start="20210228040000 +0700" stop="20210228043000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210228043000 +0700" stop="20210228050000 +0700" channel="Global TV">
+    <title lang="id">Ragam Cerita</title>
+  </programme>
+  <programme start="20210228050000 +0700" stop="20210228053000 +0700" channel="Global TV">
+    <title lang="id">Be Be Bears</title>
+  </programme>
+  <programme start="20210228053000 +0700" stop="20210228060000 +0700" channel="Global TV">
+    <title lang="id">Lost In Oz</title>
+  </programme>
+  <programme start="20210228060000 +0700" stop="20210228083000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Candyland</title>
+  </programme>
+  <programme start="20210228083000 +0700" stop="20210228093000 +0700" channel="Global TV">
+    <title lang="id">Hypening</title>
+  </programme>
+  <programme start="20210228093000 +0700" stop="20210228103000 +0700" channel="Global TV">
+    <title lang="id">Bisa Gitu Yak</title>
+  </programme>
+  <programme start="20210228103000 +0700" stop="20210228110000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Siang (L)</title>
+  </programme>
+  <programme start="20210228110000 +0700" stop="20210228123000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Family</title>
+  </programme>
+  <programme start="20210228123000 +0700" stop="20210228153000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Family</title>
+  </programme>
+  <programme start="20210228153000 +0700" stop="20210228163000 +0700" channel="Global TV">
+    <title lang="id">Si Bopak Pepy</title>
+  </programme>
+  <programme start="20210228163000 +0700" stop="20210228183000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210228183000 +0700" stop="20210228193000 +0700" channel="Global TV">
+    <title lang="id">Legenda Sang Penunggu</title>
+  </programme>
+  <programme start="20210228193000 +0700" stop="20210228210000 +0700" channel="Global TV">
+    <title lang="id">Asal: Asli Atau Palsu</title>
+  </programme>
+  <programme start="20210228210000 +0700" stop="20210228220000 +0700" channel="Global TV">
+    <title lang="id">Keluarga Manja (Duma &amp; Judika)</title>
+  </programme>
+  <programme start="20210228220000 +0700" stop="20210301000000 +0700" channel="Global TV">
+    <title lang="id">Ice Man 2</title>
+  </programme>
+  <programme start="20210301000000 +0700" stop="20210301010000 +0700" channel="Global TV">
+    <title lang="id">Konon Katanya</title>
+  </programme>
+  <programme start="20210301010000 +0700" stop="20210301013000 +0700" channel="Global TV">
+    <title lang="id">MSHOP</title>
+  </programme>
+  <programme start="20210301013000 +0700" stop="20210301020000 +0700" channel="Global TV">
+    <title lang="id">Abdel &amp; Temon Bukan Superstar</title>
+  </programme>
+  <programme start="20210301020000 +0700" stop="20210301030000 +0700" channel="Global TV">
+    <title lang="id">Awas Ada Sule Lagi</title>
+  </programme>
+  <programme start="20210301030000 +0700" stop="20210301040000 +0700" channel="Global TV">
+    <title lang="id">Warbiasak</title>
+  </programme>
+  <programme start="20210301040000 +0700" stop="20210301043000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210301043000 +0700" stop="20210301050000 +0700" channel="Global TV">
+    <title lang="id">Ragam Cerita</title>
+  </programme>
+  <programme start="20210301050000 +0700" stop="20210301053000 +0700" channel="Global TV">
+    <title lang="id">Turis Rempong</title>
+  </programme>
+  <programme start="20210301053000 +0700" stop="20210301060000 +0700" channel="Global TV">
+    <title lang="id">Be Be Bears</title>
+  </programme>
+  <programme start="20210301060000 +0700" stop="20210301063000 +0700" channel="Global TV">
+    <title lang="id">Zak Storm</title>
+  </programme>
+  <programme start="20210301063000 +0700" stop="20210301070000 +0700" channel="Global TV">
+    <title lang="id">Bernard Bears</title>
+  </programme>
+  <programme start="20210301070000 +0700" stop="20210301080000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210301080000 +0700" stop="20210301093000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Candyland</title>
+  </programme>
+  <programme start="20210301093000 +0700" stop="20210301100000 +0700" channel="Global TV">
+    <title lang="id">Obsesi (L)</title>
+  </programme>
+  <programme start="20210301100000 +0700" stop="20210301110000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Siang (L)</title>
+  </programme>
+  <programme start="20210301110000 +0700" stop="20210301150000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Family</title>
+  </programme>
+  <programme start="20210301150000 +0700" stop="20210301170000 +0700" channel="Global TV">
+    <title lang="id">Sasuke Ninja Warior Indonesia</title>
+  </programme>
+  <programme start="20210301170000 +0700" stop="20210301180000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210301180000 +0700" stop="20210301190000 +0700" channel="Global TV">
+    <title lang="id">Super Family 100</title>
+  </programme>
+  <programme start="20210301190000 +0700" stop="20210301200000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210301200000 +0700" stop="20210301210000 +0700" channel="Global TV">
+    <title lang="id">Legenda Sang Penunggu</title>
+  </programme>
+  <programme start="20210301210000 +0700" stop="20210301233000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Platinum</title>
+  </programme>
+  <programme start="20210301233000 +0700" stop="20210302003000 +0700" channel="Global TV">
+    <title lang="id">Konon Katanya</title>
+  </programme>
+  <programme start="20210223163000 +0700" stop="20210223180000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210223180000 +0700" stop="20210223193000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210223193000 +0700" stop="20210223233000 +0700" channel="MNC TV">
+    <title lang="id">Road To Kilau Raya</title>
+  </programme>
+  <programme start="20210223233000 +0700" stop="20210224010000 +0700" channel="MNC TV">
+    <title lang="id">Tarzan Penunggu Harta Karun</title>
+  </programme>
+  <programme start="20210224010000 +0700" stop="20210224020000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Malam</title>
+  </programme>
+  <programme start="20210224020000 +0700" stop="20210224023000 +0700" channel="MNC TV">
+    <title lang="id">Midnite Great Sale</title>
+  </programme>
+  <programme start="20210224023000 +0700" stop="20210224033000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+  <programme start="20210224033000 +0700" stop="20210224043000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+  <programme start="20210224043000 +0700" stop="20210224050000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Pagi</title>
+  </programme>
+  <programme start="20210224050000 +0700" stop="20210224053000 +0700" channel="MNC TV">
+    <title lang="id">Nikmatnya Sedekah</title>
+  </programme>
+  <programme start="20210224053000 +0700" stop="20210224063000 +0700" channel="MNC TV">
+    <title lang="id">Siraman Qolbu, Ustadz Dhanu</title>
+  </programme>
+  <programme start="20210224063000 +0700" stop="20210224090000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210224090000 +0700" stop="20210224104500 +0700" channel="MNC TV">
+    <title lang="id">Kun Anta</title>
+  </programme>
+  <programme start="20210224104500 +0700" stop="20210224112000 +0700" channel="MNC TV">
+    <title lang="id">Seleb On News</title>
+  </programme>
+  <programme start="20210224112000 +0700" stop="20210224113000 +0700" channel="MNC TV">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210224113000 +0700" stop="20210224120000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Siang</title>
+  </programme>
+  <programme start="20210224120000 +0700" stop="20210224123000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210224123000 +0700" stop="20210224130000 +0700" channel="MNC TV">
+    <title lang="id">Kiko</title>
+  </programme>
+  <programme start="20210224130000 +0700" stop="20210224140000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210224140000 +0700" stop="20210224151500 +0700" channel="MNC TV">
+    <title lang="id">Elif</title>
+  </programme>
+  <programme start="20210224151500 +0700" stop="20210224163000 +0700" channel="MNC TV">
+    <title lang="id">Iiihhh Serrreemm</title>
+  </programme>
+  <programme start="20210224163000 +0700" stop="20210224180000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210224180000 +0700" stop="20210224193000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210224193000 +0700" stop="20210224210000 +0700" channel="MNC TV">
+    <title lang="id">Dunia Tanpa Batas</title>
+  </programme>
+  <programme start="20210224210000 +0700" stop="20210224230000 +0700" channel="MNC TV">
+    <title lang="id">Kembalinya Raden Kian Santang</title>
+  </programme>
+  <programme start="20210224230000 +0700" stop="20210225010000 +0700" channel="MNC TV">
+    <title lang="id">Kelabang Seribu</title>
+  </programme>
+  <programme start="20210225010000 +0700" stop="20210225020000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Malam</title>
+  </programme>
+  <programme start="20210225020000 +0700" stop="20210225023000 +0700" channel="MNC TV">
+    <title lang="id">Midnite Great Sale</title>
+  </programme>
+  <programme start="20210225023000 +0700" stop="20210225033000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+  <programme start="20210225033000 +0700" stop="20210225043000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+  <programme start="20210225043000 +0700" stop="20210225050000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Pagi</title>
+  </programme>
+  <programme start="20210225050000 +0700" stop="20210225053000 +0700" channel="MNC TV">
+    <title lang="id">Nikmatnya Sedekah</title>
+  </programme>
+  <programme start="20210225053000 +0700" stop="20210225063000 +0700" channel="MNC TV">
+    <title lang="id">Siraman Qolbu, Ustadz Dhanu</title>
+  </programme>
+  <programme start="20210225063000 +0700" stop="20210225090000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210225090000 +0700" stop="20210225104500 +0700" channel="MNC TV">
+    <title lang="id">Kun Anta</title>
+  </programme>
+  <programme start="20210225104500 +0700" stop="20210225112000 +0700" channel="MNC TV">
+    <title lang="id">Seleb On News</title>
+  </programme>
+  <programme start="20210225112000 +0700" stop="20210225113000 +0700" channel="MNC TV">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210225113000 +0700" stop="20210225120000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Siang</title>
+  </programme>
+  <programme start="20210225120000 +0700" stop="20210225123000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210225123000 +0700" stop="20210225130000 +0700" channel="MNC TV">
+    <title lang="id">Kiko</title>
+  </programme>
+  <programme start="20210225130000 +0700" stop="20210225140000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210225140000 +0700" stop="20210225151500 +0700" channel="MNC TV">
+    <title lang="id">Elif</title>
+  </programme>
+  <programme start="20210225151500 +0700" stop="20210225163000 +0700" channel="MNC TV">
+    <title lang="id">Iiihhh Serrreemm</title>
+  </programme>
+  <programme start="20210225163000 +0700" stop="20210225180000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210225180000 +0700" stop="20210225193000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210225193000 +0700" stop="20210225210000 +0700" channel="MNC TV">
+    <title lang="id">Dunia Tanpa Batas</title>
+  </programme>
+  <programme start="20210225210000 +0700" stop="20210225230000 +0700" channel="MNC TV">
+    <title lang="id">Kembalinya Raden Kian Santang</title>
+  </programme>
+  <programme start="20210225230000 +0700" stop="20210226010000 +0700" channel="MNC TV">
+    <title lang="id">Sunan Kalijaga Dan Syech...</title>
+  </programme>
+  <programme start="20210226010000 +0700" stop="20210226020000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Malam</title>
+  </programme>
+  <programme start="20210226020000 +0700" stop="20210226023000 +0700" channel="MNC TV">
+    <title lang="id">Midnite Great Sale</title>
+  </programme>
+  <programme start="20210226023000 +0700" stop="20210226033000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+  <programme start="20210226033000 +0700" stop="20210226043000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+  <programme start="20210226043000 +0700" stop="20210226050000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Pagi</title>
+  </programme>
+  <programme start="20210226050000 +0700" stop="20210226053000 +0700" channel="MNC TV">
+    <title lang="id">Nikmatnya Sedekah</title>
+  </programme>
+  <programme start="20210226053000 +0700" stop="20210226063000 +0700" channel="MNC TV">
+    <title lang="id">Abah &amp; Aa</title>
+  </programme>
+  <programme start="20210226063000 +0700" stop="20210226090000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210226090000 +0700" stop="20210226104500 +0700" channel="MNC TV">
+    <title lang="id">Kun Anta</title>
+  </programme>
+  <programme start="20210226104500 +0700" stop="20210226112000 +0700" channel="MNC TV">
+    <title lang="id">Seleb On News</title>
+  </programme>
+  <programme start="20210226112000 +0700" stop="20210226113000 +0700" channel="MNC TV">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210226113000 +0700" stop="20210226120000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Siang</title>
+  </programme>
+  <programme start="20210226120000 +0700" stop="20210226123000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210226123000 +0700" stop="20210226130000 +0700" channel="MNC TV">
+    <title lang="id">Kiko</title>
+  </programme>
+  <programme start="20210226130000 +0700" stop="20210226140000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210226140000 +0700" stop="20210226151500 +0700" channel="MNC TV">
+    <title lang="id">Elif</title>
+  </programme>
+  <programme start="20210226151500 +0700" stop="20210226163000 +0700" channel="MNC TV">
+    <title lang="id">Iiihhh Serrreemm</title>
+  </programme>
+  <programme start="20210226163000 +0700" stop="20210226180000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210226180000 +0700" stop="20210226193000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210226193000 +0700" stop="20210226210000 +0700" channel="MNC TV">
+    <title lang="id">Dunia Tanpa Batas</title>
+  </programme>
+  <programme start="20210226210000 +0700" stop="20210226230000 +0700" channel="MNC TV">
+    <title lang="id">Kembalinya Raden Kian Santang</title>
+  </programme>
+  <programme start="20210226230000 +0700" stop="20210227010000 +0700" channel="MNC TV">
+    <title lang="id">Seruling Sakti</title>
+  </programme>
+  <programme start="20210227010000 +0700" stop="20210227020000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Malam</title>
+  </programme>
+  <programme start="20210227020000 +0700" stop="20210227023000 +0700" channel="MNC TV">
+    <title lang="id">Midnite Great Sale</title>
+  </programme>
+  <programme start="20210227023000 +0700" stop="20210227033000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+  <programme start="20210227033000 +0700" stop="20210227043000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+  <programme start="20210227043000 +0700" stop="20210227050000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Pagi</title>
+  </programme>
+  <programme start="20210227050000 +0700" stop="20210227053000 +0700" channel="MNC TV">
+    <title lang="id">Best Of Siraman Qolbu</title>
+  </programme>
+  <programme start="20210227053000 +0700" stop="20210227063000 +0700" channel="MNC TV">
+    <title lang="id">Abah &amp; Aa</title>
+  </programme>
+  <programme start="20210227063000 +0700" stop="20210227080000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210227080000 +0700" stop="20210227083000 +0700" channel="MNC TV">
+    <title lang="id">Simple Rudy</title>
+  </programme>
+  <programme start="20210227083000 +0700" stop="20210227093000 +0700" channel="MNC TV">
+    <title lang="id">Dapur Ngebor</title>
+  </programme>
+  <programme start="20210227093000 +0700" stop="20210227103000 +0700" channel="MNC TV">
+    <title lang="id">Kun Anta</title>
+  </programme>
+  <programme start="20210227103000 +0700" stop="20210227110000 +0700" channel="MNC TV">
+    <title lang="id">Mom &amp; Kids</title>
+  </programme>
+  <programme start="20210227110000 +0700" stop="20210227111000 +0700" channel="MNC TV">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210227111000 +0700" stop="20210227114000 +0700" channel="MNC TV">
+    <title lang="id">Zak Storm</title>
+  </programme>
+  <programme start="20210227114000 +0700" stop="20210227124000 +0700" channel="MNC TV">
+    <title lang="id">Shaun The Sheep</title>
+  </programme>
+  <programme start="20210227124000 +0700" stop="20210227140000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210227140000 +0700" stop="20210227151500 +0700" channel="MNC TV">
+    <title lang="id">Elif</title>
+  </programme>
+  <programme start="20210227151500 +0700" stop="20210227163000 +0700" channel="MNC TV">
+    <title lang="id">Iiihhh Serrreemm</title>
+  </programme>
+  <programme start="20210227163000 +0700" stop="20210227173000 +0700" channel="MNC TV">
+    <title lang="id">Rumah Ruben</title>
+  </programme>
+  <programme start="20210227173000 +0700" stop="20210227180000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210227180000 +0700" stop="20210227193000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210227193000 +0700" stop="20210227210000 +0700" channel="MNC TV">
+    <title lang="id">Dunia Tanpa Batas</title>
+  </programme>
+  <programme start="20210227210000 +0700" stop="20210227230000 +0700" channel="MNC TV">
+    <title lang="id">Kembalinya Raden Kian Santang</title>
+  </programme>
+  <programme start="20210227230000 +0700" stop="20210228003000 +0700" channel="MNC TV">
+    <title lang="id">Ekspedisi Harta Karun</title>
+  </programme>
+  <programme start="20210228003000 +0700" stop="20210228020000 +0700" channel="MNC TV">
+    <title lang="id">Aladdin</title>
+  </programme>
+  <programme start="20210228020000 +0700" stop="20210228023000 +0700" channel="MNC TV">
+    <title lang="id">Midnite Great Sale</title>
+  </programme>
+  <programme start="20210228023000 +0700" stop="20210228040000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+  <programme start="20210228040000 +0700" stop="20210228043000 +0700" channel="MNC TV">
+    <title lang="id">Bimbingan Rohani Budha</title>
+  </programme>
+  <programme start="20210228043000 +0700" stop="20210228050000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Pagi</title>
+  </programme>
+  <programme start="20210228050000 +0700" stop="20210228063000 +0700" channel="MNC TV">
+    <title lang="id">Cahaya Tauhid</title>
+  </programme>
+  <programme start="20210228063000 +0700" stop="20210228090000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210228090000 +0700" stop="20210228103000 +0700" channel="MNC TV">
+    <title lang="id">Serial Pilihan</title>
+  </programme>
+  <programme start="20210228103000 +0700" stop="20210228110000 +0700" channel="MNC TV">
+    <title lang="id">Mom &amp; Kids</title>
+  </programme>
+  <programme start="20210228110000 +0700" stop="20210228111000 +0700" channel="MNC TV">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210228111000 +0700" stop="20210228114000 +0700" channel="MNC TV">
+    <title lang="id">Backom</title>
+  </programme>
+  <programme start="20210228114000 +0700" stop="20210228124000 +0700" channel="MNC TV">
+    <title lang="id">Shaun The Sheep</title>
+  </programme>
+  <programme start="20210228124000 +0700" stop="20210228140000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210228140000 +0700" stop="20210228151500 +0700" channel="MNC TV">
+    <title lang="id">Elif</title>
+  </programme>
+  <programme start="20210228151500 +0700" stop="20210228163000 +0700" channel="MNC TV">
+    <title lang="id">Iiihhh Serrreemm</title>
+  </programme>
+  <programme start="20210228163000 +0700" stop="20210228173000 +0700" channel="MNC TV">
+    <title lang="id">Rumah Ruben</title>
+  </programme>
+  <programme start="20210228173000 +0700" stop="20210228180000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210228180000 +0700" stop="20210228193000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210228193000 +0700" stop="20210228210000 +0700" channel="MNC TV">
+    <title lang="id">Dunia Tanpa Batas</title>
+  </programme>
+  <programme start="20210228210000 +0700" stop="20210228230000 +0700" channel="MNC TV">
+    <title lang="id">Kembalinya Raden Kian Santang</title>
+  </programme>
+  <programme start="20210228230000 +0700" stop="20210301003000 +0700" channel="MNC TV">
+    <title lang="id">Tai Chi Master</title>
+  </programme>
+  <programme start="20210301003000 +0700" stop="20210301020000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Pilihan</title>
+  </programme>
+  <programme start="20210301020000 +0700" stop="20210301023000 +0700" channel="MNC TV">
+    <title lang="id">Midnite Great Sale</title>
+  </programme>
+  <programme start="20210301023000 +0700" stop="20210301033000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+  <programme start="20210301033000 +0700" stop="20210301043000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+  <programme start="20210301043000 +0700" stop="20210301050000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Pagi</title>
+  </programme>
+  <programme start="20210301050000 +0700" stop="20210301053000 +0700" channel="MNC TV">
+    <title lang="id">Nikmatnya Sedekah</title>
+  </programme>
+  <programme start="20210301053000 +0700" stop="20210301063000 +0700" channel="MNC TV">
+    <title lang="id">Siraman Qolbu, Ustadz Dhanu</title>
+  </programme>
+  <programme start="20210301063000 +0700" stop="20210301090000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210301090000 +0700" stop="20210301104500 +0700" channel="MNC TV">
+    <title lang="id">Serial Pilihan</title>
+  </programme>
+  <programme start="20210301104500 +0700" stop="20210301112000 +0700" channel="MNC TV">
+    <title lang="id">Seleb On News</title>
+  </programme>
+  <programme start="20210301112000 +0700" stop="20210301113000 +0700" channel="MNC TV">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210301113000 +0700" stop="20210301120000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Siang</title>
+  </programme>
+  <programme start="20210301120000 +0700" stop="20210301123000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210301123000 +0700" stop="20210301130000 +0700" channel="MNC TV">
+    <title lang="id">Kiko</title>
+  </programme>
+  <programme start="20210301130000 +0700" stop="20210301140000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210301140000 +0700" stop="20210301160000 +0700" channel="MNC TV">
+    <title lang="id">Serial Pilihan Siang</title>
+  </programme>
+  <programme start="20210301160000 +0700" stop="20210301170000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210301170000 +0700" stop="20210301180000 +0700" channel="MNC TV">
+    <title lang="id">Rumah Ruben</title>
+  </programme>
+  <programme start="20210301180000 +0700" stop="20210301191500 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210301191500 +0700" stop="20210301211500 +0700" channel="MNC TV">
+    <title lang="id">I Can See Your Voice Indonesia</title>
+  </programme>
+  <programme start="20210301211500 +0700" stop="20210301231500 +0700" channel="MNC TV">
+    <title lang="id">Serial Utama 2</title>
+  </programme>
+  <programme start="20210301231500 +0700" stop="20210302010000 +0700" channel="MNC TV">
+    <title lang="id">Blockbuster</title>
   </programme>
 </tv>
