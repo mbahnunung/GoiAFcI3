@@ -63,8 +63,8 @@ https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 https://gratismkctv.net/oxygen.m3u8?channel=matrixtv 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="Music", MAXSTREAM Music
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="Music", Prambors
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5704e29c-7c25-4f2a-bfb5-0247b28fc60b)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_big1.png?v=2.0.0.13" group-title="Music", Prambors
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2ce6c44c-c56a-2cd7-c30e-271ef6b31ce9)/index.m3u8
 
 ########################################## ARAB TV ######################################################
 
