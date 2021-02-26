@@ -8,17 +8,14 @@ https://tv.mbahnunungonline.net/playlist/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
-#http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 https://gratismkctv.net/oxygen.m3u8?channel=antv
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", Indosiar
-#http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", Metro TV 
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="Nasional", Trans 7
 https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", Trans TV
-#http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8
 https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV
 https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
@@ -72,6 +69,8 @@ http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png?v=2.0.0.13" group-title="Lokal", InspiraTV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 group-title="MAXSTREAM" tvg-logo="https://i.imgur.com/DiZMiIR.png", Mola TV Free
+https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13" group-title="Lokal", DAAITV
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png" group-title="News",IDX
@@ -383,11 +382,11 @@ http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/33971
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6685_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kGlB-sKLV4Q/YAryQHIavtI/AAAAAAAAMlU/GVzoW04KETwepTxXxkvWlf2k-7ZkXSRLgCLcBGAsYHQ/s0/logo_champTV2.png" group-title="Sports", Champion TV 2
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6686_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1IdpSOaDbz4/YAsD_iCGmHI/AAAAAAAAMlo/1wBdrH_6M280Mreb41TB3sMYQaVtwmcwQCLcBGAsYHQ/s0/logo_foxsports1.png?v=2.0.0.13" group-title="Sports", Fox Sport 1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1IdpSOaDbz4/YAsD_iCGmHI/AAAAAAAAMlo/1wBdrH_6M280Mreb41TB3sMYQaVtwmcwQCLcBGAsYHQ/s0/logo_foxsports1.png?v=2.0.0.13" group-title="Sports", Fox Sports 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TBYTApGZA40/YAsEOw9wASI/AAAAAAAAMls/I9CewyP_Z44BoymOYNBzznPrkj9FPE_uwCLcBGAsYHQ/s0/logo_foxsports2.png?v=2.0.0.13" group-title="Sports", Fox Sport 2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TBYTApGZA40/YAsEOw9wASI/AAAAAAAAMls/I9CewyP_Z44BoymOYNBzznPrkj9FPE_uwCLcBGAsYHQ/s0/logo_foxsports2.png?v=2.0.0.13" group-title="Sports", Fox Sports 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dopyzDzv-FI/YAsEfVW6PLI/AAAAAAAAMl4/tTjq0xEPoaUAflywZ1-l0tsIrUSKMvwiwCLcBGAsYHQ/s0/logo_foxsports3.png?v=2.0.0.13" group-title="Sports", Fox Sport 3
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dopyzDzv-FI/YAsEfVW6PLI/AAAAAAAAMl4/tTjq0xEPoaUAflywZ1-l0tsIrUSKMvwiwCLcBGAsYHQ/s0/logo_foxsports3.png?v=2.0.0.13" group-title="Sports", Fox Sports 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/VPKATFr.png", Redbull TV
 http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
@@ -422,20 +421,6 @@ https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Fashion",Miami TV Jenny Live
 http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png" group-title="Fashion",Naked News
-http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJYOQ8g.jpg" group-title="Fashion",Wanisa-p01h(TBA)
-http://content.jwplatform.com/manifests/gG9DRJhA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qj8wo0m.jpg" group-title="Fashion",Amber Sym Shows Off Her Perfect Physique And Tight Muff On The Bed
-http://content.jwplatform.com/manifests/FvZNULgu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dJKOAbO.jpg" group-title="Fashion",Ravishing blonde model in the nude makes love to the camera
-http://content.jwplatform.com/manifests/cNEunswQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rggRHeB.jpg" group-title="Fashion",Fara Q. striptease
-http://content.jwplatform.com/manifests/GiPndjAz.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2a4GuFp.jpg" group-title="Fashion",Maria Warm Up
-http://content.jwplatform.com/manifests/Ig0Psrrc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2vhOM7x.jpg" group-title="Fashion",Emily Bloom amazing girl
-http://content.jwplatform.com/manifests/KXeIME5W.m3u8
 
 ########################################## RADIO ######################################################
 
@@ -457,6 +442,8 @@ http://45.64.98.181:8323/stream
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ROIVcupd6Tg/XKZZ_6dCrxI/AAAAAAAALMg/rlL6ZS2JQbcwiWUiJ7_7TIuQknBFDyObQCLcBGAs/s1600/logo_tvri.png" group-title="Nasional",TVRI (Vision+)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=2.0.0.13" group-title="Nasional", RCTI
+https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" group-title="ID", SCTV
 https://tv.mbahnunungonline.net/playlist/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="ID",KOMPASTV (Max)
@@ -477,8 +464,6 @@ https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia
 https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia-x
 
 
-#EXTINF:-1 group-title="MAXSTREAM" tvg-logo="https://i.imgur.com/DiZMiIR.png", Mola TV Free
-https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="MAXSTREAM", MAXSTREAM Music
 https://tv.mbahnunungonline.net/playlist/maxstream.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-kn_rGzl7iV4/Xgt3GeRg-aI/AAAAAAAAIm8/976RwA5D3ww7z5vPvUlSNObE0AxgzjhVgCLcBGAsYHQ/w765/M-Channel-Nex-Parabola.jpg" group-title="MUSIC", M Channel
