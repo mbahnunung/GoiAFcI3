@@ -3,8 +3,8 @@
 https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0 
 #https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV
-#http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
-https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
+https://tv.mbahnunungonline.net/playlist/sctv.m3u8
+#https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
