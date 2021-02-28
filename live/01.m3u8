@@ -44,7 +44,7 @@ https://ch.iptvmate.net/ba3539a9b1f8c864f53b6acb4ca3c72b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=2.0.0.13" group-title="News", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png?v=2.0.0.13" group-title="Entertainment", MYTV
-http://rr2.dens.tv/s/s46/01.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=2.0.0.13" group-title="Entertainment", The Indonesia Channel
 https://5effe161e0fba.streamlock.net:30443/live/TIC.stream_720p/chunklist_w1975236188.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="Lokal", NusantaraTV
@@ -56,7 +56,7 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=2.0.0.13" group-title="Lokal", JAK-TV
 http://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwxmNpN.png" group-title="Lokal", ElshintaTV
-http://ironman.my.id/andri/andriant.php?channel=elshinta
+https://gratismkctv.net/oxygen.m3u8?channel=elshinta
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=2.0.0.13" group-title="Knowledge", TV Edukasi
 http://118.98.221.131/live/tvedukasi_5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=2.0.0.13" group-title="News", CHANNEL NEWSASIA
