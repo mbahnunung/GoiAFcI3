@@ -24,7 +24,7 @@ https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0
 https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET.
 https://tv.mbahnunungonline.net/playlist/nettv.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", TV ONE
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", TVONE
 https://gratismkctv.net/oxygen.m3u8?channel=tvone 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/aJhpmgf.png?v=2.0.0.13" group-title="Nasional", Kompas TV
 https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/KompasTV.m3u8?dl=0 
@@ -35,7 +35,7 @@ https://dl.dropboxusercontent.com/s/fi22byc96zqyx2u/RTV.m3u8?dl=0
 #EXTINF:0 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XBtbPBF.png?v=2.0.0.13" group-title="Nasional", TVRI
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Nasional", iNews
-https://vcdn2.rctiplus.id:443/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+http://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #http://93.190.139.34:8278/streams/d/Inewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="News", Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
@@ -46,7 +46,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png?v=2.0.0.13" group-title="Entertainment", MYTV
 http://rr2.dens.tv/s/s46/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=2.0.0.13" group-title="Entertainment", The Indonesia Channel
-https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+https://5effe161e0fba.streamlock.net:30443/live/TIC.stream_720p/chunklist_w1975236188.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="Lokal", NusantaraTV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png" group-title="News",SEA Today
@@ -63,9 +63,9 @@ http://118.98.221.131/live/tvedukasi_5/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=2.0.0.13" group-title="Religious", TV9 Nusantara
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=2.0.0.13" group-title="Religious", TV9 NU
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=2.0.0.13" group-title="Religious", tvMu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=2.0.0.13" group-title="Religious", Muhammadiyah TV
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png?v=2.0.0.13" group-title="Lokal", JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
@@ -439,19 +439,19 @@ http://content.jwplatform.com/manifests/KXeIME5W.m3u8
 
 ########################################## RADIO ######################################################
 
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cpg6ctebufpp.jpg" group-title="Radio",mbah nunung Online
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cpg6ctebufpp.jpg" group-title="Radio", mbah nunung Online
 http://78.129.237.53:9118/stream
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bIQJYXCkW1U/X_hIakBmkQI/AAAAAAAAMeU/x-8vwWIzMxYijxhEpSUaEDPWiyniq2vwACLcBGAsYHQ/s0/bintangtenggara.png" group-title="Radio",Bintang Tenggara
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bIQJYXCkW1U/X_hIakBmkQI/AAAAAAAAMeU/x-8vwWIzMxYijxhEpSUaEDPWiyniq2vwACLcBGAsYHQ/s0/bintangtenggara.png" group-title="Radio", Bintang Tenggara
 http://live.radiobintangtenggara.com:8000/mbahnunungonline
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zKfFBaCN2dU/WP21Pg4t5ZI/AAAAAAAAAjQ/ndweLDJMRYw-3r_J-GTM-RhEMtqul5FDACPcBGAYYCw/s0/mcfm_station.png" group-title="Radio",MCFM
 http://live.sg.mcfmbwi.com:9720/mcfm
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ydBhgJoV9Wc/VYYKjRtXEqI/AAAAAAAAAJI/-sdDXgv4UzY/s1600/LOGO%2BSRITANJUNG.jpg" group-title="Radio",SRITANJUNG
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ydBhgJoV9Wc/VYYKjRtXEqI/AAAAAAAAAJI/-sdDXgv4UzY/s1600/LOGO%2BSRITANJUNG.jpg" group-title="Radio", SRITANJUNG
 http://play.xajist.com:8208/stream
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IVu0rwyczX8/U8gBkcGwu6I/AAAAAAAAD1k/-ZcGciZ4nUQ/s1600/visfm.png" group-title="Radio",VisFM
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IVu0rwyczX8/U8gBkcGwu6I/AAAAAAAAD1k/-ZcGciZ4nUQ/s1600/visfm.png" group-title="Radio", VisFM
 http://s4.vinhostmedia.com:8000/streamaac
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Uxf8xz3e6rg/VD4OjHN7jBI/AAAAAAAAEFw/hi81dF_UdQ0/s1600/gbsfm.png" group-title="Radio",GBSFM
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Uxf8xz3e6rg/VD4OjHN7jBI/AAAAAAAAEFw/hi81dF_UdQ0/s1600/gbsfm.png" group-title="Radio", GBSFM
 https://s7.alhastream.com/radio/8090/radio?1609467814144
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg" group-title="Radio",RAYA FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg" group-title="Radio", RAYA FM
 http://45.64.98.181:8323/stream
 
 
