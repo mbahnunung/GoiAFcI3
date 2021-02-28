@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="Music", Maleo Channel
+#EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="Nasional", Maleo Channel
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional", RCTI 
 #https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
