@@ -12,7 +12,7 @@ https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
 https://gratismkctv.net/oxygen.m3u8?channel=antv 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", Indosiar
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=2.0.0.13" group-title="Nasional", Metro TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" tvg-id="MetroTV" group-title="Nasional", Metro TV  
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png" group-title="Nasional", Trans 7 
 https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0 
