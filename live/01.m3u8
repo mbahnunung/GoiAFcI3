@@ -9,7 +9,7 @@ https://tv.mbahnunungonline.net/playlist/sctv.m3u8
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
 #http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
-https://gratismkctv.net/oxygen.m3u8?channel=antv
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=antv
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", Indosiar
 #http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
@@ -25,7 +25,7 @@ https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET.
 https://tv.mbahnunungonline.net/playlist/nettv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", TVONE
-https://gratismkctv.net/oxygen.m3u8?channel=tvone 
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=tvone 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/aJhpmgf.png?v=2.0.0.13" group-title="Nasional", Kompas TV
 https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/KompasTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XlZqfwV.png?v=2.0.0.13" group-title="Nasional", rtv
@@ -470,9 +470,9 @@ https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Tes", NET.
 #https://dl.dropboxusercontent.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 #EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="oxygen", Sinema Indonesia
-https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=sinemaindonesia
 #EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://2.bp.blogspot.com/-95KNePoIAOI/XE6oA78TNrI/AAAAAAAAnJA/7EmSy6tZPVMPbw_3L-45Hjua1y8Do4gywCLcBGAs/s1600/sinema-indonesia-x-tv-channel-logo.jpg" group-title="oxygen",SINEMA INDONESIA X
-https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia-x
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=sinemaindonesia-x
 
 
 #EXTINF:-1 group-title="MAXSTREAM" tvg-logo="https://i.imgur.com/DiZMiIR.png", Mola TV Free
@@ -480,4 +480,4 @@ https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="MAXSTREAM", MAXSTREAM Music
 https://tv.mbahnunungonline.net/playlist/maxstream.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-kn_rGzl7iV4/Xgt3GeRg-aI/AAAAAAAAIm8/976RwA5D3ww7z5vPvUlSNObE0AxgzjhVgCLcBGAsYHQ/w765/M-Channel-Nex-Parabola.jpg" group-title="MUSIC", M Channel
-https://gratismkctv.net/oxygen.m3u8?channel=matrixtv 
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=matrixtv 
