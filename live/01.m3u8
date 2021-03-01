@@ -180,10 +180,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQsUvIE.jpg" group-title="Malaysia", TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XYeb1CE.jpg" group-title="Singapore", SuriaTV
-http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MqZdA4W.jpg" group-title="Singapore", Ch 5
-http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
+
 
 ########################################## MUSIC ######################################################
 
@@ -477,7 +474,7 @@ https://gratismkctv.net/oxygen/oxygen.m3u8?channel=sinemaindonesia-x
 
 #EXTINF:-1 group-title="MAXSTREAM" tvg-logo="https://i.imgur.com/DiZMiIR.png", Mola TV Free
 https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="MAXSTREAM", MAXSTREAM Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="MAXSTREAM", Maxstream Music
 https://tv.mbahnunungonline.net/playlist/maxstream.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-kn_rGzl7iV4/Xgt3GeRg-aI/AAAAAAAAIm8/976RwA5D3ww7z5vPvUlSNObE0AxgzjhVgCLcBGAsYHQ/w765/M-Channel-Nex-Parabola.jpg" group-title="MUSIC", M Channel
 https://gratismkctv.net/oxygen/oxygen.m3u8?channel=matrixtv 
