@@ -41,7 +41,7 @@ http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/rg1rTkj.png?v=2.0.0.13", Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/pwxmNpN.png?v=2.0.0.13", Elshinta TV
-http://ironman.my.id/andri/andriant.php?channel=elshinta
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=elshinta
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=2.0.0.13", JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13", Nusantara TV
@@ -51,7 +51,7 @@ https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=2.0.0.13", MYTV
 https://dl.dropboxusercontent.com/s/6lfyrpurxqxof9a/MyTV.m3u8?dl=0
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13", DAAI TV
-https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6482_720p/index.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/RwVhc31.png?v=2.0.0.13", ADI TV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/LogvK3X.png?v=2.0.0.13", DUTA TV
@@ -103,9 +103,9 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3FNJE69u8Gk/W9yMvE3XYBI/AAAAAAAAJ7M/zWiB51aguT0mV1Yh_PiosfmLmlbHhblewCLcBGAs/s1600/bioskopindonesia.png?v=1.0.0.0" group-title="oxygen", Bioskop Indonesia
 https://nonton.site:8443/live/novi/novi123/908.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="oxygen", Sinema Indonesia
-https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-95KNePoIAOI/XE6oA78TNrI/AAAAAAAAnJA/7EmSy6tZPVMPbw_3L-45Hjua1y8Do4gywCLcBGAs/s1600/sinema-indonesia-x-tv-channel-logo.jpg" group-title="oxygen",SINEMA INDONESIA X
-https://gratismkctv.net/oxygen.m3u8?channel=sinemaindonesia-x
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=sinemaindonesia
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-95KNePoIAOI/XE6oA78TNrI/AAAAAAAAnJA/7EmSy6tZPVMPbw_3L-45Hjua1y8Do4gywCLcBGAs/s1600/sinema-indonesia-x-tv-channel-logo.jpg" group-title="oxygen", SINEMA INDONESIA X
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=sinemaindonesia-x
 
 ########################################## RADIO ######################################################
 
