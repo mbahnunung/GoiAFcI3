@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=2.0.0.13" tvg-id="RCTI" group-title="Nasional", RCTI
 https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0 
-#https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/fH8rFb8.png?v=2.0.0.13" tvg-id="SCTV" group-title="Nasional", SCTV
 https://tv.mbahnunungonline.net/playlist/sctv.m3u8
 #https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
