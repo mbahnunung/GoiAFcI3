@@ -167,11 +167,11 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oW0riHe.jpg" group-title="Malaysia", TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LnYVMQN/TV7-PPI.png" group-title="Malaysia", NTV7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SwIYxt.png" group-title="Malaysia", NTV7
 http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JF474FR/TV8-PPI.png" group-title="Malaysia", 8TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGGXGzn.png" group-title="Malaysia", 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XsNDd3Z/TV9-PPI.png" group-title="Malaysia", TV9 MALAYSIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f2JzaMd.png" group-title="Malaysia", TV9 MALAYSIA
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png" group-title="Malaysia", AL HIJRAH
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
