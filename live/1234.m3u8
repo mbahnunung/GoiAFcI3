@@ -63,8 +63,6 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6482_720p/index.
 https://gratismkctv.net/oxygen/oxygen.m3u8?channel=matrixtv 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="Music", MAXSTREAM Music
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GFtfTIm.png?v=2.0.0.13" group-title="Music", Prambors
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2ce6c44c-c56a-2cd7-c30e-271ef6b31ce9)/index.m3u8
 
 ########################################## ARAB TV ######################################################
 
@@ -145,7 +143,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png" group-title="Hindi", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jIF1NXl.jpg" group-title="MUSIC", B4U Music
-https://gratismkctv.net/oxygen.m3u8?channel=b4umusicindia
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=b4umusicindia
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" group-title="MUSIC", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JnDa5NiJFz8/YA26GMyTDHI/AAAAAAAAA_o/-Z8g-f0-Ny8V_fT17wTq2swCMtmrOCr-QCLcBGAsYHQ/s0/bflix-movies-logo.jpg" group-title="Hindi", Bflix Movies
