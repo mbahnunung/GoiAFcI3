@@ -36,7 +36,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 
 ########################################## Local ######################################################
 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/XQGggkA.jpg?v=2.0.0.13", JawaposTV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/XQGggkA.jpg?v=2.0.0.13", Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/rg1rTkj.png?v=2.0.0.13", Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
@@ -44,17 +44,17 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 http://ironman.my.id/andri/andriant.php?channel=elshinta
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=2.0.0.13", JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13", NusantaraTV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/wbOdROI.png?v=2.0.0.13", InspiraTV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/wbOdROI.png?v=2.0.0.13", Inspira TV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=2.0.0.13", MYTV
 https://dl.dropboxusercontent.com/s/6lfyrpurxqxof9a/MyTV.m3u8?dl=0
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13", DAAITV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13", DAAI TV
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/RwVhc31.png?v=2.0.0.13", ADITV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/RwVhc31.png?v=2.0.0.13", ADI TV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/LogvK3X.png?v=2.0.0.13", DUTATV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/LogvK3X.png?v=2.0.0.13", DUTA TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=2.0.0.13", JAK-TV
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5415_720p/index.m3u8
@@ -64,9 +64,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 
 ########################################## SPORTS ######################################################
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yZhfZqwOeVk/YAryQT83B4I/AAAAAAAAMlY/M7B9Pz_GJZ0VtN3cbbeKgnmEdr9HL-L6QCLcBGAsYHQ/s0/logo_champTV1.png" group-title="Sports", Champions TV 1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yZhfZqwOeVk/YAryQT83B4I/AAAAAAAAMlY/M7B9Pz_GJZ0VtN3cbbeKgnmEdr9HL-L6QCLcBGAsYHQ/s0/logo_champTV1.png?v=2.0.0.13" group-title="Sports", Champions TV 1
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6685_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kGlB-sKLV4Q/YAryQHIavtI/AAAAAAAAMlU/GVzoW04KETwepTxXxkvWlf2k-7ZkXSRLgCLcBGAsYHQ/s0/logo_champTV2.png" group-title="Sports", Champions TV 2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kGlB-sKLV4Q/YAryQHIavtI/AAAAAAAAMlU/GVzoW04KETwepTxXxkvWlf2k-7ZkXSRLgCLcBGAsYHQ/s0/logo_champTV2.png?v=2.0.0.13" group-title="Sports", Champions TV 2
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6686_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1IdpSOaDbz4/YAsD_iCGmHI/AAAAAAAAMlo/1wBdrH_6M280Mreb41TB3sMYQaVtwmcwQCLcBGAsYHQ/s0/logo_foxsports1.png?v=2.0.0.13" group-title="Sports",Fox Sports
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
