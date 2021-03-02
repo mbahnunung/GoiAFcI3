@@ -48,9 +48,9 @@ https://dl.dropboxusercontent.com/s/anlevmjwq11og3z/AjwaTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=2.0.0.13" group-title="Religious", TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png?v=2.0.0.13" group-title="Lokal", JTV 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=2.0.0.13" group-title="Religious", Muhammadiyah TV
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png?v=2.0.0.13" group-title="Nasional", MyTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=2.0.0.13" group-title="Nasional", SEA Today 
