@@ -32,7 +32,8 @@ https://tv.mbahnunungonline.net/playlist/kompastv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XlZqfwV.png?v=2.0.0.13" tvg-id="rtv" group-title="Indonesia", rtv
 https://tv.mbahnunungonline.net/playlist/rtv.m3u8 
 #EXTINF:0 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XBtbPBF.png?v=2.0.0.13" tvg-id="TVRI" group-title="Indonesia", TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(77397c5b-b16b-4e71-84ab-9488a96dfbed)/index.m3u8
+#http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" tvg-id="iNews" group-title="Indonesia", iNews
 https://dl.dropboxusercontent.com/s/vd7uvm50pzth7a4/iNews.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" tvg-id="BeritaSatu" group-title="Indonesia", Berita Satu
