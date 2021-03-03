@@ -232,7 +232,7 @@ https://nonton.site:8443/live/novi/novi123/1195.m3u8
 #EXTINF:-1 tvg-id="StarWorld.in" tvg-name="Star World" tvg-logo="https://i.imgur.com/yA4uXrF.png" group-title="Movies", Star World
 https://nonton.site:8443/live/novi/novi123/381.m3u8
 
-########################################## KNOWLEDGE ######################################################
+########################################## Knowledge ######################################################
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="Knowledge" tvg-id="" tvg-name"National Geographic Channel", National Geographic Channel
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -251,7 +251,7 @@ https://dl.dropboxusercontent.com/s/0jug1965kcz6mvv/LoveNature.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CLN1nXp.jpg" group-title="Knowledge", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 
-########################################## ENTERTAINMENT ######################################################
+########################################## Entertainment ######################################################
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2Xc7-AAajOg/YApExgl7KCI/AAAAAAAAMkw/RqbhGiH6vicPCWiYmoRE4UkrhkQNh1F8ACLcBGAsYHQ/s0/logo_hgtv.png" group-title="Lifestyle" tvg-id="" tvg-name"HGTV", HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
@@ -313,7 +313,7 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg" group-title="Hindi", &Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zoN04b.jpg" group-title="Hindi", Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png" group-title="Hindi", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png" group-title="Hindi", Zee Cinema
