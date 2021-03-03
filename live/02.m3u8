@@ -71,9 +71,9 @@ http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png?v=2.0.0.13" group-title="Lokal", Inspira TV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/DiZMiIR.png", Mola TV Free
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiZMiIR.png?v=2.0.0.13" group-title="Sports", Mola TV Free
 https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13" group-title="Lokal", DAAITV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13" group-title="Lokal", DAAI TV
 https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/DaaiTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png" group-title="Indonesia",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8
