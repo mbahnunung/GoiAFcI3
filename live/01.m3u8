@@ -10,7 +10,6 @@ https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
 https://gratismkctv.net/oxygen/oxygen.m3u8?channel=antv
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", Indosiar
-#http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="Nasional", Metro TV 
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
@@ -23,7 +22,7 @@ https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET.
 https://tv.mbahnunungonline.net/playlist/nettv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/UqGSTVT.png?v=2.0.0.13" group-title="Nasional", tvOne
-https://gratismkctv.net/oxygen/oxygen.m3u8?channel=tvone 
+https://tv.mbahnunungonline.net/playlist/tvone.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/aJhpmgf.png?v=2.0.0.13" group-title="Nasional", Kompas TV
 https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/KompasTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XlZqfwV.png?v=2.0.0.13" group-title="Nasional", rtv
@@ -79,7 +78,7 @@ http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XQGggkA.jpg?v=2.0.0.13" group-title="Lokal", Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=2.0.0.13" group-title="Lokal", Bali TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+https://tv.mbahnunungonline.net/playlist/balitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png?v=2.0.0.13" group-title="Lokal", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
