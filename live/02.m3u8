@@ -14,7 +14,6 @@ http://rr2.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" tvg-id="Indosiar" group-title="Indonesia", Indosiar
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" tvg-id="MetroTV" group-title="Indonesia", Metro TV 
-#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8 
 https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" tvg-id="Trans7" group-title="Indonesia", Trans 7
 https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0 
@@ -30,7 +29,7 @@ https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
 #https://gratismkctv.net/oxygen/oxygen.m3u8?channel=tvone 
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/aJhpmgf.png?v=2.0.0.13" tvg-id="KompasTV" group-title="Indonesia", Kompas TV
-https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/KompasTV.m3u8?dl=0 
+https://tv.mbahnunungonline.net/playlist/kompastv.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XlZqfwV.png?v=2.0.0.13" tvg-id="rtv" group-title="Indonesia", rtv
 https://tv.mbahnunungonline.net/playlist/rtv.m3u8 
 #EXTINF:0 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XBtbPBF.png?v=2.0.0.13" tvg-id="TVRI" group-title="Indonesia", TVRI
