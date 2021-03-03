@@ -30,7 +30,7 @@ https://dl.dropboxusercontent.com/s/vd7uvm50pzth7a4/iNews.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="Nasional", CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Nasional", Berita Satu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8 
+https://dl.dropboxusercontent.com/s/5b9c9h47bbpqohp/BeritaSatu.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Nasional", TVRI 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 
@@ -75,7 +75,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dopyzDzv-FI/YAsEfVW6PLI/AAAAAAAAMl4/tTjq0xEPoaUAflywZ1-l0tsIrUSKMvwiwCLcBGAsYHQ/s0/logo_foxsports3.png?v=2.0.0.13" group-title="Sports",Fox Sports 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 
-########################################## KNOWLEDGE ####################################################
+########################################## Knowledge ####################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8 
@@ -89,6 +89,8 @@ https://dl.dropboxusercontent.com/s/pvin86ey4pqavia/Smithsonian.m3u8?dl=0
 https://dl.dropboxusercontent.com/s/0jug1965kcz6mvv/LoveNature.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RfIj9lU.png?v=2.0.0.13" group-title="Knowledge", Ruang Terampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+
+########################################## Religious ####################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Al Kareem TV
 https://dl.dropboxusercontent.com/s/pxkcar19a4yei1s/Quran.m3u8?dl=0 
