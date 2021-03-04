@@ -37,9 +37,9 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 https://dl.dropboxusercontent.com/s/vd7uvm50pzth7a4/iNews.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" tvg-id="BeritaSatu" group-title="Indonesia", Berita Satu
 https://dl.dropboxusercontent.com/s/5b9c9h47bbpqohp/BeritaSatu.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" tvg-id="CNNIndonesiaHD" group-title="Indonesia", CNN Indonesia HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" tvg-id="CNNIndonesiaHD" group-title="News", CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=2.0.0.13" tvg-id="CNBCIndonesia" group-title="Indonesia", CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=2.0.0.13" tvg-id="CNBCIndonesia" group-title="News", CNBC Indonesia
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png?v=2.0.0.13" tvg-id="MYTV" group-title="Indonesia", MYTV
 https://tv.mbahnunungonline.net/playlist/mytv.m3u8
@@ -65,15 +65,15 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=2.0.0.13" group-title="Religious", Muhammadiyah TV
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png?v=2.0.0.13" group-title="Lokal", JTV
-#http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png?v=2.0.0.13" group-title="Lokal", Inspira TV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiZMiIR.png?v=2.0.0.13" group-title="Sports", Mola TV Free
 https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13" group-title="Lokal", DAAI TV
 https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/DaaiTV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png" group-title="Indonesia",IDX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png" group-title="News",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" group-title="Religious", ajwa TV
 https://dl.dropboxusercontent.com/s/anlevmjwq11og3z/AjwaTV.m3u8?dl=0
@@ -437,14 +437,14 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" group-title="ID", SCTV
 https://tv.mbahnunungonline.net/playlist/sctv.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="ID", KOMPAS TV
-https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ50/g3NyMUkYXMICDzEvgc2rjAMYj_2A-yRGgCLcBGAs/s1600/logo_kompastv.png" group-title="News", KOMPAS TV
+https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/KompasTV.m3u8?dl=0
 #EXTINF:-1  tvg-logo="https://lh4.googleusercontent.com/-huCrblLsHaw/VHxDTNR4CxI/AAAAAAAAGqw/cE4XdYO2olw/s63-no/rajawali_tv.png" group-title="ID", RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.pngg?v=2.0.0.13" group-title="Tes", ZEE TV HD
-http://cv.khushitv.xyz/channels.php?c=zeetvhd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="News", Metro TV 
+https://dl.dropboxusercontent.com/s/cat0n2r1qob59ag/MetroTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13" group-title="Tes", true4u
 https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Tes", NET.
