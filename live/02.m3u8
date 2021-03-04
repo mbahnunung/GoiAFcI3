@@ -414,9 +414,9 @@ http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/cpg6ctebufpp.jpg" group-title="Radio", mbah nunung Online
 http://78.129.237.53:9118/stream
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bIQJYXCkW1U/X_hIakBmkQI/AAAAAAAAMeU/x-8vwWIzMxYijxhEpSUaEDPWiyniq2vwACLcBGAsYHQ/s0/bintangtenggara.png" group-title="Radio", Bintang Tenggara
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8Hewt1.png" group-title="Radio", Bintang Tenggara
 http://live.radiobintangtenggara.com:8000/mbahnunungonline
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zKfFBaCN2dU/WP21Pg4t5ZI/AAAAAAAAAjQ/ndweLDJMRYw-3r_J-GTM-RhEMtqul5FDACPcBGAYYCw/s0/mcfm_station.png" group-title="Radio", MCFM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qR8V8wl.png" group-title="Radio", MCFM
 http://live.sg.mcfmbwi.com:9720/mcfm
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ydBhgJoV9Wc/VYYKjRtXEqI/AAAAAAAAAJI/-sdDXgv4UzY/s1600/LOGO%2BSRITANJUNG.jpg" group-title="Radio", SRITANJUNG
 http://play.xajist.com:8208/stream
@@ -445,8 +445,7 @@ https://dl.dropboxusercontent.com/s/cat0n2r1qob59ag/MetroTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13" group-title="Tes", true4u
 https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Tes", NET.
-#https://dl.dropboxusercontent.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/index.m3u8
+https://dl.dropboxusercontent.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 #EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="oxygen", Sinema Indonesia
 https://gratismkctv.net/oxygen/oxygen.m3u8?channel=sinemaindonesia
 #EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://2.bp.blogspot.com/-95KNePoIAOI/XE6oA78TNrI/AAAAAAAAnJA/7EmSy6tZPVMPbw_3L-45Hjua1y8Do4gywCLcBGAs/s1600/sinema-indonesia-x-tv-channel-logo.jpg" group-title="oxygen", SINEMA INDONESIA X
