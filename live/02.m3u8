@@ -186,7 +186,7 @@ https://tv.mbahnunungonline.net/playlist/citradangdut.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="Music", Maleo Channel
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UzdfOrfmMpQ/YAm9EyWSRMI/AAAAAAAAMkA/LZN-6wA9D-w53zd2Rl66CX-959sDGRdVQCLcBGAsYHQ/s0/logo_MTVlive.png" group-title="Music", MTV Live
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=mtvchina
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fNCrpQtEw8M/XL7vyVhgyWI/AAAAAAAALVA/cY9bq3SetPQzqapcsAEtV4JgsU5fzGyjwCPcBGAYYCw/s0/channel_v.png" group-title="Music", CHANNEL [V] INTL
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 
@@ -228,7 +228,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMAyRG8.jpg" group-title="Movies", HITS
 #http://rr.dens.tv/h/h37/index.m3u8
 https://nonton.site:8443/live/novi/novi123/1195.m3u8
-#EXTINF:-1 tvg-id="StarWorld.in" tvg-name="Star World" tvg-logo="https://i.imgur.com/yA4uXrF.png" group-title="Movies", Star World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yA4uXrF.png" group-title="Movies", Star World
 https://nonton.site:8443/live/novi/novi123/381.m3u8
 
 ########################################## Knowledge ######################################################
