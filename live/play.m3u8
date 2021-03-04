@@ -81,8 +81,12 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=2.0.0.13" group-title="Knowledge", National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nNWPgyVIfJ0/W-OlJVx18KI/AAAAAAAAKBI/E3sbUDC9_o4J3GPxN9pz6WCDxKWaMl26QCLcBGAs/s1600/logo_natgeopeople.png" group-title="Knowledge", Nat Geo People
+https://nonton.site:8443/live/novi/novi123/455.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=2.0.0.13" group-title="Knowledge", Discovery Channel
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mozr67tdgUc/W-CH02GZaeI/AAAAAAAAJ94/hYBVYnCgSXM3XAGx2gfP-wiPRckIVQwvACLcBGAs/s1600/logo_cgtndocumentary.png" group-title="Knowledge", CGTN Documentary
+http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png?v=2.0.0.13" group-title="Knowledge", Smithsonian
 https://dl.dropboxusercontent.com/s/pvin86ey4pqavia/Smithsonian.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png?v=2.0.0.13" group-title="Knowledge", Love Nature 4K
@@ -100,6 +104,8 @@ https://dl.dropboxusercontent.com/s/anlevmjwq11og3z/AjwaTV.m3u8?dl=0
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=2.0.0.13" group-title="Religious", Muhammadiyah TV
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8 
+
+########################################## MUSIC ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Zx04Kp.png?v=2.0.0.13" group-title="Music", Maleo Channel
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
