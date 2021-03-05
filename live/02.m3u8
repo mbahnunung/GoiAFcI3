@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=2.0.0.13" tvg-id="RCTI" group-title="Indonesia", RCTI
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/rA0rUsj.png?v=2.0.0.13" tvg-id="RCTI" group-title="Indonesia", RCTI
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/fH8rFb8.png?v=2.0.0.13" tvg-id="SCTV" group-title="Indonesia", SCTV
 https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8
@@ -10,7 +10,7 @@ https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6
 https://gratismkctv.net/oxygen/oxygen.m3u8?channel=antv
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" tvg-id="Indosiar" group-title="Indonesia", Indosiar
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" tvg-id="MetroTV" group-title="Indonesia", Metro TV 
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/un1priK.png?v=2.0.0.13" tvg-id="MetroTV" group-title="Indonesia", Metro TV 
 https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" tvg-id="Trans7" group-title="Indonesia", Trans 7
 https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0 
