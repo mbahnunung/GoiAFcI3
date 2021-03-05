@@ -313,6 +313,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png" group-title="Hindi", &tv
 #http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/726e730e030e958.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oc5gVe8.png" group-title="Hindi", &explor
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c70d0e933f18dda.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QHBlHd3.png" group-title="Hindi", Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg" group-title="Hindi", &Pictures HD
@@ -326,7 +328,7 @@ http://cv.khushitv.xyz/channels.php?c=zeetvhd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ohsQguR.jpg" group-title="Hindi", Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png" group-title="Hindi", B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ef3f585dbf35c05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jIF1NXl.jpg" group-title="Music", B4U Music
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" group-title="Music", Desi Channel
