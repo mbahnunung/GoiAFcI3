@@ -244,7 +244,8 @@ https://dl.dropboxusercontent.com/s/pvin86ey4pqavia/Smithsonian.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png" group-title="Knowledge", Love Nature
 https://dl.dropboxusercontent.com/s/0jug1965kcz6mvv/LoveNature.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CLN1nXp.jpg" group-title="Knowledge", Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
+#https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
+https://nonton.site:8443/live/novi/novi123/779.m3u8
 
 ########################################## Entertainment ######################################################
 
