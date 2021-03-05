@@ -70,7 +70,7 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(628abc6c-45e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3d1xUc7.png" group-title="Religious", Al Sunnah (Medina)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqn0hP.png" group-title="Arab",Saudi TV 1 (Saudi Arabia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqn0hP.png" group-title="Arab", Saudi TV 1 (Saudi Arabia)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-WJcBpmVGs1o/UndHS0zjRcI/AAAAAAAAB_U/jaJgo0G0tH8/s1600/iqratv.png" group-title="Arab", Iqraa-Tv (Saudi Arabia)
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
