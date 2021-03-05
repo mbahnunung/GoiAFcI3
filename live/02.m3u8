@@ -62,8 +62,8 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=2.0.0.13" group-title="Religious", Muhammadiyah TV
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png?v=2.0.0.13" group-title="Lokal", JTV
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+https://tv.mbahnunungonline.net/playlist/jtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png?v=2.0.0.13" group-title="Lokal", Inspira TV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiZMiIR.png?v=2.0.0.13" group-title="Sports", Mola TV Free
