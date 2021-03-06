@@ -238,6 +238,8 @@ https://nonton.site:8443/live/novi/novi123/1195.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yA4uXrF.png" group-title="Movies", Star World
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ec5fb5889e178cf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bpqpKqN.jpg" group-title="Movies", Universal
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ab2e5a03cc9c326.m3u8
 
 ########################################## Knowledge ######################################################
 
@@ -258,6 +260,8 @@ https://dl.dropboxusercontent.com/s/0jug1965kcz6mvv/LoveNature.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CLN1nXp.jpg" group-title="Knowledge", Discovery Asia
 #https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 https://nonton.site:8443/live/novi/novi123/779.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/travel-channel.png" group-title="Knowledge", TRAVEL
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/c0e59ba349277a2.m3u8
 
 ########################################## Entertainment ######################################################
 
