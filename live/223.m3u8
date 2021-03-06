@@ -10,7 +10,7 @@ https://dl.dropboxusercontent.com/s/pxkcar19a4yei1s/Quran.m3u8?dl=0
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV 
-https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV 
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
@@ -65,6 +65,8 @@ https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/DaaiTV.m3u8?dl=0
 https://gratismkctv.net/oxygen/oxygen.m3u8?channel=matrixtv 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="Music", Maxstream Music
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MHH5z5.jpg?v=2.0.0.13" group-title="Music", ROTANA MUSIC
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/5609f8608499505.m3u8
 
 ########################################## ARAB TV ######################################################
 
