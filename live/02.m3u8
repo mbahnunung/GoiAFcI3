@@ -305,6 +305,9 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 http://rr.dens.tv/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-gQynibZxc7Y/W9hHmsT3OII/AAAAAAAAJ5A/Klcu5xOyuwIrEe072FIGBlBLhNlB1mf6gCLcBGAs/s1600/logo_tv5monde.png" group-title="News" tvg-id="" tvg-name"TV5Monde", TV5Monde
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/1200px-E4_logo_2018.svg.png" group-title="Entertainment", 4e
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/1890050c4626342.m3u8
+
 
 ########################################## Hindi ######################################################
 
