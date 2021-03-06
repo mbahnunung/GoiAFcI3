@@ -205,6 +205,8 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" group-title="Horor", thrill
 https://cdn6.goprimetime.info/feed/LC26/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Dl7446Nipg/V2sFcyX0JEI/AAAAAAAAFko/ngFy43BhmhgedcPmr-pEoOSD4sJASBWGgCPcBGAYYCw/s0/syfy.png" group-title="Movies", SYFY
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png" group-title="Movies", Cinema World
 http://rr.dens.tv/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r58Vr0z.jpg" group-title="Movies", &Flix
@@ -230,6 +232,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/80944d9a539e072.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMAyRG8.jpg" group-title="Movies", HITS
 #http://rr.dens.tv/h/h37/index.m3u8
 https://nonton.site:8443/live/novi/novi123/1195.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QeYZDfbVAgM/V2m-NehGYhI/AAAAAAAAFkI/ws03a7k8dOEyBNw6Xt0vIdqANCu1K0wmACPcBGAYYCw/s0/FXHD%25402x.pngg" group-title="Movies", FX
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yA4uXrF.png" group-title="Movies", Star World
 https://nonton.site:8443/live/novi/novi123/381.m3u8
 
