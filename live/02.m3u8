@@ -90,9 +90,9 @@ http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Al Kareem TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqn0hP.png" group-title="Arab", Saudi TV 1 (Saudi Arabia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqn0hP.png" group-title="Arab", Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-WJcBpmVGs1o/UndHS0zjRcI/AAAAAAAAB_U/jaJgo0G0tH8/s1600/iqratv.png" group-title="Arab", Iqraa-Tv (Saudi Arabia)
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-WJcBpmVGs1o/UndHS0zjRcI/AAAAAAAAB_U/jaJgo0G0tH8/s1600/iqratv.png" group-title="Arab", Iqraa-Tv
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qUN6uhewCWY/YDAHT1gm97I/AAAAAAAAMrQ/8WKK_LHVaMopTVXzufo1oUvpec9A1E-KACLcBGAsYHQ/s0/Makkah_Live.png" group-title="Arab", Makkah Live
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
@@ -110,7 +110,7 @@ http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hKThVZv.jpg" group-title="News", Sky News Arabia
 http://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f7E1ybv.png" group-title="Arab", Libya 218 (LIBYA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7E1ybv.png" group-title="Arab", Libya 218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies", MBC 2 HD
 http://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
