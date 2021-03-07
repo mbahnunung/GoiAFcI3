@@ -244,11 +244,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ab2e5a03cc9c326.m3
 ########################################## Knowledge ######################################################
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="Knowledge" tvg-id="" tvg-name"National Geographic Channel", National Geographic Channel
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/7cc82784208dd58.m3u8
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nNWPgyVIfJ0/W-OlJVx18KI/AAAAAAAAKBI/E3sbUDC9_o4J3GPxN9pz6WCDxKWaMl26QCLcBGAs/s1600/logo_natgeopeople.png" group-title="Knowledge" tvg-id="" tvg-name"Nat Geo People", Nat Geo People
 https://nonton.site:8443/live/novi/novi123/455.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vErztz6Hir4/YAV7IEZQTdI/AAAAAAAAA88/AMVdkdc0S8w2LhNQNpQA4kBtmblq0uTbQCLcBGAsYHQ/s0/logo_discovery.png" group-title="Knowledge" tvg-id="" tvg-name"Discovery Channel", Discovery Channel
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ef7e8c7bc86110e.m3u8
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--mVVtEao6FM/YAV7vu0fuII/AAAAAAAAA9E/h1LpcaKg1lkccSfTghuPKDU_9Q3MxMFewCLcBGAsYHQ/s0/logo_crimeinvestigation.png" group-title="Knowledge" tvg-id="" tvg-name"Crime Investigation", Crime Investigation
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mozr67tdgUc/W-CH02GZaeI/AAAAAAAAJ94/hYBVYnCgSXM3XAGx2gfP-wiPRckIVQwvACLcBGAs/s1600/logo_cgtndocumentary.png" group-title="Knowledge", CGTN Documentary
@@ -306,8 +306,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bd2d62fd0dc1671.m
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-PeiBHh5e_ak/VgS9HGl2GqI/AAAAAAAAE-k/6f9MhB1ZkJs/s1600/logo_aniplus.png" group-title="Entertainment" tvg-id="" tvg-name"ANIPlus", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-9SwarJ_GVjk/W9dl4nKcYDI/AAAAAAAAJ3E/YHeHN8DqlCgj86eQ9w-9Dy3Xew7rt_RpACLcBGAs/s1600/logo_cctv4_tv.png" group-title="Entertainment" tvg-id="" tvg-name"CCTV4", CCTV4
-#http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
-http://93.190.139.36:8278/streams/d/cctv4/playlist.m3u8
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
+#http://93.190.139.36:8278/streams/d/cctv4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-fnGIIyIaM_8/T8jQPFmpA3I/AAAAAAAABEE/ezIJ522VdoY/s60/nhk-world.png" group-title="News" tvg-id="" tvg-name"NHK World Japan", NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-r7cMFfHmmdg/YAqYk0GvHbI/AAAAAAAAMk8/WAQd1x9BR3wMW-fv-zf4NrZXdU5J6hfdACLcBGAsYHQ/s0/logo_sgem.png" group-title="Korengan" tvg-id="" tvg-name"GEM", GEM
