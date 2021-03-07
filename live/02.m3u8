@@ -135,7 +135,8 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6cVz4M5I3Ag/YAsJUy3Qr1I/AAAAAAAAMm0/ehYQrYXfBFMFDqbvTnkSRrdM9pH-SPDCgCLcBGAsYHQ/s0/logo_duck_TV.png" group-title="Kids" tvg-id="" tvg-name"Duck TV", Duck TV
 http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-ducktv
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nu-YaVv_LTc/YAesF_A9NJI/AAAAAAAAMhw/1XXk1BHyJTkyrguVkz5cf6hq6b22xum1QCLcBGAsYHQ/s0/logo_boomerang.png" group-title="Kids" tvg-id="Boomerang" tvg-name"Boomerang", Boomerang
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/b77a74db3cb00d1.m3u8
+#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/b77a74db3cb00d1.m3u8
+https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3no11rMHabU/YAeqMxxDN7I/AAAAAAAAMhk/sH3shIkm-u0DplaX9Hdw81UILkjT1nB1ACLcBGAsYHQ/s0/logo_cartoonnetwork.png" group-title="Kids" tvg-id="" tvg-name"Cartoon Network", Cartoon Network
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/20e3acedb66331e.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9z4J4L_mQos/YAsLHhtwaHI/AAAAAAAAMng/oyNGa8sTViwNP6cFsXWK1cv7O57jTKnPgCLcBGAsYHQ/s0/logo_duniaanak.png" group-title="Kids" tvg-id="" tvg-name"Dunia anak", Dunia anak
@@ -336,13 +337,11 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg" group-title="Hindi", &Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zoN04b.jpg" group-title="Hindi", Zing
-#https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0d1feda85eb211b.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png" group-title="Hindi", Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg" group-title="Hindi", Zee Tv
-#http://cv.khushitv.xyz/channels.php?c=zeetvhd
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/16db26a9c5aa5da.m3u8
+http://cv.khushitv.xyz/channels.php?c=zeetvhd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ohsQguR.jpg" group-title="Hindi", Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png" group-title="Hindi", B4U Kadak
