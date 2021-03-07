@@ -270,8 +270,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/50b5663f5c2770a.m
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2Xc7-AAajOg/YApExgl7KCI/AAAAAAAAMkw/RqbhGiH6vicPCWiYmoRE4UkrhkQNh1F8ACLcBGAsYHQ/s0/logo_hgtv.png" group-title="Lifestyle" tvg-id="" tvg-name"HGTV", HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zMdHQ4dXXqI/YAsHtzoD2GI/AAAAAAAAMmY/toHuzLV9G2QFK6b5qnnO0c7DkFZagkAIACLcBGAsYHQ/s0/logo_insertlive.png?v=2.0.0.15" group-title="Entertainment" tvg-id="" tvg-name"INSERT LIVE", Insert Live
-#https://live.insertlive.com/insertlive/smil:insertlive.smil/chunklist_w1958037579_b54400_sleng.m3u8
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=8613985ec49eb8f757ae6439e879bb2aa85789a5593f01fd550cfc7818477ddd
+https://live.insertlive.com/insertlive/smil:insertlive.smil/chunklist_w1958037579_b54400_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XGLGzZBGqvY/YAm0rjHiWCI/AAAAAAAAMjo/83krrIQFj1EZoa0hdIQRnjKOs64Lp7PlgCLcBGAsYHQ/s0/logo_afn.png" group-title="Lifestyle" tvg-id="" tvg-name"Asian Food Network", Asian Food Channel
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=2.0.0.13" tvg-id="CNBCIndonesia" group-title="Entertainment", The Indonesia Channel
