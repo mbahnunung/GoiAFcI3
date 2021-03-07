@@ -273,10 +273,12 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 https://live.insertlive.com/insertlive/smil:insertlive.smil/chunklist_w1958037579_b54400_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XGLGzZBGqvY/YAm0rjHiWCI/AAAAAAAAMjo/83krrIQFj1EZoa0hdIQRnjKOs64Lp7PlgCLcBGAsYHQ/s0/logo_afn.png" group-title="Lifestyle" tvg-id="" tvg-name"Asian Food Network", Asian Food Channel
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=2.0.0.13" tvg-id="CNBCIndonesia" group-title="Entertainment", The Indonesia Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=2.0.0.13" tvg-id="The Indonesia Channel" group-title="Entertainment", The Indonesia Channel
 https://tv.mbahnunungonline.net/playlist/tic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg" group-title="Entertainment" tvg-id="" tvg-name"MagnaTV", Magna TV
 http://edge.metrotvnews.com:1935/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-bjwvjh4m1LA/XLa_sQbeesI/AAAAAAAALQY/oFmq0v0C2ycDYVurVEFx192AsQvz_7FvgCLcBGAs/s1600/logo_eentertainment.png?v=2.0.0.13" tvg-id="E Entertainment" group-title="Entertainment", E Entertainment
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/745d08bd8add130.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fymTbiyCqVU/YAmyYNspbhI/AAAAAAAAMjM/3GDPQR2ISJcpfqPkKShZcJmJSjMN0pDmwCLcBGAsYHQ/s0/logo_outdoor.png" group-title="Entertainment" tvg-id="" tvg-name"Outdoor Channel", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-S-MQNy0of3w/YAmy7sTw6xI/AAAAAAAAMjU/FG7yuMtClV0THcb9v2aoC9yvXbn6pz92QCLcBGAsYHQ/s320/logo_eljhon_tv.png" group-title="Entertainment" tvg-id="" tvg-name"El John TV", El John TV
