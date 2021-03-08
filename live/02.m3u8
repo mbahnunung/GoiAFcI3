@@ -327,7 +327,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/1890050c4626342.m3
 
 ########################################## Hindi ######################################################
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8ffjA4GX83k/WBA_HihLAwI/AAAAAAAAFuI/X9Xtm5rB1uMFH3FTzF4aOt3YmbMg3yKDACLcB/s1600/logo_zbioskop.png" group-title="Hindi", Zee Bioskop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png" group-title="Hindi", Zee Bioskop
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6399_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png" group-title="Hindi", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
@@ -376,7 +376,7 @@ http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ul4Qxnh.png" group-title="FOX Movies", FOX FAMILY
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8Ki0LZVyY-8/YClRcz7o8SI/AAAAAAAAMqw/CUYDWnlJ5g0sB70X_zbZJLO_-7UnkGH2QCLcBGAsYHQ/s0/foxcrime.png" group-title="FOX Movies", FOX CRIME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUFTlKB.png" group-title="FOX Movies", FOX CRIME
 http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
 
 ########################################## HBO GO ######################################################
