@@ -55,8 +55,7 @@ http://rrelshinta.dens.tv/s/s10/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=2.0.0.13" tvg-id="TVEdukasi" group-title="Knowledge", TV Edukasi
 http://118.98.221.131/live/tvedukasi_5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JfmNo8z.png?v=2.0.0.13" tvg-id="MNCNEWS" group-title="News", MNC NEWS
-#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/243a1aea2191dec.m3u8
-https://edge-v.sindonews.tv/vodhls/tvc/1/1.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/243a1aea2191dec.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=2.0.0.13" tvg-id="CHANNEL-NEWSASIA" group-title="News", CHANNEL NEWSASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
@@ -85,7 +84,7 @@ https://tv.mbahnunungonline.net/playlist/balitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7B2q0po.png?v=2.0.0.13" group-title="Lokal", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiZMiIR.png?v=2.0.0.13" group-title="Entertainment", Mola TV Free
-https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
 
 ########################################## ARAB TV ######################################################
 
