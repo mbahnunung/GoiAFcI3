@@ -28,10 +28,11 @@ https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/KompasTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XlZqfwV.png?v=2.0.0.13" group-title="Nasional", rtv
 #https://tv.mbahnunungonline.net/playlist/rtv.m3u8
 https://dl.dropboxusercontent.com/s/fi22byc96zqyx2u/RTV.m3u8?dl=0 
-#EXTINF:0 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XBtbPBF.png?v=2.0.0.13" group-title="Nasional", TVRI
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XBtbPBF.png?v=2.0.0.13" group-title="Nasional", TVRI
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Nasional", iNews
-https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta.m3u8
+https://dl.dropboxusercontent.com/s/vd7uvm50pzth7a4/iNews.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="News", Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="News", CNN Indonesia HD
@@ -39,7 +40,7 @@ https://ch.iptvmate.net/ba3539a9b1f8c864f53b6acb4ca3c72b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=2.0.0.13" group-title="News", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png?v=2.0.0.13" group-title="Entertainment", MYTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
+https://tv.mbahnunungonline.net/playlist/mytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=2.0.0.13" group-title="Entertainment", The Indonesia Channel
 https://5effe161e0fba.streamlock.net:30443/live/TIC.stream_720p/chunklist_w1975236188.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="Lokal", Nusantara TV
@@ -49,9 +50,9 @@ https://tv.mbahnunungonline.net/playlist/seatoday.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png?v=2.0.0.13" group-title="Lokal", RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=2.0.0.13" group-title="Lokal", JAK-TV
-http://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
+https://dl.dropboxusercontent.com/s/ctdm9c9zw2uz35j/JakTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwxmNpN.png" group-title="Lokal", Elshinta TV
-https://gratismkctv.net/oxygen.m3u8?channel=elshinta
+http://rrelshinta.dens.tv/s/s10/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=2.0.0.13" group-title="Knowledge", TV Edukasi
 http://118.98.221.131/live/tvedukasi_5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=2.0.0.13" group-title="News", CHANNEL NEWSASIA
@@ -64,7 +65,6 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png?v=2.0.0.13" group-title="Lokal", JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png?v=2.0.0.13" group-title="Lokal", Inspira TV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13" group-title="Lokal", DAAITV
@@ -86,9 +86,9 @@ http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Al Kareem TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqn0hP.png" group-title="Arab", Saudi TV 1 (Saudi Arabia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqn0hP.png" group-title="Arab", Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-WJcBpmVGs1o/UndHS0zjRcI/AAAAAAAAB_U/jaJgo0G0tH8/s1600/iqratv.png" group-title="Arab", Iqraa-Tv (Saudi Arabia)
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-WJcBpmVGs1o/UndHS0zjRcI/AAAAAAAAB_U/jaJgo0G0tH8/s1600/iqratv.png" group-title="Arab", Iqraa-Tv
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qUN6uhewCWY/YDAHT1gm97I/AAAAAAAAMrQ/8WKK_LHVaMopTVXzufo1oUvpec9A1E-KACLcBGAsYHQ/s0/Makkah_Live.png" group-title="Arab", Makkah Live
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
@@ -106,7 +106,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hKThVZv.jpg" group-title="News", Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f7E1ybv.png" group-title="Arab", Libya 218 (LIBYA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7E1ybv.png" group-title="Arab", Libya 218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies", MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
@@ -197,8 +197,8 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" group-title="Movies" tvg-id="AXN" tvg-name"AXN", AXN
 http://rr.dens.tv/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" group-title="Movies" tvg-id="KIX" tvg-name"KIX", KIX
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+#https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" group-title="Horor", thrill
 #https://nonton.site:8443/live/novi/novi123/4.m3u8
 https://cdn6.goprimetime.info/feed/LC26/index.m3u8
