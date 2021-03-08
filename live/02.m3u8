@@ -231,7 +231,7 @@ https://nonton.site:8443/live/novi/novi123/35484.m3u8
 #https://nonton.site:8443/live/novi/novi123/908.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lk5JRaDtGX8/XL7vzdidbRI/AAAAAAAALU8/3M80Z-B7yrMAA3W7_VSd9799s4Fq5_zlACPcBGAYYCw/s0/logo_warnerbtv.png" group-title="Movies" tvg-id="WarnerTV" tvg-name"WarnerTV", WarnerTV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/f59089a497193eb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c5C9WaB.png" group-title="Movies" tvg-id="Paramount channel" tvg-name"Paramount channel", Paramount channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5C9WaB.png" group-title="Movies" tvg-id="ParamountChannel" tvg-name"ParamountChannel", Paramount channel
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/80944d9a539e072.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMAyRG8.jpg" group-title="Movies", HITS
 #http://rr.dens.tv/h/h37/index.m3u8
@@ -245,15 +245,15 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ab2e5a03cc9c326.m3
 
 ########################################## Knowledge ######################################################
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HVuXyJPmrZo/W9tmbkmowII/AAAAAAAAJ6I/-aGNS50lZgc0-CyHRXSV4Wrn8Akv1dYlwCLcBGAs/s1600/logo_natgeo.png" group-title="Knowledge" tvg-id="" tvg-name"National Geographic Channel", National Geographic Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png" group-title="Knowledge", National Geographic Channel
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nNWPgyVIfJ0/W-OlJVx18KI/AAAAAAAAKBI/E3sbUDC9_o4J3GPxN9pz6WCDxKWaMl26QCLcBGAs/s1600/logo_natgeopeople.png" group-title="Knowledge" tvg-id="" tvg-name"Nat Geo People", Nat Geo People
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png" group-title="Knowledge", Nat Geo People
 https://nonton.site:8443/live/novi/novi123/455.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vErztz6Hir4/YAV7IEZQTdI/AAAAAAAAA88/AMVdkdc0S8w2LhNQNpQA4kBtmblq0uTbQCLcBGAsYHQ/s0/logo_discovery.png" group-title="Knowledge" tvg-id="" tvg-name"Discovery Channel", Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png" group-title="Knowledge", Discovery Channel
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--mVVtEao6FM/YAV7vu0fuII/AAAAAAAAA9E/h1LpcaKg1lkccSfTghuPKDU_9Q3MxMFewCLcBGAsYHQ/s0/logo_crimeinvestigation.png" group-title="Knowledge" tvg-id="" tvg-name"Crime Investigation", Crime Investigation
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z7DUFb.png" group-title="Knowledge", Crime Investigation
 http://203.154.243.31:15001
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mozr67tdgUc/W-CH02GZaeI/AAAAAAAAJ94/hYBVYnCgSXM3XAGx2gfP-wiPRckIVQwvACLcBGAs/s1600/logo_cgtndocumentary.png" group-title="Knowledge", CGTN Documentary
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png" group-title="Knowledge", CGTN Documentary
 http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png" group-title="Knowledge", Smithsonian
 https://dl.dropboxusercontent.com/s/pvin86ey4pqavia/Smithsonian.m3u8?dl=0
