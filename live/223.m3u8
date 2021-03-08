@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Al Kareem TV
-#http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="Music", Maleo Channel
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8 
 https://dl.dropboxusercontent.com/s/pxkcar19a4yei1s/Quran.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Nasional", RCTI 
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
@@ -11,8 +11,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
 https://gratismkctv.net/oxygen/oxygen.m3u8?channel=antv 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=2.0.0.13" group-title="Music", Maleo Channel
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Al Kareem TV
+#http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=2.0.0.13" group-title="Music", Citra Dangdut
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", Indosiar
@@ -154,7 +154,12 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JnDa5NiJFz8/YA26GMyTDHI/AAAAAAAAA_o/-Z8g-f0-Ny8V_fT17wTq2swCMtmrOCr-QCLcBGAsYHQ/s0/bflix-movies-logo.jpg" group-title="Hindi", Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4e0e7378bd80e4e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6LWreq.jpg" group-title="Hindi", Star Plus UK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201905/star-gold.jpg" group-title="Hindi", Star Gold HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
 
 ########################################## KNOWLEDGE ######################################################
 
