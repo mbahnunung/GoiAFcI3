@@ -24,8 +24,8 @@ https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Nasional", Trans TV 
 https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=2.0.0.13" group-title="Nasional", GTV 
-#https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+#https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Nasional", NET. 
 #https://tv.mbahnunungonline.net/playlist/nettv.m3u8 
 https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
@@ -65,7 +65,7 @@ https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/DaaiTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1186111470569832448/2g9czfPc_400x400.jpg" group-title="Music", M Channel
 https://gratismkctv.net/oxygen/oxygen.m3u8?channel=matrixtv 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="Music", Maxstream Music
-https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg" group-title="Entertainment" tvg-id="" tvg-name"MagnaTV", Magna TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6MHH5z5.jpg?v=2.0.0.13" group-title="Music", Rotana Music
