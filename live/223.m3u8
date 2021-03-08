@@ -67,7 +67,7 @@ https://gratismkctv.net/oxygen/oxygen.m3u8?channel=matrixtv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="Music", Maxstream Music
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg" group-title="Entertainment" tvg-id="" tvg-name"MagnaTV", Magna TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6MHH5z5.jpg?v=2.0.0.13" group-title="Music", Rotana Music
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/5609f8608499505.m3u8
 
