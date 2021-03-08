@@ -122,7 +122,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YA6laaG.jpg" group-title="Kids", Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1249030020988690432/VD98W-hQ_400x400.png" group-title="Kids", Disney XD
-http://185.238.242.136:20000/hls/play/id/031.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ukeu4Fn.jpg" group-title="Kids", Disney Junior 
 http://79.137.41.99/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JjR1xoS.jpg" group-title="Kids", GEM Kids 
@@ -132,7 +132,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6397_720p/index.
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nm1cw2LInGY/YAepxrh8ClI/AAAAAAAAMhc/HZLo0jf-beowVA3NYcdQYnJZ7x4aMSWGgCLcBGAsYHQ/s0/logo_babyfirst.png" group-title="Kids" tvg-id="" tvg-name"Baby First", Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6cVz4M5I3Ag/YAsJUy3Qr1I/AAAAAAAAMm0/ehYQrYXfBFMFDqbvTnkSRrdM9pH-SPDCgCLcBGAsYHQ/s0/logo_duck_TV.png" group-title="Kids" tvg-id="" tvg-name"Duck TV", Duck TV
-http://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-ducktv
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nu-YaVv_LTc/YAesF_A9NJI/AAAAAAAAMhw/1XXk1BHyJTkyrguVkz5cf6hq6b22xum1QCLcBGAsYHQ/s0/logo_boomerang.png" group-title="Kids" tvg-id="Boomerang" tvg-name"Boomerang", Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3no11rMHabU/YAeqMxxDN7I/AAAAAAAAMhk/sH3shIkm-u0DplaX9Hdw81UILkjT1nB1ACLcBGAsYHQ/s0/logo_cartoonnetwork.png" group-title="Kids" tvg-id="" tvg-name"Cartoon Network", Cartoon Network
