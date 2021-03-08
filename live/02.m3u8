@@ -69,8 +69,6 @@ http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #https://tv.mbahnunungonline.net/playlist/jtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png?v=2.0.0.13" group-title="Lokal", Inspira TV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DiZMiIR.png?v=2.0.0.13" group-title="Sports", Mola TV Free
-https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13" group-title="Lokal", DAAI TV
 https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/DaaiTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png" group-title="News", IDX
@@ -85,6 +83,8 @@ http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/balitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7B2q0po.png?v=2.0.0.13" group-title="Lokal", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiZMiIR.png?v=2.0.0.13" group-title="Entertainment", Mola TV Free
+https://cdn-mola-primary-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
 
 ########################################## ARAB TV ######################################################
 
