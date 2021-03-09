@@ -27,7 +27,7 @@ https://tv.mbahnunungonline.net/playlist/tvone.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/aJhpmgf.png?v=2.0.0.13" tvg-id="KompasTV" group-title="Indonesia", Kompas TV
 https://tv.mbahnunungonline.net/playlist/kompastv.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XlZqfwV.png?v=2.0.0.13" tvg-id="rtv" group-title="Indonesia", rtv
-https://cdn1.mbahnunungonline.net/playlist/RTV.m3u8 
+https://cdn1.mbahnunungonline.net/playlist/Rtv.m3u8 
 #EXTINF:0 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XBtbPBF.png?v=2.0.0.13" tvg-id="TVRI" group-title="Indonesia", TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" tvg-id="iNews" group-title="Indonesia", iNews
@@ -44,7 +44,7 @@ https://tv.mbahnunungonline.net/playlist/mytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" tvg-id="NusantaraTV" group-title="Lokal", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=2.0.0.13" tvg-id="SEAToday" group-title="Lokal", SEA Today
-https://tv.mbahnunungonline.net/playlist/seatoday.m3u8
+https://cdn1.mbahnunungonline.net/playlist/seatoday.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png?v=2.0.0.13" tvg-id="RRINET" group-title="Lokal", RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=2.0.0.13" tvg-id="JakTV" group-title="Lokal", Jak-TV
