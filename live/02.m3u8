@@ -452,11 +452,11 @@ http://78.129.237.53:9118/stream
 http://live.radiobintangtenggara.com:8000/mbahnunungonline
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qR8V8wl.png" group-title="Radio", MCFM
 http://live.sg.mcfmbwi.com:9720/mcfm
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ydBhgJoV9Wc/VYYKjRtXEqI/AAAAAAAAAJI/-sdDXgv4UzY/s1600/LOGO%2BSRITANJUNG.jpg" group-title="Radio", SRITANJUNG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fSYukVu.jpg" group-title="Radio", SRITANJUNG
 http://play.xajist.com:8208/stream
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IVu0rwyczX8/U8gBkcGwu6I/AAAAAAAAD1k/-ZcGciZ4nUQ/s1600/visfm.png" group-title="Radio", VisFM
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/50/79/507931f2815f056bfc911ea3bfe65a6b.jpg" group-title="Radio", VisFM
 http://s4.vinhostmedia.com:8000/streamaac
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Uxf8xz3e6rg/VD4OjHN7jBI/AAAAAAAAEFw/hi81dF_UdQ0/s1600/gbsfm.png" group-title="Radio", GBSFM
+#EXTINF:-1 tvg-logo="http://www.radiojatim.com/images/radio/gbsfm.jpg" group-title="Radio", GBSFM
 https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg" group-title="Radio", RAYA FM
 http://45.64.98.181:8323/stream
