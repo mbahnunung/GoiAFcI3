@@ -473,9 +473,9 @@ https://tv.mbahnunungonline.net/playlist/sctv.m3u8
 https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/KompasTV.m3u8?dl=0
 #EXTINF:-1  tvg-logo="https://i.imgur.com/noPq57I.png?v=2.0.0.13" group-title="ID", RTV
 https://dl.dropboxusercontent.com/s/fi22byc96zqyx2u/RTV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="ID", antv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="ID", ANTV
 https://nonton.site:8443/live/novi/novi123/31.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="ID", tvOne
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="ID", TVONE
 https://stream-08.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybAOAeEK02xxFxCgEjbLIJpQ)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="News", Metro TV 
 https://dl.dropboxusercontent.com/s/cat0n2r1qob59ag/MetroTV.m3u8?dl=0 
@@ -483,6 +483,7 @@ https://dl.dropboxusercontent.com/s/cat0n2r1qob59ag/MetroTV.m3u8?dl=0
 https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="ID", NET.
 https://nonton.site:8443/live/novi/novi123/78.m3u8
+
 #EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="Movies", Sinema Indonesia
 https://gratismkctv.net/oxygen/oxygen.m3u8?channel=sinemaindonesia
 #EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://2.bp.blogspot.com/-95KNePoIAOI/XE6oA78TNrI/AAAAAAAAnJA/7EmSy6tZPVMPbw_3L-45Hjua1y8Do4gywCLcBGAs/s1600/sinema-indonesia-x-tv-channel-logo.jpg" group-title="Movies", SINEMA INDONESIA X
