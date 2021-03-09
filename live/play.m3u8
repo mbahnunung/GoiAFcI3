@@ -70,11 +70,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6685_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=2.0.0.13" group-title="Sports", Champions TV 2
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6686_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1IdpSOaDbz4/YAsD_iCGmHI/AAAAAAAAMlo/1wBdrH_6M280Mreb41TB3sMYQaVtwmcwQCLcBGAsYHQ/s0/logo_foxsports1.png?v=2.0.0.13" group-title="Sports", Fox Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=2.0.0.13" group-title="Sports", Fox Sports
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TBYTApGZA40/YAsEOw9wASI/AAAAAAAAMls/I9CewyP_Z44BoymOYNBzznPrkj9FPE_uwCLcBGAsYHQ/s0/logo_foxsports2.png?v=2.0.0.13" group-title="Sports", Fox Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=2.0.0.13" group-title="Sports", Fox Sports 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dopyzDzv-FI/YAsEfVW6PLI/AAAAAAAAMl4/tTjq0xEPoaUAflywZ1-l0tsIrUSKMvwiwCLcBGAsYHQ/s0/logo_foxsports3.png?v=2.0.0.13" group-title="Sports", Fox Sports 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5ERoxX.png?v=2.0.0.13" group-title="Sports", Fox Sports 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 
 ########################################## Knowledge ####################################################
