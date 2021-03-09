@@ -36,7 +36,7 @@ https://dl.dropboxusercontent.com/s/b8hl2hnahrye5er/TVRI.m3u8?dl=0
 
 ########################################## Local ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=2.0.0.13" group-title="Entertainment", SEA Today
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=2.0.0.13", SEA Today
 https://cdn1.mbahnunungonline.net/playlist/seatoday.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/XQGggkA.jpg?v=2.0.0.13", Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
