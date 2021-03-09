@@ -20,8 +20,8 @@ https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0
 #https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0 
 https://tv.mbahnunungonline.net/playlist/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jqNYjGu.png?v=2.0.0.13" tvg-id="NET." group-title="Indonesia", NET.
-#https://tv.mbahnunungonline.net/playlist/nettv.m3u8 
-https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
+https://tv.mbahnunungonline.net/playlist/nettv.m3u8 
+#https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/UqGSTVT.png?v=2.0.0.13" tvg-id="TVONE" group-title="Indonesia", tvOne
 https://tv.mbahnunungonline.net/playlist/tvone.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/aJhpmgf.png?v=2.0.0.13" tvg-id="KompasTV" group-title="Indonesia", Kompas TV
