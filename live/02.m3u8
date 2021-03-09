@@ -491,5 +491,5 @@ https://gratismkctv.net/oxygen/oxygen.m3u8?channel=sinemaindonesia-x
 https://tv.mbahnunungonline.net/playlist/maxstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FdP0yFu.jpg" group-title="Music", M Channel
 https://gratismkctv.net/oxygen/oxygen.m3u8?channel=matrixtv 
-#EXTINF:-1 group-title="Tes" tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13", ZQ Sport
+#EXTINF:-1 group-title="Tes" tvg-logo="https://i.imgur.com/Qq5D0CM.png?v=2.0.0.13", ZQ Sport
 http://iptv.zqstream.com/zqsport-gen/video.m3u8
