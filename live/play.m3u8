@@ -92,11 +92,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=2.0.0.13" group-title="Knowledge", National Geographic 
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png" group-title="Knowledge", Nat Geo People 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png?v=2.0.0.13" group-title="Knowledge", Nat Geo People 
 https://nonton.site:8443/live/novi/novi123/455.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=2.0.0.13" group-title="Knowledge", Discovery Channel 
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png" group-title="Knowledge", CGTN Documentary
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=2.0.0.13" group-title="Knowledge", CGTN Documentary
 http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png?v=2.0.0.13" group-title="Knowledge", Smithsonian 
 https://cdn1.mbahnunungonline.net/playlist/Smithsonian.m3u8 
@@ -131,23 +131,23 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.
 
 ########################################## Movies ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEHEXrZ.png" group-title="Movies", Celestial Movies 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEHEXrZ.png?v=2.0.0.13" group-title="Movies", Celestial Movies 
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gL9y8n3.png" group-title="Movies", AXN 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gL9y8n3.png?v=2.0.0.13" group-title="Movies", AXN 
 http://rr.dens.tv/h/h141/01.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UAaZ3G1.png" group-title="Movies", KIX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UAaZ3G1.png?v=2.0.0.13" group-title="Movies", KIX
 http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMAyRG8.jpg" group-title="Movies", HITS 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMAyRG8.jpg?v=2.0.0.13" group-title="Movies", HITS 
 http://rr.dens.tv/h/h37/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png" group-title="Movies", Cinema World 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=2.0.0.13" group-title="Movies", Cinema World 
 http://rr.dens.tv/h/h04/01.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4gNhVWH.png" group-title="Movies", WarnerTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gNhVWH.png?v=2.0.0.13" group-title="Movies", WarnerTV 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/f59089a497193eb.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png" group-title="Movies", SYFY 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=2.0.0.13" group-title="Movies", SYFY 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r58Vr0z.jpg" group-title="Movies", &Flix 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r58Vr0z.jpg?v=2.0.0.13" group-title="Movies", &Flix 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTlPdiT.jpg" group-title="Movies", &Prive HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTlPdiT.jpg?v=2.0.0.13" group-title="Movies", &Prive HD 
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8 
 
 ########################################## RADIO ######################################################
