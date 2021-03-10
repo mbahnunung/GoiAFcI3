@@ -129,9 +129,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/5609f86084995
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JjR1xoS.jpg" group-title="Kids", GEM Kids 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eEyNnyGiKJk/YAepZGXmimI/AAAAAAAAMhU/eD_hWT8k2MopDrkHfRc6i02p2hMZX5qAwCLcBGAsYHQ/s0/logo_horee.png" group-title="Kids" tvg-id="" tvg-name"Horee", Horee
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png" group-title="Kids" tvg-id="" tvg-name"Horee", Horee
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6397_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nm1cw2LInGY/YAepxrh8ClI/AAAAAAAAMhc/HZLo0jf-beowVA3NYcdQYnJZ7x4aMSWGgCLcBGAsYHQ/s0/logo_babyfirst.png" group-title="Kids" tvg-id="" tvg-name"Baby First", Baby First
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png" group-title="Kids" tvg-id="" tvg-name"Baby First", Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6cVz4M5I3Ag/YAsJUy3Qr1I/AAAAAAAAMm0/ehYQrYXfBFMFDqbvTnkSRrdM9pH-SPDCgCLcBGAsYHQ/s0/logo_duck_TV.png" group-title="Kids" tvg-id="" tvg-name"Duck TV", Duck TV
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
