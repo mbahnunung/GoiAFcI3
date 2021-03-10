@@ -23,7 +23,7 @@ https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
 #https://tv.mbahnunungonline.net/playlist/tvone.m3u8 
 https://stream-08.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybAOAeEK02xxFxCgEjbLIJpQ)/dm/3/x619221/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="Nasional", rtv 
-https://dl.dropboxusercontent.com/s/fi22byc96zqyx2u/RTV.m3u8?dl=0 
+https://cdn1.mbahnunungonline.net/playlist/Rtv.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Nasional", Kompas TV
 https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/KompasTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13" group-title="Nasional", iNews 
@@ -91,9 +91,9 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png" group-title="Knowledge", CGTN Documentary
 http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png?v=2.0.0.13" group-title="Knowledge", Smithsonian
-https://dl.dropboxusercontent.com/s/pvin86ey4pqavia/Smithsonian.m3u8?dl=0
+https://cdn1.mbahnunungonline.net/playlist/Smithsonian.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png?v=2.0.0.13" group-title="Knowledge", Love Nature 4K
-https://dl.dropboxusercontent.com/s/0jug1965kcz6mvv/LoveNature.m3u8?dl=0
+https://cdn1.mbahnunungonline.net/playlist/LoveNature.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RfIj9lU.png?v=2.0.0.13" group-title="Knowledge", Ruang Terampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
