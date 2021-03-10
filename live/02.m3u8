@@ -323,7 +323,6 @@ https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GxfYMu9.png" group-title="Entertainment", E4
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/1890050c4626342.m3u8
 
-
 ########################################## Hindi ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png" group-title="Hindi", Zee Bioskop
@@ -476,7 +475,7 @@ https://dl.dropboxusercontent.com/s/fi22byc96zqyx2u/RTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="ID", ANTV
 https://nonton.site:8443/live/novi/novi123/31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="ID", TVONE
-https://stream-08.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybAOAeEK02xxFxCgEjbLIJpQ)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1 
+https://tv.mbahnunungonline.net/playlist/tvone.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="News", Metro TV 
 https://dl.dropboxusercontent.com/s/cat0n2r1qob59ag/MetroTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13" group-title="Tes", true4u
