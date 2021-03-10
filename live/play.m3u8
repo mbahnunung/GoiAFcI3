@@ -74,7 +74,7 @@ https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c
 ########################################## SPORTS ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=2.0.0.13" group-title="Sports", Golf
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=2.0.0.13" group-title="Sports", Champions TV 1 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=2.0.0.13" group-title="Sports", Champions TV 2 
@@ -127,7 +127,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Zx04Kp.png?v=2.0.0.13" group-title="Music", Maleo Channel 
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=2.0.0.13" group-title="Music", Citra Dangdut 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.m3u8 
+https://dl.dropboxusercontent.com/s/aodrede7p74akmq/CitraDangdut.m3u8?dl=0 
 
 ########################################## Movies ######################################################
 
