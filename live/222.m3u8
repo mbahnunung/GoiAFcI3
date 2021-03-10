@@ -174,10 +174,9 @@ http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=2.0.0.13" group-title="Knowledge", CGTN Documentary
 http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png?v=2.0.0.13" group-title="Knowledge", Smithsonian
-#https://nonton.site:8443/live/novi/novi123/35998.m3u8
-https://dl.dropboxusercontent.com/s/pvin86ey4pqavia/Smithsonian.m3u8?dl=0
+https://cdn1.mbahnunungonline.net/playlist/Smithsonian.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png?v=2.0.0.13" group-title="Knowledge", Love Nature
-https://dl.dropboxusercontent.com/s/0jug1965kcz6mvv/LoveNature.m3u8?dl=0
+https://cdn1.mbahnunungonline.net/playlist/LoveNature.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CLN1nXp.jpg?v=2.0.0.13" group-title="Knowledge", Discovery Asia
 #https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 https://nonton.site:8443/live/novi/novi123/779.m3u8
