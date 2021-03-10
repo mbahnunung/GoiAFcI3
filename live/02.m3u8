@@ -257,9 +257,9 @@ http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png" group-title="Knowledge", CGTN Documentary
 http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png" group-title="Knowledge", Smithsonian
-https://dl.dropboxusercontent.com/s/pvin86ey4pqavia/Smithsonian.m3u8?dl=0
+https://cdn1.mbahnunungonline.net/playlist/Smithsonian.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png" group-title="Knowledge", Love Nature
-https://dl.dropboxusercontent.com/s/0jug1965kcz6mvv/LoveNature.m3u8?dl=0
+https://cdn1.mbahnunungonline.net/playlist/LoveNature.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BCNPRj1.png" group-title="Knowledge", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lmJTK1U.png" group-title="Knowledge", TRAVEL
@@ -403,9 +403,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/57e12c38175537
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kfLY92b04nk/VgY3R0RRquI/AAAAAAAAFAw/2zEzh3rrBQs0ERmZcboo7IIhIfmTmBgLQCPcBGAYYCw/s0/beinSport2.png" group-title="Sports", beIN Sports 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c28e6ada110428c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=2.0.0.13" group-title="Sports", Champions TV 1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6685_720p/index.m3u8
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=2.0.0.13" group-title="Sports", Champions TV 2
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_6686_720p/index.m3u8
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=2.0.0.13" group-title="Sports", Fox Sports
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=2.0.0.13" group-title="Sports", Fox Sports 2
