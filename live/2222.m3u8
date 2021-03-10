@@ -79,18 +79,18 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUHoMzT.png" group-title="Arab", Makkah Live
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="Arab", Dubai TV HD
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png" group-title="Arab", Noor Dubai TV
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" group-title="Movies", Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FX_m76GhFdY/UndG6eJ4NcI/AAAAAAAAB-0/Vsf59f_2OmQ/s1600/aljazeera-arab.png" group-title="News", Aljazeera
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-p7I1lG_Aews/UndHCyhg-9I/AAAAAAAAB-8/WFHni9Tkxh8/s1600/arabiya.png" group-title="News", Al arabiya
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Y0EyCUvqQf8/XMYyi8sUh7I/AAAAAAAALXI/5JBaMEUXJR89kAUCcPkzEyGlcQRzVv9NwCLcBGAs/s1600/bbc-arab.png" group-title="News", BBC Arabic
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="Arab", Dubai TV HD
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png" group-title="Arab", Noor Dubai TV
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" group-title="Movies", Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hKThVZv.jpg" group-title="News", Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7E1ybv.png" group-title="Arab", Libya 218
