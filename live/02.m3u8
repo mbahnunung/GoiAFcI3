@@ -325,28 +325,28 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/1890050c4626342.m3
 
 ########################################## Hindi ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png" group-title="Hindi", Zee Bioskop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png?v=1.1.1.1" group-title="Hindi", Zee Bioskop
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6399_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png" group-title="Hindi", 9XM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png?v=1.1.1.1" group-title="Hindi", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png" group-title="Hindi", &tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png?v=1.1.1.1" group-title="Hindi", &tv
 #http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/726e730e030e958.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oc5gVe8.png" group-title="Hindi", &explor
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oc5gVe8.png?v=1.1.1.1" group-title="Hindi", &explor
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c70d0e933f18dda.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QHBlHd3.png" group-title="Hindi", Zee Action 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHBlHd3.png?v=1.1.1.1" group-title="Hindi", Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg" group-title="Hindi", &Pictures HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg?v=1.1.1.1" group-title="Hindi", &Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9zoN04b.jpg" group-title="Hindi", Zing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zoN04b.jpg?v=1.1.1.1" group-title="Hindi", Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png" group-title="Hindi", Zee Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png?v=1.1.1.1" group-title="Hindi", Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg" group-title="Hindi", Zee Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg?v=1.1.1.1" group-title="Hindi", Zee Tv
 http://cv.khushitv.xyz/channels.php?c=zeetvhd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ohsQguR.jpg" group-title="Hindi", Zee Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohsQguR.jpg?v=1.1.1.1" group-title="Hindi", Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png" group-title="Hindi", B4U Kadak
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png?v=1.1.1.1" group-title="Hindi", B4U Kadak
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ef3f585dbf35c05.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qTteHsiJnok/V2T5OII_wfI/AAAAAAAAFgs/rm8tYRptCCwUpx1S8KDvzD26ZyvCH2InwCLcB/s1600/B4U_Music_India.png" group-title="Music", B4U Music
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8
@@ -355,9 +355,9 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JnDa5NiJFz8/YA26GMyTDHI/AAAAAAAAA_o/-Z8g-f0-Ny8V_fT17wTq2swCMtmrOCr-QCLcBGAsYHQ/s0/bflix-movies-logo.jpg" group-title="Hindi", Bflix Movies
 #https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4e0e7378bd80e4e.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k6LWreq.jpg" group-title="Hindi", Star Plus UK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6LWreq.jpg?v=1.1.1.1" group-title="Hindi", Star Plus UK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201905/star-gold.jpg" group-title="Hindi", Star Gold HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=1.1.1.1" group-title="Hindi", Star Gold HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
 
 ########################################## FOX Movies ######################################################
