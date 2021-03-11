@@ -83,8 +83,8 @@ https://dl.dropboxusercontent.com/s/1nnytcs3e18h850/Zoomoo.m3u8?dl=0
 https://dl.dropboxusercontent.com/s/u8d8siv9yfp710x/Horee.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.1.1.1" group-title="Kids", Baby First 
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JjR1xoS.jpg?v=1.1.1.1" group-title="Kids", GEM Kids 
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.1.1.1" group-title="Kids", Cartoon Network HD 
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 
 ########################################## Lifestyle ###################################################
 
