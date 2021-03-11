@@ -235,9 +235,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 #EXTINF:-1 tvg-id="tvedukasi" tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="MAXSTREAM", TV Edukasi
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
-#EXTINF:-1 tvg-id="metrotv" tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="MAXSTREAM", METRO TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="MAXSTREAM", METRO TV HD
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png" group-title="MAXSTREAM", SEA TODAY
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-#EXTINF:-1 tvg-id="kompastv" tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="MAXSTREAM", KOMPAS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="MAXSTREAM", KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
