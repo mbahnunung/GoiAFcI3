@@ -68,6 +68,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 https://cdn1.mbahnunungonline.net/playlist/seatoday.m3u8 
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=1.1.1.1", The Indonesia Channel 
 https://tv.mbahnunungonline.net/playlist/tic.m3u8 
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.1.1.1", Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/DiZMiIR.png?v=1.1.1.1", Mola TV Free 
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8 
 
