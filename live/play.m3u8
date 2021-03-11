@@ -73,16 +73,16 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/DiZMiIR.png?v=1.1.1.1", Mola TV Free 
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8 
 
-########################################## KIDS ######################################################
+########################################## KIDS ########################################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YA6laaG.jpg?v=1.1.1.1" group-title="Kids", Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uT0wWvS.jpg?v=1.1.1.1" group-title="Kids", Zoomoo 
 https://dl.dropboxusercontent.com/s/1nnytcs3e18h850/Zoomoo.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.1.1.1" group-title="Kids", Horee 
 https://dl.dropboxusercontent.com/s/u8d8siv9yfp710x/Horee.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.1.1.1" group-title="Kids", Baby First 
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YA6laaG.jpg?v=1.1.1.1" group-title="Kids", Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JjR1xoS.jpg?v=1.1.1.1" group-title="Kids", GEM Kids 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 
