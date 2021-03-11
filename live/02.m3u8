@@ -88,50 +88,50 @@ https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c
 
 ########################################## ARAB TV ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=2.0.0.13" group-title="Religious", Al Quran Al Kareem TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.1.1.1" group-title="Religious", Al Quran Al Kareem TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqn0hP.png?v=2.0.0.13" group-title="Arab", Saudi TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqn0hP.png?v=1.1.1.1" group-title="Arab", Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oH4stxW.png?v=2.0.0.13" group-title="Arab", Iqraa-Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oH4stxW.png?v=1.1.1.1" group-title="Arab", Iqraa-Tv
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vUHoMzT.png?v=2.0.0.13" group-title="Arab", Makkah Live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUHoMzT.png?v=1.1.1.1" group-title="Arab", Makkah Live
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fgUVz5m.png?v=2.0.0.13" group-title="News", Aljazeera Arabic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fgUVz5m.png?v=1.1.1.1" group-title="News", Aljazeera Arabic
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S3Gn16p.png?v=2.0.0.13" group-title="News", Al arabiya
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S3Gn16p.png?v=1.1.1.1" group-title="News", Al arabiya
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rguNbSN.png?v=2.0.0.13" group-title="News", BBC Arabic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rguNbSN.png?v=1.1.1.1" group-title="News", BBC Arabic
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="Arab", Dubai TV HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png?v=2.0.0.13" group-title="Arab", Noor Dubai TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png?v=1.1.1.1" group-title="Arab", Noor Dubai TV
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" group-title="Movies", Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hKThVZv.jpg" group-title="News", Sky News Arabia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hKThVZv.jpg?v=1.1.1.1" group-title="News", Sky News Arabia
 http://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f7E1ybv.png?v=2.0.0.13" group-title="Arab", Libya 218
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7E1ybv.png?v=1.1.1.1" group-title="Arab", Libya 218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png?v=2.0.0.13" group-title="Movies", MBC 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png?v=1.1.1.1" group-title="Movies", MBC 2 HD
 http://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png?v=2.0.0.13" group-title="Movies", MBC Action HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png?v=1.1.1.1" group-title="Movies", MBC Action HD
 http://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oVqLfqA.jpg?v=2.0.0.13" group-title="Movies", MAX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oVqLfqA.jpg?v=1.1.1.1" group-title="Movies", MAX HD
 http://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=2.0.0.13" group-title="Knowledge", Nat Geo FHD (ABU DHABI)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=1.1.1.1" group-title="Knowledge", Nat Geo FHD (ABU DHABI)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6MHH5z5.jpg?v=2.0.0.13" group-title="Music", Rotana Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MHH5z5.jpg?v=1.1.1.1" group-title="Music", Rotana Music
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/5609f8608499505.m3u8
 
 ########################################## KIDS ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YA6laaG.jpg" group-title="Kids", Astro Ceria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YA6laaG.jpg?v=1.1.1.1" group-title="Kids", Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JjR1xoS.jpg" group-title="Kids", GEM Kids 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjR1xoS.jpg?v=1.1.1.1" group-title="Kids", GEM Kids 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png" group-title="Kids" tvg-id="" tvg-name"Horee", Horee
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.1.1.1" group-title="Kids", Horee
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6397_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png" group-title="Kids" tvg-id="" tvg-name"Baby First", Baby First
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.1.1.1" group-title="Kids", Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6cVz4M5I3Ag/YAsJUy3Qr1I/AAAAAAAAMm0/ehYQrYXfBFMFDqbvTnkSRrdM9pH-SPDCgCLcBGAsYHQ/s0/logo_duck_TV.png" group-title="Kids" tvg-id="" tvg-name"Duck TV", Duck TV
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
@@ -164,11 +164,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7aa459d024f16bb.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/asal4pC.png?v=1.1.1.1" group-title="Malaysia", ASTRO AWANI 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
 #http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AdhVuZ-u8xg/V1lUMUAhBEI/AAAAAAAAFcA/93nYQbYwam4GHDq0-q-LHcQUdcQp7XsTwCLcB/s1600/bernama-tv.png?v=1.1.1.1" group-title="Malaysia", BERNAMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVgrze1.png?v=1.1.1.1" group-title="Malaysia", BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-q35SEqK9HvI/XMfJC7mMELI/AAAAAAAALYc/gEAOcpKPRJg7FJsGJjPpczRAmCi1Ja8UACLcBGAs/s1600/tv1-malaysia.png?v=1.1.1.1" group-title="Malaysia", TV1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OpTOU9c.png?v=1.1.1.1" group-title="Malaysia", TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-itq7U8NLDv0/XMfHyEbUqaI/AAAAAAAALYU/V-0AwQiK2H4p_Q_M2rZj2LjNcBdpVWVvQCLcBGAs/s1600/tv2-malaysia.png?v=1.1.1.1" group-title="Malaysia", TV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBH3Acn.png?v=1.1.1.1" group-title="Malaysia", TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia", TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -200,14 +200,14 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dT3D9Xx.png?v=1.1.1.1" group-title="Movies", CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HXnfAlrgfrg/XmnTuPMVB4I/AAAAAAAAMI4/loc4VlIEFw4Bky0JZ_qMNQwawh2jpvFwwCLcBGAsYHQ/s1600/logo_celestialmovie.png" group-title="Movies" tvg-id="" tvg-name"Celestial Movies", Celestial Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEHEXrZ.png?v=1.1.1.1" group-title="Movies" tvg-id="" tvg-name"Celestial Movies", Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2GWGvGFfRQE/XLZcVVeM1lI/AAAAAAAALQM/WkN8msxTrnUgAJdcdhtDf6iGIG-VpMq8gCLcBGAs/s1600/logo_axn.png" group-title="Movies" tvg-id="AXN" tvg-name"AXN", AXN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gL9y8n3.png?v=1.1.1.1" group-title="Movies" tvg-id="AXN" tvg-name"AXN", AXN
 http://rr.dens.tv/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Hqm2f7Tqkvc/XLbDdO1TEJI/AAAAAAAALQs/Q9_wh0MPbNEYeWDcishWdpLnEJLKJiepACLcBGAs/s1600/logo_kix_hd.png" group-title="Movies" tvg-id="KIX" tvg-name"KIX", KIX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UAaZ3G1.png?v=1.1.1.1" group-title="Movies" tvg-id="KIX" tvg-name"KIX", KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png" group-title="Horor", thrill
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ElZ8AswEVQM/XmnXFCPbcRI/AAAAAAAAMJQ/revEeNfxANMyGd1pAOBYX1lZ0zNUwjY5QCLcBGAsYHQ/s1600/logo_thrill.png?v=1.1.1.1" group-title="Horor", thrill
 https://cdn6.goprimetime.info/feed/LC26/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Dl7446Nipg/V2sFcyX0JEI/AAAAAAAAFko/ngFy43BhmhgedcPmr-pEoOSD4sJASBWGgCPcBGAYYCw/s0/syfy.png" group-title="Movies", SYFY
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8
