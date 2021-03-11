@@ -69,7 +69,11 @@ https://cdn1.mbahnunungonline.net/playlist/seatoday.m3u8
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=1.1.1.1", The Indonesia Channel 
 https://tv.mbahnunungonline.net/playlist/tic.m3u8 
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.1.1.1", Outdoor Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8 
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://1.bp.blogspot.com/--7fmWXmYEpc/YAmzUQbiL1I/AAAAAAAAMjc/lgRrEHpdngE3HzjQuH6z6gxu3XwScXlWQCLcBGAsYHQ/s0/logo_blueant.png", Blue Ant
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8 
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://3.bp.blogspot.com/-OdxU5YbNy0A/XmnU8NK3AjI/AAAAAAAAMJA/kefPhkoHEooJPNQmUEu1MNpE2u4hsYGagCLcBGAsYHQ/s1600/logo_blueantext.png", Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8 
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/DiZMiIR.png?v=1.1.1.1", Mola TV Free 
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8 
 
@@ -83,8 +87,10 @@ https://dl.dropboxusercontent.com/s/1nnytcs3e18h850/Zoomoo.m3u8?dl=0
 https://dl.dropboxusercontent.com/s/u8d8siv9yfp710x/Horee.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.1.1.1" group-title="Kids", Baby First 
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.1.1.1" group-title="Kids", Cartoon Network HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.1.1.1" group-title="Kids", Cartoon Network 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.1.1.1" group-title="Kids", Boomerang 
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
 
 ########################################## Lifestyle ###################################################
 
