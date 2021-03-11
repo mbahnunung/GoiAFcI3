@@ -70,9 +70,9 @@ https://cdn1.mbahnunungonline.net/playlist/seatoday.m3u8
 https://tv.mbahnunungonline.net/playlist/tic.m3u8 
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.1.1.1", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://1.bp.blogspot.com/--7fmWXmYEpc/YAmzUQbiL1I/AAAAAAAAMjc/lgRrEHpdngE3HzjQuH6z6gxu3XwScXlWQCLcBGAsYHQ/s0/logo_blueant.png", Blue Ant
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/VobODf7.png?v=1.1.1.1", Blue Ant
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8 
-#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://3.bp.blogspot.com/-OdxU5YbNy0A/XmnU8NK3AjI/AAAAAAAAMJA/kefPhkoHEooJPNQmUEu1MNpE2u4hsYGagCLcBGAsYHQ/s1600/logo_blueantext.png", Blue Ant Extreme
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.1.1.1", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8 
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/DiZMiIR.png?v=1.1.1.1", Mola TV Free 
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8 
