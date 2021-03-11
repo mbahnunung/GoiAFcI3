@@ -84,11 +84,11 @@ http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rguNbSN.png?v=1.1.1.1" group-title="News", BBC Arabic
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mpdZ-xu-94s/X_F4ufoBkJI/AAAAAAAAMds/3KtJThxXLAMtja2wy-uG7ZAC7kqiCXyiQCLcBGAsYHQ/s320/dubai-tv.jpg" group-title="Arab", Dubai TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIDtEcz.jpg" group-title="Arab", Dubai TV HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png" group-title="Arab", Noor Dubai TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png?v=1.1.1.1" group-title="Arab", Noor Dubai TV
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg" group-title="Movies", Dubai One
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ADizGcy.jpg?v=1.1.1.1" group-title="Movies", Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hKThVZv.jpg?v=1.1.1.1" group-title="News", Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
@@ -98,7 +98,7 @@ https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png?v=1.1.1.1" group-title="Movies", MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX.jpg" group-title="Movies", MAX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oVqLfqA.jpg?v=1.1.1.1" group-title="Movies", MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png" group-title="Knowledge", Nat Geo FHD (ABU DHABI)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
@@ -123,39 +123,39 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png?v=1.1.1.1" group-title="Malaysia", AL HIJRAH
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQsUvIE.jpg" group-title="Malaysia", TVIKIM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQsUvIE.jpg?v=1.1.1.1" group-title="Malaysia", TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 
 ########################################## Hindi ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png" group-title="Hindi", &tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png?v=8.8.8.8" group-title="Hindi", &tv
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QHBlHd3.png" group-title="Hindi", Zee Action 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHBlHd3.png?v=8.8.8.8" group-title="Hindi", Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg" group-title="Hindi", &Pictures HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg?v=8.8.8.8" group-title="Hindi", &Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9zoN04b.jpg" group-title="Hindi", Zing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zoN04b.jpg?v=8.8.8.8" group-title="Hindi", Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png" group-title="Hindi", 9XM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png?v=8.8.8.8" group-title="Hindi", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png" group-title="Hindi", Zee Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png?v=8.8.8.8" group-title="Hindi", Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg" group-title="Hindi", Zee Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg?v=8.8.8.8" group-title="Hindi", Zee Tv
 http://cv.khushitv.xyz/channels.php?c=zeetvhd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ohsQguR.jpg" group-title="Hindi", Zee Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohsQguR.jpg?v=8.8.8.8" group-title="Hindi", Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png" group-title="Hindi", B4U Kadak
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png?v=8.8.8.8" group-title="Hindi", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qTteHsiJnok/V2T5OII_wfI/AAAAAAAAFgs/rm8tYRptCCwUpx1S8KDvzD26ZyvCH2InwCLcB/s1600/B4U_Music_India.png" group-title="Music", B4U Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gvo1sGR.png?v=8.8.8.8" group-title="Music", B4U Music
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" group-title="Music", Desi Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9xsYZcs.jpg?v=8.8.8.8" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JnDa5NiJFz8/YA26GMyTDHI/AAAAAAAAA_o/-Z8g-f0-Ny8V_fT17wTq2swCMtmrOCr-QCLcBGAsYHQ/s0/bflix-movies-logo.jpg" group-title="Hindi", Bflix Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Raqx7I.jpgg?v=8.8.8.8" group-title="Hindi", Bflix Movies
 #https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4e0e7378bd80e4e.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k6LWreq.jpg" group-title="Hindi", Star Plus UK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6LWreq.jpg?v=8.8.8.8" group-title="Hindi", Star Plus UK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201905/star-gold.jpg" group-title="Hindi", Star Gold HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=8.8.8.8" group-title="Hindi", Star Gold HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
 
 ########################################## Knowledge ######################################################
