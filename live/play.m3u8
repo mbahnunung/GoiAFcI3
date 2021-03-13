@@ -41,7 +41,7 @@ http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/rg1rTkj.png?v=1.1.1.1", Jakarta Globe News Channel 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/pwxmNpN.png?v=1.1.1.1", Elshinta TV 
-https://castprox.herokuapp.com/http://rrelshinta.dens.tv/s/s10/index2.m3u8 
+https://ihon.herokuapp.com/http://rrelshinta.dens.tv/s/s10/index2.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.1.1.1", JTV 
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.1.1.1", Nusantara TV 
