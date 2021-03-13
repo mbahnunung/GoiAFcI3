@@ -69,7 +69,7 @@ https://cdn1.mbahnunungonline.net/playlist/seatoday.m3u8
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=1.1.1.1", The Indonesia Channel 
 https://tv.mbahnunungonline.net/playlist/tic.m3u8 
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.1.1.1", Outdoor Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8 
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8 
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/VobODf7.png?v=1.1.1.1", Blue Ant
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8 
 #EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.1.1.1", Blue Ant Extreme
@@ -86,7 +86,7 @@ https://dl.dropboxusercontent.com/s/1nnytcs3e18h850/Zoomoo.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.1.1.1" group-title="Kids", Horee 
 https://dl.dropboxusercontent.com/s/u8d8siv9yfp710x/Horee.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.1.1.1" group-title="Kids", Baby First 
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8 
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.1.1.1" group-title="Kids", Cartoon Network 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.1.1.1" group-title="Kids", Boomerang 
@@ -97,7 +97,7 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BaA1xU1.png?v=1.1.1.1" group-title="Lifestyle", HGTV 
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3IDyQAj.png?v=1.1.1.1" group-title="Lifestyle", Asian Food Channel 
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8 
+https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8 
  
 ########################################## SPORTS ######################################################
 
@@ -110,7 +110,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.1.1.1" group-title="Sports", Fox Sports 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=1.1.1.1" group-title="Sports", Fox Sports 2 
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8 
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5ERoxX.png?v=1.1.1.1" group-title="Sports", Fox Sports 3  
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8 
 
