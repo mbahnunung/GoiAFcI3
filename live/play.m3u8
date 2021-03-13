@@ -112,7 +112,7 @@ http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=1.1.1.1" group-title="News", IDX 
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JfmNo8z.png?v=1.1.1.1" tvg-id="MNCNEWS" group-title="News", MNC News 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JfmNo8z.png?v=1.1.1.1" group-title="News", MNC News 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/243a1aea2191dec.m3u8 
 
 ########################################## SPORTS ######################################################
@@ -215,15 +215,17 @@ http://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", RAYA FM
 http://45.64.98.181:8323/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.0.0.1" group-title="Backup", RCTI HD 
+########################################## Backup ########################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.0.0.1" group-title="Backup" tvg-id="1" tvg-name"RCTI HD", RCTI HD 
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.0.0.1" group-title="Backup", MNCTV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.0.0.1" group-title="Backup" tvg-id="2" tvg-name"MNCTV HD", MNCTV HD 
 https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.0.0.1" group-title="Backup", GTV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.0.0.1" group-title="Backup" tvg-id="3" tvg-name"GTV HD", GTV HD 
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=1.0.0.1" group-title="Backup", iNews HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=1.0.0.1" group-title="Backup" tvg-id="4" tvg-name"iNews HD", iNews HD 
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=1.0.0.1" group-title="Backup", SCTV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=1.0.0.1" group-title="Backup" tvg-id="5" tvg-name"SCTV HD", SCTV HD 
 https://tv.mbahnunungonline.net/playlist/sctv.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=1.0.0.1" group-title="News", METRO TV HD
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
