@@ -99,7 +99,22 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3IDyQAj.png?v=1.1.1.1" group-title="Lifestyle", Asian Food Channel 
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8 
- 
+
+########################################## News ########################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.1.1.1" group-title="News", CHANNEL NEWSASIA 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fgUVz5m.png?v=1.1.1.1" group-title="News", Aljazeera Arabic 
+http://live-hls-web-aja.getaj.net/AJA/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S3Gn16p.png?v=1.1.1.1" group-title="News", Al arabiya 
+http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rguNbSN.png?v=1.1.1.1" group-title="News", BBC Arabic 
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=1.1.1.1" group-title="News", IDX 
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JfmNo8z.png?v=1.1.1.1" tvg-id="MNCNEWS" group-title="News", MNC News 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/243a1aea2191dec.m3u8 
+
 ########################################## SPORTS ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.1.1.1" group-title="Sports", Golf
@@ -210,10 +225,10 @@ https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=1.0.0.1" group-title="Backup", SCTV HD 
 https://tv.mbahnunungonline.net/playlist/sctv.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=1.0.0.1" group-title="Backup", METRO TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=1.0.0.1" group-title="News", METRO TV HD
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W1JfODW.png?v=1.0.0.1" group-title="Backup", UseePrime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W1JfODW.png?v=1.0.0.1" group-title="Entertainment", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg?v=1.0.0.1" group-title="Backup", Magna TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg?v=1.0.0.1" group-title="Entertainment", Magna TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
