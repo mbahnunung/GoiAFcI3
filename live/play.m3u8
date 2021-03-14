@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI 
 https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=1.1.1.1" group-title="Nasional", SCTV 
-https://cdn1.mbahnunungonline.net/playlist/sctv.m3u8?v=1.1.1.1 
+https://cdn1.mbahnunungonline.net/playlist/sctv.m3u8?v=4.2.2.4 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNCTV 
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=1.1.1.1" group-title="Nasional", antv 
-https://tv.mbahnunungonline.net/playlist/antv.m3u8?v=1.0.0.1 
+https://tv.mbahnunungonline.net/playlist/antv.m3u8?v=4.2.2.4 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=1.1.1.1" group-title="Nasional", Indosiar 
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=1.1.1.1" group-title="Nasional", Metro TV 
@@ -20,7 +20,7 @@ https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Nasional", NET. 
 https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=1.1.1.1" group-title="Nasional", tvOne 
-https://tv.mbahnunungonline.net/playlist/tvone.m3u8?v=1.0.0.1 
+https://tv.mbahnunungonline.net/playlist/tvone.m3u8?v=4.2.2.4 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=1.1.1.1" group-title="Nasional", rtv 
 https://dl.dropboxusercontent.com/s/fi22byc96zqyx2u/RTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="Nasional", Kompas TV 
@@ -177,25 +177,25 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 
 ########################################## Movies ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEHEXrZ.png?v=1.0.0.1" group-title="Movies", Celestial Movies 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEHEXrZ.png?v=4.2.2.4" group-title="Movies", Celestial Movies 
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gL9y8n3.png?v=1.0.0.1" group-title="Movies", AXN 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gL9y8n3.png?v=4.2.2.4" group-title="Movies", AXN 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UAaZ3G1.png?v=1.0.0.1" group-title="Movies", KIX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UAaZ3G1.png?v=4.2.2.4" group-title="Movies", KIX
 http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Movies", thrill
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=4.2.2.4" group-title="Movies", thrill
 http://cdn6.goprimetime.info/feed/LC26/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=1.0.0.1" group-title="Movies", Cinema World 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=4.2.2.4" group-title="Movies", Cinema World 
 http://rr.dens.tv/h/h04/01.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gNhVWH.png?v=4.2.2.4" group-title="Movies", WarnerTV 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=1.1.1.1" group-title="Movies", SYFY 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=4.2.2.4" group-title="Movies", SYFY 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMAyRG8.jpg?v=1.0.0.1" group-title="Movies", HITS 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMAyRG8.jpg?v=4.2.2.4" group-title="Movies", HITS 
 http://rr.dens.tv/h/h37/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r58Vr0z.jpg?v=1.0.0.1" group-title="Movies", &Flix 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r58Vr0z.jpg?v=4.2.2.4" group-title="Movies", &Flix 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTlPdiT.jpg?v=1.0.0.1" group-title="Movies", &Prive HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTlPdiT.jpg?v=4.2.2.4" group-title="Movies", &Prive HD 
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8 
 
 ########################################## Fashion ######################################################
