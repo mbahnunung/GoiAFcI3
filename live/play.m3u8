@@ -236,7 +236,7 @@ https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=1.0.0.1" group-title="Backup" tvg-id="SCTVHD" tvg-name"SCTV HD", SCTV HD 
 https://tv.mbahnunungonline.net/playlist/sctv.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=1.0.0.1" group-title="News", METRO TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=1.0.0.1" group-title="News", METROTV HD
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W1JfODW.png?v=1.0.0.1" group-title="Entertainment", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
