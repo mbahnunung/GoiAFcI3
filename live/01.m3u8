@@ -3,12 +3,12 @@
 #https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0 
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/fH8rFb8.png?v=2.0.0.13" group-title="Nasional", SCTV
-https://tv.mbahnunungonline.net/playlist/sctv.m3u8
-#https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
+#https://tv.mbahnunungonline.net/playlist/sctv.m3u8
+https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/AWnnWow.png?v=2.0.0.13" group-title="Nasional", MNCTV
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/qAKhvwu.png?v=2.0.0.13" group-title="Nasional", antv
-https://gratismkctv.net/oxygen/oxygen.m3u8?channel=antv
+https://tv.mbahnunungonline.net/playlist/antv.m3u8?v=1.0.0.1
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" group-title="Nasional", Indosiar
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="Nasional", Metro TV 
@@ -397,7 +397,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sjZl08Q.jpg" group-title="Fashion", FTV Midnight Secrets HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-W-AH8lZ1gXE/XMbnCO7-jpI/AAAAAAAALYI/HOtrHbejeiYowoxKFSVw6oNZ19KjoymvgCLcBGAs/s1600/logo_fashiontv.png" group-title="Fashion", Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cf5Gyi4.jpg" group-title="Fashion", HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CeymXdN.jpg" group-title="Fashion", Models Inc. HD
