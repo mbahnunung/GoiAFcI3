@@ -136,8 +136,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=2.0.0.13" group-title="Knowledge", National Geographic Channel 
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=2.0.0.13" group-title="Knowledge", Nat Geo FHD (ABU DHABI)
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=2.0.0.13" group-title="Knowledge", National Geographic ABU DHABI
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=2.0.0.13" group-title="Knowledge", Discovery Channel 
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=2.0.0.13" group-title="Knowledge", CGTN Documentary
@@ -217,17 +217,17 @@ http://45.64.98.181:8323/stream
 
 ########################################## Backup ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.0.0.1" group-title="Backup" tvg-id="1" tvg-name"RCTI HD", RCTI HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.0.0.1" group-title="Backup" tvg-id="RCTIHD" tvg-name"RCTI HD", RCTI HD 
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.0.0.1" group-title="Backup" tvg-id="2" tvg-name"MNCTV HD", MNCTV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.0.0.1" group-title="Backup" tvg-id="MNCTVHD" tvg-name"MNCTV HD", MNCTV HD 
 https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.0.0.1" group-title="Backup" tvg-id="3" tvg-name"GTV HD", GTV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.0.0.1" group-title="Backup" tvg-id="GTVHD" tvg-name"GTV HD", GTV HD 
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=1.0.0.1" group-title="Backup" tvg-id="4" tvg-name"iNews HD", iNews HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=1.0.0.1" group-title="Backup" tvg-id="iNewsHD" tvg-name"iNews HD", iNews HD 
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=1.0.0.1" group-title="Backup" tvg-id="5" tvg-name"SCTV HD", SCTV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=1.0.0.1" group-title="Backup" tvg-id="SCTVHD" tvg-name"SCTV HD", SCTV HD 
 https://tv.mbahnunungonline.net/playlist/sctv.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=1.0.0.1" group-title="News", METROTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=1.0.0.1" group-title="News", METRO TV HD
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W1JfODW.png?v=1.0.0.1" group-title="Entertainment", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
