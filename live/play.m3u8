@@ -102,7 +102,7 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 
 ########################################## News ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.1.1.1" group-title="News", CHANNEL NEWSASIA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.1.1.1" group-title="News", Channel NEWSASIA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fgUVz5m.png?v=1.1.1.1" group-title="News", Aljazeera Arabic 
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8 
@@ -172,7 +172,7 @@ https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.1.1.1" group-title="Music", Citra Dangdut 
 https://dl.dropboxusercontent.com/s/aodrede7p74akmq/CitraDangdut.m3u8?dl=0 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9PrSKhN.png?v=1.1.1.1" group-title="Music", CHANNEL [V] INTL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9PrSKhN.png?v=1.1.1.1" group-title="Music", Channel [V] INTL
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 
 ########################################## Movies ######################################################
