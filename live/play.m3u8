@@ -226,13 +226,13 @@ http://45.64.98.181:8323/stream
 
 ########################################## Backup ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.0.0.1" group-title="Backup" tvg-id="RCTIHD" tvg-name"RCTI-HD", RCTI HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.0.0.1" group-title="RCTI+" tvg-id="RCTIHD" tvg-name"RCTI-HD", RCTI (RCTI+) 
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.0.0.1" group-title="Backup" tvg-id="MNCTVHD" tvg-name"MNCTV-HD", MNCTV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.0.0.1" group-title="RCTI+" tvg-id="MNCTVHD" tvg-name"MNCTV-HD", MNCTV (RCTI+)
 https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.0.0.1" group-title="Backup" tvg-id="GTVHD" tvg-name"GTV-HD", GTV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.0.0.1" group-title="RCTI+" tvg-id="GTVHD" tvg-name"GTV-HD", GTV (RCTI+)
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=1.0.0.1" group-title="Backup" tvg-id="iNewsHD" tvg-name"iNews-HD", iNews HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=1.0.0.1" group-title="RCTI+" tvg-id="iNewsHD" tvg-name"iNews-HD", iNews (RCTI+) 
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=1.0.0.1" group-title="Backup" tvg-id="SCTVHD" tvg-name"SCTV-HD", SCTV HD 
 https://tv.mbahnunungonline.net/playlist/sctv.m3u8 
