@@ -104,7 +104,7 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 ########################################## News ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.1.1.1" group-title="News", CNBC Indonesia 
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8 
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q40Lf2tDUrg/VfZh2qBeFEI/AAAAAAAAE-E/Aq4wwzZBw1Y/s1600/logo_dwtv.png?v=1.1.1.1" group-title="News", DW English
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.1.1.1" group-title="News", Channel NEWSASIA 
