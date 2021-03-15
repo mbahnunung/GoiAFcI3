@@ -10,8 +10,7 @@ https://tv.mbahnunungonline.net/playlist/antv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" tvg-id="Indosiar" group-title="Indonesia", Indosiar
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/un1priK.png?v=2.0.0.13" tvg-id="MetroTV" group-title="Indonesia", Metro TV 
-https://cdn1.mbahnunungonline.net/playlist/metrotv.m3u8
-#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8 
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/i8l6OHc.png?v=2.0.0.13" tvg-id="Trans7" group-title="Indonesia", Trans 7
 https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/n8qUiYO.png?v=2.0.0.13" tvg-id="TransTV" group-title="Indonesia", Trans TV
@@ -27,14 +26,12 @@ https://tv.mbahnunungonline.net/playlist/tvone.m3u8
 https://tv.mbahnunungonline.net/playlist/kompastv.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XlZqfwV.png?v=2.0.0.13" tvg-id="rtv" group-title="Indonesia", rtv
 https://cdn1.mbahnunungonline.net/playlist/Rtv.m3u8 
-#https://tv.mbahnunungonline.net/playlist/rtv.m3u8
 #EXTINF:0 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XBtbPBF.png?v=2.0.0.13" tvg-id="TVRI" group-title="Indonesia", TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" tvg-id="iNews" group-title="Indonesia", iNews
 https://dl.dropboxusercontent.com/s/vd7uvm50pzth7a4/iNews.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" tvg-id="BeritaSatu" group-title="Indonesia", Berita Satu
-https://dl.dropboxusercontent.com/s/5b9c9h47bbpqohp/BeritaSatu.m3u8?dl=0
-#http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" tvg-id="CNNIndonesiaHD" group-title="News", CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=2.0.0.13" tvg-id="CNBCIndonesia" group-title="News", CNBC Indonesia
