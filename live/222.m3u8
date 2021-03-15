@@ -130,7 +130,7 @@ https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png?v=8.8.8.8" group-title="Hindi", &tv
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QHBlHd3.png?v=8.8.8.8" group-title="Hindi", Zee Action 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.8.8" group-title="Hindi", Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg?v=8.8.8.8" group-title="Hindi", &Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
@@ -151,8 +151,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xsYZcs.jpg?v=8.8.8.8" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Raqx7I.jpgg?v=8.8.8.8" group-title="Hindi", Bflix Movies
-#https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4e0e7378bd80e4e.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k6LWreq.jpg?v=8.8.8.8" group-title="Hindi", Star Plus UK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=8.8.8.8" group-title="Hindi", Star Gold HD
