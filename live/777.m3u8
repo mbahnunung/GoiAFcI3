@@ -36,6 +36,12 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 
 ########################################## Local ######################################################
 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.1.1.1", MyTV 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.1.1.1", Jak-tv 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.1.1.1", Nusantara TV 
+https://v6.siar.us/nusantaratv/live/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/XQGggkA.jpg?v=1.1.1.1", Jawapos TV 
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/rg1rTkj.png?v=1.1.1.1", Jakarta Globe News Channel 
@@ -44,20 +50,14 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 http://rrelshinta.dens.tv/s/s10/index2.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.1.1.1", JTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.1.1.1", Nusantara TV 
-https://v6.siar.us/nusantaratv/live/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/wbOdROI.png?v=1.1.1.1", Inspira TV 
 https://v2.siar.us/inspiratv/live/playlist.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.1.1.1", MyTV 
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.1.1.1", DAAI TV 
 https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/DaaiTV.m3u8?dl=0 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/RwVhc31.png?v=1.1.1.1", ADI TV 
 https://v2.siar.us/aditv/livestream/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/LogvK3X.png?v=1.1.1.1", DUTA TV 
 https://v2.siar.us/dutatv/live/playlist.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.1.1.1", Jak-tv 
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.1.1.1", Bali TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8 
 
