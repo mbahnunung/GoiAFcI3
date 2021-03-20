@@ -38,7 +38,7 @@ https://dl.dropboxusercontent.com/s/b8hl2hnahrye5er/TVRI.m3u8?dl=0
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.1.1.1", MYTV 
 https://dl.dropboxusercontent.com/s/6lfyrpurxqxof9a/MyTV.m3u8?dl=0 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.1.1.1", Jak-tv 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.1.1.1", Jak-TV 
 https://dl.dropboxusercontent.com/s/ctdm9c9zw2uz35j/JakTV.m3u8?dl=0 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.1.1.1", Nusantara TV 
 https://v6.siar.us/nusantaratv/live/playlist.m3u8 
@@ -110,7 +110,7 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_e
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/243a1aea2191dec.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZQvCs6.png?v=1.1.1.1" group-title="News", DW English
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.1.1.1" group-title="News", Channel NEWSASIA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.1.1.1" group-title="News", Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fgUVz5m.png?v=1.1.1.1" group-title="News", Aljazeera Arabic 
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8 
