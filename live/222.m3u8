@@ -22,8 +22,8 @@ https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="Nasional", Trans TV 
 https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV 
-https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-#https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
+#https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Nasional", NET. 
 https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=1.1.1.1" group-title="Religious", Ajwa TV 
@@ -89,7 +89,7 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oVqLfqA.jpg?v=1.1.1.1" group-title="Movies", MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png" group-title="Knowledge", National Geographic Abu Dhabi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=1.1.1.1" group-title="Knowledge", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 ########################################## News ########################################################
