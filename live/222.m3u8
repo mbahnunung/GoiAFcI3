@@ -101,7 +101,7 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oVqLfqA.jpg?v=1.1.1.1" group-title="Movies", MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png" group-title="Knowledge", National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 ########################################## MALAYSIA TV ######################################################
 
