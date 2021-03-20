@@ -195,7 +195,7 @@ http://rr.dens.tv/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV 
 #http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/f59089a497193eb.m3u8 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=1.1.1.1" group-title="Movies", SYFY 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=1.0.0.1" group-title="Movies", SYFY 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r58Vr0z.jpg?v=1.0.0.1" group-title="Movies", &Flix 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8 
@@ -234,31 +234,31 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunkl
 
 ########################################## Hindi ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png?v=1.1.1.1" group-title="Hindi", Zee Bioskop 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png?v=8.8.4.4" group-title="Hindi", Zee Bioskop 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6399_720p/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png?v=8.8.8.8" group-title="Hindi", 9XM 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png?v=8.8.4.4" group-title="Hindi", 9XM 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png?v=8.8.8.8" group-title="Hindi", &tv 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png?v=8.8.4.4" group-title="Hindi", &tv 
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.8.8" group-title="Hindi", Zee Action 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.4.4" group-title="Hindi", Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg?v=8.8.8.8" group-title="Hindi", &Pictures HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg?v=8.8.4.4" group-title="Hindi", &Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9zoN04b.jpg?v=8.8.8.8" group-title="Hindi", Zing 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zoN04b.jpg?v=8.8.4.4" group-title="Hindi", Zing 
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png?v=8.8.8.8" group-title="Hindi", Zee Cinema 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png?v=8.8.4.4" group-title="Hindi", Zee Cinema 
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg?v=8.8.8.8" group-title="Hindi", Zee Tv 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg?v=8.8.4.4" group-title="Hindi", Zee Tv 
 http://cv.khushitv.xyz/channels.php?c=zeetvhd 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ohsQguR.jpg?v=8.8.8.8" group-title="Hindi", Zee Bollywood 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohsQguR.jpg?v=8.8.4.4" group-title="Hindi", Zee Bollywood 
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png?v=8.8.8.8" group-title="Hindi", B4U Kadak 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png?v=8.8.4.4" group-title="Hindi", B4U Kadak 
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gvo1sGR.png?v=8.8.8.8" group-title="Music", B4U Music 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gvo1sGR.png?v=8.8.4.4" group-title="Music", B4U Music 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9xsYZcs.jpg?v=8.8.8.8" group-title="Music", Desi Channel 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9xsYZcs.jpg?v=8.8.4.4" group-title="Music", Desi Channel 
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Raqx7I.jpgg?v=8.8.8.8" group-title="Hindi", Bflix Movies 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Raqx7I.jpg?v=8.8.4.4" group-title="Hindi", Bflix Movies 
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8 
 
 ########################################## RADIO ######################################################
