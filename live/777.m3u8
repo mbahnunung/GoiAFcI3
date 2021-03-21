@@ -170,13 +170,13 @@ https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/playlist.m3u8
 
 ########################################## MUSIC ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Zx04Kp.png?v=1.1.1.1" group-title="Music", Maleo Channel 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Zx04Kp.png?v=1.0.0.1" group-title="Music", Maleo Channel 
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png?v=1.1.1.1" group-title="Music", 9XM 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png?v=1.0.0.1" group-title="Music", 9XM 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.1.1.1" group-title="Music", Citra Dangdut 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut 
 https://dl.dropboxusercontent.com/s/aodrede7p74akmq/CitraDangdut.m3u8?dl=0 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9PrSKhN.png?v=1.1.1.1" group-title="Music", Channel [V] INTL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9PrSKhN.png?v=1.0.0.1" group-title="Music", Channel [V] INTL
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 
 ########################################## Movies ######################################################
