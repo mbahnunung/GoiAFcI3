@@ -127,7 +127,7 @@ https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_ar
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.1.1.1" group-title="Sports", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.1.1.1" group-title="Sports", Champions TV 1 
-https://cdn1.mbahnunungonline.net/playlist/ChampionsTV1.m3u8 
+https://tv.mbahnunungonline.net/playlist/ChampionsTV1.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.1.1.1" group-title="Sports", Champions TV 2 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.1.1.1" group-title="Sports", Fox Sports 
