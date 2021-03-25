@@ -71,7 +71,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUHoMzT.png?v=1.1.1.1" group-title="Arab", Makkah Live
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yIDtEcz.jpg" group-title="Arab", Dubai TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIDtEcz.jpg?v=1.1.1.1" group-title="Arab", Dubai TV HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png?v=1.1.1.1" group-title="Arab", Noor Dubai TV
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
