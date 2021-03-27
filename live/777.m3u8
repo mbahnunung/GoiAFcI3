@@ -98,9 +98,9 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 
 ########################################## Lifestyle ###################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BaA1xU1.png?v=1.1.1.1" group-title="Lifestyle", HGTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle", HGTV 
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3IDyQAj.png?v=1.1.1.1" group-title="Lifestyle", Asian Food Channel 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle", Asian Food Channel 
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8 
 
 ########################################## News ########################################################
@@ -124,17 +124,17 @@ https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_ar
 
 ########################################## SPORTS ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.1.1.1" group-title="Sports", Golf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.1.1.1" group-title="Sports", Champions TV 1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports", Champions TV 1 
 https://tv.mbahnunungonline.net/playlist/ChampionsTV1.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.1.1.1" group-title="Sports", Champions TV 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports", Champions TV 2 
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.1.1.1" group-title="Sports", Fox Sports 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="Sports", Fox Sports 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=1.1.1.1" group-title="Sports", Fox Sports 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=1.0.0.1" group-title="Sports", Fox Sports 2 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t5ERoxX.png?v=1.1.1.1" group-title="Sports", Fox Sports 3  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5ERoxX.png?v=1.0.0.1" group-title="Sports", Fox Sports 3  
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8 
 
 ########################################## Knowledge ####################################################
