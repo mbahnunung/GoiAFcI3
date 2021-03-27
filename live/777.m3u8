@@ -139,21 +139,21 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 
 ########################################## Knowledge ####################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=2.0.0.13" group-title="Knowledge", TV Edukasi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=4.2.2.2" group-title="Knowledge", TV Edukasi
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge", Nat Geo Wild 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=2.0.0.13" group-title="Knowledge", National Geographic Channel 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge", National Geographic Channel 
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=2.0.0.13" group-title="Knowledge", National Geographic Abu Dhabi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=2.0.0.13" group-title="Knowledge", Discovery Channel 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge", Discovery Channel 
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=2.0.0.13" group-title="Knowledge", CGTN Documentary
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png?v=2.0.0.13" group-title="Knowledge", Smithsonian 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png?v=4.2.2.2" group-title="Knowledge", Smithsonian 
 https://cdn1.mbahnunungonline.net/playlist/Smithsonian.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png?v=2.0.0.13" group-title="Knowledge", Love Nature 4K 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png?v=4.2.2.2" group-title="Knowledge", Love Nature 4K 
 https://cdn1.mbahnunungonline.net/playlist/LoveNature.m3u8 
 
 ########################################## Religious ####################################################
