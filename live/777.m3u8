@@ -36,47 +36,47 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 
 ########################################## Local ######################################################
 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.1.1.1", MyTV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.0.0.1", MyTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.1.1.1", Jak-TV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.0.0.1", Jak-TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.1.1.1", Nusantara TV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.0.0.1", Nusantara TV 
 https://v6.siar.us/nusantaratv/live/playlist.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/XQGggkA.jpg?v=1.1.1.1", Jawapos TV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/XQGggkA.jpg?v=1.0.0.1", Jawapos TV 
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/rg1rTkj.png?v=1.1.1.1", Jakarta Globe News Channel 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/rg1rTkj.png?v=1.0.0.1", Jakarta Globe News Channel 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/pwxmNpN.png?v=1.1.1.1", Elshinta TV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/pwxmNpN.png?v=1.0.0.1", Elshinta TV 
 http://rrelshinta.dens.tv/s/s10/index2.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.1.1.1", JTV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.0.0.1", JTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/wbOdROI.png?v=1.1.1.1", Inspira TV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/wbOdROI.png?v=1.0.0.1", Inspira TV 
 https://v2.siar.us/inspiratv/live/playlist.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.1.1.1", DAAI TV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.0.0.1", DAAI TV 
 https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/DaaiTV.m3u8?dl=0 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/RwVhc31.png?v=1.1.1.1", ADI TV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/RwVhc31.png?v=1.0.0.1", ADI TV 
 https://v2.siar.us/aditv/livestream/playlist.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/LogvK3X.png?v=1.1.1.1", DUTA TV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/LogvK3X.png?v=1.0.0.1", DUTA TV 
 https://v2.siar.us/dutatv/live/playlist.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.1.1.1", Bali TV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.0.0.1", Bali TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8 
 
 ########################################## Entertainment ###############################################
 
-#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=1.1.1.1", SEA Today 
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=1.0.0.1", SEA Today 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8 
-#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=1.1.1.1", The Indonesia Channel 
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=1.0.0.1", The Indonesia Channel 
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8 
-#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/RfIj9lU.png?v=1.1.1.1", Ruang Terampil 
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/RfIj9lU.png?v=1.0.0.1", Ruang Terampil 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8 
-#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.1.1.1", Outdoor Channel
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8 
-#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/VobODf7.png?v=1.1.1.1", Blue Ant
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/VobODf7.png?v=1.0.0.1", Blue Ant
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8 
-#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.1.1.1", Blue Ant Extreme
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8 
-#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/DiZMiIR.png?v=1.1.1.1", Mola TV Free 
+#EXTINF:-1 group-title=" Entertainment " tvg-logo="https://i.imgur.com/DiZMiIR.png?v=1.0.0.1", Mola TV Free 
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8 
 
 ########################################## KIDS ########################################################
