@@ -1,22 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.1.1.1" group-title="Religious", Al Quran Al Kareem TV
 https://dl.dropboxusercontent.com/s/pxkcar19a4yei1s/Quran.m3u8?dl=0 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.1.1.1" group-title="Music", Citra Dangdut
-https://cdn1.mbahnunungonline.net/playlist/CitraDangdut.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=1.1.1.1" group-title="Music", Maleo Channel
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI 
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=1.1.1.1" group-title="Nasional", SCTV 
 https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNCTV 
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=1.1.1.1" group-title="Nasional", antv
-https://tv.mbahnunungonline.net/playlist/antv.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.1.1.1" group-title="Music", Citra Dangdut
+https://cdn1.mbahnunungonline.net/playlist/CitraDangdut.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=1.1.1.1" group-title="Nasional", Indosiar
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=1.1.1.1" group-title="Nasional", Metro TV  
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=1.1.1.1" group-title="Music", Maleo Channel
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=1.1.1.1" group-title="Nasional", Trans 7 
 https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="Nasional", Trans TV 
@@ -28,6 +26,8 @@ https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
 https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=1.1.1.1" group-title="Religious", Ajwa TV 
 https://dl.dropboxusercontent.com/s/anlevmjwq11og3z/AjwaTV.m3u8?dl=0 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=1.1.1.1" group-title="Nasional", antv
+https://tv.mbahnunungonline.net/playlist/antv.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=1.1.1.1" group-title="Nasional", tvOne 
 https://tv.mbahnunungonline.net/playlist/tvone.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=1.1.1.1" group-title="Nasional", rtv 
