@@ -3,11 +3,11 @@
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #https://dl.dropboxusercontent.com/s/pxkcar19a4yei1s/Quran.m3u8?dl=0 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI 
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8 
+https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=1.1.1.1" group-title="Nasional", SCTV 
 https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNCTV 
-https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.1.1.1" group-title="Music", Citra Dangdut
 https://cdn1.mbahnunungonline.net/playlist/CitraDangdut.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=1.1.1.1" group-title="Nasional", Indosiar
@@ -21,8 +21,8 @@ https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="Nasional", Trans TV 
 https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV 
-#https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+#https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Nasional", NET. 
 https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=1.1.1.1" group-title="Religious", Ajwa TV 
