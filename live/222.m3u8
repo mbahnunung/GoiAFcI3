@@ -15,7 +15,7 @@ https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=1.1.1.1" group-title="Nasional", Metro TV  
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=1.1.1.1" group-title="Nasional", Trans 7 
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8 
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="Nasional", Trans TV 
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV 
