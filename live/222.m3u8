@@ -5,7 +5,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI 
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=1.1.1.1" group-title="Nasional", SCTV 
-https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8 
+https://tv.mbahnunungonline.net/playlist/sctv.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNCTV 
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=1.1.1.1" group-title="Music", Maleo Channel
