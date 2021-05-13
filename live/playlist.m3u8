@@ -1,32 +1,32 @@
 #EXTM3U
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13", RCTI 
-https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/7cb6654ebec98b7.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/sHsPccL.png?v=2.0.0.13", SCTV 
-https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13", MNCTV 
-https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec1028.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13", antv 
-http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/b630a001384603f.m3u8
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13", INDOSIAR 
-https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/575eeb9f08dc8db.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13", METROTV 
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13", TRANS7 
-https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/cdd283c9d3d43b5.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13", TRANSTV 
-https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/61061784f4a9270.m3u8
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/45Vmwv5.png?v=2.0.0.13", GTV 
-https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/df56d15c1ad325a.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13", NET. 
 https://tv.mbahnunungonline.net/playlist/NetTV.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13", tvOne 
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13", iNews 
-https://dl.dropboxusercontent.com/s/vd7uvm50pzth7a4/iNews.m3u8?dl=0 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2f760b7cf8286be.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13", KompasTV
-https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/KompasTV.m3u8?dl=0 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/ae5f9d6bcd610b6.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13", rtv 
-https://dl.dropboxusercontent.com/s/fi22byc96zqyx2u/RTV.m3u8?dl=0 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/590642f0a31efa3.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13", TVRI 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13", BeritaSatu 
