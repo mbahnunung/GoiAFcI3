@@ -32,7 +32,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI 
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Nasional", NET. 
-https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
+https://fikrulmkc.my.id/bagus/usee-net.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.1.1.1" group-title="Music", Citra Dangdut
 https://cdn1.mbahnunungonline.net/playlist/CitraDangdut.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=1.1.1.1" group-title="Religious", Ajwa TV 
