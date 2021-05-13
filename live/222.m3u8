@@ -56,7 +56,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-46
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.1.1.1" group-title="Lokal", Nusantara TV 
 https://v6.siar.us/nusantaratv/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.1.1.1" group-title="Lokal", Daai TV 
-https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/DaaiTV.m3u8?dl=0 
+https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg?v=1.0.0.1" group-title="Entertainment", Magna TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
