@@ -297,5 +297,10 @@ http://45.64.98.181:8323/stream
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg?v=1.0.0.1" group-title="Entertainment", Magna TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
-
+#EXTINF:-1 tvg-ID= tvg-name=IMC tvg-logo="https://i.postimg.cc/9F28R2hb/imc.jpg" group-title="Entertainment",IMC
+http://fikrulmkc.my.id/bagus/usee-imc.m3u8
+#EXTINF:-1 tvg-logo=https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png group-title=MOVIES, CITRA DRAMA
+http://fikrulmkc.my.id/bagus/usee-cdrama.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93cPR5K/dunialainlogo.png" group-title="Entertainment",DUNIA LAIN
+http://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
 
