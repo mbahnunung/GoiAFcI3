@@ -28,13 +28,11 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png" group-title="Nasional", tvOne
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rcJgMo9yLzQ/YA1bfttxJlI/AAAAAAAAA9o/9Z3Lp-LnWXE0ymOoGJ3GKU5jGmgTBEnMwCLcBGAsYHQ/s0/rajawali_tv.png" group-title="Nasional", rtv
-#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_geo_1561_720p/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-74kEWJ5ce2I/VUI2Iir3ZxI/AAAAAAAAGzc/Du-gZFt0nco/s96-no/iNews_TV.png" group-title="Nasional", iNewsTV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2f760b7cf8286be.m3u8 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZYdIGIFt7ak/YBBHPvidJjI/AAAAAAAAMpE/sR35MTpSYfcaLe_pdirehIUxG_nPGy4mQCLcBGAsYHQ/s0/kompasTV.png" group-title="Nasional", KompasTV
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#http://93.190.139.34:8278/streams/d/Kompass/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-p6qwZWRUdTc/T8d07Dixt8I/AAAAAAAABCA/ZFtYpUN2gu8/s320/berita-satu.png" group-title="News", BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png?v=2.0.0.13" group-title="Music", 9XM
