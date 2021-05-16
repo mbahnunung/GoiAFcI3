@@ -479,19 +479,19 @@ http://ironman.my.id/andri/andriant.php?channel=nettv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="LOKAL-Vidio", TransTV 
 http://ironman.my.id/andri/andriant.php?channel=transtv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qn8drTY/trans7.png" group-title="LOKAL-Vidio", Trans7 
-http://ironman.my.id/andri/andriant.php?channel=trans7 
+https://streamhuawei.detik.com/gstream/smil:gstream.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="LOKAL-Vidio", TVRI 
 https://tv.mbahnunungonline.net/playlist/tvri.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL-Vidio", MNCTV 
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-870 
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PX1m5F/jaktv.png" group-title="LOKAL-Vidio", Jaktv 
-http://tv.mbahnunungonline.net/playlist/kompastv1.m3u8 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/a6e7e966ea54cd3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL-Vidio", GTV 
-http://93.190.139.34:8278/streams/d/Gtv/playlist.m3u8 
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="LOKAL-Vidio", rtv 
-http://ironman.my.id/andri/andriant.php?channel=rtv 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/590642f0a31efa3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL-Vidio", Inews 
-http://ironman.my.id/andri/andriant.php?channel=inews 
+https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncBt90d/oshop.png" group-title="LOKAL-Vidio", O Shop 
 https://ch.iptvmate.net/ba3539a9b1f8c864f53b6acb4ca3c72b.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="LOKAL-Vidio", MyTV 
