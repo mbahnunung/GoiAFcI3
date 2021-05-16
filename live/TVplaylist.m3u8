@@ -457,158 +457,23 @@ http://dl.dropboxusercontent.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Ne
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5kpF86D.png" group-title="OXYGEN",FOX MOVIES
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-id="oxygentv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/oxygen.png" group-title="OXYGEN",Oxygen TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=oxygentv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png" group-title="OXYGEN",NET.
-http://103.55.39.182/~dusktil2/a.m3u8?q=nettv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="OXYGEN",METRO TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=metrotv 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png" group-title="OXYGEN",TVRI
-http://103.55.39.182/~dusktil2/a.m3u8?q=tvri
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png" group-title="OXYGEN",SCTV
-http://103.55.39.182/~dusktil2/a.m3u8?q=sctv 
-#EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="OXYGEN",TRANS 7
-http://103.55.39.182/~dusktil2/a.m3u8?q=trans7 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="OXYGEN",TRANS TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=transtv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png" group-title="OXYGEN",INDOSIAR
-http://103.55.39.182/~dusktil2/a.m3u8?q=indosiar
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png" group-title="OXYGEN",ANTV
-http://103.55.39.182/~dusktil2/a.m3u8?q=antv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png" group-title="OXYGEN",TV ONE
-http://103.55.39.182/~dusktil2/a.m3u8?q=tvone 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png" group-title="OXYGEN",JAKTV
-http://103.55.39.182/~dusktil2/a.m3u8?q=jaktv 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/matrixtv.png" group-title="OXYGEN",MATRIX TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=matrixtv 
-#EXTINF:-1 tvg-id="lejelhomeshopping" tvg-logo="https://4.bp.blogspot.com/-j9gSu5XGIbw/UQ_BBzof56I/AAAAAAAAEzU/7fyhQbDWbQQ/s320/lbstv-drama.png" group-title="OXYGEN",LEJEL HS
-http://103.55.39.182/~dusktil2/a.m3u8?q=lejelhs 
-#EXTINF:-1 tvg-id="nusantaratv" tvg-logo="https://i.imgur.com/WVIQ2o6.png" group-title="OXYGEN",NUSANTARA TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=nusantaratv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="OXYGEN",KOMPAS TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=kompastv
-#EXTINF:-1 tvg-id="rtv" tvg-logo="https://i.imgur.com/vXWQN7Q.png" group-title="OXYGEN",RTV
-http://103.55.39.182/~dusktil2/a.m3u8?q=rtv
-#EXTINF:-1 tvg-id="ochannel" tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" group-title="OXYGEN",O CHANNEL
-http://103.55.39.182/~dusktil2/a.m3u8?q=ochannel
-#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://4.bp.blogspot.com/-fnGIIyIaM_8/T8jQPFmpA3I/AAAAAAAABEE/ezIJ522VdoY/s60/nhk-world.png" group-title="OXYGEN",NHK WORLD
-http://103.55.39.182/~dusktil2/a.m3u8?q=nhkworld 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixhk.png" group-title="OXYGEN",PHOENIX HK
-http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixhongkong
-#EXTINF:-1 tvg-id="dwtv" tvg-logo="https://1.bp.blogspot.com/-Q40Lf2tDUrg/VfZh2qBeFEI/AAAAAAAAE-E/Aq4wwzZBw1Y/s1600/logo_dwtv.png" group-title="OXYGEN",DW TV ASIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=dwenglish
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-3AG03fbtjY4/XLbppv8EJPI/AAAAAAAALQ4/3utLiSNlOJgYFJR9Q6VvZxcKJAXyR92FQCLcBGAs/s1600/logo_france24.png" group-title="OXYGEN",FRANCE 24
-http://103.55.39.182/~dusktil2/a.m3u8?q=france24
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VIeyIR1sdaw/V2AXyv26oHI/AAAAAAAAFeY/gGFMgoR-QKIulbOaFvdvBlcKequE2xj7ACLcB/s1600/arirang_tv.png" group-title="OXYGEN",ARIRANG
-http://103.55.39.182/~dusktil2/a.m3u8?q=arirangworld
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-9SwarJ_GVjk/W9dl4nKcYDI/AAAAAAAAJ3E/YHeHN8DqlCgj86eQ9w-9Dy3Xew7rt_RpACLcBGAs/s1600/logo_cctv4_tv.png" group-title="OXYGEN",CCTV4
-http://103.55.39.182/~dusktil2/a.m3u8?q=cctv4asia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/voa.png" group-title="OXYGEN",VOA
-http://103.55.39.182/~dusktil2/a.m3u8?q=voa
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/raiitalia.png" group-title="OXYGEN",RAI ITALIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=raiitalia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cetv1.png" group-title="OXYGEN",CETV 1
-http://103.55.39.182/~dusktil2/a.m3u8?q=cetv1
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tve.png" group-title="OXYGEN",TVE ASIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=tveasia
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-gQynibZxc7Y/W9hHmsT3OII/AAAAAAAAJ5A/Klcu5xOyuwIrEe072FIGBlBLhNlB1mf6gCLcBGAs/s1600/logo_tv5monde.png" group-title="OXYGEN",TV5MONDE
-http://103.55.39.182/~dusktil2/a.m3u8?q=tv5monde
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtndoc.png" group-title="OXYGEN",CGTN DOCUMENTARY
-http://103.55.39.182/~dusktil2/a.m3u8?q=cgtndocumentary
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/salamtv.png" group-title="OXYGEN",SALAM TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=salamtv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="OXYGEN",RODJA TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=rodjatv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png" group-title="OXYGEN",DAAITV
-http://103.55.39.182/~dusktil2/a.m3u8?q=daaitv
-#EXTINF:-1 tvg-id="alquran" tvg-logo="https://i.imgur.com/RdOrRX2.png" group-title="OXYGEN",QUR'AN TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=qurantv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tawaf.png" group-title="OXYGEN",TAWAF TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=tawaftv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png" group-title="OXYGEN",BERITA SATU
-http://103.55.39.182/~dusktil2/a.m3u8?q=beritasatu
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png" group-title="OXYGEN",iNews
-http://103.55.39.182/~dusktil2/a.m3u8?q=inews
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png" group-title="OXYGEN",CNBC INDONESIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=cnbcindonesia
-#EXTINF:-1 tvg-id="aljazeera" tvg-logo="https://1.bp.blogspot.com/-po0tD5cohf0/XLR6uQMX6rI/AAAAAAAALPw/85DLxDEzDu4uPABKJopmk4YN1W_0FYFjACLcBGAs/s1600/logo_aljazeera_en.png" group-title="OXYGEN",AL JAZEERA
-http://103.55.39.182/~dusktil2/a.m3u8?q=aljazeera
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/trt.png" group-title="OXYGEN",TRT WORLD
-//http://103.55.39.182/~dusktil2/a.m3u8?q=trtworld 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixchinese.png" group-title="OXYGEN",PHOENIX CHINESE
-http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixchinese
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cna.png" group-title="OXYGEN",CHANNEL NEWS ASIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=channelnewsasia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rt.png" group-title="OXYGEN",RUSSIA TODAY
-http://103.55.39.182/~dusktil2/a.m3u8?q=russiatoday
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixinfonews.png" group-title="OXYGEN",PHOENIX INFO NEWS
-http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixnews
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/euronews.png" group-title="OXYGEN",EURONEWS
-http://103.55.39.182/~dusktil2/a.m3u8?q=euronewsasia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtn.png" group-title="OXYGEN",CGTN
-http://103.55.39.182/~dusktil2/a.m3u8?q=cgtn
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvbnews.png" group-title="OXYGEN",TVB NEWS
-http://103.55.39.182/~dusktil2/a.m3u8?q=tvbnews
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bloomberg.png" group-title="OXYGEN",BLOOMBERG
-http://103.55.39.182/~dusktil2/a.m3u8?q=bloomberg
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcasia.png" group-title="OXYGEN",CNBC
-http://103.55.39.182/~dusktil2/a.m3u8?q=cnbc
-#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sinemaindonesia.png" group-title="OXYGEN",SINEMA INDONESIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
-#EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sinemaindonesiax.png" group-title="OXYGEN",SINEMA INDONESIA X
-http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia-x
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umovies.png" group-title="OXYGEN",B4U MOVIES
-http://103.55.39.182/~dusktil2/a.m3u8?q=b4umovieindia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/xingxong.png" group-title="OXYGEN",XING KONG CHINA
-http://103.55.39.182/~dusktil2/a.m3u8?q=xingkong
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/lotusmacau.png" group-title="OXYGEN",LOTUS MACAU
-http://103.55.39.182/~dusktil2/a.m3u8?q=lotusmacau
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/drakor.png" group-title="OXYGEN",Drakor Plus
-http://103.55.39.182/~dusktil2/a.m3u8?q=drakorplus
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/lbs.png" group-title="OXYGEN",K DRAMA
-http://103.55.39.182/~dusktil2/a.m3u8?q=k-drama
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/luxetv.png" group-title="OXYGEN",GO TO LUXE
-http://103.55.39.182/~dusktil2/a.m3u8?q=gotoluxe 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/channelvchina.png" group-title="OXYGEN",CHANNEL V CHINA
-http://103.55.39.182/~dusktil2/a.m3u8?q=vchina
-#EXTINF:-1 tvg-id="b4umovies" tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umusic.png" group-title="OXYGEN",B4U MUSIC
-http://103.55.39.182/~dusktil2/a.m3u8?q=b4umusicindia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mtvchina.png" group-title="OXYGEN",MTV CHINA
-http://103.55.39.182/~dusktil2/a.m3u8?q=mtvchina 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/spacetoon.png" group-title="OXYGEN",SPACETOON
-http://103.55.39.182/~dusktil2/a.m3u8?q=spacetoon
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png" group-title="OXYGEN",TV EDUKASI
-http://103.55.39.182/~dusktil2/a.m3u8?q=tvedukasi
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/toonmax.png" group-title="OXYGEN",TOONMAX
-http://103.55.39.182/~dusktil2/a.m3u8?q=toonmax
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvrisports.png" group-title="OXYGEN",TVRI SPORT
-http://103.55.39.182/~dusktil2/a.m3u8?q=tvrisport
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sportsone.png" group-title="OXYGEN",SPORT ONE
-http://103.55.39.182/~dusktil2/a.m3u8?q=sportone
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/alkasstwo.png" group-title="OXYGEN",AL KASS TWO
-//http://103.55.39.182/~dusktil2/a.m3u8?q=alkasstwo
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/dubaisports3.png" group-title="OXYGEN",DUBAI SPORTS 3
-//http://103.55.39.182/~dusktil2/a.m3u8?q=dubaisport2
-#EXTINF:-1 tvg-id="redbulltv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/redbulltv.png" group-title="OXYGEN", Redbull TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=redbulltv
-#EXTINF:-1 tvg-id="redbulltv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mentaritv.png" group-title="OXYGEN", MENTARI TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=mentaritv
+
 
 ################################################## LOKAL VIDIO ###############################################
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="LOKAL-Vidio", SCTV 
-http://ironman.my.id/andri/andriant.php?channel=sctv 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="LOKAL-Vidio", Indosiar 
-http://ironman.my.id/andri/andriant.php?channel=indosiar 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/575eeb9f08dc8db.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL-Vidio", RCTI 
 https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" group-title="LOKAL-Vidio", O Channel 
-http://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-206 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2d419.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="LOKAL-Vidio", Kompas 
-http://ironman.my.id/andri/andriant.php?channel=kompastv 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/ae5f9d6bcd610b6.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLt5SLw/beritasatu.png" group-title="LOKAL-Vidio", Berita Satu 
-http://ironman.my.id/andri/andriant.php?channel=beritasatu
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/270f72deeb5843f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="LOKAL-Vidio", MetroTV 
-http://ironman.my.id/andri/andriant.php?channel=metrotv 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/6183ec225226ccc.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sV6MzVZ/net.png" group-title="LOKAL-Vidio", NET. 
 http://ironman.my.id/andri/andriant.php?channel=nettv 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="LOKAL-Vidio", TransTV 
