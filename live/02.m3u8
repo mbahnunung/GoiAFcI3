@@ -146,13 +146,15 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sugpdHpvozU/YAsKFSdWq2I/AAAAAAAAMnE/bEknEgYBvHocv8hJZ_5igHFThhtM9STDQCLcBGAsYHQ/s0/logo_mykids.png" group-title="Kids" tvg-id="" tvg-name"My Kids", My Kids
 http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqz8uV5EVUM/YAsJsdLCVoI/AAAAAAAAMm8/W1-SNVA1O68M1tqyj8KKV6haNyDHBnS6ACLcBGAsYHQ/s0/logo_dreamworks.png" group-title="Kids" tvg-id="" tvg-name"Dreamworks", Dreamworks
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
+http://bonev2.xyz/playlist/usee-dreamworks-new-bonetv.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mCq1jL50dnY/UayaSo6lBgI/AAAAAAAAF4k/LI_Z2SPm_zc/s320/spacetoon.png" group-title="Kids", Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1249030020988690432/VD98W-hQ_400x400.png" group-title="Kids", Disney XD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/c093867fabb677b.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ukeu4Fn.jpg" group-title="Kids", Disney Junior 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7aa459d024f16bb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVz8uE4.png" group-title="Kids", Disney XD
+http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
+#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/c093867fabb677b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvLnTBL.png" group-title="Kids", Disney Junior 
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
+#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7aa459d024f16bb.m3u8
 
 ########################################## MALAYSIA TV ######################################################
 
