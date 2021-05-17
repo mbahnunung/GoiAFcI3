@@ -170,7 +170,7 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=1.0.0.1" group-title="Knowledge", National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png?v=1.0.0.1" group-title="Knowledge", Nat Geo People
-https://fikrulmkc.my.id/bagus/usee-natgeopeople.m3u8
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge", Discovery Channel
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Z7DUFb.png?v=1.0.0.1" group-title="Knowledge", Crime Investigation
