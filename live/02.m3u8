@@ -190,7 +190,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.1.1.1" group-title="Music", Citra Dangdut
 https://livestreaming-google-etslive.vidio.com/live/6587/master.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=1.1.1.1" group-title="Music", Maleo Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.1.1.1" group-title="Music", Maleo Channel
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.1.1.1" group-title="Music", MTV Live
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/338e44dddae39e7.m3u8
