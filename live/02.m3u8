@@ -231,7 +231,7 @@ http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMAyRG8.jpg" group-title="Movies", HITS
 #http://rr.dens.tv/h/h37/index.m3u8
-https://nonton.site:8443/live/novi/novi123/1195.m3u8
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QeYZDfbVAgM/V2m-NehGYhI/AAAAAAAAFkI/ws03a7k8dOEyBNw6Xt0vIdqANCu1K0wmACPcBGAYYCw/s0/FXHD%25402x.png" group-title="Movies", FX
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yA4uXrF.png" group-title="Movies", Star World
@@ -376,15 +376,15 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 ########################################## HBO GO ######################################################
 
 #EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/aMtD0A0.png?v=1.1.1.1", HBO
-http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/RmTcwA0.png?v=1.1.1.1", HBO Hits
-http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/EqcNQOc.png?v=1.1.1.1", HBO Signature
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 #EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/AQGtEa0.png?v=1.1.1.1", HBO Family
-http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/ew9mSea.png?v=1.1.1.1", Cinemax
-http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/mCczSQ9.png?v=1.1.1.1", Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
