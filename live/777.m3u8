@@ -120,7 +120,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=1.0.0.1" group-title="News", IDX 
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JfmNo8z.png?v=1.0.0.1" group-title="News", MNC News 
-http://cdn-livetv-studio.metube.id/mncnews_480/index.m3u8 
+https://cdn-livetv-studio.metube.id/mncnews.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZQvCs6.png?v=1.0.0.1" group-title="News", DW English
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.0.0.1" group-title="News", Channel NewsAsia
@@ -137,7 +137,7 @@ http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_ara
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports", Champions TV 1 
-http://fikrulmkc.my.id/bagus/usee-champion1.m3u8 
+https://livestreaming-google-etslive.vidio.com/live/6685/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports", Champions TV 2 
 http://fikrulmkc.my.id/bagus/usee-champion2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="Sports", Fox Sports 
@@ -173,7 +173,7 @@ https://livestreaming-google-etslive.vidio.com/live/6635/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.0.0.1" group-title="Religious", Al Quran Al Kareem TV 
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=1.0.0.1" group-title="Religious", Ajwa TV 
-https://dl.dropboxusercontent.com/s/anlevmjwq11og3z/AjwaTV.m3u8?dl=0 
+https://livestreaming-google-etslive.vidio.com/live/7464/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=1.0.0.1" group-title="Religious", TV9 NU 
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=1.0.0.1" group-title="Religious", Muhammadiyah TV 
