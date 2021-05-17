@@ -78,7 +78,7 @@ http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 https://tv.mbahnunungonline.net/playlist/balitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ehDWytF.png?v=2.0.0.13" group-title="Lokal", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DiZMiIR.png?v=2.0.0.13" group-title="Entertainment", Mola TV Free
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hu6UgMo.png?v=2.0.0.13" group-title="Entertainment", Mola TV Free
 https://livestreaming-google-etslive.vidio.com/live/6840/master.m3u8
 
 ########################################## ARAB TV ######################################################
@@ -352,7 +352,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ef3f585dbf35c05.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qTteHsiJnok/V2T5OII_wfI/AAAAAAAAFgs/rm8tYRptCCwUpx1S8KDvzD26ZyvCH2InwCLcB/s1600/B4U_Music_India.png" group-title="Music", B4U Music
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P0g3_Rt6C88/X_nXDlRH7aI/AAAAAAAAMfY/tKAFSR3uhyk4eVngK3dschrJYwbT_oligCLcBGAsYHQ/s320/desiChannel.jpg" group-title="Music", Desi Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JnDa5NiJFz8/YA26GMyTDHI/AAAAAAAAA_o/-Z8g-f0-Ny8V_fT17wTq2swCMtmrOCr-QCLcBGAsYHQ/s0/bflix-movies-logo.jpg" group-title="Hindi", Bflix Movies
 #https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
