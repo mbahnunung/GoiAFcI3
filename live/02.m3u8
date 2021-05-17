@@ -359,7 +359,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72
 ########################################## FOX Movies ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lO1Oebd.png?v=1.1.1.1" group-title="FOX Movies", FOX HD
-http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sK1Ikd.png?v=1.1.1.1" group-title="FOX Movies", FOX LIFE
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2sGsLW.png?v=1.1.1.1" group-title="FOX Movies", FOX Action Movies HD
