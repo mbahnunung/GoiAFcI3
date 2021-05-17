@@ -170,6 +170,9 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://livestreaming-google-etslive.vidio.com/live/6550/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature 4K 
 https://livestreaming-google-etslive.vidio.com/live/6635/master.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge", ANIMAL PLANET
+#https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 ########################################## Religious ####################################################
 
