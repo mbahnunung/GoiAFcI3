@@ -477,12 +477,8 @@ https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0X6Jnwe.png?v=2.0.0.13" group-title="Tes", true4u
 https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="ID", NET.
-https://nonton.site:8443/live/novi/novi123/78.m3u8
+http://bonev2.xyz/playlist/usee-net-new-bonetv.m3u8
 
-#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="Movies", Sinema Indonesia
-https://gratismkctv.net/oxygen/oxygen.m3u8?channel=sinemaindonesia
-#EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://2.bp.blogspot.com/-95KNePoIAOI/XE6oA78TNrI/AAAAAAAAnJA/7EmSy6tZPVMPbw_3L-45Hjua1y8Do4gywCLcBGAs/s1600/sinema-indonesia-x-tv-channel-logo.jpg" group-title="Movies", SINEMA INDONESIA X
-https://gratismkctv.net/oxygen/oxygen.m3u8?channel=sinemaindonesia-x
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png" group-title="Music", Maxstream Music
 https://tv.mbahnunungonline.net/playlist/maxstream.m3u8
