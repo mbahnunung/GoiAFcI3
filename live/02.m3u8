@@ -70,7 +70,7 @@ http://bonev2.xyz/playlist/usee-daaitv-new-bonetv.m3u8
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" group-title="Religious", ajwa TV
 https://dl.dropboxusercontent.com/s/anlevmjwq11og3z/AjwaTV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ugxzWkd.jpg?v=2.0.0.13" group-title="Religious", NU Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/khG612m.png?v=2.0.0.13" group-title="Religious", NU Channel
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DATJMK7.png?v=2.0.0.13" group-title="Lokal", Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
