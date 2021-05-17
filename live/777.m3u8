@@ -183,12 +183,12 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 https://5d63d49f772ce.streamlock.net/tvmu/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khG612m.png?v=1.0.0.1" group-title="Religious", NU Channel 
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1utanyg.jpg?v=1.0.0.1" group-title="Religious", SalingSapa TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RtMM571.png?v=1.0.0.1" group-title="Religious", SalingSapa TV 
 https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/playlist.m3u8 
 
 ########################################## MUSIC ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Zx04Kp.png?v=1.0.0.1" group-title="Music", Maleo Channel 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel 
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png?v=1.0.0.1" group-title="Music", 9XM 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
