@@ -164,9 +164,9 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccNBcKN.png?v=4.2.2.2" group-title="Knowledge", Smithsonian 
-https://nonton.site:8443/provision/pp/35998 
+https://livestreaming-google-etslive.vidio.com/live/6550/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png?v=4.2.2.2" group-title="Knowledge", Love Nature 4K 
-https://nonton.site:8443/provision/pp/36767 
+https://livestreaming-google-etslive.vidio.com/live/6635/master.m3u8 
 
 ########################################## Religious ####################################################
 
@@ -254,7 +254,7 @@ https://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 ########################################## Hindi ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png?v=8.8.4.4" group-title="Hindi", Zee Bioskop 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6399_720p/index.m3u8 
+https://livestreaming-google-etslive.vidio.com/live/6399/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png?v=8.8.4.4" group-title="Hindi", 9XM 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png?v=8.8.4.4" group-title="Hindi", &tv 
