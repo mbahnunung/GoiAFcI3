@@ -86,7 +86,7 @@ https://livestreaming-google-etslive.vidio.com/live/6840/master.m3u8
 
 ########################################## KIDS ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YA6laaG.jpg?v=1.0.0.1" group-title="Kids", Astro Ceria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uAHJS7W.png?v=1.0.0.1" group-title="Kids", Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uT0wWvS.jpg?v=1.0.0.1" group-title="Kids", Zoomoo 
 https://livestreaming-google-etslive.vidio.com/live/6533/master.m3u8
@@ -215,7 +215,7 @@ http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 #http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/f59089a497193eb.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=1.0.0.1" group-title="Movies", SYFY 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r58Vr0z.jpg?v=1.0.0.1" group-title="Movies", &Flix 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cymjoiG.png?v=1.0.0.1" group-title="Movies", &Flix 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD 
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8 
