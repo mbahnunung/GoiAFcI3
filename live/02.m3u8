@@ -214,9 +214,9 @@ http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=1.1.1.1" group-title="Movies", Cinema World
 http://rr.dens.tv/h/h04/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r58Vr0z.jpg?v=1.1.1.1" group-title="Movies", &Flix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cymjoiG.png?v=1.1.1.1" group-title="Movies", &Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTlPdiT.jpg?v=1.1.1.1" group-title="Movies", &Prive HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqQZ16k.png?v=1.1.1.1" group-title="Movies", &Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x7Jm0RK.png?v=1.1.1.1" group-title="Entertainment", Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
@@ -340,15 +340,15 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/726e730e030e958
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c70d0e933f18dda.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=1.1.1.1" group-title="Hindi", Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4iN0BUe.jpg?v=1.1.1.1" group-title="Hindi", &Pictures HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4L7BYKM.png?v=1.1.1.1" group-title="Hindi", &Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9zoN04b.jpg?v=1.1.1.1" group-title="Hindi", Zing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2UQNzYB.png?v=1.1.1.1" group-title="Hindi", Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbBnOpB.png?v=1.1.1.1" group-title="Hindi", Zee Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSsIODC.png?v=1.1.1.1" group-title="Hindi", Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aRCVFZ6.jpg?v=1.1.1.1" group-title="Hindi", Zee Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ceBQDFq.png?v=1.1.1.1" group-title="Hindi", Zee Tv
 http://cv.khushitv.xyz/channels.php?c=zeetvhd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ohsQguR.jpg?v=1.1.1.1" group-title="Hindi", Zee Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Akf09tQ.png?v=1.1.1.1" group-title="Hindi", Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yICjApS.png?v=1.1.1.1" group-title="Hindi", B4U Kadak
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ef3f585dbf35c05.m3u8
