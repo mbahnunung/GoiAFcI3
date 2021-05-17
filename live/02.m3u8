@@ -10,15 +10,15 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/b630a001384
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jRoKnmd.png?v=2.0.0.13" group-title="Indonesia", Indosiar
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/575eeb9f08dc8db.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/un1priK.png?v=2.0.0.13" group-title="Indonesia", Metro TV 
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8 
+https://livestreaming-google-etslive.vidio.com/live/777/master.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/i8l6OHc.png?v=2.0.0.13" group-title="Indonesia", Trans 7
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/cdd283c9d3d43b5.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/n8qUiYO.png?v=2.0.0.13" group-title="Indonesia", Trans TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/61061784f4a9270.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/45Vmwv5.png?v=2.0.0.13" group-title="Indonesia", GTV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/df56d15c1ad325a.m3u8 
+https://livestreaming-google-etslive.vidio.com/live/778/master.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/jqNYjGu.png?v=2.0.0.13" group-title="Indonesia", NET.
-http://fikrulmkc.my.id/bagus/usee-net.m3u8
+https://livestreaming-google-etslive.vidio.com/live/875/master.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/UqGSTVT.png?v=2.0.0.13" group-title="Indonesia", tvOne
 https://tv.mbahnunungonline.net/playlist/tvone.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/aJhpmgf.png?v=2.0.0.13" group-title="Indonesia", Kompas TV
@@ -125,7 +125,7 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JjR1xoS.jpg?v=1.1.1.1" group-title="Kids", GEM Kids 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.1.1.1" group-title="Kids", Horee
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6397_720p/index.m3u8
+https://livestreaming-google-etslive.vidio.com/live/6397/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.1.1.1" group-title="Kids", Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6cVz4M5I3Ag/YAsJUy3Qr1I/AAAAAAAAMm0/ehYQrYXfBFMFDqbvTnkSRrdM9pH-SPDCgCLcBGAsYHQ/s0/logo_duck_TV.png" group-title="Kids" tvg-id="" tvg-name"Duck TV", Duck TV
@@ -183,7 +183,7 @@ https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png?v=1.1.1.1" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.1.1.1" group-title="Music", Citra Dangdut
-https://dl.dropboxusercontent.com/s/aodrede7p74akmq/CitraDangdut.m3u8?dl=0
+https://livestreaming-google-etslive.vidio.com/live/6587/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png?v=1.1.1.1" group-title="Music", Maleo Channel
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.1.1.1" group-title="Music", MTV Live
@@ -397,9 +397,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/57e12c38175537
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kfLY92b04nk/VgY3R0RRquI/AAAAAAAAFAw/2zEzh3rrBQs0ERmZcboo7IIhIfmTmBgLQCPcBGAYYCw/s0/beinSport2.png?v=1.1.1.1" group-title="Sports", beIN Sports 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c28e6ada110428c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.1.1.1" group-title="Sports", Champions TV 1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+https://livestreaming-google-etslive.vidio.com/live/6685/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.1.1.1" group-title="Sports", Champions TV 2
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+https://livestreaming-google-etslive.vidio.com/live/6686/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.1.1.1" group-title="Sports", Fox Sports
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=1.1.1.1" group-title="Sports", Fox Sports 2
