@@ -17,7 +17,7 @@ https://livestreaming-google-etslive.vidio.com/live/734/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="Nasional", Trans TV 
 https://livestreaming-google-etslive.vidio.com/live/733/master.m3u8 
 #http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/61061784f4a9270.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV [+]
 https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Nasional", NET. 
 #http://fikrulmkc.my.id/bagus/usee-net.m3u8 
@@ -327,15 +327,15 @@ http://45.64.98.181:8323/stream
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QO5Fi9H.png?v=1.0.0.1" group-title="Entertainment", Magna TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8 
-#EXTINF:-0 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=9.9.9.9" group-title="Backup", Trans 7 detik
+#EXTINF:-0 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=9.9.9.9" group-title="Backup", Trans 7 [detik]
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=1.1.1.1" group-title="Backup", tv One
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/0976f879a0c4548.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.1.1.1" group-title="Backup", MNCTV Vid
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.1.1.1" group-title="Backup", MNCTV [Vidio]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec1028.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Backup", RCTI Vid
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Backup", RCTI [Vidio]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/7cb6654ebec98b7.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png?v=1.1.1.1" group-title="Backup", GTV Vid
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png?v=1.1.1.1" group-title="Backup", GTV [Vidio]
 https://livestreaming-google-etslive.vidio.com/live/778/master.m3u8 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjvRqKdZ0GqKUt6rAe8ieaWqo34-1UTQS9p9ToS=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Channel 4U
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8 
