@@ -179,7 +179,7 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png?v=1.1.1.1" group-title="Malaysia", AL HIJRAH
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQsUvIE.jpg?v=1.1.1.1" group-title="Malaysia", TVIKIM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PcPDrl9.png?v=1.1.1.1" group-title="Malaysia", TVIKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 
 ########################################## MUSIC ######################################################
@@ -188,7 +188,7 @@ https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2y2bEGC.png" group-title="Music", MASTIII
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8OoA7sM.png" group-title="Music",Music India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8OoA7sM.png" group-title="Music", Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.1.1.1" group-title="Music", Citra Dangdut
 https://livestreaming-google-etslive.vidio.com/live/6587/master.m3u8 
