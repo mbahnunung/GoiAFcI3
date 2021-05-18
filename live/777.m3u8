@@ -291,7 +291,7 @@ http://cv.khushitv.xyz/channels.php?c=zeetvhd
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Y8SVWN.png?v=8.8.4.4" group-title="Hindi", B4U Kadak 
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gvo1sGR.png?v=8.8.4.4" group-title="Music", B4U Music 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3WXba7.png?v=8.8.4.4" group-title="Music", B4U Music 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=8.8.4.4" group-title="Music", Desi Channel 
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8 
@@ -332,4 +332,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/7cb6654ebec
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Backup", GTV Vid
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/df56d15c1ad325a.m3u8 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjvRqKdZ0GqKUt6rAe8ieaWqo34-1UTQS9p9ToS=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Channel 4U
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/851vFF5J/atv.png" group-title="Backup", ATV [Nin]
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
