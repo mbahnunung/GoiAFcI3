@@ -237,12 +237,12 @@ http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c5C9WaB.png" group-title="Movies" tvg-id="ParamountChannel" tvg-name"ParamountChannel", Paramount channel
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMAyRG8.jpg" group-title="Movies", HITS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQyfQCv.png?v=1.1.1.1" group-title="Movies", HITS
 #http://rr.dens.tv/h/h37/index.m3u8
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QeYZDfbVAgM/V2m-NehGYhI/AAAAAAAAFkI/ws03a7k8dOEyBNw6Xt0vIdqANCu1K0wmACPcBGAYYCw/s0/FXHD%25402x.png" group-title="Movies", FX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xnLiRS.jpeg?v=1.1.1.1" group-title="Movies", FX
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yA4uXrF.png" group-title="Movies", Star World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yA4uXrF.png?v=1.1.1.1" group-title="Movies", Star World
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ec5fb5889e178cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpqpKqN.jpg" group-title="Movies", Universal
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ab2e5a03cc9c326.m3u8
