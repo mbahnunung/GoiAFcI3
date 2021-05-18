@@ -210,7 +210,7 @@ http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UAaZ3G1.png?v=1.1.1.1" group-title="Movies", KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Movies", Thrill (id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Horor", Thrill (id)
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=1.1.1.1" group-title="Movies", SYFY
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8
@@ -222,7 +222,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x7Jm0RK.png?v=1.1.1.1" group-title="Entertainment", Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-V--x426kR1Q/YAH5KJF83mI/AAAAAAAAMgc/JCIl7lXYK8oouh6D4UAc_PawZ55mUhqiACLcBGAsYHQ/s320/zeecafe.jpg" group-title="Movies", ZEE CAFE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qo8Wt7F.png?v=1.1.1.1" group-title="Movies", ZEE CAFE
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wqroWnF.jpg" group-title="Movies", MY CINEMA
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
