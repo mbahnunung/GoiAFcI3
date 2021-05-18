@@ -40,7 +40,7 @@ https://tv.mbahnunungonline.net/playlist/mytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=2.0.0.13" group-title="Lokal", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=2.0.0.13" group-title="Lokal", SEA Today
-https://cdn1.mbahnunungonline.net/playlist/seatoday.m3u8
+https://livestreaming-google-etslive.vidio.com/live/7687/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbWapgw.png?v=2.0.0.13" group-title="Lokal", RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=2.0.0.13" group-title="Lokal", Jak-TV
@@ -65,7 +65,7 @@ http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbOdROI.png?v=2.0.0.13" group-title="Lokal", Inspira TV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=2.0.0.13" group-title="Lokal", DAAI TV
-http://bonev2.xyz/playlist/usee-daaitv-new-bonetv.m3u8
+https://livestreaming-google-etslive.vidio.com/live/6482/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=2.0.0.13" group-title="News", IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=2.0.0.13" group-title="Religious", ajwa TV
