@@ -298,7 +298,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #http://rr1.dens.tv/h/h144/index.m3u8
 https://cdn6.goprimetime.info/feed/LC38/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z8XViXpm-dI/YAsIIqYXhJI/AAAAAAAAMmg/RiQ4W5eXJmo0oRDIKsCRpE97yDsisQckgCLcBGAsYHQ/s0/logo_tvn.png" group-title="Korengan" tvg-id="" tvg-name"TVN HD", TVN HD
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pg0XvovwRDA/VqRDN0MI3mI/AAAAAAAAFLo/iUh_5JgRNBM0lGiwaRBkZbYOT1zE_S5PgCPcBGAYYCw/s0/logo_kbs.png" group-title="Korengan" tvg-id="" tvg-name"KBS World", KBS
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wQwTP64gXmM/XL7vywGPw2I/AAAAAAAALVA/bmB_I5GZC7EKU6qzz37cfaEBs18gvQHCgCPcBGAYYCw/s0/logo_sbsin.png" group-title="Korengan", SBS HD
