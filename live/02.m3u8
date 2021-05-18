@@ -210,8 +210,6 @@ http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UAaZ3G1.png?v=1.1.1.1" group-title="Movies", KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Horor", Thrill (id)
-http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=1.1.1.1" group-title="Movies", SYFY
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=1.1.1.1" group-title="Movies", Cinema World
@@ -465,7 +463,8 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", RAYA FM
 http://45.64.98.181:8323/stream
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Horor", Thrill (id)
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="ID", TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=2.0.0.13" group-title="ID", RCTI
