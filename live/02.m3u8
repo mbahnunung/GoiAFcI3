@@ -465,14 +465,14 @@ http://45.64.98.181:8323/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Horor", Thrill (id)
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="News", KOMPAS TV
+https://tv.mbahnunungonline.net/playlist/kompastv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="ID", TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=2.0.0.13" group-title="ID", RCTI
 https://tv.mbahnunungonline.net/playlist/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHUcKkK.png?v=2.0.0.13" group-title="ID", SCTV
 http://bonev2.xyz/playlist/usee-sctv-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="News", KOMPAS TV
-https://tv.mbahnunungonline.net/playlist/kompastv.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/noPq57I.png?v=2.0.0.13" group-title="ID", RTV
 https://tv.mbahnunungonline.net/playlist/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="ID", ANTV
