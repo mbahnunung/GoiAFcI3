@@ -317,7 +317,7 @@ http://45.64.98.181:8323/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W1JfODW.png?v=1.0.0.1" group-title="Entertainment", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cg6uE6J.jpg?v=1.0.0.1" group-title="Entertainment", Magna TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QO5Fi9H.png?v=1.0.0.1" group-title="Entertainment", Magna TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=9.9.9.9" group-title="Backup", Trans 7 detik
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
