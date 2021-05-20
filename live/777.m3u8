@@ -326,8 +326,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Backup", NET. [dens]
 http://rr2.dens.tv/s/s08/index.m3u8 
-#EXTINF:-0 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=9.9.9.9" group-title="Backup", Trans 7 [detik]
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=1.1.1.1" group-title="Nasional", SCTV [dens]
+http://rr2.dens.tv/s/s03/index2.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=9.9.9.9" group-title="Backup", Trans 7 [dens]
+http://rr2.dens.tv/s/s101/01.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Backup", TVRI [Vidio]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/0976f879a0c4548.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.1.1.1" group-title="Backup", MNCTV [Vidio]
