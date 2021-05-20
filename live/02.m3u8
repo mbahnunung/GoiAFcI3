@@ -438,13 +438,13 @@ http://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tyPCtX0.jpg" group-title="Fashion", World Fashion
 https://bozztv.com/36bay2/gin/giniko_worldfashionchannel_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9BNs6G.png" group-title="Fashion", JASMIN TV
-https://bozztv.com/36bay2/giniko_jasmintv/tracks-v1a1/mono.m3u8
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fSlGoJa.png" group-title="Fashion", Miami TV
 https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tibZOIG.png" group-title="Fashion", A3 Bikini Network
 http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Fashion", Miami TV Jenny Live
-http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
+http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
 ########################################## RADIO ######################################################
 
