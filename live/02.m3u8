@@ -328,11 +328,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/1890050c4626342.m3
 ########################################## Hindi ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png?v=1.1.1.1" group-title="Hindi", Zee Bioskop
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6399_720p/index.m3u8
+https://livestreaming-google-etslive.vidio.com/live/6399/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfmkzd7.png?v=1.1.1.1" group-title="Hindi", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png?v=1.1.1.1" group-title="Hindi", &tv
-#http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BrMZKfL.png?v=1.1.1.1" group-title="Hindi", &tv
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/726e730e030e958.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oc5gVe8.png?v=1.1.1.1" group-title="Hindi", &explor
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c70d0e933f18dda.m3u8
