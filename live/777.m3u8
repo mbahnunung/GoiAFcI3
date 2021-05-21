@@ -63,7 +63,7 @@ https://v2.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/zaZKVrQ.png?v=1.0.0.1", JekTv Jambi
 http://122.248.43.138:1935/ch14/myStream/live.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/rG3APsw.png?v=1.0.0.1", Gemilang TV
-https://5d63d49f772ce.streamlock.net/gemilangtv/rtmp.stream_360p/playlist.m3u8 
+http://stream1.ninmedia.tv:1935/gemilangtv/rtmp.stream_360p/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.postimg.cc/mrWm6bGD/PADANG-TV.png", PADANG TV
 http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
 
