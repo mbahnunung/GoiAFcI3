@@ -354,13 +354,13 @@ http://45.64.98.181:8323/stream
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QO5Fi9H.png?v=1.0.0.1" group-title="Entertainment", Magna TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Backup", NET. [dens]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sV6MzVZ/net.png?v=1.1.1.1" group-title="Backup", NET. [dens]
 http://rr2.dens.tv/s/s08/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHUcKkK.png?v=1.1.1.1" group-title="Backup", SCTV [dens]
 http://rr2.dens.tv/s/s03/index2.m3u8
-#EXTINF:-0 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=9.9.9.9" group-title="Backup", Trans 7 [dens]
+#EXTINF:-0 tvg-logo="https://i.ibb.co/qn8drTY/trans7.png?v=9.9.9.9" group-title="Backup", Trans 7 [dens]
 http://rr2.dens.tv/s/s101/01.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Backup", Trans TV [dens]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png?v=2.0.0.13" group-title="Backup", Trans TV [dens]
 http://rr3.dens.tv/s/s252/01.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Backup", TVRI [Vidio]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/0976f879a0c4548.m3u8 
