@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/rA0rUsj.png?v=2.0.0.13" group-title="Indonesia", RCTI
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/7cb6654ebec98b7.m3u8
+https://tv.mbahnunungonline.net/playlist/rcti.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/sHsPccL.png?v=2.0.0.13" group-title="Indonesia", SCTV
 https://livestreaming-google-etslive.vidio.com/live/204/master.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/AWnnWow.png?v=2.0.0.13" group-title="Indonesia", MNCTV
@@ -26,7 +26,7 @@ https://tv.mbahnunungonline.net/playlist/tvone.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XlZqfwV.png?v=2.0.0.13" group-title="Indonesia", rtv
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/590642f0a31efa3.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XBtbPBF.png?v=2.0.0.13" group-title="Indonesia", TVRI
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+https://tv.mbahnunungonline.net/playlist/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=2.0.0.13" group-title="Indonesia", iNews
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2f760b7cf8286be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Indonesia", Berita Satu
