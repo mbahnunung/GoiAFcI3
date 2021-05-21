@@ -58,12 +58,12 @@ https://v2.siar.us/inspiratv/live/playlist.m3u8
 https://livestreaming-google-etslive.vidio.com/live/6482/master.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/RwVhc31.png?v=1.0.0.1", ADI TV 
 https://v2.siar.us/aditv/livestream/playlist.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/LogvK3X.png?v=1.0.0.1", DUTA TV 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/45ukWAy.png?v=1.0.0.1", DUTA TV 
 https://v2.siar.us/dutatv/live/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/zaZKVrQ.png?v=1.0.0.1", JekTv Jambi
 http://122.248.43.138:1935/ch14/myStream/live.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/rG3APsw.png?v=1.0.0.1", Gemilang TV
-http://stream1.ninmedia.tv:1935/gemilangtv/rtmp.stream_360p/playlist.m3u8 
+http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.postimg.cc/mrWm6bGD/PADANG-TV.png", PADANG TV
 http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
 
