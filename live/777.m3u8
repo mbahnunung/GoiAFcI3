@@ -78,6 +78,13 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sGaCIk_tfmA/YAsIh48Th5I/AAAAAAAAMmo/VHi5M8pXn24j8taTfimSn5bI0ynIDH8KwCLcBGAsYHQ/s0/logo_history_channel.png" group-title="Entertainment" tvg-id="" tvg-name"HISTORY HD", HISTORY HD
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-PeiBHh5e_ak/VgS9HGl2GqI/AAAAAAAAE-k/6f9MhB1ZkJs/s1600/logo_aniplus.png" group-title="Entertainment" tvg-id="" tvg-name"ANIPlus", ANIPlus
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-9SwarJ_GVjk/W9dl4nKcYDI/AAAAAAAAJ3E/YHeHN8DqlCgj86eQ9w-9Dy3Xew7rt_RpACLcBGAs/s1600/logo_cctv4_tv.png" group-title="Entertainment" tvg-id="" tvg-name"CCTV4", CCTV4
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
+#http://93.190.139.36:8278/streams/d/cctv4/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Hu6UgMo.png?v=1.0.0.1", Mola TV Free 
 https://livestreaming-google-etslive.vidio.com/live/6840/master.m3u8 
 
@@ -94,13 +101,27 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.0.0.1" group-title="Kids", Boomerang 
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8 
+http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
+#https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOjdvky.png?v=1.0.0.1" group-title="Kids", Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvLnTBL.png?v=1.1.1.1" group-title="Kids", Disney Junior 
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVz8uE4.png?v=1.1.1.1" group-title="Kids", Disney XD
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8 
+
+########################################## KORENGAN ########################################################
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VIeyIR1sdaw/V2AXyv26oHI/AAAAAAAAFeY/gGFMgoR-QKIulbOaFvdvBlcKequE2xj7ACLcB/s1600/arirang_tv.png" group-title="Korengan" tvg-id="" tvg-name"Arirang", Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z8XViXpm-dI/YAsIIqYXhJI/AAAAAAAAMmg/RiQ4W5eXJmo0oRDIKsCRpE97yDsisQckgCLcBGAsYHQ/s0/logo_tvn.png" group-title="Korengan" tvg-id="" tvg-name"TVN HD", TVN HD
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pg0XvovwRDA/VqRDN0MI3mI/AAAAAAAAFLo/iUh_5JgRNBM0lGiwaRBkZbYOT1zE_S5PgCPcBGAYYCw/s0/logo_kbs.png" group-title="Korengan" tvg-id="" tvg-name"KBS World", KBS
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wQwTP64gXmM/XL7vywGPw2I/AAAAAAAALVA/bmB_I5GZC7EKU6qzz37cfaEBs18gvQHCgCPcBGAYYCw/s0/logo_sbsin.png" group-title="Korengan", SBS HD
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS HD" tvg-name="CBS HD" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="KR" tvg-url="" group-title="Korengan", CBS HD
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 
 ########################################## Lifestyle ###################################################
 
@@ -237,6 +258,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD 
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xnLiRS.jpeg?v=1.1.1.1" group-title="Movies", FX
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m3u8
 
 ########################################## MALAYSIA TV ######################################################
 
