@@ -50,6 +50,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 http://rrelshinta.dens.tv/s/s10/index2.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.0.0.1", JTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/OphvJ1c.png?v=1.0.0.1", Citra TV
+http://122.248.43.138:1935/ch28/myStream/live.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/wbOdROI.png?v=1.0.0.1", Inspira TV 
 https://v2.siar.us/inspiratv/live/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.0.0.1", DAAI TV 
@@ -64,8 +66,7 @@ http://122.248.43.138:1935/ch14/myStream/live.m3u8
 https://5d63d49f772ce.streamlock.net/gemilangtv/rtmp.stream_360p/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.postimg.cc/mrWm6bGD/PADANG-TV.png", PADANG TV
 http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/OphvJ1c.png?v=1.0.0.1", Citra TV
-http://122.248.43.138:1935/ch28/myStream/live.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.0.0.1", Bali TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/FClxdOq.png?v=1.0.0.1", Hi indo!
