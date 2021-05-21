@@ -58,6 +58,10 @@ https://livestreaming-google-etslive.vidio.com/live/6482/master.m3u8
 https://v2.siar.us/aditv/livestream/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/LogvK3X.png?v=1.0.0.1", DUTA TV 
 https://v2.siar.us/dutatv/live/playlist.m3u8 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.postimg.cc/sDbjP8Dx/JEK-TV.png?v=1.0.0.1",JekTv Jambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.postimg.cc/J4Fn60K1/gemilang.png?v=1.0.0.1",Gemilang TV
+https://5d63d49f772ce.streamlock.net/gemilangtv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.0.0.1", Bali TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/FClxdOq.png?v=1.0.0.1", Hi indo!
