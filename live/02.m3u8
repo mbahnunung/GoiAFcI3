@@ -359,7 +359,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4e0e7378bd80e4e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k6LWreq.jpg?v=1.1.1.1" group-title="Hindi", Star Plus UK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/985ca23f8635b78.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=1.1.1.1" group-title="Hindi", Star Gold HD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7be3338cc88fe2d.m3u8
+https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
+#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7be3338cc88fe2d.m3u8
 
 ########################################## FOX Movies ######################################################
 
