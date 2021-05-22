@@ -7,7 +7,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f
 https://tv.mbahnunungonline.net/playlist/mnctv.m3u8 
 #EXTINF:-1 tvg-logo="./img/thumbs/W47u6m4.png?v=1.1.1.1" group-title="Nasional", antv 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/b630a001384603f.m3u8 
-#EXTINF:-1 tvg-logo="./img/thumbs/BbPufM8.png?v=1.1.1.1" group-title="Nasional", Indosiar 
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/BbPufM8.png?v=1.1.1.1" group-title="Nasional", Indosiar 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/575eeb9f08dc8db.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=1.1.1.1" group-title="Nasional", Metro TV 
 https://tv.mbahnunungonline.net/playlist/metrotv.m3u8 
