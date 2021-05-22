@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="../img/thumbs/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI 
+#EXTINF:-1 tvg-logo="/img/thumbs/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI 
 https://tv.mbahnunungonline.net/playlist/rcti.m3u8 
-#EXTINF:-1 tvg-logo="../img/thumbs/sHsPccL.png?v=1.1.1.1" group-title="Nasional", SCTV 
+#EXTINF:-1 tvg-logo="/img/thumbs/sHsPccL.png?v=1.1.1.1" group-title="Nasional", SCTV 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
-#EXTINF:-1 tvg-logo="../img/thumbs/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNCTV 
+#EXTINF:-1 tvg-logo="/img/thumbs/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNCTV 
 https://tv.mbahnunungonline.net/playlist/mnctv.m3u8 
-#EXTINF:-1 tvg-logo="../img/thumbs/W47u6m4.png?v=1.1.1.1" group-title="Nasional", antv 
+#EXTINF:-1 tvg-logo="/img/thumbs/W47u6m4.png?v=1.1.1.1" group-title="Nasional", antv 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/b630a001384603f.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png?v=1.1.1.1" group-title="Nasional", Indosiar 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/575eeb9f08dc8db.m3u8 
