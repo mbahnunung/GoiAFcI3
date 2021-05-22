@@ -93,7 +93,9 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ALE0biZ.png?v=1.0.0.1", HISTORY HD
-http://185.180.221.194:8278/streams/d/History/playlist.m3u8
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/9Z7DUFb.png?v=1.1.1.1", Crime Investigation 
+http://203.154.243.31:15001 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6CCidoH.png?v=1.0.0.1", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/2RySrJl.png?v=1.0.0.1", CCTV4
@@ -206,10 +208,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=4.2.2.2" group-title="Knowledge", TV Edukasi
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge", Nat Geo Wild 
-http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8 
+http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge", National Geographic Channel 
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8 
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png?v=1.1.1.1" group-title="Knowledge", Nat Geo People (id)
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
@@ -223,7 +224,6 @@ https://livestreaming-google-etslive.vidio.com/live/6550/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature 4K 
 https://livestreaming-google-etslive.vidio.com/live/6635/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge", Animal Planet
-#https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=1.1.1.1" group-title="Knowledge", Discovery Asia 
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8 
