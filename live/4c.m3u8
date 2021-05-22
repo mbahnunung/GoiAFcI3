@@ -27,9 +27,9 @@ https://tv.mbahnunungonline.net/playlist/rtv.m3u8
 https://tv.mbahnunungonline.net/playlist/kompastv.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/EknqlDs.png?v=1.1.1.1" group-title="Nasional", iNews 
 https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional", CNN Indonesia HD 
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional", CNN Indonesia HD 
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.1.1.1" group-title="Nasional", Berita Satu 
+#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/gII3Eq8.png?v=1.1.1.1" group-title="Nasional", Berita Satu 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/3f58825fe229a8f.m3u8  
