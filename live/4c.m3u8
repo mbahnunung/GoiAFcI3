@@ -67,7 +67,7 @@ http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.postimg.cc/mrWm6bGD/PADANG-TV.png", PADANG TV
 http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title=" Local ", SAKTI TV
-http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+https://v2.siar.us/saktitv/livestream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.0.0.1", Bali TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/FClxdOq.png?v=1.0.0.1", Hi indo!
