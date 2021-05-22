@@ -237,7 +237,7 @@ http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/playlist.m3u8 
 #EXTINF:1 tvg-logo="https://i.imgur.com/CwsvvSn.png?v=1.0.0.1" group-title="Religious", British Muslim
 http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="INDONESIA",ANTV
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="INDONESIA",ANTV now
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
