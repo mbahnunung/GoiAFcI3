@@ -84,7 +84,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/58lwv5nnugyewnv/4Yk5Anu.png?dl=0?v=1.0.0.1", SEA Today 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/1o8xundlcouuwgy/Cj6JSFa.png?dl=0?v=1.0.0.1", The Indonesia Channel 
-http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/playlist.m3u8
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/aiqd6zhpo4yvorh/RfIj9lU.png?dl=0?v=1.0.0.1", Ruang Terampil 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8 
