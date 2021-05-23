@@ -39,7 +39,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2
 ########################################## Local ######################################################
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.0.0.1", MyTV 
-https://tv.mbahnunungonline.net/playlist/mytv.m3u8 
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#https://tv.mbahnunungonline.net/playlist/mytv.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.0.0.1", Jak-TV 
 https://tv.mbahnunungonline.net/playlist/jaktv.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/AR05IEu.png?v=1.0.0.1", Nusantara TV 
