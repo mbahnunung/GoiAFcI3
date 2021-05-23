@@ -75,9 +75,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-40
 
 ########################################## Entertainment ###############################################
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/37a1o1a2ck5gq5t/logo_davinci.png?dl=0", Da Vinci Learning
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/thcv0c2vzzwqo4r/aKZ7opS.png?dl=0?v=1.0.0.1", Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/W1JfODW.png?v=1.0.0.1", UseePrime
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/2m0k5lkrlspvbvw/W1JfODW.png?dl=0?v=1.0.0.1", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QO5Fi9H.png?v=1.0.0.1", Magna TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8 
