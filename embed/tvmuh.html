@@ -1,43 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Live Streaming</title>
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="initial-scale = 1.0, user-scalable = no, width=device-width, height=device-height, maximum-scale=1.0">
-<meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="description" content="Live Streaming" />
-<link rel="stylesheet" href="//vjs.zencdn.net/5.4.6/video-js.min.css?v=1.8">
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<style>
-           body {
-               margin:0;
-               padding:0;
-               overflow: hidden;
-               background:#2f3542;
-           }
-       </style>
-<center>
-<script>
-        var video_title = "Live Streaming";
+  <head prefix="og:http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>dangdutz</title>
+    <meta name="robots" content="noindex">
+    
+    <link type='text/css' rel='stylesheet' href='https://cdn1.mbahnunungonline.net/css/dist/v7/jwplayer.css' />
+    <link type='text/css' rel='stylesheet' href='https://cdn1.mbahnunungonline.net/css/dist/v7/player.css' />
+    <style type="text/css">
+        body { margin:0 auto; padding:0; background:#EEE; overflow: hidden; }
+        #title { font:bold 24px/36px Arial, sans-serif; color:#000; margin:40px auto 10px auto; display:none; text-shadow:#FFF 2px 2px 0; }
+        #description { font:13px/20px Arial, sans-serif; margin:15px auto; display:none; text-shadow:#FFF 1px 1px 0; }
+    </style>
+    <script type="text/javascript">
     </script>
-<div id="video" class="fp-slim fp-mute"></div>
-<script src="https://warningfm.github.io/nnVideo/nnVideo.core.js?v=98c76261ffc">
-        {
-            target      : 'video',
-            title       : 'Live Streaming',
-            autoplay    : false,
-            mute        : false,
-            live        : true,
-            imageUrl    : "https://2.bp.blogspot.com/-jxRFHO7z13w/W-hgLiSi7aI/AAAAAAAAKEA/gtlBn0192xoPNia2g4gNWJea1IdZlDgZACLcBGAs/s1600/logo_tvmu.jpg?v=8.3.2",
-            channel     : "livestreaming",
-            videoUrl    : "https://5d63d49f772ce.streamlock.net/tvmu/udp.stream_360p/playlist.m3u8",
-            adRules     : '',
-            features: {
-                loadByDiv:true,
-                smartAutoplay: true            }
-        }
-        </script>
+    <script src="//ssl.p.jwpcdn.com/player/v/8.2.2/jwplayer.js?v=1.1.0.0.222"></script>
+    <script>jwplayer.key = "9dOyFG96QFb9AWbR+FhhislXHfV1gIhrkaxLYfLydfiYyC0s";</script>
+</head>
+<body bgcolor="transparent" text="white" topmargin="0" leftmargin="0" rightmargin="0">
+<center>
+<div id="myElement">Loading the player...</div>
+<script type="text/javascript">
+    jwplayer("myElement").setup({
+        primary : 'html5',
+        width: '596',
+        height: '340',
+        fallback: false,
+        sharing: '',
+        skin : {name:"six",active:"#00CCCC"},
+        abouttext: 'Design by : mbah nunung Online',
+        aboutlink: 'http://mbahnunungonline.net',
+        autostart: 'true',
+        stretching: 'exactfit',
+        aspectratio: '16:9',
+        captions: {back: false, "default": false, fontsize: 14},
+        playlist: [{ 
+        title: 'TVMU',       
+        image: 'https://2.bp.blogspot.com/-jxRFHO7z13w/W-hgLiSi7aI/AAAAAAAAKEA/gtlBn0192xoPNia2g4gNWJea1IdZlDgZACLcBGAs/s1600/logo_tvmu.jpg?v=8.3.2',       
+        sources: [
+            {file: 'https://5d63d49f772ce.streamlock.net/tvmu/udp.stream_360p/playlist.m3u8'},
+            {file: 'https://edge.nim.mivo.tv/video/assets/oops.m3u8'}
+            ],
+        captions: [
+            {file: 'lostcorners-en.vtt', label: 'Melik'},
+            {file: 'lostcorners-fr2.vtt', label: 'Dadapan'},
+            {file: 'lostcorners-nl.vtt', label: 'Gambor'}
+        ]
+            
+        }]
+    });
+
+    jwplayer().on('play', function(){
+        setTimeout(function(){
+            var textAlt = document.querySelectorAll('#' + jwplayer().id + ' .jw-controlbar-center-group .jw-text-alt')[0];
+            if(textAlt) textAlt.innerHTML = 'dangdutz';
+        },300);
+    });
+</script>
 </center>
 </body>
 </html>
