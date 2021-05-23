@@ -330,7 +330,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunkl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tibZOIG.png?v=1.0.0.1" group-title="Fashion", A3 Bikini Network
 http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9BNs6G.png?v=1.0.0.1" group-title="Fashion", JASMIN TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+https://gintna100.tulix.tv/gin_live/jasmintv/749eba04b4af67cc4206ceee263232ba/60abfcaa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png?v=1.0.0.1" group-title="Fashion", Naked News
 http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 
