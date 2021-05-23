@@ -222,7 +222,8 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian 
 https://livestreaming-google-etslive.vidio.com/live/6550/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature 4K 
-https://livestreaming-google-etslive.vidio.com/live/6635/master.m3u8 
+https://tv.mbahnunungonline.net/playlist/LoveNature.m3u8
+#https://livestreaming-google-etslive.vidio.com/live/6635/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge", Animal Planet
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=1.1.1.1" group-title="Knowledge", Discovery Asia 
