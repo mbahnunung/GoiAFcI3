@@ -98,13 +98,13 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/nyd49032osa6rcx/9Z7DUFb.png?dl=0?v=1.1.1.1", Crime Investigation 
 http://203.154.243.31:15001 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6CCidoH.png?v=1.0.0.1", ANIPlus
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/dunj0ohn9jq4uex/6CCidoH.png?dl=0?v=1.0.0.1", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/2RySrJl.png?v=1.0.0.1", CCTV4
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/s9t2z9hm3rrptvg/2RySrJl.png?dl=0?v=1.0.0.1", CCTV4
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qo8Wt7F.png?v=1.1.1.1" group-title="Entertainment", ZEE CAFE
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/7125xu7m49meugs/qo8Wt7F.png?dl=0?v=1.1.1.1", ZEE CAFE
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Hu6UgMo.png?v=1.0.0.1", Mola TV Free 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/bfduw9k6oao73kq/Hu6UgMo.png?dl=0?v=1.0.0.1", Mola TV Free 
 https://livestreaming-google-etslive.vidio.com/live/6840/master.m3u8 
 
 ########################################## KIDS ########################################################
