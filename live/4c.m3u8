@@ -32,7 +32,9 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/gII3Eq8.png?v=1.1.1.1" group-title="Nasional", Berita Satu 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8 
 #EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/3f58825fe229a8f.m3u8  
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/3f58825fe229a8f.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/od0w7R2.png?v=1.1.1.1" group-title="Nasional", O Channel 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2d419.m3u8 
 
 ########################################## Local ######################################################
 
@@ -188,9 +190,9 @@ https://manar.live/iptv/index.m3u8
 
 ########################################## SPORTS ######################################################
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Lz8A0qIPP6Y/VgY1OB_2V5I/AAAAAAAAFAk/9ZZHeZCRrcI6QAkuJ1rptGxvOPViBC-8QCPcBGAYYCw/s0/beinSport1.png" group-title="Sports", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/57e12c38175537e.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kfLY92b04nk/VgY3R0RRquI/AAAAAAAAFAw/2zEzh3rrBQs0ERmZcboo7IIhIfmTmBgLQCPcBGAYYCw/s0/beinSport2.png" group-title="Sports", beIN Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c28e6ada110428c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
@@ -401,8 +403,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=1.1.1.1" group-title="Backup", GTV [Vidio]
 https://livestreaming-google-etslive.vidio.com/live/778/master.m3u8 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jtwlMpm1b9g/VWypWl5K3iI/AAAAAAAAErM/ybWXLH-vZoMEPOuCYCmfdJcpyMEAn8YgQCPcBGAYYCw/s0/Ochannel.png" group-title=" Local ", O Channel 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2d419.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p73UbIR.png?v=1.1.1.1" group-title="Backup", ATV [Nin]
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cymjoiG.png?v=1.0.0.1" group-title="Backup", &Flix [streamhost]
