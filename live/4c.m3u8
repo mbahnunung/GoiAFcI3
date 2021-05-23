@@ -240,7 +240,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 https://livestreaming-google-etslive.vidio.com/live/7464/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=1.0.0.1" group-title="Religious", TV9 NU 
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=1.0.0.1" group-title="Religious", Muhammadiyah TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evrRgFH.png?v=1.0.0.1" group-title="Religious", Muhammadiyah TV 
 https://5d63d49f772ce.streamlock.net/tvmu/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khG612m.png?v=1.0.0.1" group-title="Religious", NU Channel 
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8 
