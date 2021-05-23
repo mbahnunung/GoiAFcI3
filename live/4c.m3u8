@@ -79,11 +79,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-40
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/2m0k5lkrlspvbvw/W1JfODW.png?dl=0?v=1.0.0.1", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QO5Fi9H.png?v=1.0.0.1", Magna TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/a3j1gd9empzauci/QO5Fi9H.png?dl=0?v=1.0.0.1", Magna Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=1.0.0.1", SEA Today 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/58lwv5nnugyewnv/4Yk5Anu.png?dl=0?v=1.0.0.1", SEA Today 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=1.0.0.1", The Indonesia Channel 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/1o8xundlcouuwgy/Cj6JSFa.png?dl=0?v=1.0.0.1", The Indonesia Channel 
 #http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RfIj9lU.png?v=1.0.0.1", Ruang Terampil 
