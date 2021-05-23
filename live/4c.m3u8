@@ -331,6 +331,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunkl
 http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9BNs6G.png?v=1.0.0.1" group-title="Fashion", JASMIN TV
 https://gintna100.tulix.tv/gin_live/jasmintv/749eba04b4af67cc4206ceee263232ba/60abfcaa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CeymXdN.jpg" group-title="Fashion", Models Inc. HD
+https://gintna100.tulix.tv/gin_live/modelinc/61f048cf0e03784272b5cd01a34351ad/60abfcff/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png?v=1.0.0.1" group-title="Fashion", Naked News
 http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 
