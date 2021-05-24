@@ -77,35 +77,35 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-40
 
 ########################################## Entertainment ###############################################
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/thcv0c2vzzwqo4r/aKZ7opS.png?dl=0?v=1.0.0.1", Da Vinci Learning
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/thcv0c2vzzwqo4r/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/2m0k5lkrlspvbvw/W1JfODW.png?dl=0?v=1.0.0.1", UseePrime
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/2m0k5lkrlspvbvw/W1JfODW.png?v=1.0.0.1", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/a3j1gd9empzauci/QO5Fi9H.png?dl=0?v=1.0.0.1", Magna Channel
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/a3j1gd9empzauci/QO5Fi9H.png?v=1.0.0.1", Magna Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/58lwv5nnugyewnv/4Yk5Anu.png?dl=0?v=1.0.0.1", SEA Today 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/58lwv5nnugyewnv/4Yk5Anu.png?v=1.0.0.1", SEA Today 
 https://tv.mbahnunungonline.net/playlist/seatoday.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/1o8xundlcouuwgy/Cj6JSFa.png?dl=0?v=1.0.0.1", The Indonesia Channel 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/1o8xundlcouuwgy/Cj6JSFa.png?v=1.0.0.1", The Indonesia Channel 
 https://tv.mbahnunungonline.net/playlist/tic.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/aiqd6zhpo4yvorh/RfIj9lU.png?dl=0?v=1.0.0.1", Ruang Terampil 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/aiqd6zhpo4yvorh/RfIj9lU.png?v=1.0.0.1", Ruang Trampil 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/b18blyfzj4m9tuq/Tbur8nX.png?dl=0?v=1.0.0.1", Outdoor Channel
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/b18blyfzj4m9tuq/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/a24zg5nz8598ufi/VobODf7.png?dl=0?v=1.0.0.1", Blue Ant
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/a24zg5nz8598ufi/VobODf7.png?v=1.0.0.1", Blue Ant
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/5sj19r3flwqko1w/iApp8aQ.png?dl=0?v=1.0.0.1", Blue Ant Extreme
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/5sj19r3flwqko1w/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/n1c0s1h34222pe8/ALE0biZ.png?dl=0?v=1.0.0.1", HISTORY HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/n1c0s1h34222pe8/ALE0biZ.png?v=1.0.0.1", HISTORY HD
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/nyd49032osa6rcx/9Z7DUFb.png?dl=0?v=1.1.1.1", Crime Investigation 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/nyd49032osa6rcx/9Z7DUFb.png?v=1.1.1.1", Crime Investigation 
 http://203.154.243.31:15001 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/dunj0ohn9jq4uex/6CCidoH.png?dl=0?v=1.0.0.1", ANIPlus
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/dunj0ohn9jq4uex/6CCidoH.png?v=1.0.0.1", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/s9t2z9hm3rrptvg/2RySrJl.png?dl=0?v=1.0.0.1", CCTV4
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/s9t2z9hm3rrptvg/2RySrJl.png?v=1.0.0.1", CCTV4
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/7125xu7m49meugs/qo8Wt7F.png?dl=0?v=1.1.1.1", ZEE CAFE
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/7125xu7m49meugs/qo8Wt7F.png?v=1.1.1.1", ZEE CAFE
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/bfduw9k6oao73kq/Hu6UgMo.png?dl=0?v=1.0.0.1", Mola TV Free 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropboxusercontent.com/s/bfduw9k6oao73kq/Hu6UgMo.png?v=1.0.0.1", Mola TV Free 
 https://livestreaming-google-etslive.vidio.com/live/6840/master.m3u8 
 
 ########################################## KIDS ########################################################
