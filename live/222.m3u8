@@ -14,7 +14,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTEjMpg.png?v=1.1.1.1" group-title="Nasional", Trans 7 
 https://livestreaming-google-etslive.vidio.com/live/734/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.1.1.1" group-title="Nasional", Trans TV 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/61061784f4a9270.m3u8
+#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/61061784f4a9270.m3u8 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.1.1.1" group-title="Religious", Al Quran Al Kareem TV 
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV 
@@ -168,6 +169,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5EpW33.png?v=8.8.4.4" group-title="Hindi", Bflix Movies 
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=8.8.8.8" group-title="Hindi", Star Gold HD
+https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
 
 ########################################## Knowledge ######################################################
 
@@ -195,6 +198,8 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 
 ########################################## Movies ######################################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xB7jWnt.png?v=1.0.0.1" group-title="Movies", Citra Bioskop 
+https://livestreaming-google-etslive.vidio.com/live/6684/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jy0qhiH.png?v=1.1.1.1" group-title="Movies", CCM
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEHEXrZ.png?v=1.0.0.1" group-title="Movies", Celestial Movies
@@ -203,9 +208,9 @@ http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UAaZ3G1.png?v=1.0.0.1" group-title="Movies", KIX
-http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMAyRG8.jpg?v=1.0.0.1" group-title="Movies", HITS
-http://rr.dens.tv/h/h37/index.m3u8
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=1.0.0.1" group-title="Movies", Cinema World
 http://rr.dens.tv/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV 
@@ -215,6 +220,8 @@ http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Movies", Thrill (id)
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 
 ########################################## RADIO ######################################################
 
