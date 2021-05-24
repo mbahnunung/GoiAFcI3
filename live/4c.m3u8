@@ -269,7 +269,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 
 ########################################## Movies ######################################################
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EuRaJy6SP28/YAsQUhLUENI/AAAAAAAAMns/_WJRvzFroy8-_rXvkW-LQXnWbvbiqbjbgCLcBGAsYHQ/s0/logo_imc.png" group-title="Movies", IMC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PgmPcb/imc.png?v=1.0.0.1" group-title="Movies", IMC
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xB7jWnt.png?v=1.0.0.1" group-title="Movies", Citra Bioskop 
 https://livestreaming-google-etslive.vidio.com/live/6684/master.m3u8 
