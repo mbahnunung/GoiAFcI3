@@ -232,7 +232,7 @@ https://tv.mbahnunungonline.net/playlist/Smithsonian.m3u8
 https://tv.mbahnunungonline.net/playlist/LoveNature.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge", Animal Planet
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=1.1.1.1" group-title="Knowledge", Discovery Asia 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia 
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8 
 
 ########################################## Religious ####################################################
@@ -271,7 +271,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/338e44dddae39e7.m3
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HWr34c/xB7jWnt.png?v=1.0.0.1" group-title="Movies", Citra Bioskop 
 https://livestreaming-google-etslive.vidio.com/live/6684/master.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jy0qhiH.png?v=1.1.1.1" group-title="Movies", CCM 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", CCM 
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEHEXrZ.png?v=1.0.0.1" group-title="Movies", Celestial Movies 
 http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8 
@@ -294,9 +294,9 @@ http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD 
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xnLiRS.jpeg?v=1.1.1.1" group-title="Movies", FX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xnLiRS.jpeg?v=1.0.0.1" group-title="Movies", FX
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=1.1.1.1" group-title="Movies", SYFY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=1.0.0.1" group-title="Movies", SYFY
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Movies", Thrill (id)
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
@@ -399,9 +399,9 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 http://rr2.dens.tv/s/s08/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHUcKkK.png?v=1.1.1.1" group-title="Backup", SCTV [dens]
 http://rr2.dens.tv/s/s03/index2.m3u8
-#EXTINF:-0 tvg-logo="https://i.ibb.co/qn8drTY/trans7.png?v=9.9.9.9" group-title="Backup", Trans 7 [dens]
+#EXTINF:-0 tvg-logo="https://i.ibb.co/qn8drTY/trans7.png?v=1.1.1.1" group-title="Backup", Trans 7 [dens]
 http://rr2.dens.tv/s/s101/01.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png?v=2.0.0.13" group-title="Backup", Trans TV [dens]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png?v=1.1.1.1" group-title="Backup", Trans TV [dens]
 http://rr3.dens.tv/s/s252/01.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Backup", TVRI [Vidio]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/0976f879a0c4548.m3u8 
