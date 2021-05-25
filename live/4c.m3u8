@@ -66,7 +66,7 @@ https://v2.siar.us/dutatv/live/playlist.m3u8
 http://122.248.43.138:1935/ch14/myStream/live.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/sFAzDq9.png?v=1.0.0.1", btv Balikpapan
 http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.postimg.cc/mrWm6bGD/PADANG-TV.png", PADANG TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/mnFjEw1.png?v=1.0.0.1", PADANG TV
 http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title=" Local ", SAKTI TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
