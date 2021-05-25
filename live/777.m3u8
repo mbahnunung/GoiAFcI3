@@ -64,10 +64,10 @@ https://v2.siar.us/dutatv/live/playlist.m3u8
 http://122.248.43.138:1935/ch14/myStream/live.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/sFAzDq9.png?v=1.0.0.1", btv Balikpapan
 http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.postimg.cc/mrWm6bGD/PADANG-TV.png", PADANG TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/mnFjEw1.png?v=1.0.0.1", PADANG TV
 http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title=" Local ", SAKTI TV
-http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/tlH0Quf.png?v=1.0.0.1", SAKTI TV
+https://v2.siar.us/saktitv/livestream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.0.0.1", Bali TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/FClxdOq.png?v=1.0.0.1", Hi indo!
@@ -177,7 +177,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 https://live-hls-apps-aljazeera.global.ssl.fastly.net/AJA/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3Gn16p.png?v=1.0.0.1" group-title="News", Al arabiya 
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-imKlUcPv_1I/UnZhfu2lq8I/AAAAAAAAB-E/gwfu1UvSWmE/s1600/almanar-tv.png?v=1.0.0.1" group-title="News", ALManarTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xSCGVhz.png?v=1.0.0.1" group-title="News", ALManarTV 
 https://manar.live/iptv/index.m3u8  
 
 ########################################## SPORTS ######################################################
@@ -279,7 +279,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD 
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xnLiRS.jpeg?v=1.1.1.1" group-title="Movies", FX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xnLiRS.jpeg?v=1.0.0.1" group-title="Movies", FX
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m3u8
 
 ########################################## MALAYSIA TV ######################################################
