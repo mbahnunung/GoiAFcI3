@@ -75,6 +75,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-40
 
 ########################################## Entertainment ###############################################
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/XTBtpcT.png?v=1.0.0.1" tvg-id="" tvg-name"Animax", Animax
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/W1JfODW.png?v=1.0.0.1", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QO5Fi9H.png?v=1.0.0.1", Magna TV
