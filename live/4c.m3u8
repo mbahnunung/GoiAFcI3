@@ -397,7 +397,7 @@ http://45.64.98.181:8323/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png?v=4.2.2.2" group-title="Backup", Love Nature 
 https://bamus-eng-roku.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VwPXLq8.png?v=1.1.1.1" group-title="Backup", NET. [dens]
-http://rr2.dens.tv/s/s08/index.m3u8 
+https://tv.mbahnunungonline.net/playlist/nettv.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHUcKkK.png?v=1.1.1.1" group-title="Backup", SCTV [dens]
 http://rr2.dens.tv/s/s03/index2.m3u8
 #EXTINF:-0 tvg-logo="https://i.ibb.co/qn8drTY/trans7.png?v=1.1.1.1" group-title="Backup", Trans 7 [dens]
