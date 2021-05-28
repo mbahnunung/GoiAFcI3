@@ -37,13 +37,13 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/3f58825fe229a8f.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/DATJMK7.png?v=1.0.0.1", Jawapos TV 
-http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.1.1.1" group-title="Lokal", JTV 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=1.1.1.1" group-title="Nasional", tvOne 
 https://tv.mbahnunungonline.net/playlist/tvone.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/od0w7R2.png?v=1.1.1.1" group-title="Nasional", O Channel 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2d419.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=1.0.0.1", group-title="Entertainment" The Indonesia Channel 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=1.0.0.1" group-title="Entertainment", The Indonesia Channel 
 https://tv.mbahnunungonline.net/playlist/tic.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=1.1.1.1" group-title="Religious", TV9 NU
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8 
@@ -53,8 +53,8 @@ https://livestreaming-google-etslive.vidio.com/live/7464/master.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.1.1.1" group-title="Nasional", Jak-TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.1.1.1" group-title="Lokal", JTV 
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/DATJMK7.png?v=1.0.0.1", Jawapos TV 
+http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxcUbak.png?v=1.1.1.1" group-title="Religious", Muhammadiyah TV
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QO5Fi9H.png?v=1.0.0.1" group-title="Entertainment", Magna Channel
