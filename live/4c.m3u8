@@ -145,13 +145,11 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan", SBS HD
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ftk2ky0.png?v=1.0.0.1" group-title="Korengan", GEM
-http://210.210.155.35/uq2663/h/h19/01.m3u8 
+https://tv.mbahnunungonline.net/playlist/gem.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/scJZO2S.png?v=1.0.0.1" group-title="Korengan", S ONE
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8 
+http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVj6I9k.png?v=1.0.0.1" group-title="Korengan", Kplus
-http://rr.dens.tv/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iy0yBaM.jpg?v=1.0.0.1" group-title="Korengan", CBS HD
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+https://tv.mbahnunungonline.net/playlist/kplus.m3u8
 
 ########################################## Lifestyle ###################################################
 
