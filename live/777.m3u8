@@ -31,9 +31,9 @@ https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.1.1.1" group-title="Nasional", Berita Satu 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/3f58825fe229a8f.m3u8 
-#EXTINF:-1 tvg-logo="https://tv.mbahnunungonline.net/img/thumbs/od0w7R2.png?v=1.1.1.1" group-title="Nasional", O Channel 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/od0w7R2.png?v=1.1.1.1" group-title="Nasional", O Channel 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2d419.m3u8 
 
 ########################################## Local ######################################################
