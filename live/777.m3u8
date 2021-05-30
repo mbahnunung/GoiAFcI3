@@ -246,20 +246,24 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel 
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut 
+https://livestreaming-google-etslive.vidio.com/live/6587/master.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik 
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut 
-https://livestreaming-google-etslive.vidio.com/live/6587/master.m3u8  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3WXba7.png?v=8.8.4.4" group-title="Music", B4U Music 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=8.8.4.4" group-title="Music", Desi Channel 
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/drupYNv.png?v=1.0.0.1" group-title="Music", Channel [V] INTL
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/338e44dddae39e7.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0w7vvkN/KARAOKE.png" group-title="Music", KARAOKE
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 
 ########################################## Movies ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p73UbIR.png?v=1.0.0.1" group-title="Backup", ATV [Nin]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p73UbIR.png?v=1.0.0.1" group-title="Movies", ATV 
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xB7jWnt.png?v=1.0.0.1" group-title="Movies", Citra BIOSKOP 
 https://livestreaming-google-etslive.vidio.com/live/6684/master.m3u8 
@@ -329,7 +333,7 @@ http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 ########################################## Hindi ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png?v=8.8.4.4" group-title="Hindi", Zee Bioskop 
-https://livestreaming-google-etslive.vidio.com/live/6399/master.m3u8 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/eea032203b3ce31.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaHtwO2.png?v=8.8.4.4" group-title="Hindi", 9XM 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BrMZKfL.png?v=8.8.4.4" group-title="Hindi", &tv 
@@ -350,12 +354,14 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Y8SVWN.png?v=8.8.4.4" group-title="Hindi", B4U Kadak 
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D3WXba7.png?v=8.8.4.4" group-title="Music", B4U Music 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=8.8.4.4" group-title="Music", Desi Channel 
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5EpW33.png?v=8.8.4.4" group-title="Hindi", Bflix Movies 
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9hob8Jh.png?v=8.8.4.4" group-title="Hindi", Zoom 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/77789e89e7b4b03.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6VJkDh/starplus.png?v=8.8.8.8" group-title="Hindi", Star Plus UK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=8.8.8.8" group-title="Hindi", Star Gold HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
 
 ########################################## RADIO ######################################################
 
@@ -392,14 +398,3 @@ http://rr2.dens.tv/s/s03/index2.m3u8
 http://rr2.dens.tv/s/s101/01.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png?v=2.0.0.13" group-title="Backup", Trans TV [dens]
 http://rr3.dens.tv/s/s252/01.m3u8 
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjvRqKdZ0GqKUt6rAe8ieaWqo34-1UTQS9p9ToS=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Channel 4U
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cymjoiG.png?v=1.0.0.1" group-title="Backup", &Flix [streamhost]
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/25ac7a6a36cdb36.m3u8 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/3rJPXOeOYY-CB34a17S-8cM8ibBeEhxfIB669Dzoi2SZEMHNvsr0zb2ddQK5N8vVI1A?v=8.8.8.8" group-title="Hindi", Star Plus UK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=8.8.8.8" group-title="Hindi", Star Gold HD
-https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
-
