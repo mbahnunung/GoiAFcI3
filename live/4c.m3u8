@@ -169,7 +169,7 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.0.0.1" group-title="News", BeritaSatu 
 https://livestreaming-google-etslive.vidio.com/live/6165/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NTIQcW0.png?v=1.0.0.1" group-title="News", MetroTV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/6183ec225226ccc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=1.0.0.1" group-title="News", IDX 
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Thm3LAk.png?v=1.0.0.1" group-title="News", MNC News 
