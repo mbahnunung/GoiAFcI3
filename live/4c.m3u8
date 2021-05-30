@@ -374,6 +374,10 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9hob8Jh.png?v=8.8.4.4" group-title="Hindi", Zoom 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/77789e89e7b4b03.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6VJkDh/starplus.png?v=8.8.8.8" group-title="Hindi", Star Plus UK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=8.8.8.8" group-title="Hindi", Star Gold HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
 
 ########################################## RADIO ######################################################
 
@@ -412,12 +416,4 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=1.1.1.1" group-title="Backup", GTV [Vidio]
 https://livestreaming-google-etslive.vidio.com/live/778/master.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DL3mCFH/dunialain.png?v=1.1.1.1" group-title="Backup", Dunia Lain
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cymjoiG.png?v=1.0.0.1" group-title="Backup", &Flix [streamhost]
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/25ac7a6a36cdb36.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K6VJkDh/starplus.png?v=8.8.8.8" group-title="Hindi", Star Plus UK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=8.8.8.8" group-title="Hindi", Star Gold HD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
