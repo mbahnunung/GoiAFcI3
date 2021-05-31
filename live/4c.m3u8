@@ -195,13 +195,14 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwijqtC.png?v=1.0.0.1" group-title="News", NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fgUVz5m.png?v=1.0.0.1" group-title="News", Aljazeera Arabic 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/f5f5c18cf037918.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3Gn16p.png?v=1.0.0.1" group-title="News", Al arabiya 
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fgUVz5m.png?v=1.0.0.1" group-title="News", Aljazeera Arabic 
+https://live-hls-apps-aljazeera.global.ssl.fastly.net/AJA/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSCGVhz.png?v=1.0.0.1" group-title="News", ALManarTV 
 https://manar.live/iptv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rguNbSN.png?v=1.0.0.1" group-title="News", BBC Arabic 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/64c03d4e8d7261f.m3u8 
 
 ########################################## SPORTS ######################################################
 
