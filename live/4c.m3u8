@@ -71,7 +71,7 @@ http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/tlH0Quf.png?v=1.0.0.1", SAKTI TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.0.0.1", Bali TV 
-https://tv.mbahnunungonline.net/playlist/balitv.m3u8 
+https://cdn4.mbahnunungonline.net/m3u8/4c33d89bb7ac426.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/FClxdOq.png?v=1.0.0.1", Hi indo!
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
 
@@ -86,9 +86,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/a3j1gd9empzauci/QO5Fi9H.png?v=1.0.0.1", Magna Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/58lwv5nnugyewnv/4Yk5Anu.png?v=1.0.0.1", SEA Today 
-https://tv.mbahnunungonline.net/playlist/seatoday.m3u8 
+https://cdn4.mbahnunungonline.net/m3u8/dcba938c62f7539.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/1o8xundlcouuwgy/Cj6JSFa.png?v=1.0.0.1", The Indonesia Channel 
-https://tv.mbahnunungonline.net/playlist/tic.m3u8 
+https://cdn4.mbahnunungonline.net/m3u8/1b4d1e3292b3936.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/aiqd6zhpo4yvorh/RfIj9lU.png?v=1.0.0.1", Ruang Trampil 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/b18blyfzj4m9tuq/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
