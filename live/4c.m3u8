@@ -6,25 +6,20 @@ https://cdn4.mbahnunungonline.net/m3u8/2b8fc230e8f847a.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNCTV 
 https://cdn4.mbahnunungonline.net/m3u8/d9bbf6929ec1028.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/W47u6m4.png?v=1.1.1.1" group-title="Nasional", antv 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/b630a001384603f.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BbPufM8.png?v=1.1.1.1" group-title="Nasional", Indosiar 
 https://cdn4.mbahnunungonline.net/m3u8/575eeb9f08dc8db.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Jj4S2E4.png?v=1.1.1.1" group-title="Nasional", Metro TV 
 https://cdn4.mbahnunungonline.net/m3u8/6183ec225226ccc.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/QTEjMpg.png?v=1.1.1.1" group-title="Nasional", Trans 7 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/cdd283c9d3d43b5.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/RnrimdT.png?v=1.1.1.1" group-title="Nasional", Trans TV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/61061784f4a9270.m3u8  
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV 
 https://cdn4.mbahnunungonline.net/m3u8/df56d15c1ad325a.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.1.1.1" group-title="Nasional", rtv 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/590642f0a31efa3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aJhpmgf.png?v=1.1.1.1" group-title="Nasional", Kompas TV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/ae5f9d6bcd610b6.m3u8  
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EknqlDs.png?v=1.1.1.1" group-title="Nasional", iNews 
 https://cdn4.mbahnunungonline.net/m3u8/2f760b7cf8286be.m3u8 
@@ -37,10 +32,8 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gII3Eq8.png?v=1.1.1.1" group-title="Nasional", Berita Satu 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/3f58825fe229a8f.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.1.1.1" group-title="Nasional", O Channel 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2d419.m3u8 
 
 ########################################## Local ######################################################
@@ -48,7 +41,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.0.0.1", MyTV 
 https://cdn4.mbahnunungonline.net/m3u8/94fbb6407ca6a41.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.0.0.1", Jak-TV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/a6e7e966ea54cd3.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/AR05IEu.png?v=1.0.0.1", Nusantara TV 
 https://v6.siar.us/nusantaratv/live/playlist.m3u8 
