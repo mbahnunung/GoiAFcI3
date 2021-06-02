@@ -110,7 +110,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/bfduw9k6oao73kq/Hu6UgMo.png?v=1.0.0.1", Mola TV Free 
 https://livestreaming-google-etslive.vidio.com/live/6840/master.m3u8 
 
-########################################## KIDS ########################################################
+########################################## Kids ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAHJS7W.png?v=1.0.0.1" group-title="Kids", Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8 
@@ -132,7 +132,7 @@ http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVz8uE4.png?v=1.1.1.1" group-title="Kids", Disney XD
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8 
 
-########################################## KORENGAN ########################################################
+########################################## Korengan ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GVGesVr.png?v=1.0.0.1" group-title="Korengan", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8 
@@ -193,7 +193,7 @@ https://manar.live/iptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rguNbSN.png?v=1.0.0.1" group-title="News", BBC Arabic 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/64c03d4e8d7261f.m3u8 
 
-########################################## SPORTS ######################################################
+########################################## Sports ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
 #http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/57e12c38175537e.m3u8
@@ -225,7 +225,7 @@ http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png?v=4.2.2.2" group-title="Knowledge", Nat Geo People (id) 
 http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeopeople/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8 
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge", Discovery Channel 
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN Documentary
@@ -258,7 +258,7 @@ https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/CwsvvSn.png?v=1.0.0.1" group-title="Religious", British Muslim
 http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
-########################################## MUSIC ######################################################
+########################################## Music ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel 
 https://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8 
@@ -311,7 +311,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Movies", Thrill (id)
 http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Thrill/playlist.m3u8
 
-########################################## MALAYSIA TV ######################################################
+########################################## Malaysia TV ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clevM5Z.png?v=1.1.1.1" group-title="Malaysia", Astro OASIS
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
@@ -384,7 +384,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=8.8.8.8" group-title="Hindi", Star Gold HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
 
-########################################## RADIO ######################################################
+########################################## Radio ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
 https://fps6.mbahnunungonline.net/proxy/radiouser374134865?mp=/stream?_=0.15490203667362434
