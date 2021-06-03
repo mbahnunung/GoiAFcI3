@@ -3,11 +3,11 @@
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.0.0.1" group-title="News", Berita Satu 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8 
-#EXTINF:-0 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="News", CNN Indonesia 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="News", CNN Indonesia 
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w930254938_b384000_sleng.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="News", Kompas TV HD 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/ae5f9d6bcd610b6.m3u8 
-#EXTINF:-0 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ54/KQiovEGIcCsBpPYJA5624U8hCbNGijokACPcBGAYYCw/s0/logo_kompastv.png?v=1.1.1.1" group-title="News", Kompas TV SD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-my1MsBVvEqc/W9tNYjL3phI/AAAAAAAAJ54/KQiovEGIcCsBpPYJA5624U8hCbNGijokACPcBGAYYCw/s0/logo_kompastv.png?v=1.1.1.1" group-title="News", Kompas TV SD
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia 
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1563463664_b280000_sleng.m3u8 
@@ -60,4 +60,3 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia 
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/64c03d4e8d7261f.m3u8 
