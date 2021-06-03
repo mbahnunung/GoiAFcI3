@@ -34,4 +34,29 @@ http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSCGVhz.png?v=1.0.0.1" group-title="News", ALManarTV 
 https://manar.live/iptv/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rguNbSN.png?v=1.0.0.1" group-title="News", BBC Arabic 
+
+########################################## Knowledge ####################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=4.2.2.2" group-title="Knowledge", TV Edukasi
+http://202.169.224.76:1935/live/tve.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge", Nat Geo Wild (id) 
+http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeowild/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge", National Geographic Channel 
+http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeo/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png?v=4.2.2.2" group-title="Knowledge", Nat Geo People (id) 
+http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeopeople/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge", Discovery Channel 
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian 
+https://cdn4.mbahnunungonline.net/m3u8/700a192f4d09363.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature 4K 
+https://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge", Animal Planet
+http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia 
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/64c03d4e8d7261f.m3u8 
