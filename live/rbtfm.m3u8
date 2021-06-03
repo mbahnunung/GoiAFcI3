@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DATJMK7.png?v=1.0.0.1" group-title="News", Jawapos TV 
-http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="News", TVRI HD 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.0.0.1" group-title="News", Berita Satu 
@@ -20,7 +18,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1637747939_b1492000_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=1.0.0.1" group-title="News", IDX 
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EknqlDs.png?v=1.1.1.1" group-title="News", iNews 
-https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta.m3u8 
+http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=1.1.1.1" group-title="News", tvOne 
 https://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Thm3LAk.png?v=1.0.0.1" group-title="News", MNC News 
@@ -43,6 +41,8 @@ http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://manar.live/iptv/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rguNbSN.png?v=1.0.0.1" group-title="News", BBC Arabic 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/64c03d4e8d7261f.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DATJMK7.png?v=1.0.0.1" group-title="News", Jawapos TV 
+http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8 
 
 ########################################## Knowledge ####################################################
 
