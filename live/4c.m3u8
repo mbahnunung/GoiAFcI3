@@ -244,7 +244,7 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 ########################################## Religious ####################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.0.0.1" group-title="Religious", Al Quran Al Kareem TV 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Religious/eb2606b68b9e465.m3u8 
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=1.0.0.1" group-title="Religious", Ajwa TV 
 https://livestreaming-google-etslive.vidio.com/live/7464/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wQiH6tm.png?v=1.0.0.1" group-title="Religious", AL-BAHJAH TV
