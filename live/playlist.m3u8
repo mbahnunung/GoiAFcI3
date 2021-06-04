@@ -97,4 +97,4 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/VobODf7.png?v=1.0.0.1", Blue Ant
 https://zet.pluginsandthemes.ro/http://45.126.83.51/dr9445/h/h16/01.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
-https://zet.pluginsandthemes.ro/http://45.126.83.51/dr9445/h/h15/01.m3u8 
+https://kastproxy-us.herokuapp.com/http://45.126.83.51/dr9445/h/h15/01.m3u8 
