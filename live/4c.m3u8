@@ -120,7 +120,7 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 https://livestreaming-google-etslive.vidio.com/live/6533/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee 
 https://livestreaming-google-etslive.vidio.com/live/6397/master.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.0.0.1" group-title="Kids", Baby First 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.0.0.1" group-title="Kids", BabyTV 
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8 
@@ -138,13 +138,13 @@ http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GVGesVr.png?v=1.0.0.1" group-title="Korengan", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Korengan", TVN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Korengan", TVN 
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0TKqJd.png?v=1.0.0.1" group-title="Korengan", TVN Movies
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJTACLd.png?v=1.0.0.1" group-title="Korengan", KBS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJTACLd.png?v=1.0.0.1" group-title="Korengan", KBS World 
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan", SBS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan", SBS 
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ftk2ky0.png?v=1.0.0.1" group-title="Korengan", SGEM
 https://tv.mbahnunungonline.net/playlist/gem.m3u8 
@@ -274,9 +274,9 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=8.8.4.4" group-title="Music", Desi Channel 
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/drupYNv.png?v=1.0.0.1" group-title="Music", Channel [V] INTL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drupYNv.png?v=1.0.0.1" group-title="Music", Channel [V] HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/338e44dddae39e7.m3u8 
 
 ########################################## Movies ######################################################
@@ -342,7 +342,7 @@ https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQqABbX.png?v=1.0.0.1" group-title="Fashion", FTV Midnight Secrets HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="Fashion", Fashion TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="Fashion", Fashion TV HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKGFwsd.png?v=1.0.0.1" group-title="Fashion", Fashion One
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
