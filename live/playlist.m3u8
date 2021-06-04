@@ -3,9 +3,9 @@
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/7cb6654ebec98b7.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/sHsPccL.png?v=2.0.0.13", SCTV 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8 
-#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/sHsPccL.png?v=2.0.0.13", MNCTV 
+#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/AWnnWow.png?v=2.0.0.13", MNCTV 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec1028.m3u8 
-#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13", antv 
+#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/W47u6m4.png?v=2.0.0.13", antv 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/b630a001384603f.m3u8
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/BbPufM8.png?v=2.0.0.13", Indosiar 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/575eeb9f08dc8db.m3u8 
@@ -19,9 +19,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/61061784f4a
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/df56d15c1ad325a.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13", NET. 
 https://cdn4.mbahnunungonline.net/m3u8/6cdb3402d11f58d.m3u8 
-#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13", tvOne 
+#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/N1yKLa1.png?v=2.0.0.13", tvOne 
 https://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8 
-#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13", iNews 
+#EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/EknqlDs.png?v=2.0.0.13", iNews 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2f760b7cf8286be.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13", KompasTV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/ae5f9d6bcd610b6.m3u8 
@@ -33,6 +33,8 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 https://cdn4.mbahnunungonline.net/m3u8/270f72deeb5843f.m3u8 
 #EXTINF:-1 group-title=" Nasional " tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13", CNN Indonesia HD 
 https://cdn4.mbahnunungonline.net/m3u8/d12f0b99ed1f070.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.1.1.1" group-title="Nasional", O Channel 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2d419.m3u8
 
 ########################################## Local ######################################################
 
