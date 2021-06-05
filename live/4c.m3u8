@@ -155,22 +155,22 @@ https://tv.mbahnunungonline.net/playlist/kplus.m3u8
 
 ########################################## Lifestyle ###################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle", HGTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTV" tvg-name="HGTV", HGTV 
 http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/HGTV/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle", Asian Food Network 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Asian Food Network", Asian Food Channel 
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8 
 
 ########################################## News ########################################################
 
-#EXTINF:-0 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="News", CNN Indonesia SD
+#EXTINF:-0 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="News", CNN Indonesia
 https://cdn4.mbahnunungonline.net/m3u8/d12f0b99ed1f071.m3u8 
-#EXTINF:-0 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="News", KompasTV 
+#EXTINF:-0 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="News", Kompas TV 
 https://cdn4.mbahnunungonline.net/m3u8/ae5f9d6bcd610b6.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia 
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1563463664_b280000_sleng.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.0.0.1" group-title="News", BeritaSatu 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NTIQcW0.png?v=1.0.0.1" group-title="News", MetroTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NTIQcW0.png?v=1.0.0.1" group-title="News", Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w116250602_b1128000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=1.0.0.1" group-title="News", IDX 
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_66000_eng=2.m3u8 
