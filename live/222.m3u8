@@ -51,7 +51,7 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 https://livestreaming-google-etslive.vidio.com/live/7464/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.1.1.1" group-title="Nasional", MyTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.1.1.1" group-title="Lokal", JakTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.0.0.1" group-title="Lokal", JakTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DATJMK7.png?v=1.0.0.1" group-title="Lokal", Jawapos TV 
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8 
@@ -61,9 +61,9 @@ http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=1.1.1.1" group-title="Entertainment", SEA Today 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.1.1.1" group-title="Lokal", Nusantara TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.0.0.1" group-title="Lokal", Nusantara TV 
 https://v6.siar.us/nusantaratv/live/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.1.1.1" group-title="Lokal", Daai TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.0.0.1" group-title="Lokal", Daai TV 
 https://livestreaming-google-etslive.vidio.com/live/6482/master.m3u8 
 
 ########################################## ARAB TV ######################################################
