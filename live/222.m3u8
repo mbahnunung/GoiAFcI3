@@ -32,11 +32,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=1.1.1.1" group-title="Nasional", iNews 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2f760b7cf8286be.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional", CNN Indonesia 
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
+https://cdn4.mbahnunungonline.net/m3u8/d12f0b99ed1f070.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.1.1.1" group-title="Nasional", Berita Satu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/270f72deeb5843f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/3f58825fe229a8f.m3u8 
+https://cdn4.mbahnunungonline.net/m3u8/3f58825fe229a8f.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.1.1.1" group-title="Lokal", JTV 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=1.1.1.1" group-title="Nasional", tvOne 
