@@ -52,6 +52,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-40
 https://cdn4.mbahnunungonline.net/m3u8/94fbb6407ca6a41.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/AR05IEu.png?v=1.0.0.1", Nusantara TV 
 https://v6.siar.us/nusantaratv/live/playlist.m3u8 
+#EXTINF:-1 group-title=" Local " tvg-logo="https://1.bp.blogspot.com/-S-MQNy0of3w/YAmy7sTw6xI/AAAAAAAAMjU/FG7yuMtClV0THcb9v2aoC9yvXbn6pz92QCLcBGAsYHQ/s320/logo_eljhon_tv.png" tvg-id="" tvg-name"El John TV", El John TV
+https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w186584777.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/DATJMK7.png?v=1.0.0.1", Jawapos TV 
 http://122.248.43.138:1935/ch6/myStream/chunklist_w1075328336.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/EYJ0ED2.png?v=1.0.0.1", Jakarta Globe News Channel 
