@@ -102,3 +102,5 @@ https://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8
 http://45.126.83.51/dr9445/h/h16/01.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mcc.png" group-title="MAXSTREAM", MCC
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
