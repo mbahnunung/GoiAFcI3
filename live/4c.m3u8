@@ -78,7 +78,11 @@ https://v2.siar.us/saktitv/livestream/playlist.m3u8
 ########################################## Entertainment ###############################################
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name"Animax", Animax
-http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6CCidoH.png?v=1.0.0.1", ANIPlus
+http://rr1.dens.tv/h/h02/index.m3u8 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=sgem 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/W1JfODW.png?v=1.0.0.1", UseePrime
@@ -101,8 +105,6 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/9Z7DUFb.png?v=1.1.1.1", Crime Investigation 
 http://203.154.243.31:15001 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6CCidoH.png?v=1.0.0.1", ANIPlus
-http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/2RySrJl.png?v=1.0.0.1", CCTV4
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/qo8Wt7F.png?v=1.1.1.1", ZEE CAFE
@@ -146,8 +148,6 @@ http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan", SBS 
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ftk2ky0.png?v=1.0.0.1" group-title="Korengan", SGEM
-https://tv.mbahnunungonline.net/playlist/gem.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/scJZO2S.png?v=1.0.0.1" group-title="Korengan", S ONE
 http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVj6I9k.png?v=1.0.0.1" group-title="Korengan", Kplus
