@@ -61,7 +61,7 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Z5cNFNk.png?v=1.0.0.1", Inspira TV 
 https://v2.siar.us/inspiratv/live/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/pwxmNpN.png?v=1.0.0.1", Elshinta TV 
-http://rrelshinta.dens.tv/s/s10/index2.m3u8 
+https://kastproxy-us.herokuapp.com/http://rrelshinta.dens.tv/s/s10/index2.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/YTiEeu7.png?v=1.0.0.1", ADi TV 
 https://v2.siar.us/aditv/livestream/playlist.m3u8 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/45ukWAy.png?v=1.0.0.1", duta TV 
