@@ -72,7 +72,7 @@ http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/tlH0Quf.png?v=1.0.0.1", SAKTI TV 
 https://v2.siar.us/saktitv/livestream/playlist.m3u8 
-#EXTINF:-1 group-title=" Local " tvg-logo="//i.postimg.cc/cCdnh583/UGTV.png?v=1.0.0.1", Hi indo!
+#EXTINF:-1 group-title=" Local " tvg-logo="//i.postimg.cc/cCdnh583/UGTV.png?v=1.0.0.1", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 ########################################## Entertainment ###############################################
