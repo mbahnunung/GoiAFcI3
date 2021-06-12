@@ -426,7 +426,7 @@ http://rr2.dens.tv/s/s101/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png" group-title="Backup" tvg-id="TransTV", Trans TV [dens]
 http://rr3.dens.tv/s/s252/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Qi81cAmRCTY/UcA-gJYONeI/AAAAAAAABw0/Dk26iChu5oY/s1600/antv.png" group-title="Backup" tvg-id="antv", antv [dens]
-http://rr2.dens.tv/s/s07/index.m3u8
+http://rr2.dens.tv/s/s07/index2.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png" group-title="Backup" tvg-id="tvOne", tvOne [Vision+]
 http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135689
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" group-title="Backup" tvg-id="NET.", NET. [dens]
