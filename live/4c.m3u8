@@ -417,7 +417,7 @@ http://45.64.98.181:8323/stream
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png" group-title="Backup" tvg-id="NET.", NET. [dens]
 https://tv.mbahnunungonline.net/playlist/nettv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kHUcKkK.png?v=1.1.1.1" group-title="Backup" tvg-id="SCTV", SCTV [dens]
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" group-title="Backup" tvg-id="SCTV", SCTV [dens]
 http://rr2.dens.tv/s/s03/index2.m3u8
 #EXTINF:-0 tvg-logo="https://4.bp.blogspot.com/-We8hxjgkQmg/UtKsjhq5QcI/AAAAAAAAAOQ/Y5XtKk6R8lA/s1600/trans7.png" group-title="Backup" tvg-id="Trans7", Trans 7 [dens]
 https://tv.mbahnunungonline.net/playlist/trans7.m3u8 
