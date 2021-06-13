@@ -418,9 +418,9 @@ http://45.64.98.181:8323/stream
 ########################################## Backup ########################################################
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png" group-title="Backup" tvg-id="SCTV", SCTV [dens]
-http://rr2.dens.tv/s/s03/index.m3u8
+http://rr2.dens.tv/s/s03/index2.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png" group-title="Backup" tvg-id="Indosiar", Indosiar [dens]
-http://rr2.dens.tv/s/s04/index.m3u8
+http://rr2.dens.tv/s/s04/index2.m3u8
 #EXTINF:-0 tvg-logo="https://4.bp.blogspot.com/-We8hxjgkQmg/UtKsjhq5QcI/AAAAAAAAAOQ/Y5XtKk6R8lA/s1600/trans7.png" group-title="Backup" tvg-id="Trans7", Trans 7 [dens]
 http://rr2.dens.tv/s/s101/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-R5JWldrAsIM/UtKskmvXrFI/AAAAAAAAAOg/Dyz00IK-cBE/s1600/transtv.png" group-title="Backup" tvg-id="TransTV", Trans TV [dens]
