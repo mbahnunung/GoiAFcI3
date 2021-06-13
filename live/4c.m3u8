@@ -80,10 +80,11 @@ http://wms.klikhost.com/bayutv/live/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name"Animax", Animax
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6CCidoH.png?v=1.0.0.1", ANIPlus
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=aniplus
-#http://rr1.dens.tv/h/h02/index.m3u8
+#http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=aniplus
+http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=sgem
+#http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=sgem
+http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=1.0.0.1", SEA Today
