@@ -446,3 +446,16 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/0976f879a0c
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bw4D6qYR/LIFE.png" group-title="Religious", LIFE
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=sctv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="USEETV" tvg-id="Indosiar", Indosiar
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=indosiar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="USEETV" tvg-id="Trans7", Trans7
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=trans7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="USEETV" tvg-id="TransTV", TransTV
+http://us.5d63d49f772ce.cloudns.org/US33T4/transtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="USEETV" tvg-id="Metro TV", Metro TV
+http://us.5d63d49f772ce.cloudns.org/US33T4/metrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=2.0.0.13" group-title="USEETV" tvg-id="NET.", NET.
+http://us.5d63d49f772ce.cloudns.org/US33T4/net.m3u8
