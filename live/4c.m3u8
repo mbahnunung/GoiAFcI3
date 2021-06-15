@@ -241,10 +241,10 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian
-https://cdn4.mbahnunungonline.net/m3u8/700a192f4d09363.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/700a192f4d09363.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature 4K
-https://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Backup", Love Nature
+http://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 ########################################## Religious ####################################################
