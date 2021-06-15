@@ -283,7 +283,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=8.8.4.4" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/drupYNv.png?v=1.0.0.1" group-title="Music", Channel [V] HD
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
 http://us.5d63d49f772ce.cloudns.org/US33T4/mtvlive.m3u8
 
