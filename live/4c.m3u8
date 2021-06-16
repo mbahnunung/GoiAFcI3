@@ -94,8 +94,7 @@ http://203.154.243.31:15001
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=1.0.0.1", SEA Today
-#http://cdn4.mbahnunungonline.net/m3u8/dcba938c62f7539.m3u8
-https://znjjprwzgeyyp.vidio.com/live/7687/master.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/dcba938c62f7539.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/W1JfODW.png?v=1.0.0.1", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QO5Fi9H.png?v=1.0.0.1", Magna Channel
