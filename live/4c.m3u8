@@ -308,8 +308,10 @@ http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Axn/playlist.m3u8
 http://185.180.221.194:8278/streams/d/KiX/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
 http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Hits/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Movies", Thrill
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Horor", Thrill
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="Horor", Dunia Lain
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=1.0.0.1" group-title="Movies", Cinema World
 http://rr1.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
@@ -442,8 +444,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/df56d15c1ad
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2f760b7cf8286be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Backup" tvg-id="TVRI", TVRI [Vidio]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/0976f879a0c4548.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="Backup", Dunia Lain
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bw4D6qYR/LIFE.png" group-title="Religious", LIFE
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 
