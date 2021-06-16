@@ -83,6 +83,14 @@ http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=aniplus
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=sgem
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/VobODf7.png?v=1.0.0.1", Blue Ant
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ALE0biZ.png?v=1.0.0.1", History
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
+http://203.154.243.31:15001
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=1.0.0.1", SEA Today
@@ -96,14 +104,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 http://cdn4.mbahnunungonline.net/m3u8/1b4d1e3292b3936.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RfIj9lU.png?v=1.0.0.1", Ruang Trampil
 http://cdn4.mbahnunungonline.net/m3u8/a8205d6ff14ba90.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/VobODf7.png?v=1.0.0.1", Blue Ant
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ALE0biZ.png?v=1.0.0.1", History
-http://185.180.221.194:8278/streams/d/History/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
-http://203.154.243.31:15001
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/2RySrJl.png?v=1.0.0.1", CCTV4
