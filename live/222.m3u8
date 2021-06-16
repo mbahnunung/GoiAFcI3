@@ -20,7 +20,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV
 http://cdn4.mbahnunungonline.net/m3u8/df56d15c1ad325a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.1.1.1" group-title="Music", Citra Dangdut
-https://znjjprwzgeyyp.vidio.com/live/6587/master.m3u8
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=citradangdut
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png?v=1.1.1.1" group-title="Nasional", antv
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/b630a001384603f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Nasional", NET.
