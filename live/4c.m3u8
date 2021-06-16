@@ -217,7 +217,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5ERoxX.png?v=1.0.0.1" group-title="Sports", Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
-#http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 http://rr1.dens.tv/h/h10/01.m3u8
 
 ########################################## Knowledge ####################################################
