@@ -119,23 +119,22 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/745d08bd8add130.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAHJS7W.png?v=1.0.0.1" group-title="Kids", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bMwkQEd.png?v=1.0.0.1" group-title="Kids", Zoomoo
-https://livestreaming-google-etslive.vidio.com/live/6533/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee
-https://znjjprwzgeyyp.vidio.com/live/6397/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.0.0.1" group-title="Kids" tvg-id="BabyTV", Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.0.0.1" group-title="Kids", Boomerang
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
-#https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids" tvg-id="Cartoon Network", Cartoon Network
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvLnTBL.png?v=1.1.1.1" group-title="Kids" tvg-id="Disney Junior", Disney Junior
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVz8uE4.png?v=1.1.1.1" group-title="Kids" tvg-id="Disney Channel HD", Disney XD
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee
+https://znjjprwzgeyyp.vidio.com/live/6397/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bMwkQEd.png?v=1.0.0.1" group-title="Kids", Zoomoo
+https://livestreaming-google-etslive.vidio.com/live/6533/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOjdvky.png?v=1.0.0.1" group-title="Kids", Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvLnTBL.png?v=1.1.1.1" group-title="Kids", Disney Junior
-http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IVz8uE4.png?v=1.1.1.1" group-title="Kids", Disney XD
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fSAArko.png?v=1.1.1.1" group-title="Kids" tvg-id="Dreamworks" tvg-name"Dreamworks", Dreamworks
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dreamworks-1
 
