@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI
-http://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=1.1.1.1" group-title="Nasional", SCTV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNC TV
