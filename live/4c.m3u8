@@ -291,8 +291,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://videoweek.com/wp-content/uploads/2013/03/vevo_tv.gif?v=1.0.0.1" group-title="Music", vevo
 https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png?v=8.8.4.4" group-title="Music", MAXSTREAM Music (MPD)
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png?v=8.8.4.4" group-title="Music", MAXSTREAM Music
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
 
 ########################################## Movies ######################################################
 
