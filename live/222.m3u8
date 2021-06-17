@@ -52,7 +52,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRHJJ5c.png?v=1.0.0.1" group-title="Religious", Tawaf TV
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/chunklist_w727091128.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=1.0.0.1" group-title="Religious" tvg-id="TV9 Nu", TV9 Nusantara
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QO5Fi9H.png?v=1.1.1.1" group-title="Nasional", Magna Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.1.1.1" group-title="Nasional", MyTV
