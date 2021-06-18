@@ -137,7 +137,7 @@ http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dreamworks-1
 ########################################## Korengan ########################################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GVGesVr.png?v=1.0.0.1" group-title="Korengan" tvg-id="Arirang", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Korengan" tvg-id="TVN", TVN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Korengan" tvg-id="tvN HD", TVN
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0TKqJd.png?v=1.0.0.1" group-title="Korengan" tvg-id="TVN Movies", TVN Movies
 http://rr1.dens.tv/h/h21/index.m3u8
@@ -145,7 +145,7 @@ http://rr1.dens.tv/h/h21/index.m3u8
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="Kplus", K plus
 http://rr.dens.tv/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/scJZO2S.png?v=1.0.0.1" group-title="Korengan" tvg-id="SONE", S ONE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/scJZO2S.png?v=1.0.0.1" group-title="Korengan" tvg-id="ONE HD", S ONE
 http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan" tvg-id="SBS", SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
