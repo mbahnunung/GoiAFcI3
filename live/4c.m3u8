@@ -50,7 +50,7 @@ https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 http://cdn4.mbahnunungonline.net/m3u8/94fbb6407ca6a41.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.0.0.1", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/PH4C7Cv.png" tvg-id="" tvg-name"El John TV", El John TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/PH4C7Cv.png?v=1.0.0.1" tvg-id="" tvg-name"El John TV", El John TV
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w828821090.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/DATJMK7.png?v=1.0.0.1", Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/chunklist_w1075328336.m3u8
@@ -115,7 +115,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 https://livestreaming-google-etslive.vidio.com/live/6840/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/aoAigrY.png?v=1.0.0.1", E! Entertainment
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/745d08bd8add130.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://2.bp.blogspot.com/-gQynibZxc7Y/W9hHmsT3OII/AAAAAAAAJ5A/Klcu5xOyuwIrEe072FIGBlBLhNlB1mf6gCLcBGAs/s1600/logo_tv5monde.png" tvg-id="" tvg-name"TV5Monde", TV5Monde
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4CS0bew.png?v=1.0.0.1" tvg-id="" tvg-name"TV5Monde", TV5Monde
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
 
 ########################################## Kids ########################################################
