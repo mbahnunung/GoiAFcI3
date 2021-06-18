@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="NetTV.RUANGTV.">
+  <channel id="NET.">
     <display-name lang="en">NET.</display-name>
     <icon src="https://2.bp.blogspot.com/-HN1SdJuUMBk/UZn8XNgvsZI/AAAAAAAAF1s/oYPfnFiQ3mI/s320/net-tv.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
-  <channel id="Indosiar.RUANGTV.">
+  <channel id="Indosiar">
     <display-name lang="en">INDOSIAR</display-name>
     <icon src="https://2.bp.blogspot.com/-NisQYWIQZOg/UcBAIMYILCI/AAAAAAAABxU/CO7y6TP1ALw/s1600/indosiar.png"/>
     <url>https://www.firstmedia.com</url>
   </channel>
-  <channel id="SCTV.RUANGTV.">
+  <channel id="SCTV">
     <display-name lang="en">SCTV</display-name>
     <icon src="https://4.bp.blogspot.com/-MY_tDmwX6IM/UcA7YWdyNcI/AAAAAAAABvg/aW1BP6UtI_Q/s1600/sctv.png"/>
     <url>https://www.firstmedia.com</url>
