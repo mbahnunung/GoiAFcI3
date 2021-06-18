@@ -35,9 +35,7 @@ http://cdn4.mbahnunungonline.net/m3u8/id/270f72deeb5843f.m3u8
 http://cdn4.mbahnunungonline.net/m3u8/3f58825fe229a8f.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.1.1.1" group-title="Nasional", O Channel
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2d419.m3u8
-
 ########################################## Local ######################################################
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.0.0.1", Bali TV
 http://cdn4.mbahnunungonline.net/m3u8/4c33d89bb7ac426.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.0.0.1", JTV
@@ -76,9 +74,7 @@ http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/AhAy58i.png?v=1.0.0.1", BAYU TV
 http://wms.klikhost.com/bayutv/live/playlist.m3u8
-
 ########################################## Entertainment ###############################################
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name"Animax", Animax
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6CCidoH.png?v=1.0.0.1", ANIPlus
@@ -117,9 +113,7 @@ https://livestreaming-google-etslive.vidio.com/live/6840/master.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/745d08bd8add130.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4CS0bew.png?v=1.0.0.1" tvg-id="" tvg-name"TV5Monde", TV5Monde
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-
 ########################################## Kids ########################################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Astro Ceria HD", Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.0.0.1" group-title="Kids" tvg-id="BabyTV", Baby First
@@ -140,9 +134,7 @@ https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fSAArko.png?v=1.1.1.1" group-title="Kids" tvg-id="Dreamworks" tvg-name"Dreamworks", Dreamworks
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dreamworks-1
-
 ########################################## Korengan ########################################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GVGesVr.png?v=1.0.0.1" group-title="Korengan" tvg-id="Arirang", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Korengan" tvg-id="TVN", TVN
@@ -157,7 +149,6 @@ http://rr.dens.tv/h/h08/index.m3u8
 http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan" tvg-id="SBS", SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
-
 ########################################## Lifestyle ###################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTV", HGTV
@@ -166,7 +157,6 @@ http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/HGTV/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
 
 ########################################## News ########################################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.0.0.1" group-title="News", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="News", CNN Indonesia
@@ -203,9 +193,7 @@ http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://live-hls-apps-aljazeera.global.ssl.fastly.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSCGVhz.png?v=1.0.0.1" group-title="News", ALManarTV
 https://manar.live/iptv/index.m3u8
-
 ########################################## Sports ######################################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
@@ -222,9 +210,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
 http://rr1.dens.tv/h/h10/01.m3u8
-
 ########################################## Knowledge ####################################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=4.2.2.2" group-title="Knowledge", TV Edukasi
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
@@ -249,9 +235,7 @@ http://cdn4.mbahnunungonline.net/m3u8/700a192f4d09363.m3u8
 http://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-
 ########################################## Religious ####################################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuran Kareem", AlQuran Kareem TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
@@ -274,9 +258,7 @@ https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/playlist.m3u8
 http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bw4D6qYR/LIFE.png" group-title="Religious", LIFE
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
-
 ########################################## Music ######################################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/drupYNv.png?v=1.0.0.1" group-title="Music", Channel [V] HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
@@ -297,9 +279,7 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRFS3QV.png?v=8.8.4.4" group-title="Music", MAXSTREAM Music
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
-
 ########################################## Movies ######################################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p73UbIR.png?v=1.0.0.1" group-title="Movies", ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
@@ -334,9 +314,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
 ########################################## Malaysia TV ######################################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clevM5Z.png?v=1.1.1.1" group-title="Malaysia", Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/asal4pC.png?v=1.1.1.1" group-title="Malaysia", Astro Awani
@@ -363,7 +341,6 @@ https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MqZdA4W.jpg?v=1.1.1.1" group-title="Singapore", Ch 5
 http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
-
 ########################################## Fashion ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1W6wYFY.jpg?v=1.0.0.1" group-title="Fashion", Fashion TV Midnight Secrets SD
@@ -376,7 +353,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunkl
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 ########################################## Hindi ######################################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png?v=8.8.4.4" group-title="Hindi", Zee Bioskop
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/eea032203b3ce31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaHtwO2.png?v=8.8.4.4" group-title="Hindi", 9XM
@@ -407,7 +383,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/77789e89e7b4b03
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=8.8.8.8" group-title="Hindi", Star Gold HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
-
 ########################################## Radio ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
@@ -428,7 +403,6 @@ http://45.64.98.181:8323/stream
 https://znjjprwzgeyyp.vidio.com/live/7166/master.m3u8
 
 ########################################## Backup ########################################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=1.1.1.1" group-title="Backup" tvg-id="RCTI", RCTI
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=1.1.1.1" group-title="Backup" tvg-id="MNC TV", MNCTV
@@ -467,4 +441,3 @@ http://us.5d63d49f772ce.cloudns.org/US33T4/transtv.m3u8
 http://us.5d63d49f772ce.cloudns.org/US33T4/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=2.0.0.13" group-title="USEETV" tvg-id="NET.", NET.
 http://us.5d63d49f772ce.cloudns.org/US33T4/net.m3u8
-
