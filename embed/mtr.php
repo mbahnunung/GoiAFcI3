@@ -21,7 +21,7 @@
   <body class="desktop">
 
     <video poster="https://tv.mbahnunungonline.net/img/thumbs/metrotv.jpg?v=8.3.2" id="player" class="video-js vjs-big-play-centered vjs-fill" controls autoplay>
-    <source src="https://zet.pluginsandthemes.ro/http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8" type="application/x-mpegURL" />
+    <source src="https://v3.siar.us/syiarmedia/live/playlist.m3u8" type="application/x-mpegURL" />
     </video>
 
   <script src="https://cdn.jsdelivr.net/npm/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
