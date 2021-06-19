@@ -61,7 +61,9 @@ https://v2.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/pwxmNpN.png?v=1.0.0.1", Elshinta TV
 http://rrelshinta.dens.tv/s/s10/index.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/YTiEeu7.png?v=1.0.0.1", ADi TV
-https://v2.siar.us/aditv/livestream/playlist.m3u8 
+https://v2.siar.us/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title=" Local " tvg-logo="https://images.useetv.com/logo_jitv_big.png?v=1.0.0.1", JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w1651086630.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/45ukWAy.png?v=1.0.0.1", duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/zaZKVrQ.png?v=1.0.0.1", JekTv Jambi
