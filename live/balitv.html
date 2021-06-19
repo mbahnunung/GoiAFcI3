@@ -29,7 +29,45 @@
 </head>
 <body bgcolor="transparent" text="white" topmargin="0" leftmargin="0" rightmargin="0">
 <center>
-<script src="https://cdn.jwplayer.com/players/nxykbjJL-GoiAFcI3.js"></script>
+<div id="myElement">Loading the player...</div>
+<script type="text/javascript">
+    jwplayer("myElement").setup({
+        primary : 'html5',
+        width: '596',
+        height: '340',
+        fallback: false,
+        sharing: '',
+        skin : {name:"six",active:"#00CCCC"},
+        abouttext: 'Design by : mbah nunung Online',
+        aboutlink: 'http://mbahnunungonline.net',
+        autostart: 'true',
+        stretching: 'exactfit',
+        aspectratio: '16:9',
+        captions: {back: false, "default": false, fontsize: 14},
+        playlist: [{ 
+        title: 'BALITV',       
+        image: 'https://cdn.jwplayer.com/v2/media/nxykbjJL/poster.jpg?width=720',       
+        sources: [
+            {file: 'https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8'},
+            {file: 'https://edge.nim.mivo.tv/video/assets/oops.m3u8'}
+            ],
+        captions: [
+            {file: 'lostcorners-en.vtt', label: 'Melik'},
+            {file: 'lostcorners-fr2.vtt', label: 'Dadapan'},
+            {file: 'lostcorners-nl.vtt', label: 'Gambor'}
+        ]
+            
+        }]
+    });
+
+    jwplayer().on('play', function(){
+        setTimeout(function(){
+            var textAlt = document.querySelectorAll('#' + jwplayer().id + ' .jw-controlbar-center-group .jw-text-alt')[0];
+            if(textAlt) textAlt.innerHTML = 'BALITV';
+        },300);
+    });
+</script>
 </center>
 </body>
+</html>
 </html>
