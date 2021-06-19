@@ -143,7 +143,7 @@ http://rr.dens.tv/h/h98/index.m3u8
 #https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJHYrPW.png?v=1.0.0.1" group-title="Kids" tvg-id="Spacetoon", Spacetoon
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fSAArko.png?v=1.1.1.1" group-title="Kids" tvg-id="DreamworksHD" tvg-name"Dreamworks", Dreamworks
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dreamworks-1
 
