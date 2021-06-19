@@ -347,7 +347,7 @@ http://203.154.177.124:8899/live/ch7/playlist.m3u8
 
 ########################################## Malaysia TV ######################################################
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="Malaysia" tvg-id="AstroCitraHD" , Astro Citra HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b8/Astro_Citra_2018.png" group-title="Malaysia" tvg-id="AstroCitraHD", Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clevM5Z.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Astro Oasis HD", Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
