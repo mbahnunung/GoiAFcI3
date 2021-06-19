@@ -30,44 +30,16 @@
 </head>
 <body bgcolor="transparent" text="white" topmargin="0" leftmargin="0" rightmargin="0">
 <div align="center">
-<div id="myElement">Loading the player...</div>
-<script type="text/javascript">
-    jwplayer("myElement").setup({
-        primary : 'html5',
-        width: '596',
-        height: '340',
-        fallback: false,
-        sharing: '',
-        skin : {name:"six",active:"#00CCCC"},
-        abouttext: 'Design by : mbah nunung Online',
-        aboutlink: 'http://mbahnunungonline.net',
-        autostart: 'true',
-        stretching: 'uniform',
-        aspectratio: '16:9',
-        captions: {back: false, "default": false, fontsize: 14},
-        playlist: [{ 
-        title: 'JPMTV',       
-        image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_JPM_Jawapos.png',       
-        sources: [
-            {file: 'http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8'},
-            {file: 'https://edge.nim.mivo.tv/video/assets/oops.m3u8'}
-            ],
-        captions: [
-            {file: 'lostcorners-en.vtt', label: 'Melik'},
-            {file: 'lostcorners-fr2.vtt', label: 'Dadapan'},
-            {file: 'lostcorners-nl.vtt', label: 'Gambor'}
-        ]
-            
-        }]
-    });
-
-    jwplayer().on('play', function(){
-        setTimeout(function(){
-            var textAlt = document.querySelectorAll('#' + jwplayer().id + ' .jw-controlbar-center-group .jw-text-alt')[0];
-            if(textAlt) textAlt.innerHTML = 'CELEBESTV';
-        },300);
-    });
-</script>
+<div id="player"></div>
+<iframe
+    src="/embed/jpm"
+    height="340"
+    width="596"
+    frameborder="0"
+    scrolling="no"
+    allowfullscreen="true">
+</iframe>
 </div>
 </body>
 </html>
+
