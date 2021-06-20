@@ -137,7 +137,7 @@ http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVz8uE4.png?v=1.1.1.1" group-title="Kids" tvg-id="Disney Channel HD", Disney XD
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.0.0.1" group-title="Kids" tvg-id="Horee", Horee
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=horee
+http://mkctvbro.my.id/horas/pakailah.m3u8?id=horee
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zWQ65C4.png?v=1.1.1.1" group-title="Kids" tvg-id="Mykidz", My Kids
 http://rr.dens.tv/h/h98/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bMwkQEd.png?v=1.0.0.1" group-title="Kids" tvg-id="Zoomoo", Zoomoo
