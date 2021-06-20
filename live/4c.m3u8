@@ -52,7 +52,7 @@ http://cdn4.mbahnunungonline.net/m3u8/94fbb6407ca6a41.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.0.0.1", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/EYJ0ED2.png?v=1.0.0.1", Jakarta Globe News Channel
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/DATJMK7.png?v=1.0.0.1", Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/chunklist_w1075328336.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/pwxmNpN.png?v=1.0.0.1", Elshinta TV
