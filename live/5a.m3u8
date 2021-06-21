@@ -203,12 +203,12 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/64c03d4e8d726
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
 #http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/57e12c38175537e.m3u8
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein1
+https://mkctv.my.id/jarwo/cucok.m3u8?id=bein1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
 #http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c28e6ada110428c.m3u8
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports", Champion TV 1
-https://znjjprwzgeyyp.vidio.com/live/6685/master.m3u8
+https://mkctv.my.id/jarwo/cucok.m3u8?id=champion1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports", Champion TV 2
 https://znjjprwzgeyyp.vidio.com/live/6686/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="Sports", Fox Sport 1
@@ -421,6 +421,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=1.1.1.1" group-title="Backup" tvg-id="GTV", GTV [Vidio]
 https://livestreaming-google-etslive.vidio.com/live/778/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="Backup", Dunia Lain
-http://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain
+https://mkctv.my.id/jarwo/cucok.m3u8?id=dunialain&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
-https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
+https://mkctv.my.id/jarwo/cucok.m3u8?id=sctv&bandwidth=b894100&sync=0
