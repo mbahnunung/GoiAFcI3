@@ -214,11 +214,11 @@ https://manar.live/iptv/index.m3u8
 ########################################## Sports ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein1
+http://mkctvbro.my.id/horas/pakailah.m3u8?id=bein1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports", Champion TV 1
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=champion1
+http://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports", Champion TV 2
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=champion2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="Sports", Fox Sport 1
@@ -337,7 +337,7 @@ http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Horor", Thrill
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="Horor", Dunia Lain
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dunialain
+http://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=1.0.0.1" group-title="Movies", Cinema World
 http://rr1.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
