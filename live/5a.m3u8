@@ -322,31 +322,33 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m
 
 ########################################## Malaysia TV ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/clevM5Z.png?v=1.1.1.1" group-title="Malaysia", Astro Oasis HD
+#EXTINF:-1 tvg-logo="http://thumbs2.imgbox.com/c6/13/ygzVNGEw_t.png" group-title="Malaysia" tvg-id="AstroCitraHD", Astro Citra HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/clevM5Z.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Astro Oasis HD", Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/asal4pC.png?v=1.1.1.1" group-title="Malaysia", Astro Awani
+#EXTINF:-1 tvg-logo="https://i.imgur.com/asal4pC.png?v=1.1.1.1" group-title="Malaysia" tvg-id="AstroAwaniHD", Astro Awani HD
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XVgrze1.png?v=1.1.1.1" group-title="Malaysia", Bernama News Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVgrze1.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Bernama", Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAMtj0S.png?v=1.1.1.1" group-title="Malaysia", TV1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAMtj0S.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV1HD", TV1
 http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s1mRWex.png?v=1.1.1.1" group-title="Malaysia", TV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s1mRWex.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV2", TV2
 http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia", TV3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3", TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2SwIYxt.png?v=1.1.1.1" group-title="Malaysia", NTV7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SwIYxt.png?v=1.1.1.1" group-title="Malaysia" tvg-id="NTV7", NTV7
 http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/NTV7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGGXGzn.png?v=1.1.1.1" group-title="Malaysia", 8TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGGXGzn.png?v=1.1.1.1" group-title="Malaysia" tvg-id="8TV", 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f2JzaMd.png?v=1.1.1.1" group-title="Malaysia", TV9 MALAYSIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f2JzaMd.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV9", TV9 Malaysia
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png?v=1.1.1.1" group-title="Malaysia", AL HIJRAH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Al-Hijrah", Al Hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PcPDrl9.png?v=1.1.1.1" group-title="Malaysia", TVIKIM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PcPDrl9.png?v=1.1.1.1" group-title="Malaysia" tvg-id="IKIM", IKIM
 https://origin.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XYeb1CE.jpg?v=1.1.1.1" group-title="Singapore", SuriaTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYeb1CE.jpg?v=1.1.1.1" group-title="Singapore" tvg-id="Suria", Suria TV
 http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MqZdA4W.jpg?v=1.1.1.1" group-title="Singapore", Ch 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MqZdA4W.jpg?v=1.1.1.1" group-title="Singapore" tvg-id="Channel5", Channel 5
 http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 
 ########################################## Fashion ######################################################
@@ -423,4 +425,4 @@ https://livestreaming-google-etslive.vidio.com/live/778/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="Backup", Dunia Lain
 https://mkctv.my.id/jarwo/cucok.m3u8?id=dunialain&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
-https://mkctv.my.id/jarwo/cucok.m3u8?id=sctv&bandwidth=b894100&sync=0
+https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
