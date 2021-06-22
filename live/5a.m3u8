@@ -222,31 +222,31 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=4.2.2.2" group-title="Knowledge", TV Edukasi
 http://202.169.224.76:1935/live/tve.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge", Animal Planet
+http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo Wild", Nat Geo Wild
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo", National Geographic Channel
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo People", Nat Geo People
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge", Discovery Channel
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian
 https://cdn4.mbahnunungonline.net/m3u8/700a192f4d09363.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature 4K
 https://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge", Animal Planet
-http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 
 ########################################## Religious ####################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuran Kareem", AlQuran Kareem TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
 https://znjjprwzgeyyp.vidio.com/live/7464/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wQiH6tm.png?v=1.0.0.1" group-title="Religious" tvg-id="AL-BAHJAH TV", AL-BAHJAH TV
@@ -266,22 +266,22 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 
 ########################################## Music ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
-https://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drupYNv.png?v=1.0.0.1" group-title="Music", Channel [V] HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
+http://us.5d63d49f772ce.cloudns.org/US33T4/mtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
-https://znjjprwzgeyyp.vidio.com/live/6587/master.m3u8
+http://mkctvbro.my.id/horas/pakailah.m3u8?id=citradangdut
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
+https://5d63d49f772ce.streamlock.net/maleo/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
-https://cdn4.mbahnunungonline.net/m3u8/94a637fadb57201.m3u8
+https://5d63d49f772ce.streamlock.net/popmusik/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D3WXba7.png?v=8.8.4.4" group-title="Music", B4U Music
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=8.8.4.4" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/drupYNv.png?v=1.0.0.1" group-title="Music", Channel [V] HD
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
-http://us.5d63d49f772ce.cloudns.org/US33T4/mtvlive.m3u8
 
 ########################################## Movies ######################################################
 
@@ -386,10 +386,6 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9hob8Jh.png?v=8.8.4.4" group-title="Hindi", Zoom
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/77789e89e7b4b03.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K6VJkDh/starplus.png?v=8.8.8.8" group-title="Hindi", Star Plus UK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nNAwU6s.jpg?v=8.8.8.8" group-title="Hindi", Star Gold HD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
 
 ########################################## Radio ######################################################
 
