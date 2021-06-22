@@ -43,13 +43,11 @@ https://cdn4.mbahnunungonline.net/m3u8/4c33d89bb7ac426.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.0.0.1", JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.0.0.1", JakTV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/a6e7e966ea54cd3.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/a6e7e966ea54cd3.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.0.0.1", DAAI TV
-https://znjjprwzgeyyp.vidio.com/live/6482/master.m3u8
+https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.0.0.1", MyTV
 https://cdn4.mbahnunungonline.net/m3u8/94fbb6407ca6a41.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/FClxdOq.png?v=1.0.0.1", Hi indo!
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.0.0.1", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/DATJMK7.png?v=1.0.0.1", Jawapos TV
@@ -82,7 +80,7 @@ http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6CCidoH.png?v=1.0.0.1", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=sgem
+http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/W1JfODW.png?v=1.0.0.1", UseePrime
@@ -98,9 +96,9 @@ https://cdn4.mbahnunungonline.net/m3u8/a8205d6ff14ba90.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/VobODf7.png?v=1.0.0.1", Blue Ant
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
+http://rr1.dens.tv/h/h16/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
+http://rr1.dens.tv/h/h15/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ALE0biZ.png?v=1.0.0.1", History
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
@@ -225,11 +223,11 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=4.2.2.2" group-title="Knowledge", TV Edukasi
 http://202.169.224.76:1935/live/tve.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo Wild", Nat Geo Wild
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeowild/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo", National Geographic Channel
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo People", Nat Geo People
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeopeople/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge", Discovery Channel
@@ -256,13 +254,13 @@ https://e1.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=1.0.0.1" group-title="Religious" tvg-id="TV9 Nu", TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="Tawaf TV", Tawaf TV
-http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/chunklist_w727091128.m3u8
+http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="TVMU", Muhammadiyah TV
-https://5d63d49f772ce.streamlock.net/tvmu/udp.stream_360p/playlist.m3u8
+https://5d63d49f772ce.streamlock.net/tvmu/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khG612m.png?v=1.0.0.1" group-title="Religious" tvg-id="NU Channel", NU Channel
-https://5d63d49f772ce.streamlock.net/nuchannel/udp.stream_360p/playlist.m3u8
+https://5d63d49f772ce.streamlock.net/nuchannel/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RtMM571.png?v=1.0.0.1" group-title="Religious" tvg-id="SalingSapa", SalingSapa TV
-https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/playlist.m3u8
+https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/CwsvvSn.png?v=1.0.0.1" group-title="Religious" tvg-id="British Muslim", British Muslim
 http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
@@ -288,7 +286,7 @@ http://us.5d63d49f772ce.cloudns.org/US33T4/mtvlive.m3u8
 ########################################## Movies ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p73UbIR.png?v=1.0.0.1" group-title="Movies", ATV
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+http://stream1.ninmedia.tv:1935/atv/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
 http://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeBBgcc.png?v=1.0.0.1" group-title="Movies", Citra Drama
@@ -298,13 +296,13 @@ https://livestreaming-google-etslive.vidio.com/live/6684/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", CCM
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEHEXrZ.png?v=1.0.0.1" group-title="Movies", Celestial Movies
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Celestial/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gL9y8n3.png?v=1.0.0.1" group-title="Movies", AXN
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Axn/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UAaZ3G1.png?v=1.0.0.1" group-title="Movies", KIX
 http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/KiX/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Hits/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Movies", Thrill
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=1.0.0.1" group-title="Movies", Cinema World
