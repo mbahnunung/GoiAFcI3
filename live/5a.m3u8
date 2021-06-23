@@ -247,7 +247,7 @@ https://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuran Kareem", AlQuran Kareem TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56NAVRA.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
-https://znjjprwzgeyyp.vidio.com/live/7464/master.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wQiH6tm.png?v=1.0.0.1" group-title="Religious" tvg-id="AL-BAHJAH TV", AL-BAHJAH TV
 https://e1.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=1.0.0.1" group-title="Religious" tvg-id="TV9 Nu", TV9 Nusantara
@@ -257,9 +257,9 @@ http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="TVMU", Muhammadiyah TV
 https://5d63d49f772ce.streamlock.net/tvmu/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khG612m.png?v=1.0.0.1" group-title="Religious" tvg-id="NU Channel", NU Channel
-https://5d63d49f772ce.streamlock.net/nuchannel/udp.stream/playlist.m3u8
+http://5d63d49f772ce.streamlock.net/nuchannel/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RtMM571.png?v=1.0.0.1" group-title="Religious" tvg-id="SalingSapa", SalingSapa TV
-https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream/playlist.m3u8
+http://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/CwsvvSn.png?v=1.0.0.1" group-title="Religious" tvg-id="British Muslim", British Muslim
 http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
