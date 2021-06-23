@@ -290,7 +290,7 @@ http://stream1.ninmedia.tv:1935/atv/udp.stream/playlist.m3u8
 http://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeBBgcc.png?v=1.0.0.1" group-title="Movies", Citra Drama
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xB7jWnt.png?v=1.0.0.1" group-title="Movies", Citra Bioskop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ohz1FFf.png?v=1.0.0.1" group-title="Movies", Bioskop Indonesia
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", CCM
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
@@ -418,6 +418,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=1.1.1.1" group-title="Backup" tvg-id="GTV", GTV [Vidio]
 http://stream1.ninmedia.tv:1935/maleo/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="Backup", Dunia Lain
-http://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
-https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=sctv&bandwidth=b894100&sync=0
