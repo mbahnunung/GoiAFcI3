@@ -328,9 +328,9 @@ https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khG612m.png?v=1.0.0.1" group-title="Religious", NU Channel
-https://5d63d49f772ce.streamlock.net/nuchannel/udp.stream/playlist.m3u8
+http://5d63d49f772ce.streamlock.net/nuchannel/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RtMM571.png?v=1.0.0.1" group-title="Religious", SalingSapa TV
-https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream/playlist.m3u8
+http://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wQiH6tm.png?v=1.0.0.1" group-title="Religious", AL-BAHJAH TV
 https://e1.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQrJsiF.png?v=1.0.0.1" group-title="Religious", Rodja TV
