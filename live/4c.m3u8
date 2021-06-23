@@ -153,14 +153,16 @@ https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/qo8Wt7F.png?v=1.1.1.1", ZEE CAFE
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Hu6UgMo.png?v=1.0.0.1", Mola TV Free
-https://livestreaming-google-etslive.vidio.com/live/6840/master.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 ########################################## Kids ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Astro Ceria HD", Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.0.0.1" group-title="Kids" tvg-id="BabyTV", Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.0.0.1" group-title="Kids" tvg-id="Boomerang", Boomerang
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids" tvg-id="Cartoon Network", Cartoon Network
@@ -211,8 +213,6 @@ http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rjIEEmj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="travelxp" tvg-name="travelxp", travelxp
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tDV4Dc8.png?v=1.0.0.1" group-title="Philippines" tvg-id="TFC" tvg-name="TFC", TFC
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
 
 ########################################## News ########################################################
 
