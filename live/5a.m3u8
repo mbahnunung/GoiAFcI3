@@ -255,7 +255,7 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="Tawaf TV", Tawaf TV
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="TVMU", Muhammadiyah TV
-https://5d63d49f772ce.streamlock.net/tvmu/udp.stream/playlist.m3u8
+http://stream1.ninmedia.tv:1935/tvmu/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khG612m.png?v=1.0.0.1" group-title="Religious" tvg-id="NU Channel", NU Channel
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RtMM571.png?v=1.0.0.1" group-title="Religious" tvg-id="SalingSapa", SalingSapa TV
