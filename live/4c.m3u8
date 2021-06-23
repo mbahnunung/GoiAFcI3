@@ -343,7 +343,7 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
 http://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
-https://livestreaming-google-etslive.vidio.com/live/6587/master.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
