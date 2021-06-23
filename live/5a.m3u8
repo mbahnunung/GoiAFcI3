@@ -176,11 +176,12 @@ http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135689
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia
 http://cdn4.mbahnunungonline.net/m3u8/ef7e8c7bc86110e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Thm3LAk.png?v=1.0.0.1" group-title="News", MNC News
-https://cdn-livetv-studio.metube.id/mncnews.m3u8
+#https://cdn-livetv-studio.metube.id/mncnews.m3u8
+http://us.5d63d49f772ce.cloudns.org/US33T4/mncnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZQvCs6.png?v=1.0.0.1" group-title="News" tvg-id="DW", DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BydlaOh.png?v=1.0.0.1" group-title="News", ABC Australia
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Australia/b213b64047f564c.m3u8
+http://us.5d63d49f772ce.cloudns.org/US33T4/abcaustralia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLk6uxc.png?v=1.0.0.1" group-title="News", CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFOQVEf.png?v=1.0.0.1" group-title="News" tvg-id="France 24" tvg-name"", France 24
