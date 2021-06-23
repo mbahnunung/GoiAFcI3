@@ -509,11 +509,11 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://45.64.98.181:8323/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=1.1.1.1" group-title="RCTI+" tvg-id="RCTI", RCTI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHnWL5W.png?v=1.1.1.1" group-title="RCTI+" tvg-id="RCTI", RCTI
 http://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=1.1.1.1" group-title="RCTI+" tvg-id="MNC TV", MNC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1yQY4Q.png?v=1.1.1.1" group-title="RCTI+" tvg-id="MNC TV", MNC TV
 http://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HpK6wHT.png?v=1.1.1.1" group-title="RCTI+" tvg-id="GTV", GTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JM6DM3N.png?v=1.1.1.1" group-title="RCTI+" tvg-id="GTV", GTV
 http://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LA5qa7I.png?v=1.1.1.1" group-title="RCTI+" tvg-id="iNews", iNews
 http://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
