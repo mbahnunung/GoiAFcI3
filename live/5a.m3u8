@@ -326,7 +326,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m
 
 ########################################## Malaysia TV ######################################################
 
-#EXTINF:-1 tvg-logo="http://thumbs2.imgbox.com/c6/13/ygzVNGEw_t.png" group-title="Malaysia" tvg-id="AstroCitraHD", Astro Citra HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uAHJS7W.png?v=1.0.0.1" group-title="Malaysia" tvg-id="AstroCitraHD", Astro Citra HD
 http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bsy0Tz5.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Astro AEC", Astro AEC
 http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
