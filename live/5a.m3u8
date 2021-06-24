@@ -251,7 +251,7 @@ https://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8
 
 ########################################## Religious ####################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="Al Quran Al Kareem TV", AlQuran Kareem TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuran Kareem", AlQuran Kareem TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FcTok4.png?v=1.1.1.1" group-title="Religious" tvg-id="Sunna TV", Sunna TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
