@@ -251,7 +251,7 @@ https://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8
 
 ########################################## Religious ####################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuran Kareem", AlQuran Kareem TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="Al Quran Al Kareem", AlQuran Kareem TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FcTok4.png?v=1.1.1.1" group-title="Religious" tvg-id="Sunna TV", Sunna TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
@@ -263,7 +263,7 @@ https://e1.siar.us/albahjahtv/live/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="Tawaf TV", Tawaf TV
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="TVMU", Muhammadiyah TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="Muhammadiyah TV", Muhammadiyah TV
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khG612m.png?v=1.0.0.1" group-title="Religious" tvg-id="NU Channel", NU Channel
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream/playlist.m3u8
