@@ -426,7 +426,7 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Evkz1Rt.png?v=1.1.1.1" group-title="Backup" tvg-id="RCTI", RCTI [Vidio]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/7cb6654ebec98b7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pPY3M80.png?v=1.1.1.1" group-title="Backup" tvg-id="MNC TV", MNCTV [Vidio]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPY3M80.png?v=1.1.1.1" group-title="Backup" tvg-id="MNCTV", MNCTV [Vidio]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec1028.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=1.1.1.1" group-title="Backup" tvg-id="GTV", GTV [Vidio]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/df56d15c1ad325a.m3u8
@@ -436,9 +436,9 @@ http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dunialain
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=sctv&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="USEETV" tvg-id="Indosiar", Indosiar
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=indosiar&bandwidth=b894100&sync=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="USEETV" tvg-id="Trans7", Trans7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="USEETV" tvg-id="Trans7", Trans 7
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=trans7&bandwidth=b894100&sync=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="USEETV" tvg-id="TransTV", TransTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="USEETV" tvg-id="TransTV", Trans TV
 http://us.5d63d49f772ce.cloudns.org/US33T4/transtv.m3u8&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="USEETV" tvg-id="Metro TV", Metro TV
 http://us.5d63d49f772ce.cloudns.org/US33T4/metrotv.m3u8&bandwidth=b894100&sync=0
