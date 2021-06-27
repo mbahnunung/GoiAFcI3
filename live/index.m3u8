@@ -35,9 +35,9 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarab
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rcJgMo9yLzQ/YA1bfttxJlI/AAAAAAAAA9o/9Z3Lp-LnWXE0ymOoGJ3GKU5jGmgTBEnMwCLcBGAsYHQ/s0/rajawali_tv.png" group-title="Nasional", rtv
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8 
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-74kEWJ5ce2I/VUI2Iir3ZxI/AAAAAAAAGzc/Du-gZFt0nco/s96-no/iNews_TV.png" group-title="Nasional", iNewsTV
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-74kEWJ5ce2I/VUI2Iir3ZxI/AAAAAAAAGzc/Du-gZFt0nco/s96-no/iNews_TV.png" group-title="Nasional", iNews
 http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135682 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZYdIGIFt7ak/YBBHPvidJjI/AAAAAAAAMpE/sR35MTpSYfcaLe_pdirehIUxG_nPGy4mQCLcBGAsYHQ/s0/kompasTV.png" group-title="Nasional", KompasTV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZYdIGIFt7ak/YBBHPvidJjI/AAAAAAAAMpE/sR35MTpSYfcaLe_pdirehIUxG_nPGy4mQCLcBGAsYHQ/s0/kompasTV.png" group-title="Nasional", Kompas TV
 http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135686 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-91ZsJjX4xyc/UcA72tF24KI/AAAAAAAABv4/G7PTmNmYIIk/s1600/tvonelogo.png" group-title="Nasional", tvOne
 http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135689
