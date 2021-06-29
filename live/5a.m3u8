@@ -131,7 +131,7 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #http://203.154.177.124:8899/live/ch20/playlist.m3u8
 http://mantul.biz.id:8888/212212/212212/145
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
+http://mantul.biz.id:8888/212212/212212/263
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.0.0.1" group-title="Kids" tvg-id="BabyTV", Baby First
 http://mantul.biz.id:8888/212212/212212/85
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
