@@ -439,7 +439,7 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Backup" tvg-id="TVRI", TVRI [mncnow]
 http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Evkz1Rt.png?v=1.1.1.1" group-title="Backup" tvg-id="RCTI", RCTI [Vidio]
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/7cb6654ebec98b7.m3u8
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pPY3M80.png?v=1.1.1.1" group-title="Backup" tvg-id="MNCTV", MNCTV [Vidio]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec1028.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=1.1.1.1" group-title="Backup" tvg-id="GTV", GTV [Vidio]
