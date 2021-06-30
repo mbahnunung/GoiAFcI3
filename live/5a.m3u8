@@ -450,9 +450,9 @@ http://mantul.biz.id:8888/212212/212212/246
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=sctv&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="USEETV" tvg-id="Indosiar", Indosiar
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=indosiar&bandwidth=b894100&sync=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="USEETV" tvg-id="Trans 7", Trans 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="USEETV" tvg-id="Trans7", Trans 7
 http://mantul.biz.id:8888/212212/212212/239
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="USEETV" tvg-id="Trans TV", Trans TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="USEETV" tvg-id="TransTV", Trans TV
 http://mantul.biz.id:8888/212212/212212/240
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="USEETV" tvg-id="Metro TV", Metro TV
 http://us.5d63d49f772ce.cloudns.org/US33T4/metrotv.m3u8&bandwidth=b894100&sync=0
