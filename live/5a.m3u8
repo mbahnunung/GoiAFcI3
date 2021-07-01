@@ -169,15 +169,15 @@ http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.0.0.1" group-title="News", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-0 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="News", CNN Indonesia
+#EXTINF:-0 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.0.0.1" group-title="News", CNN Indonesia
 http://cdn4.mbahnunungonline.net/m3u8/d12f0b99ed1f071.m3u8
-#EXTINF:-0 tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.1.1.1" group-title="News", Kompas TV
+#EXTINF:-0 tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.0.0.1" group-title="News", Kompas TV
 http://cdn4.mbahnunungonline.net/m3u8/ae5f9d6bcd610b6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cqnNh56.png?v=1.0.0.1" group-title="News" tvg-id="Metro TV", Metro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=1.0.0.1" group-title="News" tvg-id="Metro TV", Metro TV
 http://cdn4.mbahnunungonline.net/m3u8/6183ec225226ccd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=1.0.0.1" group-title="News", IDX
 http://cdn4.mbahnunungonline.net/m3u8/e8c66ae31a2475e.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZI092L.png?v=1.0.0.1" group-title="News" tvg-id="tvOne", tvOne
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=1.0.0.1" group-title="News" tvg-id="tvOne", tvOne
 http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135689
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia
 http://cdn4.mbahnunungonline.net/m3u8/ef7e8c7bc86110e.m3u8
