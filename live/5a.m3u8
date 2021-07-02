@@ -14,7 +14,8 @@ http://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/205-indosiar
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Jj4S2E4.png?v=1.1.1.1" group-title="Nasional", Metro TV
 https://dl.dropbox.com/s/eh6vnwh4hs874xx/6183ec225226ccc.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/QTEjMpg.png?v=1.1.1.1" group-title="Nasional", Trans7
-http://cdn4.mbahnunungonline.net/m3u8/id/cdd283c9d3d43b5.m3u8
+#http://cdn4.mbahnunungonline.net/m3u8/id/cdd283c9d3d43b5.m3u8
+http://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/734-trans7
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/RnrimdT.png?v=1.1.1.1" group-title="Nasional", TransTV
 #http://cdn4.mbahnunungonline.net/m3u8/id/61061784f4a9270.m3u8
 http://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/733-trans-tv
