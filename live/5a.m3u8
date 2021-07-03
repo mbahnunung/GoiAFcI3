@@ -454,7 +454,7 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/870-mnc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=1.1.1.1" group-title="vidio.com" tvg-id="GTV", GTV
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/778-gtv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
-http://mantul.biz.id:8888/212212/212212/246
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sctv&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="USEETV" tvg-id="Indosiar", Indosiar
