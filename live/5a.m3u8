@@ -248,7 +248,7 @@ http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge", Discovery Channel
 #https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
 http://mantul.biz.id:8888/212212/212212/63
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia HD
 #https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 http://mantul.biz.id:8888/212212/212212/55
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN Documentary
