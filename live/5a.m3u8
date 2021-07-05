@@ -5,7 +5,7 @@ https://dl.dropbox.com/s/o4x177tby00tt1f/7cb6654ebec98b7.m3u8
 #https://dl.dropbox.com/s/g9ehzu38nedx0gh/2b8fc230e8f847a.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNC TV
-https://raw.githubusercontent.com/mbahnunung/GoiAFcI3/master/playlist/mnctvsd.m3u8
+https://raw.githubusercontent.com/mbahnunung/v3/master/m3u8/mnctvsd.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/W47u6m4.png?v=1.1.1.1" group-title="Nasional", antv
 https://dl.dropbox.com/s/zdqqnjigken3jig/b630a001384603f.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BbPufM8.png?v=1.1.1.1" group-title="Nasional", Indosiar
@@ -23,7 +23,7 @@ https://dl.dropbox.com/s/kreu9nxa4ucy408/590642f0a31efa3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aJhpmgf.png?v=1.1.1.1" group-title="Nasional", Kompas TV
 https://dl.dropbox.com/s/wbaz1qine8wecu4/ae5f9d6bcd610b6.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EknqlDs.png?v=1.1.1.1" group-title="Nasional", iNews
-https://raw.githubusercontent.com/mbahnunung/GoiAFcI3/master/playlist/inews.m3u8
+https://raw.githubusercontent.com/mbahnunung/v3/master/m3u8/inews.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.1.1.1" group-title="Nasional" tvg-id="NET.", NET.
 https://dl.dropbox.com/s/4z3cupdot7uhhxt/6cdb3402d11f58d.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/N1yKLa1.png?v=1.1.1.1" group-title="Nasional", tvOne
