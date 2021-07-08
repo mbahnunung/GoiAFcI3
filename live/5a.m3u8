@@ -98,11 +98,9 @@ https://cdn4.mbahnunungonline.net/m3u8/1b4d1e3292b3936.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/VobODf7.png?v=1.0.0.1", Blue Ant
-#http://rr1.dens.tv/h/h16/index.m3u8
-http://mantul.biz.id:8888/212212/212212/135
+http://rr1.dens.tv/h/h16/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
-#http://rr1.dens.tv/h/h15/index.m3u8
-http://mantul.biz.id:8888/212212/212212/133
+http://rr1.dens.tv/h/h15/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ALE0biZ.png?v=1.0.0.1", History
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
@@ -206,9 +204,9 @@ https://manar.live/iptv/index.m3u8
 ########################################## Sports ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
-http://mantul.biz.id:8888/212212/212212/07
+http://gumisasak.site/USEETV-MPD/master.m3u8?id=bein1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
-http://mantul.biz.id:8888/212212/212212/08
+http://gumisasak.site/USEETV-MPD/master.m3u8?id=bein2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 1", Champions TV 1
 http://gumisasak.site/USEETV-MPD/master.m3u8?id=champion1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 2", Champions TV 2
@@ -249,11 +247,9 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian
-#https://cdn4.mbahnunungonline.net/m3u8/700a192f4d09363.m3u8
-http://mantul.biz.id:8888/212212/212212/74
+https://cdn4.mbahnunungonline.net/m3u8/700a192f4d09363.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature 4K
-#https://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8
-http://mantul.biz.id:8888/212212/212212/140
+https://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8
 
 ########################################## Religious ####################################################
 
@@ -262,8 +258,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FcTok4.png?v=1.1.1.1" group-title="Religious" tvg-id="Sunna TV", Sunna TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tl7ePSI.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
-#https://edge.nim.mivo.tv/video/assets/oops.m3u8
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/7464-ajwa-tv
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
+#https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/7464-ajwa-tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wQiH6tm.png?v=1.0.0.1" group-title="Religious" tvg-id="AL-BAHJAH TV", AL-BAHJAH TV
 https://e1.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=1.0.0.1" group-title="Religious" tvg-id="TV9 Nu", TV9 Nusantara
