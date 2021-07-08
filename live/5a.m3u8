@@ -119,12 +119,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/745d08bd8add130.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAHJS7W.png?v=1.0.0.1" group-title="Kids", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bMwkQEd.png?v=1.0.0.1" group-title="Kids", Zoomoo
-#http://203.154.177.124:8899/live/ch20/playlist.m3u8
-http://mantul.biz.id:8888/212212/212212/145
+http://203.154.177.124:8899/live/ch20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee
 http://mantul.biz.id:8888/212212/212212/263
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.0.0.1" group-title="Kids" tvg-id="BabyTV", Baby First
-http://mantul.biz.id:8888/212212/212212/85
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.0.0.1" group-title="Kids", Boomerang
