@@ -92,7 +92,7 @@ http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QO5Fi9H.png?v=1.0.0.1", Magna Channel
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w253650234_b2692000_sleng.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=1.0.0.1", The Indonesia Channel
 https://cdn4.mbahnunungonline.net/m3u8/1b4d1e3292b3936.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
