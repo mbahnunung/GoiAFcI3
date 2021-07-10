@@ -450,7 +450,8 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sctv&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="USEETV" tvg-id="Indosiar", Indosiar
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=indosiar&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="USEETV" tvg-id="Trans7", Trans 7
-http://gumisasak.site/USEETV-MPD/master.m3u8?id=trans7
+#http://gumisasak.site/USEETV-MPD/master.m3u8?id=trans7
+https://dl.dropboxusercontent.com/s/wsbs6jov9glb8ek/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="USEETV" tvg-id="TransTV", Trans TV
 http://dituduhmaling.xyz/US33T4/transtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="USEETV" tvg-id="Metro TV", Metro TV
