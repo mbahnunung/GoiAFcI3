@@ -434,7 +434,7 @@ http://45.64.98.181:8323/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yIDtEcz.jpg?v=1.1.1.1" group-title="Arab", Dubai TV
 http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.android-apk.org/imgs/4/f/8/4f845931f88e05106de84d04026d4bfd_icon.png" group-title="Arab", MBC Action HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FG7eD1O.png?v=4.2.2.2" group-title="Backup", Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Backup" tvg-id="TVRI", TVRI [mncnow]
