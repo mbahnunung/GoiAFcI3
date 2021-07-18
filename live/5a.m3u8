@@ -439,12 +439,7 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Backup" tvg-id="TVRI", TVRI [mncnow]
 http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Evkz1Rt.png?v=1.1.1.1" group-title="vidio.com" tvg-id="RCTI", RCTI
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pPY3M80.png?v=1.1.1.1" group-title="vidio.com" tvg-id="MNCTV", MNC TV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/870-mnc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gyN9OBp.png?v=1.1.1.1" group-title="vidio.com" tvg-id="GTV", GTV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/778-gtv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
