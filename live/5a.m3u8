@@ -9,8 +9,8 @@ https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/W47u6m4.png?v=1.1.1.1" group-title="Nasional", antv
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BbPufM8.png?v=1.1.1.1" group-title="Nasional", Indosiar
-https://dl.dropbox.com/s/rl9kb4pyf07ecm3/575eeb9f08dc8db.m3u8
-#http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+#https://dl.dropbox.com/s/rl9kb4pyf07ecm3/575eeb9f08dc8db.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Jj4S2E4.png?v=1.1.1.1" group-title="Nasional", Metro TV
 https://dl.dropbox.com/s/eh6vnwh4hs874xx/6183ec225226ccc.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/QTEjMpg.png?v=1.1.1.1" group-title="Nasional", Trans7
