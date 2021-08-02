@@ -296,7 +296,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-47
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Animal Planet", Animal Planet
-http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Discovery Asia", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Discovery Channel", Discovery Channel
