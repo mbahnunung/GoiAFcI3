@@ -547,3 +547,5 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/874-kompas-
 http://dituduhmaling.xyz/V11710/RCTI.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=1.1.1.1" group-title="vidio.com" tvg-id="MNC TV", MNC TV
 http://dituduhmaling.xyz/V11710/MNC.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/45Vmwv5.png?v=1.1.1.1" group-title="vidio.com", GTV
+http://dituduhmaling.xyz/V11710/GTV.m3u8
