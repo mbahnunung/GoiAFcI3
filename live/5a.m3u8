@@ -49,7 +49,7 @@ https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.0.0.1", JakTV
 http://cdn4.mbahnunungonline.net/m3u8/a6e7e966ea54cd3.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.0.0.1", DAAI TV
-https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
+http://210.210.155.35/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.0.0.1", MyTV
 https://cdn4.mbahnunungonline.net/m3u8/94fbb6407ca6a41.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/DATJMK7.png?v=1.0.0.1", Jawapos TV
