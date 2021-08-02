@@ -441,15 +441,15 @@ http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sctv&bandwidth=b894100&sync=0
+http://dituduhmaling.xyz/US33T4/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="USEETV" tvg-id="Indosiar", Indosiar
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=indosiar&bandwidth=b894100&sync=0
+http://dituduhmaling.xyz/US33T4/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="USEETV" tvg-id="Trans7", Trans 7
 #http://gumisasak.site/USEETV-MPD/master.m3u8?id=trans7
 https://dl.dropboxusercontent.com/s/wsbs6jov9glb8ek/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="USEETV" tvg-id="TransTV", Trans TV
-#http://dituduhmaling.xyz/US33T4/transtv.m3u8
-https://dl.dropboxusercontent.com/s/fqcx2d78ox0v2u8/transtv.m3u8
+http://dituduhmaling.xyz/US33T4/transtv.m3u8
+#https://dl.dropboxusercontent.com/s/fqcx2d78ox0v2u8/transtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="USEETV" tvg-id="Metro TV", Metro TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=2.0.0.13" group-title="USEETV" tvg-id="NET.", NET.
