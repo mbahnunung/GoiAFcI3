@@ -299,7 +299,7 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p73UbIR.png?v=1.0.0.1" group-title="Movies", ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
-http://gumisasak.site/USEETV-MPD/master.m3u8?id=imc
+http://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeBBgcc.png?v=1.0.0.1" group-title="Movies", Citra Drama
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ohz1FFf.png?v=1.0.0.1" group-title="Movies", Bioskop Indonesia
