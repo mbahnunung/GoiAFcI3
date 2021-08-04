@@ -139,9 +139,9 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GVGesVr.png?v=1.0.0.1" group-title="Korengan" tvg-id="Arirang", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Korengan" tvg-id="tvN", tvN
-http://dituduhmaling.xyz/V11710/TVN.m3u8
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0TKqJd.png?v=1.0.0.1" group-title="Korengan" tvg-id="TVN Movies", TVN Movies
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBS World", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/scJZO2S.png?v=1.0.0.1" group-title="Korengan" tvg-id="SONE", S ONE
