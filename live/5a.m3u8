@@ -391,6 +391,9 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjgoROa.jpg?v=1.0.0.1" group-title="Fashion", Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--I2Rd18D1I8/V1iv9MEPXdI/AAAAAAAAFbk/u8GsSdoT9nM93-iUFM4ZBD9MJuMzwf6KgCLcB/s1600/nQ4sXBb.png" group-title="Adult Lifestyle & Interests", Playboy TV
+http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/527/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png?v=1.0.0.1" group-title="Fashion", Naked News
 http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 #EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/2vhOM7x.jpg?v=1.0.0.1", Emily Bloom
