@@ -120,9 +120,9 @@ http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
 http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/VobODf7.png?v=1.0.0.1", Blue Ant
-http://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
+http://rr1.dens.tv/h/h16/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
-http://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
+http://rr1.dens.tv/h/h15/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ALE0biZ.png?v=1.0.0.1", History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
