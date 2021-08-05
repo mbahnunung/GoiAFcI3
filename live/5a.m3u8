@@ -172,7 +172,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1558732068_b1492000_
 #http://cdn4.mbahnunungonline.net/m3u8/e8c66ae31a2475e.m3u8
 http://cdn-livetv-studio.metube.id/idxchannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=1.0.0.1" group-title="News" tvg-id="tvOne", tvOne
-http://cdn4.mbahnunungonline.net/m3u8/id/0976f879a0c4548.m3u8
+https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia
 http://cdn4.mbahnunungonline.net/m3u8/ef7e8c7bc86110e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Thm3LAk.png?v=1.0.0.1" group-title="News", MNC News
