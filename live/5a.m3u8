@@ -16,7 +16,7 @@ http://topwin-tv.my.id/vidio/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/lQMICXV.png?v=1.1.1.1" group-title="Nasional", TransTV
 http://topwin-tv.my.id/vidio/transtv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+https://akamai.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.1.1.1" group-title="Nasional" tvg-id="rtv", rtv
 http://cdn4.mbahnunungonline.net/m3u8/id/590642f0a31efa3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aJhpmgf.png?v=1.1.1.1" group-title="Nasional", Kompas TV
@@ -24,7 +24,7 @@ http://dituduhmaling.xyz/V11710/Kompas.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EknqlDs.png?v=1.1.1.1" group-title="Nasional", iNews
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.1.1.1" group-title="Nasional" tvg-id="NET.", NET.
-http://cdn4.mbahnunungonline.net/m3u8/id/6cdb3402d11f58d.m3u8
+https://akamai.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/7anU0V0.png?v=1.1.1.1" group-title="Nasional", tvOne
 http://gpc.my.id/ytlive/tvone.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional", CNN Indonesia
