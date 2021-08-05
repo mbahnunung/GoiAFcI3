@@ -512,6 +512,8 @@ https://dl.dropbox.com/s/wl1l0b3anjk1zop/fb8acef7631528c.m3u8
 https://dl.dropbox.com/s/seta5w6k1az7rco/fb8acef7631528b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIfHBKK.png?v=1.0.0.1" group-title="Fashion", Fashion One
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Kaloopy_340x340.png?raw=true" group-title="Adult Lifestyle & Interests", Kaloopy (18+)
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 
 ########################################## Hindi ######################################################
 
@@ -553,7 +555,7 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://45.64.98.181:8323/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s2V9OMG.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
 http://dituduhmaling.xyz/US33T4/sctv.m3u8
