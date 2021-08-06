@@ -126,7 +126,6 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.0.0.1" group-title="Kids", Boomerang
 http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
-#https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvLnTBL.png?v=1.1.1.1" group-title="Kids", Disney Junior
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVz8uE4.png?v=1.1.1.1" group-title="Kids", Disney XD
