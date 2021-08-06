@@ -131,7 +131,7 @@ http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVz8uE4.png?v=1.1.1.1" group-title="Kids", Disney XD
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fSAArko.png?v=2.0.0.13" group-title="Kids", Dreamworks
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=dreamwork&bandwidth=default&sync=0
+https://topwin-tv.my.id/2/master.m3u8?id=dreamworks-1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOjdvky.png?v=1.0.0.1" group-title="Kids", Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 
