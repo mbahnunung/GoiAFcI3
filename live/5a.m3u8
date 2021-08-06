@@ -248,7 +248,7 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian Channel
 http://dituduhmaling.xyz/V11710/Smithsonian.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature HD
-http://dituduhmaling.xyz/V11710/LoveNature4k.m3u8
+http://gpc.my.id/vidio/love-nature.m3u8
 
 ########################################## Religious ####################################################
 
@@ -283,7 +283,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
-http://dituduhmaling.xyz/V11710/Citradangdut.m3u8
+https://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
 http://stream1.ninmedia.tv:1935/maleo/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
@@ -322,7 +322,8 @@ http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=1.0.0.1" group-title="Movies", Cinema World
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
-https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891911
+https://topwin-tv.my.id/2/master.m3u8?id=warner
+#https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891911
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=1.0.0.1" group-title="Movies", SYFY
 http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cymjoiG.png?v=1.0.0.1" group-title="Movies", &Flix
