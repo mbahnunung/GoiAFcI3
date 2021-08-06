@@ -326,7 +326,7 @@ https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891911
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ha92efv.png?v=1.0.0.1" group-title="Movies", SYFY
 http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cymjoiG.png?v=1.0.0.1" group-title="Movies", &Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xnLiRS.jpeg?v=1.0.0.1" group-title="Movies", FX
