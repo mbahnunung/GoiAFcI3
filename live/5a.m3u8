@@ -472,3 +472,5 @@ http://dituduhmaling.xyz/US33T4/transtv.m3u8
 http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=2.0.0.13" group-title="USEETV" tvg-id="NET.", NET.
 http://dituduhmaling.xyz/US33T4/net.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="USEETV", RTV
+http://gpc.my.id/usee/rtv.m3u8
