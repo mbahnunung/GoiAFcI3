@@ -383,10 +383,12 @@ https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIfHBKK.png?v=1.0.0.1" group-title="Fashion", Fashion One
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQqABbX.png?v=1.0.0.1" group-title="Fashion", FTV Midnight Secrets HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GUWCejs.jpg?v=1.0.0.1" group-title="Fashion", FTV Midnight Secrets HD
 https://dl.dropbox.com/s/wl1l0b3anjk1zop/fb8acef7631528c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XpJEZGg.jpg?v=1.0.0.1" group-title="Fashion", ID Fashion
 https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8X9FDe3.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2twpda0.png?v=1.0.0.1" group-title="Fashion", A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i2rdO7R.jpg?v=1.0.0.1" group-title="Fashion", Bikini TV
