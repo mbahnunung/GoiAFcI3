@@ -376,7 +376,7 @@ http://50.7.161.82:8278/streams/d/Channel5/playlist.m3u8
 
 ########################################## Fashion ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="Fashion", Fashion TV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-3119A6D926-seeklogo.com.png?v=1.0.0.1" group-title="Fashion", Fashion TV
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="Fashion", Fashion TV HD
 #https://dl.dropbox.com/s/seta5w6k1az7rco/fb8acef7631528b.m3u8
