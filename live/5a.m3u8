@@ -467,7 +467,7 @@ http://dituduhmaling.xyz/US33T4/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="USEETV" tvg-id="Trans7", Trans 7
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=trans7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="USEETV" tvg-id="TransTV", Trans TV
-http://dituduhmaling.xyz/US33T4/transtv.m3u8
+http://gpc.my.id/usee/transtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="USEETV" tvg-id="Metro TV", Metro TV
 http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=2.0.0.13" group-title="USEETV" tvg-id="NET.", NET.
