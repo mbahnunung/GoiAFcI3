@@ -100,7 +100,7 @@ http://rr1.dens.tv/h/h16/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iApp8aQ.png?v=1.0.0.1", Blue Ant Extreme
 http://rr1.dens.tv/h/h15/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ALE0biZ.png?v=1.0.0.1", History
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
+http://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
 #http://203.154.243.31:15001
 http://iptv.tvmalaysia.cc/live/989898/989898/8858.m3u8
@@ -120,7 +120,7 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuRTq7K.png?v=1.0.0.1" group-title="Kids" tvg-id="BabyTV", Baby First
 http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
+http://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.0.0.1" group-title="Kids", Boomerang
 http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvLnTBL.png?v=1.1.1.1" group-title="Kids", Disney Junior
@@ -467,7 +467,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2V9OMG.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
-https://topwin-tv.my.id/2/master.m3u8?id=dunialain
+http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 #http://home-tv.web.id/RHS/280621mpd.m3u8?channel=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="USEETV", MTV Live
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
