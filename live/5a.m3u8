@@ -470,6 +470,8 @@ https://topwin-tv.my.id/2/master.m3u8?id=dunialain
 #http://home-tv.web.id/RHS/280621mpd.m3u8?channel=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="USEETV", MTV Live
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="USEETV", Kompas TV
+http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
 http://dituduhmaling.xyz/US33T4/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="USEETV" tvg-id="Indosiar", Indosiar
@@ -484,10 +486,9 @@ http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 http://dituduhmaling.xyz/US33T4/net.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="USEETV", RTV
 http://gpc.my.id/usee/rtv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aJhpmgf.png?v=1.1.1.1" group-title="USEETV", Kompas TV
-http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Zpy57qG.png?v=1.1.1.1" group-title="Vidio.com", SCTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=1.1.1.1" group-title="Vidio.com", SCTV
 http://topwin-tv.my.id/vidio/sctv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eeiIEY8.png?v=1.1.1.1" group-title="Vidio.com", Indosiar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png?v=1.1.1.1" group-title="Vidio.com", Indosiar
 http://dituduhmaling.xyz/V11710/Indosiar.m3u8
