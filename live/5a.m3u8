@@ -486,3 +486,8 @@ http://dituduhmaling.xyz/US33T4/net.m3u8
 http://gpc.my.id/usee/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aJhpmgf.png?v=1.1.1.1" group-title="USEETV", Kompas TV
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Zpy57qG.png?v=1.1.1.1" group-title="Vidio.com", SCTV
+http://topwin-tv.my.id/vidio/sctv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eeiIEY8.png?v=1.1.1.1" group-title="Vidio.com", Indosiar
+http://dituduhmaling.xyz/V11710/Indosiar.m3u8
