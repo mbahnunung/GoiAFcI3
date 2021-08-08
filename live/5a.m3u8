@@ -197,7 +197,7 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwijqtC.png?v=1.0.0.1" group-title="News" tvg-id="NHK World HD", NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BFfgSguye6I/YAmsElEgPiI/AAAAAAAAMik/mR3GAbpqwl4LYnoc1pBwhN9O8kMgo8-rwCLcBGAsYHQ/s0/logo_bloomberg.png" group-title="News", Bloomberg Asia Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AG53buo.png?v=1.0.0.1" group-title="News", Bloomberg Asia Channel
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3Gn16p.png?v=1.0.0.1" group-title="News", Al arabiya
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -302,7 +302,7 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 
 ########################################## Movies ######################################################
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" group-title="Movies", Citra Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am0lg3m.png?v=1.0.0.1" group-title="Movies", Citra Entertainment
 http://dituduhmaling.xyz/V11710/Citraentertainment.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p73UbIR.png?v=1.0.0.1" group-title="Movies", ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream/playlist.m3u8
@@ -400,7 +400,7 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjgoROa.jpg?v=1.0.0.1" group-title="Fashion", Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--I2Rd18D1I8/V1iv9MEPXdI/AAAAAAAAFbk/u8GsSdoT9nM93-iUFM4ZBD9MJuMzwf6KgCLcB/s1600/nQ4sXBb.png" group-title="Adult Lifestyle & Interests", Playboy TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C6gt0sE.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Playboy TV
 http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/527/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png?v=1.0.0.1" group-title="Fashion", Naked News
 http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
