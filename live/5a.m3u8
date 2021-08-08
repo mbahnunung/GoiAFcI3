@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI
 https://akamai.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Zpy57qG.png?v=1.1.1.1" group-title="Nasional", SCTV
-http://topwin-tv.my.id/vidio/sctv.m3u8
+https://akamai.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNC TV
 https://akamai.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sxlxwvA.png?v=1.1.1.1" group-title="Nasional", antv
 https://akamai.mncnow.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eeiIEY8.png?v=1.1.1.1" group-title="Nasional", Indosiar
-http://dituduhmaling.xyz/V11710/Indosiar.m3u8
+https://akamai.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Jj4S2E4.png?v=1.1.1.1" group-title="Nasional", Metro TV
 https://akamai.mncnow.id/live/eds/MetroTV-RTX/sa_dash/MetroTV-RTX.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/QTEjMpg.png?v=1.1.1.1" group-title="Nasional", Trans7
