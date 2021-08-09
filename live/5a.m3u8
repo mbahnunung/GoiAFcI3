@@ -33,7 +33,7 @@ https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
 https://dl.dropbox.com/s/echuwg82ufszf2l/270f72deeb5843f.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI
 https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WVIQ2o6.png?v=1.1.1.1" group-title="Nasional", Nusantara TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TbLkjM.png?v=1.1.1.1" group-title="Nasional", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
 ########################################## Local ######################################################
@@ -58,8 +58,8 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
 http://rrelshinta.dens.tv/s/s10/index2.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/ehDWytF.png?v=1.0.0.1", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Z5cNFNk.png?v=1.0.0.1", Inspira TV
-https://v2.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/tIFiAdl.png?v=1.0.0.1", DIGDAYA TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/YTiEeu7.png?v=1.0.0.1", ADi TV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/45ukWAy.png?v=1.0.0.1", duta TV
