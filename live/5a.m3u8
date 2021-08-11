@@ -88,7 +88,8 @@ http://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6CCidoH.png?v=1.0.0.1", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
-http://rr.dens.tv/h/h19/index.m3u8
+#http://rr.dens.tv/h/h19/index.m3u8
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/24.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QO5Fi9H.png?v=1.0.0.1", Magna Channel
