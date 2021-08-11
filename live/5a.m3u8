@@ -266,7 +266,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FcTok4.png?v=1.1.1.1" group-title="Religious" tvg-id="Sunna TV", Sunna TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tl7ePSI.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
-https://gpc.my.id/vidio/ajwa-tv.m3u8
+http://dituduhmaling.xyz/V11710/Ajwatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wQiH6tm.png?v=1.0.0.1" group-title="Religious" tvg-id="AL-BAHJAH TV", AL-BAHJAH TV
 https://e1.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=1.0.0.1" group-title="Religious" tvg-id="TV9 Nu", TV9 Nusantara
@@ -497,5 +497,21 @@ https://gpc.my.id/vidio/sctv.m3u8
 https://gpc.my.id/vidio/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6ZiA7Y.png?v=1.1.1.1" group-title="Vidio.com", RCTI
 https://gpc.my.id/vidio/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5JrpWZS.png?v=1.1.1.1" group-title="Vidio.com", MNC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn3e8yh.png?v=1.1.1.1" group-title="Vidio.com", MNC TV
 http://dituduhmaling.xyz/V11710/MNC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suErbWw.png?v=1.1.1.1" group-title="Vidio.com", GTV
+https://gpc.my.id/vidio/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1C4mgJI.png?v=1.1.1.1" group-title="Vidio.com", Trans7
+http://gpc.my.id/vidio/trans7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Bfigae.png?v=1.1.1.1" group-title="Vidio.com", TransTV
+https://gpc.my.id/vidio/trans-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gfabthn.png?v=1.1.1.1" group-title="Vidio.com", NET.
+http://dituduhmaling.xyz/V11710/NET_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPN3fd3.png?v=2.0.0.13" group-title="Vidio.com", Metro TV
+http://dituduhmaling.xyz/V11710/Metrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cR133NK.png?v=2.0.0.13" group-title="Vidio.com", Kompas TV
+http://dituduhmaling.xyz/V11710/Kompas.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rGkPNy.png?v=2.0.0.13" group-title="Vidio.com", RTV
+http://dituduhmaling.xyz/V11710/RTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEVpvBX.png?v=2.0.0.13" group-title="Vidio.com", TVRI
+http://dituduhmaling.xyz/V11710/TVRI.m3u8
