@@ -307,7 +307,7 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 
 ########################################## Movies ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/am0lg3m.png?v=1.0.0.1" group-title="Movies", Citra Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XF1c2OB.png?v=1.0.0.1" group-title="Movies", Citra Entertainment
 http://dituduhmaling.xyz/V11710/Citraentertainment.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p73UbIR.png?v=1.0.0.1" group-title="Movies", ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream/playlist.m3u8
@@ -502,7 +502,7 @@ http://gpc.my.id/vidio/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jn3e8yh.png?v=1.1.1.1" group-title="Vidio.com", MNC TV
 http://dituduhmaling.xyz/V11710/MNC.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/suErbWw.png?v=1.1.1.1" group-title="Vidio.com", GTV
-http://gpc.my.id/vidio/gtv.m3u8
+http://dituduhmaling.xyz/V11710/GTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1C4mgJI.png?v=1.1.1.1" group-title="Vidio.com", Trans7
 http://gpc.my.id/vidio/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Bfigae.png?v=1.1.1.1" group-title="Vidio.com", TransTV
