@@ -278,7 +278,7 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHsUiwa.png?v=1.0.0.1" group-title="Religious", MQTV
 https://v3.siar.us/syiarmedia/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="Muhammadiyah TV", Muhammadiyah TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="TV Mu", TV Mu
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khG612m.png?v=1.0.0.1" group-title="Religious" tvg-id="NU Channel", NU Channel
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
@@ -318,7 +318,7 @@ http://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 http://dituduhmaling.xyz/V11710/Citradrama.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ohz1FFf.png?v=1.0.0.1" group-title="Movies", Bioskop Indonesia
 http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zEnolCx.png?v=1.1.1.1" group-title="Movies", SINEMA INDONESIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zEnolCx.png?v=1.1.1.1" group-title="Movies", Sinema Indonesia
 http://rr.dens.tv/h/h155/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
@@ -417,7 +417,7 @@ https://content.jwplatform.com/manifests/KXeIME5W.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oc5gVe8.png?v=1.1.1.1" group-title="Hindi", &xplor
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", &Pictures HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", & Picture HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png?v=8.8.4.4" group-title="Hindi", Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
