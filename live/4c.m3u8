@@ -379,11 +379,15 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 
 ########################################## Music ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
-http://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drupYNv.png?v=1.0.0.1" group-title="Music", Channel [V] HD
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
+http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
 http://dituduhmaling.xyz/V11710/Citradangdut.m3u8
 #https://edge.nim.mivo.tv/video/assets/oops.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo
+http://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
@@ -396,22 +400,16 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8OoA7sM.png?v=8.8.4.4" group-title="Music", Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/drupYNv.png?v=1.0.0.1" group-title="Music", Channel [V] HD
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
-http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
 
 ########################################## Movies ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p73UbIR.png?v=1.0.0.1" group-title="Movies", ATV
-http://stream1.ninmedia.tv:1935/atv/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
 http://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeBBgcc.png?v=1.0.0.1" group-title="Movies", Citra Drama
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ohz1FFf.png?v=1.0.0.1" group-title="Movies", Bioskop Indonesia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bioskopindonesia
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", CCM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", Celestial Classic Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
@@ -451,6 +449,8 @@ https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p73UbIR.png?v=1.0.0.1" group-title="Movies", ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream/playlist.m3u8
 
 ########################################## HBO GO ######################################################
 
@@ -587,15 +587,25 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/If0UMcd.png?v=1.1.1.1" group-title="vidio.com" tvg-id="RCTI", RCTI
-http://dituduhmaling.xyz/V11710/RCTI.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xmuuJjO.png?v=1.1.1.1" group-title="vidio.com" tvg-id="MNC TV", MNC TV
-http://dituduhmaling.xyz/V11710/MNC.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/45Vmwv5.png?v=1.1.1.1" group-title="vidio.com", GTV
-http://dituduhmaling.xyz/V11710/GTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="vidio.com" tvg-id="SCTV", SCTV
-http://dituduhmaling.xyz/V11710/SCTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="vidio.com" tvg-id="Indosiar", Indosiar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/luud37p.png?v=1.0.0.1" group-title="Vidio.com", SCTV
+https://gpc.my.id/vidio/sctv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Xq5fsL.png?v=1.0.0.1" group-title="Vidio.com", Indosiar
 http://dituduhmaling.xyz/V11710/Indosiar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.0.0.1" group-title="vidio.com" tvg-id="Kompas TV", Kompas TV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/874-kompas-tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6ZiA7Y.png?v=1.0.0.1" group-title="Vidio.com", RCTI
+https://gpc.my.id/vidio/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn3e8yh.png?v=1.0.0.1" group-title="Vidio.com", MNC TV
+http://dituduhmaling.xyz/V11710/MNC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suErbWw.png?v=1.0.0.1" group-title="Vidio.com", GTV
+https://gpc.my.id/vidio/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1C4mgJI.png?v=1.0.0.1" group-title="Vidio.com", Trans7
+http://gpc.my.id/vidio/trans7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Bfigae.png?v=1.0.0.1" group-title="Vidio.com", TransTV
+https://gpc.my.id/vidio/trans-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gfabthn.png?v=1.0.0.1" group-title="Vidio.com", NET.
+http://dituduhmaling.xyz/V11710/NET_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPN3fd3.png?v=1.0.0.1" group-title="Vidio.com", Metro TV
+http://dituduhmaling.xyz/V11710/Metrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cR133NK.png?v=1.0.0.1" group-title="Vidio.com", Kompas TV
+http://dituduhmaling.xyz/V11710/Kompas.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rGkPNy.png?v=1.0.0.1" group-title="Vidio.com", rtv
+http://dituduhmaling.xyz/V11710/RTV.m3u8
