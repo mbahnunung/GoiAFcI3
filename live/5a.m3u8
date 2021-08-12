@@ -196,8 +196,6 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFOQVEf.png?v=1.0.0.1" group-title="News" tvg-id="France24" tvg-name"", France24
 http://rr2.dens.tv/s/s22/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DcF2NzS.png?v=1.0.0.1" group-title="News" tvg-id="TRTWorld" tvg-name"", TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.0.0.1" group-title="News" tvg-id="News Asia", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwijqtC.png?v=1.0.0.1" group-title="News" tvg-id="NHK World HD", NHK World Japan
@@ -205,6 +203,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AG53buo.png?v=1.0.0.1" group-title="News", Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcF2NzS.png?v=1.0.0.1" group-title="News" tvg-id="TRTWorld" tvg-name"", TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3Gn16p.png?v=1.0.0.1" group-title="News", Al arabiya
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fgUVz5m.png?v=1.0.0.1" group-title="News", Al jazeera
