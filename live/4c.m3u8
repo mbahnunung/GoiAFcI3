@@ -382,10 +382,11 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/drupYNv.png?v=1.0.0.1" group-title="Music", Channel [V] HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
-http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
+#http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
+http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
-http://dituduhmaling.xyz/V11710/Citradangdut.m3u8
 #https://edge.nim.mivo.tv/video/assets/oops.m3u8
+http://dituduhmaling.xyz/V11710/Citradangdut.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo
 http://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
