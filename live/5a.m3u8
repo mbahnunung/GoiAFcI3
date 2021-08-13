@@ -141,7 +141,7 @@ http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOjdvky.png?v=1.0.0.1" group-title="Kids", Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="Biznet Kids" tvg-logo="https://i.postimg.cc/TPrVdQ1t/BizKids.png" group-title="Kids" ,Biznet Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p3cqAKM.jpg" group-title="Kids" tvg-id="Biznet Kids", Biznet Kids
 http://aputra.xyz/kds1010/Bisnetkids.m3u8
 
 ########################################## Korengan ########################################################
