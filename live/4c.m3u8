@@ -3,19 +3,19 @@
 #EXTM3U x-tvg-url="https://weareblahs.ga/epg/unifitv.xml" url-tvg="https://weareblahs.ga/epg/unifitv.xml" refresh="3600"
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rA0rUsj.png?v=1.1.1.1" group-title="Nasional" tvg-id="RCTI", RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sHsPccL.png?v=1.1.1.1" group-title="Nasional", SCTV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sHsPccL.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV", SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNC TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional" tvg-id="MNC TV", MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sxlxwvA.png?v=1.1.1.1" group-title="Nasional", antv
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sxlxwvA.png?v=1.1.1.1" group-title="Nasional" tvg-id="antv", antv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
