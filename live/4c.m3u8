@@ -189,10 +189,6 @@ http://dituduhmaling.xyz/V11710/Horee.m3u8
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bMwkQEd.png?v=1.0.0.1" group-title="Kids" tvg-id="Zoomoo", Zoomoo
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="550" tvg-chno="550" tvg-logo="https://i.imgur.com/fSAArko.png", Dreamworks HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmRhNjM0YjktMTE5MS0zNzhkLTg2ZTQtMzhkZmZkMTcwYmZj
-http://1.9.62.173/PLTV/88888888/224/3221227596/3221227596.mpd
 
 ########################################## Korengan ########################################################
 
