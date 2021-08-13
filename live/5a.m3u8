@@ -243,10 +243,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 
 ########################################## Knowledge ####################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=4.2.2.2" group-title="Knowledge", TV Edukasi
-http://202.169.224.76:1935/live/tve.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge", Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo Wild", Nat Geo Wild HD
@@ -263,10 +259,14 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian Channel
-http://dituduhmaling.xyz/V11710/Smithsonian.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature HD
 http://gpc.my.id/vidio/love-nature.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian Channel
+http://dituduhmaling.xyz/V11710/Smithsonian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=4.2.2.2" group-title="Knowledge", TV Edukasi
+http://202.169.224.76:1935/live/tve.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 ########################################## Religious ####################################################
 
@@ -282,7 +282,7 @@ https://e1.siar.us/albahjahtv/live/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="Tawaf TV", Tawaf TV
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YHsUiwa.png?v=1.0.0.1" group-title="Religious", MQTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHsUiwa.png?v=1.0.0.1" group-title="Religious" tvg-id="MQTV", MQTV
 https://v3.siar.us/syiarmedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="TV Mu", TV Mu
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream/playlist.m3u8
