@@ -569,6 +569,13 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://45.64.98.181:8323/stream
 
+#EXTINF:-1 ch-id="PORN CLUB (UK)" tvg-logo="https://1.bp.blogspot.com/-WQZR8fo3NQU/YP1Ksd0-exI/AAAAAAAAAng/8ylJjFjBEDYjyISmzXFHbrl9NEVh6G4TwCLcBGAsYHQ/s200/PicsArt_07-25-04.57.24.png" group-title="Adult", PORN CLUB (UK)
+https://www.filmon.com/vr-streams/6152.low/playlist.m3u8
+#EXTINF:-1 ch-id="18+ (UK)" tvg-logo="https://1.bp.blogspot.com/-nSfJGhujWC4/YP1LlV0BG7I/AAAAAAAAAno/Atni2UqBn1MA7qIyn7YhjafSE7mv4t-oACLcBGAsYHQ/s200/PicsArt_07-25-05.01.09.png" group-title="Adult", 18+ (UK)
+https://www.filmon.com/vr-streams/6170.low/playlist.m3u8
+#EXTINF:-1 ch-id="HOT VIDEO (UK)" tvg-logo="https://1.bp.blogspot.com/-PFoFkTVGAZo/YNxgj_j_VcI/AAAAAAAAAFw/0nmrUH8IGokOJNGOKGocgN83R9xCX5Z2QCLcBGAsYHQ/s320/PicsArt_06-30-10.54.12.jpg" group-title="Adult", HOT VIDEO (UK)
+http://62.112.9.63:88/Brazzers/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2V9OMG.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
