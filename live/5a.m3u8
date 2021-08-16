@@ -323,6 +323,8 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 http://gpc.my.id/vidio/citra-entertainment.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
 http://topwin-tv.my.id/2/master.m3u8?id=imc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xB7jWnt.png?v=1.0.0.1" group-title="Movies", Citra Bioskop
+http://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeBBgcc.png?v=1.0.0.1" group-title="Movies", Citra Drama
 http://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ohz1FFf.png?v=1.0.0.1" group-title="Movies", Bioskop Indonesia
@@ -342,7 +344,7 @@ http://rr1.dens.tv/h/h07/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
 http://rr1.dens.tv/h/h37/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Movies", Thrill
-http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+http://rr2.dens.tv/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=1.0.0.1" group-title="Movies", Cinema World
 https://topwin-tv.my.id/2/master.m3u8?id=cinemaworld
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
