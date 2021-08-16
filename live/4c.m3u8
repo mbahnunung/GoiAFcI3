@@ -64,7 +64,7 @@ http://cdn4.mbahnunungonline.net/m3u8/id/3f58825fe229a8f.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eLjHSKm.png?v=1.0.0.1" group-title="Nasional" tvg-id="Nusantara TV", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
-########################################## Local ######################################################
+###################################################### Local ######################################################
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.0.0.1", Bali TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -111,7 +111,7 @@ http://122.248.43.138:1935/ch28/myStream/live.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/tlH0Quf.png?v=1.0.0.1", Sakti TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
 
-########################################## Entertainment ###############################################
+###################################################### Entertainment ######################################################
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax", Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -152,7 +152,7 @@ https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/qo8Wt7F.png?v=1.1.1.1", ZEE CAFE
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
-########################################## Kids ########################################################
+###################################################### Kids ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Astro Ceria HD", Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
@@ -189,7 +189,7 @@ http://aputra.xyz/kds1010/Bisnetkids.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOjdvky.png?v=1.1.1.1" group-title="Kids" tvg-id="Spacetoon", Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream/playlist.m3u8
 
-########################################## Korengan ########################################################
+###################################################### Korengan ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GVGesVr.png?v=1.0.0.1" group-title="Korengan" tvg-id="Arirang", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -212,7 +212,7 @@ http://rr.dens.tv/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan" tvg-id="SBS", SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
 
-########################################## Lifestyle ###################################################
+###################################################### Lifestyle ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTV", HGTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -225,7 +225,7 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rjIEEmj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="travelxp" tvg-name="travelxp", travelxp
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-########################################## News ########################################################
+######################################################    News    ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3Gn16p.png?v=1.0.0.1" group-title="News", Al arabiya
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -338,7 +338,7 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=1.0.0.1" group-title="Knowledge" tvg-id="TV Edukasi", TV Edukasi
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
 
-########################################## Religious ####################################################
+###################################################### Religious ######################################################
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/RdOrRX2.png?v=1.0.0.1" group-title="Religious", AlQuran Kareem
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -365,7 +365,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-4
 #EXTINF:1 tvg-logo="https://i.imgur.com/CwsvvSn.png?v=1.0.0.1" group-title="Religious", British Muslim
 http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
-########################################## Music ######################################################
+###################################################### Music ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/drupYNv.png?v=1.0.0.1" group-title="Music", Channel [V] HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
@@ -389,7 +389,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8OoA7sM.png?v=1.0.0.1" group-title="Music", Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
-########################################## Movies ######################################################
+###################################################### Movies ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
 http://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
@@ -440,7 +440,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p73UbIR.png?v=1.0.0.1" group-title="Movies", ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream/playlist.m3u8
 
-########################################## HBO GO ######################################################
+###################################################### HBO GO ######################################################
 
 #EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/aMtD0A0.png?v=1.1.1.1", HBO HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -461,7 +461,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/mCczSQ9.png?v=1.1.1.1", Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
-########################################## Malaysia TV ######################################################
+###################################################### Malaysia TV ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YoWxeld.png?v=1.0.0.1" group-title="Malaysia" tvg-id="AstroCitraHD", Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
@@ -496,7 +496,7 @@ http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-########################################## Fashion ######################################################
+###################################################### Fashion ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQqABbX.png?v=1.0.0.1" group-title="Fashion", FTV Midnight Secrets HD
 https://dl.dropbox.com/s/wl1l0b3anjk1zop/fb8acef7631528c.m3u8
@@ -509,7 +509,7 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2twpda0.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8 
 
-########################################## Hindi ######################################################
+######################################################   Hindi  ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Y8SVWN.png?v=8.8.4.4" group-title="Hindi", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
@@ -532,7 +532,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.4.4" group-title="Hindi", Zee Action
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 
-########################################## RADIO ######################################################
+###################################################### RADIO ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
 http://stream.zeno.fm/5y0exp3phzzuv
