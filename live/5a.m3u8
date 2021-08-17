@@ -259,7 +259,7 @@ http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/8.ts
 #https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/989898/989898/7078
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia HD
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
+http://iptv.tvmalaysia.cc/live/989898/989898/8856.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/fgO3tyz.png?v=1.0.0.1", Discovery Science HD
 https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN
