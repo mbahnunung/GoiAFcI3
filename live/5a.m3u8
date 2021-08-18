@@ -106,8 +106,7 @@ http://rr1.dens.tv/h/h15/index.m3u8
 #http://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
 http://iptv.tvmalaysia.cc/932633/932633/7079
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
-#http://203.154.243.31:15001
-http://iptv.tvmalaysia.cc/live/989898/989898/8858.m3u8
+http://iptvtree.net:8080/Ainamanja/6a4fef36/165052
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/2RySrJl.png?v=1.0.0.1", CCTV4 HD
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/qo8Wt7F.png?v=1.1.1.1", ZEE CAFE
@@ -495,7 +494,6 @@ http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=00
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="Horor", Dunia Lain
 http://topwin-tv.my.id/2/master.m3u8?id=dunialain
-#http://home-tv.web.id/RHS/280621mpd.m3u8?channel=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="USEETV", MTV Live
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="USEETV", Kompas TV
