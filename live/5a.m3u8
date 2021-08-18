@@ -123,10 +123,10 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="Baby TV HD", Baby TV HD
 http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
-http://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.0.0.1" group-title="Kids", Boomerang
 http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
+http://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvLnTBL.png?v=1.1.1.1" group-title="Kids", Disney Junior
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVz8uE4.png?v=1.1.1.1" group-title="Kids", Disney XD
