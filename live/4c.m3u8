@@ -417,7 +417,7 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Movies", Thrill
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Horor", Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
@@ -498,13 +498,21 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 
 ###################################################### Fashion ######################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQqABbX.png?v=1.0.0.1" group-title="Fashion", FTV Midnight Secrets HD
-https://dl.dropbox.com/s/wl1l0b3anjk1zop/fb8acef7631528c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="Fashion", Fashion TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vK2rOZG.png?v=1.0.0.1" group-title="Fashion", Fashion TV HD
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Geh61yn.png?v=1.0.0.1" group-title="Fashion", FTV UHD
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="Fashion", Fashion TV
 https://dl.dropbox.com/s/seta5w6k1az7rco/fb8acef7631528b.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KIfHBKK.png?v=1.0.0.1" group-title="Fashion", Fashion One
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQqABbX.png?v=1.0.0.1" group-title="Fashion", Fashion TV Midnight Secrets
+https://dl.dropbox.com/s/wl1l0b3anjk1zop/fb8acef7631528c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JbGsuDd.png?v=1.0.0.1" group-title="Fashion", HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Kaloopy_340x340.png?raw=true" group-title="Adult Lifestyle & Interests", Kaloopy (18+)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XpJEZGg.jpg?v=1.0.0.1" group-title="Fashion", ID Fashion
+https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8X9FDe3.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pnhzRFh.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Kaloopy (18+)
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2twpda0.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8 
@@ -547,7 +555,7 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://45.64.98.181:8323/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s2V9OMG.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s2V9OMG.png?v=1.1.1.1" group-title="Horor", Dunia Lain
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
 http://dituduhmaling.xyz/US33T4/sctv.m3u8
