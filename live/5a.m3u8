@@ -529,7 +529,7 @@ http://gpc.my.id/vidio/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Bfigae.png?v=1.1.1.1" group-title="Vidio.com", TransTV
 http://gpc.my.id/vidio/trans-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gfabthn.png?v=1.1.1.1" group-title="Vidio.com", NET.
-https://gpc.my.id/vidio/net-tv.m3u8
+http://gpc.my.id/vidio/net-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SPN3fd3.png?v=2.0.0.13" group-title="Vidio.com", Metro TV
 http://gpc.my.id/vidio/metro-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cR133NK.png?v=2.0.0.13" group-title="Vidio.com", Kompas TV
