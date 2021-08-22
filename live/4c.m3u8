@@ -275,9 +275,9 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 1", Champions TV 1
-http://dituduhmaling.xyz/V11710/championstv1.m3u8
+https://gpc.my.id/vidio/champion-tv-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 2", Champions TV 2
-http://dituduhmaling.xyz/V11710/championstv2.m3u8
+https://gpc.my.id/vidio/champion-tv-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="Sports" tvg-id="FOX Sports HD", FOX Sports HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=1.0.0.1" group-title="Sports" tvg-id="FOX Sports 2 HD", FOX Sports 2 HD
@@ -332,7 +332,7 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=1.0.0.1" group-title="Knowledge", Love Nature HD
 https://gpc.my.id/vidio/love-nature.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=1.0.0.1" group-title="Knowledge", Smithsonian Channel
-http://dituduhmaling.xyz/V11710/Smithsonian.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=1.0.0.1" group-title="Knowledge", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=1.0.0.1" group-title="Knowledge" tvg-id="TV Edukasi", TV Edukasi
@@ -373,7 +373,7 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
 #https://edge.nim.mivo.tv/video/assets/oops.m3u8
-http://dituduhmaling.xyz/V11710/Citradangdut.m3u8
+https://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo
 http://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
@@ -396,7 +396,7 @@ http://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeBBgcc.png?v=1.0.0.1" group-title="Movies", Citra Drama
 https://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ohz1FFf.png?v=1.0.0.1" group-title="Movies", Bioskop Indonesia
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bioskopindonesia
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", Celestial Classic Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
