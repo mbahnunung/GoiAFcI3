@@ -556,7 +556,7 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 http://45.64.98.181:8323/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2V9OMG.png?v=1.1.1.1" group-title="Horor", Dunia Lain
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=dunialain&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
 http://dituduhmaling.xyz/US33T4/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="USEETV" tvg-id="Indosiar", Indosiar
