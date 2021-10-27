@@ -371,31 +371,31 @@ https://akamai.mncnow.id/live/eds/MetroTV-RTX/sa_dash/MetroTV-RTX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 1" tvg-name="beIN Sports 1", beIN Sports 1
-https://topwin-tv.my.id/2/master.m3u8?id=bein1&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9b088eX.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 1" tvg-name="beIN Sports 1", beIN Sports 1
+https://conversant.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 2" tvg-name="beIN Sports 2", beIN Sports 2
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sy3NbII.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 2" tvg-name="beIN Sports 2", beIN Sports 2
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 1" tvg-name="Champion TV 1", Champions TV 1
-https://topwin-tv.my.id/2/master.m3u8?id=champion1&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5QgXGkf.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 1" tvg-name="Champion TV 1", Champions TV 1
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 2" tvg-name="Champion TV 2", Champions TV 2
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/T8PWdwA.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 2" tvg-name="Champion TV 2", Champions TV 2
 https://topwin-tv.my.id/2/master.m3u8?id=champion2&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports" tvg-id="Golf" tvg-name="Golf", Golf
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cokkw7Z.png?v=1.0.0.1" group-title="Sports" tvg-id="Golf" tvg-name="Golf", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KkW1uDl.png?v=1.0.0.1" group-title="Sports" tvg-id="MNC Sports" tvg-name="MNC Sports", MNC Sports
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KkW1uDl.png?v=1.0.0.1" group-title="Sports" tvg-id="MNC Sports" tvg-name="MNC Sports", MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KEEJm7m.jpg?v=1.0.0.1" group-title="Sports" tvg-id="Fight Sports HD" tvg-name="Fight Sports HD", Fight Sports HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KEEJm7m.jpg?v=1.0.0.1" group-title="Sports" tvg-id="Fight Sports HD" tvg-name="Fight Sports HD", Fight Sports HD
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 ########################################################   Knowledge   ########################################################
@@ -509,8 +509,6 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
 ########################################################     Movies    ########################################################
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M10gw6I.png?v=1.0.0.1" group-title="Movies", BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", Celestial Classic Movies
@@ -549,14 +547,20 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MggeOq7.png?v=1.0.0.1" group-title="Movies", My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies", My Cinema
 http://rr.dens.tv/h/h90/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rCLnw5V.png?v=1.0.0.1" group-title="Movies", Action Hollywood Movies
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rCLnw5V.png?v=1.0.0.1" group-title="Movies", Action Hollywood Movies
 http://203.154.177.124:8899/live/ch7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cymjoiG.png?v=1.0.0.1" group-title="Movies", &Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zEnolCx.png?v=1.1.1.1" group-title="Movies", Sinema Indonesia
+http://rr.dens.tv/h/h155/index2.m3u8
 
 ########################################################    HBO GO     ########################################################
 
@@ -681,13 +685,6 @@ http://s4.vinhostmedia.com:8000/streamaac
 https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://45.64.98.181:8323/stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Backup" tvg-id="NET TV" tvg-name="NET TV", NET.
-http://cdn4.mbahnunungonline.net/m3u8/id/6cdb3402d11f58d.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QTEjMpg.png?v=1.1.1.1" group-title="Backup" tvg-id="Trans 7" tvg-name="Trans 7", Trans7
-https://dl.dropbox.com/s/8933q0yyq5ytidu/cdd283c9d3d43b5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.1.1.1" group-title="Backup" tvg-id="Trans TV" tvg-name="Trans TV", TransTV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 ########################################################     USEETV    ########################################################
 
