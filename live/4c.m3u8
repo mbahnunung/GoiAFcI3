@@ -101,7 +101,7 @@ https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/od0w7R2.png?v=1.0.0.1" group-title="Nasional" tvg-id="O Channel" tvg-name="O Channel", O Channel HD
-https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+https://dl.dropbox.com/s/20g5fcq07n462qg/d4ff175b1e2d419.m3u8
 
 ########################################################     Local     ########################################################
 
