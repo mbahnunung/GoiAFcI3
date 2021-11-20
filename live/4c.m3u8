@@ -627,10 +627,10 @@ http://rr.dens.tv/h/h192/index.m3u8
 http://203.154.177.124:8899/live/ch7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cymjoiG.png?v=1.0.0.1" group-title="Movies", &Flix HD
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/master.m3u8
@@ -723,8 +723,6 @@ https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_d
 https://dl.dropbox.com/s/wl1l0b3anjk1zop/fb8acef7631528c.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/C6gt0sE.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Playboy TV HD
 http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49334
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/C6gt0sE.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Playboy TV SD
-http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49321
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2twpda0.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pnhzRFh.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Kaloopy TV
@@ -745,7 +743,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", Zee TV
 https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi", Zing
-https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/gSsIODC.png?v=8.8.4.4" group-title="Hindi", Zee Cinema
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Akf09tQ.png?v=8.8.4.4" group-title="Hindi", Zee Bollywood
@@ -789,8 +787,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Xq5fsL.png?v=1.0.0.1" group-title="Vidio.com", Indosiar 
 https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6ZiA7Y.png?v=1.0.0.1" group-title="Vidio.com", RCTI
-https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f966a41c2a2a7270517f5ce8dd2f48fc68d
 
 ########################################################    VISION+    ########################################################
 
