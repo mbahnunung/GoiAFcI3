@@ -31,7 +31,7 @@ https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NTIQcW0.png?v=1.1.1.1" group-title="Nasional" tvg-id="Metro TV" tvg-name="Metro TV", METRO TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/id/6183ec225226ccc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -82,6 +82,11 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional" tvg-id="CNN Indonesia" tvg-name="CNN Indonesia", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uJTTmk8.png?v=1.0.0.1" group-title="News" tvg-id="CNBC Indonesia", CNBC Indonesia 
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -171,6 +176,11 @@ http://rr1.dens.tv/h/h02/index.m3u8
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Hz0bde4.png?v=1.0.0.1" tvg-id="lifetime" tvg-id="lifetime", LifeTime
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn4.mbahnunungonline.net/img/le4o5Zy.png?v=1.0.0.1", TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
@@ -190,7 +200,7 @@ http://rr1.dens.tv/h/h16/index.m3u8
 http://rr1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn4.mbahnunungonline.net/img/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
-https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b1800000.m3u8
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn4.mbahnunungonline.net/img/RfIj9lU.png?v=1.0.0.1", Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
@@ -220,9 +230,6 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 ########################################################      Kids     ########################################################
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD", Astro Ceria HD
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -287,13 +294,10 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBS World", KBS World
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="Kplus", Kplus
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan" tvg-id="SBS", SBS
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 ########################################################   Lifestyle   ########################################################
 
@@ -306,14 +310,6 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Asian Food Network", Asian Food Network
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Hz0bde4.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="lifetime" tvg-id="lifetime", LifeTime
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/wFmCTh4.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network HD" tvg-name="Food Network HD", Food Network HD
-https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
 
 ########################################################      News     ########################################################
 
@@ -383,11 +379,7 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Thm3LAk.png?v=1.0.0.1" group-title="News" tvg-id="MNC News", MNC News
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1Mtx9mY.png?v=1.0.0.1" group-title="News" tvg-id="CNN Indonesia", CNN Indonesia
-https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uJTTmk8.png?v=1.0.0.1" group-title="News" tvg-id="CNBC Indonesia", CNBC Indonesia 
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.0.0.1" group-title="News" tvg-id="Berita Satu News" tvg-name="Berita Satu News", Berita Satu
 https://dl.dropbox.com/s/echuwg82ufszf2l/270f72deeb5843f.m3u8
