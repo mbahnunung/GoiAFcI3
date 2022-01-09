@@ -603,7 +603,7 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4gNhVWH.png?v=1.0.0.1" group-title="Movies" tvg-id="WarnerTV" tvg-name="WarnerTV", WarnerTV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MggeOq7.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinemaasia" tvg-name="mycinemaasia", My Cinema Asia
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1xVBBqG.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinemaasia" tvg-name="mycinemaasia", My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinema" tvg-name="mycinema", My Cinema
@@ -669,10 +669,10 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/2SwIYxt.png?v=1.0.0.1" group-title="Malaysia" tvg-id="NTV7" tvg-name="NTV7", NTV7
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241096.ts
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/DGGXGzn.png?v=1.1.1.1" group-title="Malaysia" tvg-id="8TV" tvg-name="8TV", 8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/f2JzaMd.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
@@ -686,9 +686,6 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Al-Hijrah" tvg-name="Al-Hijrah", TV AlHijrah
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240992.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XYeb1CE.jpg?v=1.0.0.1" group-title="Singapore", SuriaTV
-http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MqZdA4W.jpg?v=1.1.1.1" group-title="Singapore", Ch 5
@@ -699,14 +696,13 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WG5VOF2.png?v=1.0.0.1" group-title="Singapore" tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia", Channel NewsAsia
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
-
 ########################################################    Fashion    ########################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" tvg-id="Fashion TV HD" tvg-name="Fashion TV HD", Fashion TV HD
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/OsbTFpv.png?v=1.0.0.1" group-title="Fashion" tvg-id="Fashion TV HD" tvg-name="Fashion TV HD", Fashion TV
-https://dl.dropbox.com/s/seta5w6k1az7rco/fb8acef7631528b.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/JbGsuDd.png?v=1.0.0.1" group-title="Fashion", HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
@@ -718,7 +714,7 @@ https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Fashion TV Midnight Secrets
-https://dl.dropbox.com/s/wl1l0b3anjk1zop/fb8acef7631528c.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2twpda0.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
@@ -776,25 +772,18 @@ http://208.86.19.21:80/706.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
 http://fluoz.zeno.fm/n4gzbe9ufzzuv
-
 #EXTINF:-1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/f69c7be1aa497aaa87f40d2306c4c355.png?v=1.0.0.1" group-title="Radio", Radio Bintang Tenggara
 http://rbtfm.cloudns.info:9560/rbtfm
-
 #EXTINF:-1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/f14df1bb8475a9516a6bb5276f4d4f69.png?v=1.0.0.1" group-title="Radio", Radio MC FM
 http://rbtfm.cloudns.info:9720/stream
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/LOwBoYR.png?v=1.0.0.1" group-title="Radio", Radio Sritanjung FM
 http://play.xajist.com:8208/stream
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/93cFv35.png?v=1.0.0.1" group-title="Radio", Radio Vis FM
 https://s5.alhastream.com/radio/8490/radio
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/93cFv35.png?v=1.0.0.1" group-title="Radio", Radio GBS FM
-https://s7.alhastream.com/radio/8090/radio?1609467814144
-
+https://s7.alhastream.com/radio/8090/radio
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Rym14SjxTgYg3TGmxJHzdYQOcU3SiG6AFzDktPi_-kkNu6e94OxRRmX6CzPwy4wY8hA=s200?v=1.0.0.1" group-title="Radio", Mandala FM Banyuwangi
 https://svara-stream.radioddns.net:8443/banyuwangi_mandalafm
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://103.28.149.117:8323/stream
 
