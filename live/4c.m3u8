@@ -383,10 +383,10 @@ https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/S3Gn16p.png?v=1.0.0.1" group-title="News" tvg-id="Al arabiya" tvg-name="Al arabiya", Al arabiya
-http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/ar/b8b58e25df2b3ce.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/fgUVz5m.png?v=1.0.0.1" group-title="News" tvg-id="Al Jazeera HD" tvg-name="Al Jazeera HD", Al Jazeera Arabic
-https://dl.dropbox.com/s/dh7sdw6qeu49yri/f5f5c18cf037918.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/ar/f5f5c18cf037918.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/8BTOxlC.png?v=1.0.0.1" group-title="News" tvg-id="Astro Awani" tvg-name="Astro Awani", Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
