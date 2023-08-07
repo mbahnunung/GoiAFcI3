@@ -22,9 +22,11 @@
         <video poster="https://2.bp.blogspot.com/-jxRFHO7z13w/W-hgLiSi7aI/AAAAAAAAKEA/gtlBn0192xoPNia2g4gNWJea1IdZlDgZACLcBGAs/s1600/logo_tvmu.jpg?1521112811?v=8.3.2" id="video-player" class="video-js vjs-fluid vjs-default-skin" height="340" width="596" controls autoplay>
         <source src="https://e.siar.us/live/tvmu.m3u8" type="application/x-mpegURL" />
        </video>
-     <script>
-      window.hola_player();
-     </script>
+      <script>
+    (function(){
+      window.hola_player({title: 'TVMU'});
+    })();
+  </script>
      </div>
    </body>
 </html>
