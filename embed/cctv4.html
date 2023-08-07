@@ -22,9 +22,11 @@
         <video poster="../img/thumbs/cctv_4.png" id="video-player" class="video-js vjs-fluid vjs-default-skin" height="340" width="596" controls autoplay>
         <source src="https://op-group2-swiftservesd-1.dens.tv/s/s19/index.m3u8" type="application/x-mpegURL" />
        </video>
-     <script>
-      window.hola_player();
-     </script>
+      <script>
+    (function(){
+      window.hola_player({title: 'CCTV4'});
+    })();
+  </script>
      </div>
    </body>
 </html>
